@@ -1,0 +1,267 @@
+27/04/23
+
+Cell: the cell is the structural and functional unit of life. 
+
+Discovery of the cell: Robert Hooke 
+Discovery of the living cell: Anton van Leeuwenhoek
+
+Structural unit: basic design which distinguishes it from the others (anatomical) 
+
+Everything has a different anatomical and morphological structure. 
+
+7 million species approximately are present. 
+
+Even two bacteria of two category are differnt 
+
+Almost all organisms are present in one of the 5 kingdoms except virus. 
+
+Glandular epithelium: tissues that work together to form gland to secrete enzymes. 
+
+Mitochondria is called the powerhouse of the cell as it generates ATP which powers it. 
+
+Skin color also differentiates because of secretion of melanin by the cell.
+
+Growth hormone regulates the growth of the body. Appropriate amount leads to regular growth or else the body shows dwarfism or gigantism. 
+
+     Transcription		   Translation
+DNA ---------------> RNA ----------------> Protein 
+
+The above is the Central Dogma of Molecular Biology. 
+
+46 chromosomes are present in each cell. 
+
+The data of the protein required are stored in the DNA 
+
+To detect Sars-Cov 2, RAT (Rapid Antizen Test) or RTPCR (Reverse Transcription Polymer Chain Reaction) are required. 
+
+A virus can either have RNA or DNA as a genome. 
+
+Cell Theory: 
+	(i) All organisms are made of cells and products.
+	(ii) Every cell rose from pre-existing one (result of evolution) 
+
+Protoplasm: Entire content of the cell (cytoplasm + nucleoplasm)
+
+
+28/04/23 
+
+>> Shape 
+
+Egg is a macroscopic cell. 
+
+Cells don't have any fixed shape. 
+
+Generally cells are prokaryotic (1-10 micrometer) or eukaryotic (5-100 micrometer) 
+
+3 types of organisms on types of cell. 
+	Unicellular - single cell
+	Multicellular - many cells 
+	Acellular - made of no cells
+
+Due to the diversity in the organisms from unicellular and multicellular organisms, they are divided into kingdoms based on; 
+	Cellular level of organisation
+	Tissue level of organisation (no organs developed) 
+	Organ level of organisation 
+
+Cyanobacteria is an unicellular prokaryotic organism. 
+
+Plants have permanent and meristemic tissue. 
+
+Virus are acelllular organisms that are not made up of any cell but contain a coat of protein that encloses a set of DNA or RNA. 
+
+Unicellular -> No division of labour -> short life
+Multicellular -> Divison of labour -> long life 
+
+Protein factory- Ribosomes
+Brain of the cell- nucleus 
+Powerhouse of the cell- mitochondria 
+Suicidal bag- lysosome 
+
+
+
+29/04/23 
+
+Prokaryote cell: 
+	(i) Nucleus is absent. 
+	(ii) Double membrane bound cell organelles are absent. 
+	(iii) Single chromosomes 
+	(iv) Histone proein is absent. 
+	(v) Ribosomes is 70s type. 
+
+Eukaryotic cell: 
+	(i) Nucleus is present
+	(ii) Double chromosome bound cell organelles are present
+	(iii) Chromosome number more than two. 
+	(iv) Histone proein is present
+	(v) Ribosomes is 80s type
+
+• Chromosomes are associated with protein. 
+
+
+>>> Plasma membrane
+
+Composition: bilayer of phospholipid protein. 
+
+Fluid mosiac model: most accepted structural model of cell membrane. 
+
+• Selectively permeable membrane doesn't allow everything to enter the cellular environment. 
+
+Roles: Protection to inner content. 
+	   Exchange of materials. 
+	   Provide shape to the cell. 
+
+• It is composed of 52% protein and 40% lipid. 
+
+>>> Mitochondria
+
+The mitochondria is made of 2 membranes and looks like a sausage. 
+
+ADP + iP = ATP 
+
+Respiration: oxidation of food to release energy. 
+
+C6H12O6 ------------> Pyruvate ------------> CO2 + H2O + ATP 
+		Glycolysis 				Krebscycle 
+
+• Mitochondria is a semi-autonomous organelle due to the presence of DNA and ribosome. 
+
+• Number of mitochondria differs from place to place depending on the requirements. 
+
+• Unicellular prokaryotes have very low enerygy requirements. Thus they fulfil this by anaeribic respiration. 
+
+Plastid - Leucoplast, chromoplast, chloroplast. 
+
+Leucoplast - Amyloplast (carbohydrade), aleuroplast(protein), eleuroplast (fats and oils)
+
+>>> Chromoplast 
+
+• Chlorophyll is a group of chromoplast among which chloroplast-a is the most important. 
+
+(i) Pigment synthesis 
+(ii) Coloration
+(iii) Fruit ripening
+(iv) Nutrient storage
+
+>>> Chloroplast 	
+
+⮑ Contains chlorophyll molecule. 
+
+Light reaction -> prensence of light
+Dark Reaction -> absence of light
+				⮑ However the absence doesn't mean that it happens when light is absent. It may happen any time according to the requirement. 
+
+
+• Photosynthesis also generates ATP from 
+	ADP + iP = ATP 
+
+Photolysis of water = breaks down water in the presence of light. 
+
+Light reaction occurs in Granum
+Dark reaction occurs in Stroma 
+
+
+
+15/05/23 
+
+>>> Endoplasmic Reticulum 
+• Rough ER and Smooth ER 
+
+Membrane biogenesis: formation of new cellular membranes within a cell. It involves the synthesis, assembly and remodeling of lipid bilayers, as well as the incorporation of membrane proteins. This dynamic process is essential for cell growth, division, and the maintenance of organelle structure and function. 
+
+> RER 
+(i) Protein synthesis 
+(ii) For synthesising enzymes for lysosome. 
+
+> SER 
+(i) Lipid synthesis 
+(ii) Detoxification in liver cells
+
+>>> Golgi apparatus 
+Work: cellular secretion & cellular packaging 
+
+• They also synthesize glycoprotein and glycolipids. 
+
+>>> Nucleus 
+
+• The nucleus is centrally located in animal cell and in the side of plant cell due to the presence of vacoles. 
+
+Notes: 
+	(i) DNA is 2.2 metres long. 
+	(ii) There are 6.6 * 10^9 bp (base pair) in human DNA. 
+	(iii) Eukaryotes have histoprotein 
+	(iv) DNA is acidic in nature and is negatively charged and histone is positively charged so it wraps around the DNA. 
+	(v) Eukaryotic cell has histoprotein. 
+	(vi) 98% of DNA is functionless and only 2% has the information.
+
+• Metaphase stage: a phase in cell division, specially in mitosis and meiosis, where the replicated chromosome align along the centre of the cell. During Metaphase stage, the chromosomes become attatched to spindle fibres, which emanate from opposite poles of the cell. This alignment ensures that each replicated chormosome will be distributed equally to the resluting daughter cells during the subsequent stages of cell division. 
+
+• Gene: inherited genetic material which defines how and organism is organised and functions. 
+
+• Two same organisms have around 99% DNA similarity. 
+
+• 30,000 genes are present in our genome. Which are present in the 2% of the funcitonal DNA. 
+
+• Genes are inherited via. reproduction and defines the morphological and anatomical structure of the organism. 
+
+•Genes work specifically in a specific area. 
+
+
+
+>>> Chromosomes
+
+The name of a chromosome depends on the place of the centromere. 
+
+Namely: Metacentric, Submetacentric, Acrocentric, Telocentric 
+
+>>> Lysosome
+
+Hydrolytic enzymes contained within membrane. 
+
+Hydrolytic enzymes: Hydrolases, proteases, carbohydrade
+
+-ase = enzyme
+
+• Removal of worn-out, damaged and defected components. 
+
+
+>>> Vacoles
+
+• Large space present in a cell bounded by tonoplast membrane. 
+
+• Occupies almost 70% space in plant cell. 
+
+Usage: stores waste, water, ions, food. 
+
+Food vacole: Temporary vacole created to digest food. 
+
+Contractile vacuole is responsible for osmoregulation 
+
+Osmoregulation: maintainance of water and ions. 
+	This process is done by the kidneys in human being. 
+
+• Presence of water gives rigidity to the cell. 
+
+
+
+>>> Ribosomes 
+
+• Ribosomes synthesize protein 
+
+DNA --------------------> Ribosome -------------> synthesis 
+	Messenger RNA (mRNA)
+
+Eukaryotic cell (80s) ---> 60s & 40s = 80s 
+Prokaryotic cell (70s) ---> 50s & 30s 
+
+Composition: protein & rRNA (Ribosomal RNA)
+
+• Mycoplasmas are the smallest living cells. 
+
+
+
+>>> Communication 
+
+> Communication between cells is done by a cytoplasmic bridge called the Plasmodesmata. 
+
+Endosmosis -> movement of water inside the cell. 
+Exomosis -> movement of water outside the cell

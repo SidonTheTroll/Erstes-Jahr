@@ -1,0 +1,25 @@
+Data stored in variables is called data. 
+
+Types:
+	numbers, string, list, tuple, dictionary 
+
+Numbers: variables stored as numbers 
+
+Data type: 
+	Numbers: 
+		Integer 
+			integer 
+			boolean 
+		float = decimal values 
+		Complex = 3 + 12.45J 
+
+	String (Word, character, sentence, paragraph) 
+
+	Variable 
+
+	
+#Python's variables are lables
+
+Variables are assigned and can be changed too without changing the value. 
+
+

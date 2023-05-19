@@ -1,0 +1,132 @@
+Need of classification organise all the organisms based on the characters to make study easier. 
+
+>>> How to classify 
+
+Categorise on the basis of some fixed criteria. 
+
+Morphological features: outside physical characteristics 
+
+R.H. Whittaker (1969) proposed the Five Kingdom Classification
+
+Euglena has both chloroplast and has holozoic nutrition
+
+Controversial microbes are placed in protista 
+
+Chitin - amide derivative of glucose
+
+Tissue: group of similar cells performing a similar task
+
+
+09/05
+
+Kingdom Monera 
+
+They are Unicellular Prokaryotes 
+
+Cell wall is not made of cellulose or chitin but peptidoglycan, a polymer of linked sugars and polypeptides
+
+Monera -> archaebacteria, eubacteria 
+
+Initially the RNA was formed in the cell but the origins are unknown 
+
+RNA -> DNA 
+Amino acid -> protein 
+	Both combined and formed protoplasm which evolved into prokaryotic cell 
+
+India became the top in milk production -> more cattle -> more archaebacteria (methanogen) -> more methane production -> Global warming 
+
+Archaebacteria that has the capacity to digest cellulose is present in the cow's stomach. 
+
+Organic materials that are present in ice caps are being digested by methanogenic bacteria and is forming methane. Global warming has created an issue of exposing this methane layer which will further increase global warming. 
+
+Methane traps heat 4 times that of carbon dioxide. 
+
+3 types of archaebacteria: 
+	Halophilic: found in salt deposits
+	Thermoacidophilic: hot springs and acidic environments 
+	Methanogenic: produces methane from organic matter. 
+
+Solid (capsule) or jelly-like substance (glycocalyx) protects the cell. 
+
+The hair-like structure surrounding the cell is called flagella or cilia based on the length and function. 
+	Cilia is short and covers the cell and flagella are long hair which help in the movement 
+
+
+Probiotic capsules have living spores of lactobacillus which maintain the microenvironment of our intestine. 
+
+Curd consumers already have lactobacillus in their intestine. 
+
+Bacteria which causes stomach ache damages the lining of the intestine which is the cause of pain and irritation. 
+
+
+
+
+10/05/23 
+
+Ribosome, cell wall, RNA and DNA may be present in both prokaryotes and eukaryotes 
+
+Most of the Prokaryotes use anaerobic respiration 
+
+All archaebactria are anaerobic 
+
+Excess oxygen in biogas plant makes it useless because oxygen is toxic for archaebactria 
+
+Plasma membrane was first studied in RBC 
+
+Carbohydrate - Sugar - soluble in water, has taste 
+			   Non-Sugar - insoluble in water, tasteless 
+
+Glucose, fructose - monosaccharides
+Sucrose - disaccharide
+Starch, dextrin, cellulose - Polysaccharide 
+
+
+BSI: Botanical Survey of India 
+
+
+
+
+
+
+18/05/23 
+
+Types of bacteria: 
+	Cocci, Bacilli, spirilla, vibro
+
+Culture: taking an infected part and cultivating them for experiment. 
+
+
+>>> Protozoa
+
+Antibiotics should be taking daily or else the bactiria will become resistant to it. 
+
+Superbugs are powerful bacteria resistant to antibiotics. 
+
+Gram positive -> get staiend
+Gran negative -> no staining
+
+Gram positive bactiria have less lipids and they absorb the stain and retain the color. 
+	However, its the exact opposite for Gram negative bactiria
+
+
+>>> Nutrition in bactiria
+
+(i) Autotrophic: chemotrophic & photoautotrophic 
+(ii) Hetrotrophic: parasitic, saprophytic 
+
+Parasitic: 
+	Internal 
+	External 
+
+Cholera has outer digestion and when it releases the enzymes in our intestine, it causes swelling and the intestine cannot do its work of absorbing the water. Therefore the patient becomes dehydrated which is the main cause of deaths. 
+
+
+When any decomposing matter is in the process bacterial external dipestion is the reason why is becomes slippery.
+
+• Bactirias don't perform holozoic nutrition because cell wall is not digestable for them. 
+
+
+Phagocytosis: Phagocytosis is a cellular process by which certain specialized cells, called phagocytes, engulf and internalize foreign particles, such as bacteria, viruses, cellular debris, or other substances
+
+Pinocytosis: Pinocytosis, also known as "cell drinking," is a non-selective process where the cell membrane invaginates and forms tiny vesicles to internalize extracellular fluid and its contents, allowing the cell to sample and uptake various solutes present in the surrounding environment.
+
