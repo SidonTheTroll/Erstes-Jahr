@@ -130,3 +130,8 @@ Phagocytosis: Phagocytosis is a cellular process by which certain specialized ce
 
 Pinocytosis: Pinocytosis, also known as "cell drinking," is a non-selective process where the cell membrane invaginates and forms tiny vesicles to internalize extracellular fluid and its contents, allowing the cell to sample and uptake various solutes present in the surrounding environment.
 
+
+
+
+Q> What is Gram Stain? 
+Q> Distinguish between gram positive and gram negative.
