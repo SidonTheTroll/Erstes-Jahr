@@ -90,7 +90,7 @@ BSI: Botanical Survey of India
 
 18/05/23 
 
-Types of bacteria: 
+Types of bacteria based on structure: 
 	Cocci, Bacilli, spirilla, vibro
 
 Culture: taking an infected part and cultivating them for experiment. 
@@ -98,11 +98,13 @@ Culture: taking an infected part and cultivating them for experiment.
 
 >>> Protozoa
 
+Protozoa are single-celled eukaryotic organisms that belong to the kingdom Protista. They exhibit diverse forms and play essential roles in various ecosystems, while some species can cause diseases in humans and animals.
+
 Antibiotics should be taking daily or else the bactiria will become resistant to it. 
 
 Superbugs are powerful bacteria resistant to antibiotics. 
 
-Gram positive -> get staiend
+Gram positive -> get stained
 Gran negative -> no staining
 
 Gram positive bactiria have less lipids and they absorb the stain and retain the color. 
@@ -123,7 +125,7 @@ Cholera has outer digestion and when it releases the enzymes in our intestine, i
 
 When any decomposing matter is in the process bacterial external dipestion is the reason why is becomes slippery.
 
-• Bactirias don't perform holozoic nutrition because cell wall is not digestable for them. 
+• Bacterias don't perform holozoic nutrition because cell wall is not digestable for them. 
 
 
 Phagocytosis: Phagocytosis is a cellular process by which certain specialized cells, called phagocytes, engulf and internalize foreign particles, such as bacteria, viruses, cellular debris, or other substances
@@ -133,8 +135,30 @@ Pinocytosis: Pinocytosis, also known as "cell drinking," is a non-selective proc
 
 
 
-Q> What is Gram Stain? 
-Q> Distinguish between gram positive and gram negative.
+Q1> What is Gram Stain? 
+Q2> Distinguish between gram positive and gram negative.
+
+
+
+A1> Gram stain is a widely used laboratory technique in microbiology for distinguishing and categorizing bacteria into two major groups: Gram-positive and Gram-negative. The stain involves a series of steps, including applying a purple dye (crystal violet) to the bacterial sample, adding iodine as a mordant, decolorizing with alcohol or acetone, and counterstaining with a contrasting color (such as safranin). The stain differentiates bacteria based on their cell wall composition. Gram-positive bacteria retain the purple stain, appearing purple under a microscope, while Gram-negative bacteria lose the stain and appear pink or red after counterstaining. The Gram stain is valuable in bacterial identification and provides preliminary information about the potential pathogenicity and response to certain antibiotics.
+
+A2> Gram positive: 
+(i) Gram-positive bacteria have a thick layer of peptidoglycan in their cell walls, making up a significant portion of the cell wall structure.
+(ii) During the Gram staining process, Gram-positive bacteria retain the crystal violet dye and appear purple after decolorization.
+(iii) The cell wall of Gram-positive bacteria is relatively simple, with peptidoglycan being the major component. It lacks an outer membrane.
+(iv) Gram-positive bacteria are generally more susceptible to antibiotics that target the cell wall, such as penicillin. The thick peptidoglycan layer in their cell walls provides a target for these antibiotics.
+(v) Many Gram-positive bacteria produce exotoxins, which are released into the surrounding environment and can cause various symptoms and diseases.
+
+Gram negative: 
+(i) Gram-negative bacteria have a thinner layer of peptidoglycan in their cell walls, located between an outer membrane and an inner cytoplasmic membrane.
+(ii) During the Gram staining process, Gram-negative bacteria lose the crystal violet dye and appear pink or red after counterstaining with safranin.
+(iii) The cell wall of Gram-negative bacteria is more complex, consisting of an outer membrane composed of lipopolysaccharides (LPS) and proteins, in addition to the peptidoglycan layer.
+(iv) Gram-negative bacteria possess an outer membrane that acts as a protective barrier against certain chemicals and antibiotics. It also contains porins, which allow the passage of small molecules.
+(v) Gram-negative bacteria produce endotoxins, which are components of the LPS in the outer membrane. These endotoxins can trigger immune responses and contribute to the symptoms associated with infections caused by Gram-negative bacteria.
+
+
+
+
 
 
 
@@ -155,3 +179,48 @@ Nuclei -> cell
 
 In this process, the cell divides the nucleus within itself and the cell is bounded by the cell wall. When it is time, the cell wall bursts and releases all the spores in the surrounding medium. 
 
+
+> Bactiriophage virus
+
+Bacteriophages, also known as phages, are viruses that specifically infect and replicate within bacteria. They are the most abundant and diverse biological entities on Earth, estimated to outnumber bacteria by a factor of 10 to 1. Bacteriophages play a crucial role in shaping bacterial populations and influencing microbial ecosystems.
+
+Here are some key characteristics and aspects of bacteriophages:
+
+Structure: Bacteriophages have a complex structure consisting of a protein coat called a capsid, which encapsulates their genetic material. They can have different shapes, such as icosahedral, filamentous, or complex structures.
+
+Genetic Material: Bacteriophages can possess either DNA or RNA as their genetic material. The genetic material carries the instructions for viral replication and production of viral components.
+
+Infection Process: Bacteriophages have a specific host range, meaning they can only infect certain types or species of bacteria. They use tail fibers or other specialized structures to recognize and attach to specific receptors on the bacterial cell surface. Once attached, the phage injects its genetic material into the host cell.
+
+Replication: Inside the bacterial cell, the phage genetic material takes control of the host's cellular machinery and redirects it to produce viral components. These components are then assembled to form new bacteriophages. Eventually, the infected bacterial cell lyses (bursts open), releasing a large number of phage particles, which can go on to infect other bacteria.
+
+Impact on Bacterial Populations: Bacteriophages are major drivers of bacterial evolution and diversity. They can exert selective pressure on bacterial populations, leading to the emergence of phage-resistant bacteria. Phages can also transfer genes between bacteria through a process called transduction, thereby contributing to horizontal gene transfer and the spread of genetic traits, including antibiotic resistance genes.
+
+Applications: Bacteriophages have gained attention for their potential applications in various fields. They have been explored as alternatives to antibiotics for treating bacterial infections, especially those caused by antibiotic-resistant bacteria (phage therapy). Phages are also used in molecular biology research, genetic engineering, and as tools for detecting and quantifying bacteria
+
+
+> Economic importance of bacterias. 
+
+• Positives
+(i) Produce antibiotics
+(ii) Bio fertilizer
+(iii) Nitrogen filtering
+(iv) Decomposers 
+(v) Clean oil spils 
+(vi) Food production
+(vii) Probiotics
+(viii) Dairy industry
+(ix) Production of methane for biogas 
+(x) Research and scientific advancement 
+
+• Negatives
+(i) Diseases and infection
+(ii) Antibiotic resistance 
+(iii) Food spoilage 
+(iv) Dental issues 
+(v) Environmental impact 
+(vi) Allergies and sensitivities 
+(vii) Contamination of soil and water
+(viii) Economic losses in agriculture 
+(xi) Biological warfare 
+(x) Malodor production
