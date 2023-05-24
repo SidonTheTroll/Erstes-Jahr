@@ -1,12 +1,12 @@
-1st gen: 1946-58 - machine language - vaccum tubes - ENIAC, UNIAC 
+1st gen: 1946-58 - machine language - vacuum tubes - ENIAC, UNIAC 
 2nd gen: 1959-64 - Assembly language (Mnemonic code (Assembler)) - Transistors - IBM140, IBM1401
-3rd gen: 1965-70 - High level language (compliler/interpreter) - integrated circuit - IBM360
-4th gen : 1971-present - high level language - microprocessor - Apple 
+3rd gen: 1965-70 - High-level language (compiler/interpreter) - integrated circuit - IBM360
+4th gen: 1971-present - high-level language - microprocessor - Apple 
 
 
 • The fifth generation is considered to be powered by AI with the help of natural language (the language that we use to talk with other humans)
 
-Disadvantages: AI has the capability to demolish all creative ideas.
+Disadvantages: AI can demolish all creative ideas.
 
 Burning: storing to CD 
 Ripping: fetching from CD 
@@ -14,17 +14,17 @@ Ripping: fetching from CD
 
 Software
   Logical Part
-    Saved in the computer -> Programes 
+    Saved in the computer -> Programs 
 
 System/Application software
 
-System software is compulsary 
+System software is compulsory 
 
-Application software is case based. 
+Application software is case-based. 
 
 System software: Operating system, Language processor, System utilities, and device drivers
 
-• Operating system gives a platform to the user to interact with the software. 
+• Operating system gives a platform for the user to interact with the software. 
 
 1995 - Windows 95 
 
@@ -97,13 +97,13 @@ Chapter 2
 Python is based on ABC and Modula-3 
 
 • Python is easy to use 
-• Cross platform language
+• Cross-platform language
 • Free and open source 
-• Various of uses
+• Various uses
 
 > Disadvantages 
-1. Hot the fastest language
+1. Not the fastest language
 2. Lesser libraries than C and Java 
-3. Not strong on time binding
-    Python is base on alignments
-4. Not easily convertable to other language 
+3. Not strong on-time binding
+    Python is based on alignments
+4. Not easily convertible to other languages 
