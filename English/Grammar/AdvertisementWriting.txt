@@ -43,3 +43,23 @@ Q> You want to purchase a 2-nd hand car. Craft a suitable advertisement in about
 
 Ans>                                Wanted 
 Second-hand car in a good condition. Perferably a sedan or SUV with good-mileage, well maintained, and with full service history. Budget of 8 lakh to 12 lakh rupees. Please contact me if you have a car that fits the description. Contact: John Pork, Gomti Nagar, Lucknow, Uttar Pradesh, 66233-58338. 
+
+
+> Lost and Found 
+
+(i) Begin with 'LOST' or 'Found' 
+(ii) Specify th item
+(iii) Give brief physical description
+(iv) Mention where or when lost or found. 
+(v) Reward if any
+(vi) Contact and address
+
+Q> You have lost your purse/wallet. Draftf an advertisement in about 50 words to be published in a local daily. 
+
+Ans> Lost a brown leather walled whiled travelling from {localtion A} to {localtion B} via. {road}. It contains cash, voter ID, Debit card ({Card company}) and driving license. Finder will be suitably rewarded. Contact: Phil Swift, {location c}, {location B}, 39751-46379.
+
+
+Q> You have found a briefcase while travelling by A.P. Express. Write a suitable advertisement for the lost and found columns of a National Daily.
+
+Ans>                            LOST AND FOUND
+Found a blakc {briefcase company} briefcase while travelling from {localtion A} to {localtion B} via. A.P. Express. The briefcase will be handed over to its rightful owner after ascertaining the particulars, identification and content. Contact: Gabe Newell, {address}, 90359-67231.
