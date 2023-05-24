@@ -89,3 +89,21 @@ Device drivers are specific to each hardware device and operating system. Manufa
 
 • The problem with old computers was that the user can only use peripherals of the same company that made the device. 
 
+
+24/05/23
+
+Chapter 2 
+
+Python is based on ABC and Modula-3 
+
+• Python is easy to use 
+• Cross platform language
+• Free and open source 
+• Various of uses
+
+> Disadvantages 
+1. Hot the fastest language
+2. Lesser libraries than C and Java 
+3. Not strong on time binding
+    Python is base on alignments
+4. Not easily convertable to other language 
