@@ -254,7 +254,7 @@ Spiracle: external respiratory opening with a number of holes in an insect.
 > Theory of the origin of mitochondria in the cell 
 Mitochondria originated from bacteria that were engulfed by a host cell. They formed a symbiotic relationship where the bacteria provided energy production capabilities, and the host cell offered protection. Over time, the engulfed bacteria evolved into mitochondria, losing their independence. This theory is supported by similarities in structure, reproduction, and the presence of distinct mitochondrial DNA.
 
-Cyanobacteria uses water to produce a single atom of oxygen and when that atom fuses with another atom, it forms oxygen gas. 
+• Cyanobacteria uses water to produce a single atom of oxygen and when that atom fuses with another atom, it forms oxygen gas. 
 
 • That's why it is also purposed that chloroplast in plant cells has origins back to cyanobacteria. 
 
@@ -275,6 +275,8 @@ Anabaena azollae
 
 
 • Cyanobacteria is present in the leaves living in a symbiotic relationship. 
+
+• Nostoc is also found in the roots of some plants.
 
 Negatives: 
 	1. Medical emergencies (accidents by slipping on it)
