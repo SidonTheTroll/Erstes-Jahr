@@ -88,3 +88,4 @@ USB Driver: USB drivers are responsible for managing USB ports and devices conne
 Device drivers are specific to each hardware device and operating system. Manufacturers provide driver software to ensure compatibility and proper functioning of their devices with different operating systems. It's essential to keep device drivers up to date to ensure optimal performance, stability, and compatibility with the latest software and hardware advancements.
 
 • The problem with old computers was that the user can only use peripherals of the same company that made the device. 
+
