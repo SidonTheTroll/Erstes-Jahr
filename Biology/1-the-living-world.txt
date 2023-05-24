@@ -4,13 +4,13 @@ Aristotle was the first to distinguish between living and non-living things. Tha
 
 Theophrastus is known as the father of botanology. 
 
-1665 - invention of the microscope by Antonie van Leeuwenhoek
+1665 - the invention of the microscope by Antonie van Leeuwenhoek
 
 Heat is the infrared radiation being released 
 
-Sunglasses filter the IR radiation and we fell cool 
+Sunglasses filter the IR radiation and we feel cool 
 
-Similar chemical processes leads to similar ideas and same thinking is same Robert Hooke and Antoni van Leeuwenhoek in 1665-83.  
+Similar chemical processes lead to similar ideas and the same thinking
 
 Sodium and potassium are required for the movement in the body. 
 
@@ -18,7 +18,7 @@ Doctors are required to write the composition of the medicine.
 
 Microorganisms were discovered by Robert Hooke and Antoni van Leeuwenhoek in 1665-83.  
 
-Electron microscope was invented in 1931 by Ernst Ruska and was able to see the DNA branch.  
+The electron microscope was invented in 1931 by Ernst Ruska and was able to see the DNA branch.  
 
 Crop physiology: Plant physiology is a subdiscipline of botany concerned with the functioning, or physiology, of plants. Closely related fields include plant morphology, plant ecology, phytochemistry, cell biology, genetics, biophysics and molecular biology.
 
@@ -38,40 +38,40 @@ Coal, petroleum, natural gas and wildlife are present in Tinsukia District
 
 Points to define living 
 
-1. Graoth is internal in living things that is irreversable and vice versa for non-living. 
+1. Growth is internal in living things that are irreversible and vice versa for non-living ones. 
 
 2. Living beings reproduce
 
-3. Metabolism is the biochemical processes that goes on inside the cell 
+3. Metabolism is the biochemical process that goes on inside the cell 
 
-4. Cellular organisation of the cell. 
+4. Cellular organization of the cell. 
 
 • Cells are living because metabolism is the most important characteristic to define living 
 
 All the lifeforms present are collectively called biological diversity. 
 
 Groups: classifying organisms 
-Taxonomy: grouping of organisms on the basis of characteristics
+Taxonomy: grouping of organisms based on characteristics
 
-Nomenclature: naming of things 
+Nomenclature: the naming of things 
 
 Nomenclature classification is standardised by binomial nomenclature 
 
-Species have a similar morphological structire and also produce fertile offspring 
+Species have a similar morphological structure and also produce fertile offspring 
 
 Species -> genus -> family -> order -> class -> division/phylum -> kingdom 
 
-The above is called taxonomic hierarchy 
+The above is called the taxonomic hierarchy 
 
 Genus and species are used to name a creature (binomial nomenclature) 
 
 Carl Linnaeus is called the father of modern taxonomy 
 
-Latin is a dead language so it has a solid foundation (no change) so its fixed 
+Latin is a dead language so it has a solid foundation (no change) so it's fixed 
 
 __Rules for writing nomenclature__ 
-1. Generic name starts with capital letter and species name starts with small letter. 
-2. Underline the words when handwritten and italics in printed. 
+1. Generic name starts with an uppercase letter and species name starts with a lowercase letter. 
+2. Underline the words when handwritten and italics in printed documents. 
 3. It should be easy to pronounce 
 4. Should be written in Latin 
 
@@ -88,31 +88,31 @@ Kingdoms:
 
 Monera is known as eubacteria (true bacteria)
 
-Archaebactiria are known to be the oldest living organisms on earth. They belong to the kingdom monera. 
+Archaebacteria are known to be the oldest living organisms on Earth. They belong to the kingdom Monera. 
 
-Acidohpilic bacteria are also found in tanks with concentrated H2SO4 tanks
+Acidophilic bacteria are also found in tanks with concentrated H2SO4 tanks
 
 Thermophilic bacteria are found in hot streams 
 
 Eukaria = having eukaryotic cell. 
 
-Systematics: Sytematics is commonly defined as the study of biological diversity and the relationships among organisms.
+Systematics: Systematics is commonly defined as the study of biological diversity and the relationships among organisms.
 
-Taxnonomy: classify name by character. 
+Taxonomy: classify name by character. 
 
-Taxonimic aids: 
+Taxonomic aids: 
 	Museum 
 	Zoological park
 	Key 
 	Botanical Garden 
 	Herbarium 
 
-Ways to preserve specimen in herbarium sheets:
-	Drying: the specimen are dried and pressed between absorbent sheets to remove moisture. 
-	Mounting: the dried specimen is arranged on a sheet with different parts appropriately psitioned 
+Ways to preserve specimens in herbarium sheets:
+	Drying: the specimen is dried and pressed between absorbent sheets to remove moisture. 
+	Mounting: the dried specimen is arranged on a sheet with different parts appropriately positioned 
 	Gluing: the specimen is glued with non-color adhesive in order not to damage it 
-	Labeling: each specimen is labelled with the scientific name, colleciton date, location, habitat, collector's name and any other data. 
-	Protection: they are covered with transparent sheets; this protects it from dust, moisture and improper handling. 
+	Labeling: Each specimen is labeled with the scientific name, collection date, location, habitat, collector's name and any other data. 
+	Protection: they are covered with transparent sheets; this protects them from dust, moisture and improper handling. 
 	Storage: they are stored in specialized cabinets or herbarium cases with a stable and maintained environment (cool temperature, low humidity and minimized light exposure) 
 	Maintenance: regular inspections and preventive measures for pests, monitoring humidity levels and addressing any issues that could potentially harm the collection. 
 	
@@ -121,14 +121,14 @@ Living trees are also planted in the herbarium.
 
 Kolkata botanical garden is the largest botanical garden in India 
 
-All plants are planted properly and habitat wise to keep a record of them 
+All plants are planted properly and habitat-wise to keep a record of them 
 
 If a species is not in the records, the discoverer can name it and add a description. 
 
 An arboretum is a botanical collection composed exclusively of trees of a variety of species
 
 >>> Zoological Parks 
-	Zoological park (zoo) is a place where wild animals are kept in captivity.
+	A zoological park (zoo) is a place where wild animals are kept in captivity.
 	Wild animals are kept in a protected environment and care is taken to provide conditions similar to their natural habitat.
 
 
