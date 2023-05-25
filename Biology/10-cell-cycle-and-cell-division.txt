@@ -59,7 +59,7 @@ M-Phase: Prophase, Metaphase, Anaphase, Telophase, Cytokinesis
 
 G1 Phase: The cells are metabolically active and continues to grow but do not replicate DNA. 
 
-S-Phase: During this phase, the DNA synthesis or replication takes place. The amount of DNA per cell doubles. 
+S-Phase: During this phase, the DNA synthesis or replication takes place. The amount of DNA per cell doubles but the number of chromosomes remain the same. 
 
 G2 Phase: Proteins are synthesized in preparation for mitosis while the cell continues to grow. 
 
