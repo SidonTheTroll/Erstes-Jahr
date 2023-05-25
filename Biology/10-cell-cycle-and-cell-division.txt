@@ -9,8 +9,8 @@ n = haploid
 
 • There are 23 pairs of chromosomes in the human body. 
 
-Homologus chromosome: identical function and structure. 
-    (If a chromosome has the sequence a,b,c,d; then its pair will be either a,b,c,d or A,B,C,D (inverse homologus))
+Homologous chromosome: identical function and structure. 
+    (If a chromosome has the sequence a,b,c,d; then its pair will be either a,b,c,d or A,B,C,D (inverse homologous))
 
 > Diploid and Haploid 
 
@@ -18,10 +18,10 @@ Haploids are arranged in 1 set
 Diploids are arranged in 2 set 
 
 Human = 2 set arrangement 
-Germ cell: 1 set arrangement (helps to maintain the number of chromosome in the human body) 
+Germ cell: 1 set arrangement (helps to maintain the number of chromosomes in the human body) 
 
 
-• 23rd pair is not homologus because it is the sex chromosome. Similar chromosome results in female and different chromosome results in male. 
+• 23rd pair is not homologous because it is the sex chromosome. Similar chromosome results in female and different chromosome results in male. 
 
 • Cells need raw material to replicate. 
 
@@ -42,10 +42,10 @@ Original cell = 2n = 46
     2 middle cell = n = 23 
         4 daughter cells = n = 23 
 
-Mitosis also happens in haploid cell 
-    But haploid cell cannot involve in meiosis. 
+Mitosis also happens in a haploid cell 
+    But haploid cells cannot involve in meiosis. 
 
-• Cell division will not occur if the chromosomes are not in even number. 
+• Cell division will not occur if the chromosomes are not even in number. 
 
 ======================================================================
 
@@ -57,9 +57,9 @@ n = 10 division will not occur in meiosis because ......
 
 M-Phase: Prophase, Metaphase, Anaphase, Telophase, Cytokinesis
 
-G1 Phase: The cells are metabolically active and continues to grow but do not replicate DNA. 
+G1 Phase: The cells are metabolically active and continue to grow but do not replicate DNA. 
 
-S-Phase: During this phase, the DNA synthesis or replication takes place. The amount of DNA per cell doubles but the number of chromosomes remain the same. 
+S-Phase: During this phase, DNA synthesis or replication takes place. The amount of DNA per cell doubles but the number of chromosomes remains the same. 
 
 G2 Phase: Proteins are synthesized in preparation for mitosis while the cell continues to grow. 
 
