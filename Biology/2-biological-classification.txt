@@ -281,3 +281,11 @@ Anabaena azollae
 Negatives: 
 	1. Medical emergencies (accidents by slipping on it)
 	2. Poison formation in aquatic bodies. 
+
+
+
+Phylogenetic relationship: classification based on evolutionary relationship with the ancestors. 
+
+Acidophile example: Thermus aquaticus 
+
+Cyanobacteria despite being called blue-green algae is kept in monera because it is a prokaryotic cell.
