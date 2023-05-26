@@ -63,3 +63,103 @@ S-Phase: During this phase, DNA synthesis or replication takes place. The amount
 
 G2 Phase: Proteins are synthesized in preparation for mitosis while the cell continues to grow. 
 
+
+
+
+
+26/05/23
+
+
+Bivalent: a pair of homologous chromosome. 
+
+G1: protein, DNA 
+S: synthesis of DNA
+G2: more protein and DNA 
+
+G0: stage when the cell is metabolically active but does not multiply until called to do so. 
+
+
+> Prophase 
+
+1. Chromosome condensation: During prophase, the chromatin (loosely packed DNA) condenses into visible chromosomes. This condensation allows for easier manipulation and separation of genetic material during subsequent stages of mitosis.
+
+2. Nuclear envelope breakdown: The nuclear envelope, which surrounds the nucleus, disintegrates during prophase. This breakdown allows the chromosomes to interact with the cellular machinery involved in mitosis.
+
+3. Formation of the spindle apparatus: Prophase is when the spindle apparatus begins to form. The spindle apparatus is a network of microtubules that helps in the movement and segregation of chromosomes during mitosis. Microtubules called spindle fibers extend from structures called centrosomes and attach to the chromosomes.
+
+4. Chromosome attachment: The chromosomes, now condensed and visible, become attached to the spindle fibers via structures called kinetochores. These attachments are crucial for the proper alignment and separation of chromosomes during later stages of mitosis.
+
+5. Centrosome migration: Prophase is marked by the movement of the centrosomes to opposite poles of the cell. Centrosomes are responsible for organizing the spindle apparatus and aiding in the distribution of chromosomes to daughter cells.
+
+6. Disassembly of the nucleolus: The nucleolus, a structure within the nucleus responsible for the production of ribosomes, begins to disassemble during prophase. This disassembly is necessary for the cell to allocate its resources towards mitotic processes.
+
+
+‣ The identical copies of chromosome formed in DNA replication are called Sister Chromatid. 
+
+
+> Metaphase 
+
+Chromosome alignment: During metaphase, the condensed chromosomes align along the equatorial plane of the cell, forming a structure known as the metaphase plate. This alignment ensures that each daughter cell receives an equal and complete set of chromosomes during cell division.
+
+Spindle fiber attachment: The spindle fibers, which extend from the centrosomes at opposite poles of the cell, attach to the kinetochores located on each chromosome. The tension exerted by the spindle fibers helps to position and stabilize the chromosomes at the metaphase plate.
+
+Checkpoint activation: Metaphase is a critical checkpoint in the cell cycle called the metaphase checkpoint or spindle checkpoint. This checkpoint ensures that all chromosomes are properly aligned and attached to the spindle fibers before proceeding to the next stage of mitosis. If any errors or misalignments are detected, the checkpoint delays cell division to allow for corrections.
+
+Chromosome condensation maintenance: Throughout metaphase, the chromosomes remain highly condensed, allowing for efficient separation of genetic material during the subsequent stage of mitosis. The condensed state helps prevent tangling and entanglement of chromosomes during cell division.
+
+Readiness for chromosome separation: Metaphase prepares the chromosomes for their eventual separation and distribution to daughter cells. The aligned and properly attached chromosomes are in a poised state, ready to be evenly segregated during the following stage of mitosis, called anaphase.
+
+‣ When the centromere breaks, the sister chromatids get separated. 
+
+> Anaphase
+
+Chromosome separation: Anaphase is marked by the separation of sister chromatids. The cohesion proteins that hold the sister chromatids together are cleaved, allowing each chromatid to become an independent chromosome. This separation ensures that each daughter cell receives a complete set of chromosomes.
+
+Chromosome movement: The separated chromosomes are pulled towards opposite poles of the cell. This movement is facilitated by the shortening of the spindle fibers attached to the kinetochores of the chromosomes. As the spindle fibers shorten, they exert force on the chromosomes, causing them to move towards their respective poles.
+
+Polar microtubule elongation: In addition to the shortening of the spindle fibers, the polar microtubules, which connect the two centrosomes at opposite poles of the cell, elongate during anaphase. This elongation helps to push the poles of the cell apart, creating additional space for the daughter cells to form.
+
+Cell elongation: Anaphase is accompanied by an elongation of the cell itself. The elongation is primarily driven by the polar microtubules pushing the poles apart. The increase in cell length allows for proper segregation of chromosomes and facilitates the subsequent cytokinesis, or division of the cytoplasm, during the final stage of mitosis.
+
+Cytokinesis initiation: Towards the end of anaphase, cytokinesis, the process of dividing the cytoplasm and separating the daughter cells, begins. In animal cells, a contractile ring composed of actin filaments forms at the equatorial plane of the cell, constricting and eventually pinching the cell membrane to form two separate daughter cells. In plant cells, a cell plate forms at the equatorial plane, which develops into a new cell wall that separates the daughter cells.
+
+
+> Telophase 
+
+Chromosome decondensation: During telophase, the separated chromosomes arrive at the opposite poles of the cell and begin to decondense. The tightly coiled chromosomes gradually unravel and return to their extended and less visible state known as chromatin.
+
+Nuclear envelope formation: As the chromosomes decondense, a new nuclear envelope starts to form around each set of chromosomes at the opposite poles of the cell. These nuclear envelopes reassemble from fragments of the original nuclear envelope that disassembled during prophase.
+
+Nucleolus reformation: The nucleoli, which had disassembled during prophase, reform within the newly formed nuclei. The nucleoli are responsible for the production and assembly of ribosomes, which are essential for protein synthesis.
+
+Spindle apparatus disassembly: The spindle apparatus, including the spindle fibers and polar microtubules, starts to disassemble during telophase. The breakdown of the spindle apparatus marks the completion of its role in chromosome movement and segregation.
+
+Cytokinesis completion: Telophase overlaps with the final stage of cell division called cytokinesis. In animal cells, the contractile ring formed during anaphase continues to constrict, causing the cell membrane to pinch inward and ultimately separate the cytoplasm into two daughter cells. In plant cells, the cell plate formed during anaphase fully develops into a new cell wall, effectively dividing the cytoplasm and creating two separate daughter cells.
+
+Restoration of interphase state: By the end of telophase, two distinct daughter cells are formed, each with a complete set of chromosomes. These daughter cells enter the interphase, a non-dividing phase of the cell cycle, where they resume their normal cellular activities and prepare for subsequent rounds of division or specialized functions.
+
+
+
+• Chromatid material becomes defaced. 
+• If plant cell, centriole is absent 
+
+In plant cells, in the telophase, a cell plate starts forming and eventually into cell wall which separates the cell. 
+
+If it an animal cell, the cell forms a folding called the 'furrow' which when the sides touch, it separates the cell. 
+
+
+
+Significance of Cell division:
+    1. Cell division is required for growth and development.
+    2. Regeneration of dead cells
+    3. Repair of damaged cells.
+    4. This is responsible for maintaining the number of chromosomes.
+
+
+
+>>> Meiosis 
+
+Occurs in 2 steps - Meiosis 1 and Meiosis 2. 
+
+Similarly, the phases are named Prophase 1 and Prophase 2, etc. 
+
