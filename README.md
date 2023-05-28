@@ -1,3 +1,3 @@
 # First year notes
 
-Has handwritten notes for all subjects except Chemistry and Physics 
+Has handwritten notes for all subjects except Chemistry and Physics.
