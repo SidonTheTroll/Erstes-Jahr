@@ -1,8 +1,8 @@
 The hunan zygote contains 46 chromosomes. 
 
 Cell division: 
-Karyokinesis 
-Cytokinesis 
+Karyokinesis: division of a cell nucleus by mitosis.
+Cytokinesis  division of a cell nucleus by meiosis 
 
 2n = diploid 
 n = haploid
@@ -25,7 +25,7 @@ Germ cell: 1 set arrangement (helps to maintain the number of chromosomes in the
 
 • Cells need raw material to replicate. 
 
-• In order to make a new cell, the old cell has to make new DNA and organelles. 
+• To make a new cell, the old cell has to make new DNA and organelles. 
 
 
 
@@ -70,9 +70,9 @@ G2 Phase: Proteins are synthesized in preparation for mitosis while the cell con
 26/05/23
 
 
-Bivalent: a pair of homologous chromosome. 
+Bivalent: a pair of homologous chromosomes. 
 
-G1: protein, DNA 
+G1: protein, DNA initiation 
 S: synthesis of DNA
 G2: more protein and DNA 
 
