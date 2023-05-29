@@ -289,3 +289,63 @@ Phylogenetic relationship: classification based on evolutionary relationship wit
 Acidophile example: Thermus aquaticus 
 
 Cyanobacteria despite being called blue-green algae is kept in monera because it is a prokaryotic cell.
+
+
+
+
+
+29/05/23 
+
+Mycoplasma is the smallest cell in the world.
+
+• It is also called PPLO which stands for Pleuro Pneumonia Like Organisms.
+	Since it is found in the pleural fluid (a liquid that is located between the layers of the pleura, i.e., a thin layer of tissue that covers the lungs and lines the interior wall of the chest cavity) of cows suffering from pneumonia
+
+It also causes diseases in plants called witch's broom infection.
+
+
+>>> Protista
+
+‣ Eukaryotic cells with a defined nucleus and membrane-bound organelles.
+‣ Can be unicellular or multicellular, forming colonies or filaments.
+‣ Exhibits tremendous diversity in forms, sizes, and lifestyles.
+‣ Found in aquatic habitats, including freshwater and marine ecosystems.
+‣ Reproduces sexually and asexually.
+‣ Displays various motility mechanisms like flagella, cilia, or pseudopodia.
+‣ Plays important ecological roles as primary producers, prey, parasites, or symbionts.
+‣ Some protists are parasitic and can cause diseases.
+‣ Considered an ancient and diverse group, with evolutionary significance.
+‣ They may be photosynthetic, chemosynthetic, heterotrophic or both photosynthetic and heterotrophic.
+
+
+>> Chrysophytes
+
+Diatoms' dead cells combine and form diatomaceous earth. 
+
+They have foldings of layers deposited by silica and are called Hypotheca and epitheca for upper and lower layers respectively.
+
+• Diatoms are the major producers in any aquatic body.
+• The places that have high concentrations of diatoms have migratory bird hotspots. 
+	Because it's supposed to remove birds' parasites.
+• These cells are organized in colonies.
+• They reproduce by sexual reproduction or spore formation
+
+• Golden algae are golden in color because they have a pigment called carotenoids
+
+
+
+>>> Dinoflagellates 
+
+• They have a hard cover that acts as an armor
+• They have long transversal and short longitudinal flagella
+• They are mostly saltwater marine and photosynthetic 
+• They have different colors depending on their pigment 
+• Red dinoflagellate (gonyaulax) replicate quickly and cause red tides and their excretion is toxic to marine organisms
+
+
+>>> Euglenoid 
+
+• They have a long and a short flagella
+• They have a cell membrane but also have chlorophyll like in higher plants 
+
+‣ The cell membrane is composed of protein-rich pellicle.
