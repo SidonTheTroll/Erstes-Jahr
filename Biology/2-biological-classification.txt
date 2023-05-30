@@ -360,13 +360,13 @@ They have foldings of layers deposited by silica and are called Hypotheca and ep
 
 Phylum Chrysophyta (diatom)
 
-Sexual reproduction is by the formation of gametes that involve meiosis and the fusion product develop into an auxospore. 
+Sexual reproduction is by the formation of gametes that involve meiosis and the fusion product develops into an auxospore. 
 
 Silver paint also has diatomaceous earth.
 
-Nitroglycerin absorbant is also made of diatomaceous earth
+Nitroglycerin absorbent is also made of diatomaceous earth
 
-Sugar filteration also requires diatomaceous earth. 
+Sugar filtration also requires diatomaceous earth. 
 
 
 
@@ -374,9 +374,20 @@ Sugar filteration also requires diatomaceous earth.
 
 Reserve food material in euglena is called paramylum starch (fat + starch)
 
-‣ Noctiluca is an example of bioluminicent dinoflagellate 
+‣ Noctiluca is an example of bioluminescent dinoflagellate 
 
 Luciferin + oxygen -> luciferin ATP complex 
+
+
+
+>>> Slime molds
+
+• They are not true molds or fungi but are often classified as such due to their similar appearance and behavior.
+• Slime molds are found in various habitats worldwide, including forests, grasslands, and even on decaying logs and leaves.
+• They undergo a unique life cycle, starting as individual cells and then aggregating together to form a multicellular mass called a plasmodium.
+• When conditions become unfavorable, slime molds can form reproductive structures called fruiting bodies, which release spores for dispersal.
+• Slime molds have been studied for their ability to solve complex problems and navigate mazes, despite their lack of a nervous system.
+• They play a role in decomposition and nutrient recycling in ecosystems.
 
 
 >> Protozoa 
@@ -390,18 +401,18 @@ Types:
 	Sporozoan 
 
 
-• Amoeboid 
+> Amoeboid 
 
 • They have no fixed shape
 
-The change their shape by using their layers in cytoplasmic boundary called entoplasm and ectoplasm 
+They change their shape by using their layers in cytoplasmic boundaries called entoplasm and ectoplasm 
 
 >> Flagellated protozoans 
 
 ‣ Flagella is present
 
 {Trypansoma diagram}
-Trypanosoma causes sleeping sickness and kala azar 
+Trypanosoma causes sleeping sickness and kala-azar 
 
 
 
@@ -413,7 +424,7 @@ Trypanosoma causes sleeping sickness and kala azar
 • Ciliates are heterotrophic organisms, feeding on bacteria, algae, and other small organisms.
 • Ciliated protozoans reproduce asexually through binary fission, where the cell divides into two identical daughter cells.
 
-Example: paramoesium 
+Example: paramecium 
 
 
 
