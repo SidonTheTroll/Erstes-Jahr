@@ -349,3 +349,79 @@ They have foldings of layers deposited by silica and are called Hypotheca and ep
 • They have a cell membrane but also have chlorophyll like in higher plants 
 
 ‣ The cell membrane is composed of protein-rich pellicle.
+
+
+
+
+30/05/23 
+
+
+> Diatom notes 
+
+Phylum Chrysophyta (diatom)
+
+Sexual reproduction is by the formation of gametes that involve meiosis and the fusion product develop into an auxospore. 
+
+Silver paint also has diatomaceous earth.
+
+Nitroglycerin absorbant is also made of diatomaceous earth
+
+Sugar filteration also requires diatomaceous earth. 
+
+
+
+> Phylum Euglenophyta
+
+Reserve food material in euglena is called paramylum starch (fat + starch)
+
+‣ Noctiluca is an example of bioluminicent dinoflagellate 
+
+Luciferin + oxygen -> luciferin ATP complex 
+
+
+>> Protozoa 
+
+Single eukaryotic cell acting like animal 
+
+Types:
+	Amoeboid protozoans 
+	Flagellated protozoans 
+	Ciliated protozoans 
+	Sporozoan 
+
+
+• Amoeboid 
+
+• They have no fixed shape
+
+The change their shape by using their layers in cytoplasmic boundary called entoplasm and ectoplasm 
+
+>> Flagellated protozoans 
+
+‣ Flagella is present
+
+{Trypansoma diagram}
+Trypanosoma causes sleeping sickness and kala azar 
+
+
+
+>> Ciliated protozoans 
+
+• They are single-celled organisms belonging to the phylum Ciliophora
+• Cilia are used for various functions, including locomotion, feeding, and sensory perception.
+• Most ciliates are free-living and can be found in freshwater, marine environments, and even in soil.
+• Ciliates are heterotrophic organisms, feeding on bacteria, algae, and other small organisms.
+• Ciliated protozoans reproduce asexually through binary fission, where the cell divides into two identical daughter cells.
+
+Example: paramoesium 
+
+
+
+>> Sporozoan 
+
+• They belong to the group of parasitic protozoans belonging to the phylum Apicomplexa.
+• Sporozoans lack cilia or flagella and move through body fluids or tissues.
+• The group includes well-known parasites such as Plasmodium, causing malaria, and Toxoplasma gondii, causing toxoplasmosis.
+• They reproduce asexually through a process called schizogony or multiple fission.
+• Sporozoans have an important impact on human and animal health, causing various diseases and economic losses in livestock.
+• They have complex mechanisms for evading the host's immune system.
