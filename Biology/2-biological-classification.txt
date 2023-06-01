@@ -436,3 +436,81 @@ Example: paramecium
 • They reproduce asexually through a process called schizogony or multiple fission.
 • Sporozoans have an important impact on human and animal health, causing various diseases and economic losses in livestock.
 • They have complex mechanisms for evading the host's immune system.
+
+
+
+
+
+
+31/05/23 
+
+Kingdom - fungi 
+
+Fungus: singular 
+Fungi: plural 
+
+• Similar to plant cell but made with chinin 
+• No photosynthetic substance 
+• Purely heterotrophic 
+
+‣ Hyphae is a singular strand of fungal hair 
+	Whereas, mycelium is a group of strands
+
+
+
+• Breaks down organic matter and recycles nutrients
+• Converts complex compounds into simpler forms
+• Prevents erosion by binding soil particles
+• Forms mutualistic partnerships with plants for nutrient uptake
+• Helps control plant diseases by outcompeting pathogens
+• Breaks down pollutants and heavy metals
+• Absorbs and retains water in the soil
+• Captures and stores carbon, aiding in climate change mitigation
+• Some species are edible mushrooms
+• Filters and removes pollutants from water and soil
+
+
+‣ The hyphae is made up of many cells
+
+Septa: partition wall between the cells 
+	> Hyphae having septa are called septate hyphae
+
+‣ The cells that have more than 1 nucleus are called dikaryon 
+
+
+Aseptate hyphae: the hyphae that don't have any partition wall.
+
+
+Coenocytic hyphae: hyphae that don't have any partition wall and are multinucleate (having many nuclei in one cell)
+
+
+Dolipore septa: specialized dividing walls between cells (septa)
+	Has a pore that allows cytoplasm and tiny organelles to pass through.
+
+Mycology: study of fungus 
+
+Phycomycetes
+	Phyco: Similar to algae 
+	mycetes: fungus 
+
+• Fungus reproduces sexually and asexually 
+	Sexual: spore formation
+	Asexual: vegetative propagation
+
+
+Zoo spore: movable spore (having locomotion)
+
+Alpino spore: non-movable spore 
+
+Lichen: fungus + algae 
+	Fungus: provides nutrients and shelter
+	Algae: makes additional nutrients that the fungus cannot make
+
+Mycorrhizae association: fungus and roots of higher plant living in a symbiotic relation
+	Myco: fungus 
+	rrhize: root related 
+
+Eg: truffle 
+
+‣ Also found in seeds of orchids.
+
