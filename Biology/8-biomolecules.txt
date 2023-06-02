@@ -23,9 +23,60 @@ Micro and macro elements:
     Micro: found in low quantities 
     Macro: found in high quantities
 
-More micro elements: poison
+More micro elements: physiological disorders 
 Less micro and/or macro elements: deficiency
 
 Vitamin A, D, E, K: fat soluble 
 Vitamin B, C: water soluble 
 
+
+
+
+2/6/23 
+
+Amino acids: essential and non-essential
+    Essential: cannot be made by the body and requires to get from food
+    Non-essential: can be made by the body 
+
+• There are 20 types of amino acids
+
+>> Fat
+
+Stored in the adipose tissue
+Acts as an insulator 
+
+Not used by the body right away and is reserved for emergencies
+
+Cholestrol: bad and good
+
+-ase = enzyme 
+
+• All the biological process require enzyme
+• Catalyst enhances chemical reaction but not present in the reaction
+
+
+>>> Nucleic acid 
+
+• Found in the nucleus, mitochondria and plastid 
+
+• Protein controls enzymes 
+
+• All the processes require ATP (C, H, O, N, P)
+
+
+>> Ways to find components in a sample
+
+> Dehydration
+  Burning 
+  > The result ashes have all the inorganic components 
+
+or 
+
+> Dissolved or crushed in Trichloroacetic Acid 
+  Solution is filtered 
+  > Separated into acid soluble components and acid insoluble components 
+
+  Acid soluble components: bio-micro molecules
+  Acid insoluble components: bio-macro molecules
+
+  
