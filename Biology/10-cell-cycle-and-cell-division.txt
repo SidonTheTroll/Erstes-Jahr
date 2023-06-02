@@ -170,3 +170,6 @@ Occurs in 2 steps - Meiosis 1 and Meiosis 2.
 
 Similarly, the phases are named Prophase 1 and Prophase 2, etc. 
 
+
+
+>>> Rest of the meiosis 2 is the same as meiosis 1
