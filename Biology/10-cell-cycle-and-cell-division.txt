@@ -76,7 +76,7 @@ G1: protein, DNA initiation
 S: synthesis of DNA
 G2: more protein and DNA 
 
-G0: stage when the cell is metabolically active but does not multiply until called to do so. 
+G0: stage when the cell is metabolically active but does not divide until called to do so. 
 
 
 M-Phase:

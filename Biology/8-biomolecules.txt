@@ -80,3 +80,71 @@ or
   Acid insoluble components: bio-macro molecules
 
   
+
+
+
+
+3/6/23 
+
+<800 daltons -> micro nutrients 
+>800 daltons -> macro nutrients 
+
+Primary and secondary metabolite 
+
+Primary metabolite: 
+Secondary metabolite: 
+
+Glycogen: Whenever the body needs energy, glycogen produces supplies it
+
+Seconday metabolite: eg.- antibiotic (produced by penicilium) {but the use of it by the organism remains unknown}
+
+Some plants also have oil but the reason is unknown 
+
+Oxalicacetic acid helps in photosynthesis 
+
+• Antibiotic is known as the wonder drug of the 19th century 
+
+
+
+
+>>> Biomacromolecules
+
+Eg.- nucleic acid 
+
+>>> DNA 
+
+DNA: Deoxyrhibonucleic acid 
+
+• Contains hereditary information (genes)
+• Acidic in nature (negatively charged)
+• It is a polymer 
+• Double helical structure 
+• Made of 2 strand of polynucleotide 
+• 2 strands are antiparallel to each other
+
+>> Composition 
+1. Phosphate group 
+2. Deoxyrhibose sugar (pentose sugar)
+3. Nitrogenous bases (adenine, thymine, cytosine, guanine)
+4. Paired by 2 bases: AT, CG
+
+{Schematic diagram of DNA}
+
+• dsDNA: Double stranded DNA 
+
+2n: 6.6 * 10^9 base pair
+n: 3.3 * 10^9 base pair 
+
+
+• Nucleoside: combination of sugar with any nitrogenous base 
+
+• Phosphodiester bond: the linkage between the 3' carbon atom of one sugar molecule and the 5' carbon atom of another, deoxyribose in DNA and ribose in RNA
+
+A glycosidic bond is a covalent bond that forms between the anomeric carbon of a sugar molecule and another molecule, such as another sugar or a non-sugar compound. This bond is vital for the construction of complex carbohydrates, including disaccharides and polysaccharides, by joining sugar units together.
+
+Hydrogen bonds in DNA are weak chemical bonds that form between complementary base pairs, specifically adenine (A) with thymine (T) and guanine (G) with cytosine (C). These bonds contribute to the stability and structure of the DNA double helix.
+
+Nucleoside bond: A nucleoside bond is the linkage between a sugar molecule and a nitrogenous base in a nucleoside.
+
+• Distance between 2 base pairs: 0.34 nano meters 
+
