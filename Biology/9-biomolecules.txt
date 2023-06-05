@@ -17,17 +17,17 @@ Enzymes: C, H, O, N, S
 
 Other elements: Calcium, Iodine, Iron, Magnesium, Phosphorus, Sodium, Zinc
 
-Some animals also have gold and radioactice materials in their body 
+Some animals also have gold and radioactive materials in their body 
 
-Micro and macro elements:
+Micro and macro nutrients:
     Micro: found in low quantities 
     Macro: found in high quantities
 
-More micro elements: physiological disorders 
+More micro nutrients: physiological disorders 
 Less micro and/or macro elements: deficiency
 
 Vitamin A, D, E, K: fat soluble 
-Vitamin B, C: water soluble 
+Vitamin B, C: water-soluble 
 
 
 
@@ -40,19 +40,19 @@ Amino acids: essential and non-essential
 
 • There are 20 types of amino acids
 
->> Fat
+>> Fats
 
 Stored in the adipose tissue
 Acts as an insulator 
 
 Not used by the body right away and is reserved for emergencies
 
-Cholestrol: bad and good
+Cholesterol: bad and good
 
 -ase = enzyme 
 
-• All the biological process require enzyme
-• Catalyst enhances chemical reaction but not present in the reaction
+• All the biological processes require enzyme
+• Catalyst enhances chemical reaction but is not present in the reaction
 
 
 >>> Nucleic acid 
@@ -74,7 +74,7 @@ or
 
 > Dissolved or crushed in Trichloroacetic Acid 
   Solution is filtered 
-  > Separated into acid soluble components and acid insoluble components 
+  > Separated into acid-soluble components and acid-insoluble components 
 
   Acid soluble components: bio-micro molecules
   Acid insoluble components: bio-macro molecules
@@ -91,8 +91,8 @@ or
 
 Primary and secondary metabolite 
 
-Primary metabolite: 
-Secondary metabolite: 
+Primary metabolite: directly involved in normal growth, development, reproduction
+Secondary metabolite: not essential for basic cellular functions but play crucial roles in various ecological and biological processes.
 
 Glycogen: Whenever the body needs energy, glycogen produces supplies it
 
@@ -119,7 +119,7 @@ DNA: Deoxyrhibonucleic acid
 • Acidic in nature (negatively charged)
 • It is a polymer 
 • Double helical structure 
-• Made of 2 strand of polynucleotide 
+• Made of 2 strands of polynucleotide 
 • 2 strands are antiparallel to each other
 
 >> Composition 
@@ -130,7 +130,7 @@ DNA: Deoxyrhibonucleic acid
 
 {Schematic diagram of DNA}
 
-• dsDNA: Double stranded DNA 
+• dsDNA: Double-stranded DNA 
 
 2n: 6.6 * 10^9 base pair
 n: 3.3 * 10^9 base pair 
@@ -144,7 +144,7 @@ A glycosidic bond is a covalent bond that forms between the anomeric carbon of a
 
 Hydrogen bonds in DNA are weak chemical bonds that form between complementary base pairs, specifically adenine (A) with thymine (T) and guanine (G) with cytosine (C). These bonds contribute to the stability and structure of the DNA double helix.
 
-Nucleoside bond: A nucleoside bond is the linkage between a sugar molecule and a nitrogenous base in a nucleoside.
+Nucleoside bond: A nucleoside bond is a linkage between a sugar molecule and a nitrogenous base in a nucleoside.
 
 • Distance between 2 base pairs: 0.34 nano meters 
 

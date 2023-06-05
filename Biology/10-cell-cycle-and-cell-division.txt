@@ -156,7 +156,7 @@ If it is an animal cell, the cell forms a folding called the 'furrow' which when
 
 
 
-Significance of Cell division:
+Significance of Cell mitosis:
     1. Cell division is required for growth and development.
     2. Regeneration of dead cells
     3. Repair of damaged cells.
@@ -169,6 +169,18 @@ Significance of Cell division:
 Occurs in 2 steps - Meiosis 1 and Meiosis 2. 
 
 Similarly, the phases are named Prophase 1 and Prophase 2, etc. 
+
+
+
+Non-sister chromatin: non-sister chromatin refers to the DNA strands that belong to different chromosomes and are involved in sister chromatid formation during DNA replication.
+
+> Significance of meiosis: 
+1. Gamete formation
+2. Chromosome number in species is maintained
+4. Brings variation in individual 
+
+
+• Meiosis doesnt help in cell regeneration
 
 
 
