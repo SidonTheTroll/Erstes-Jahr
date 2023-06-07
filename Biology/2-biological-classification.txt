@@ -532,6 +532,8 @@ Eg.- ringworm
 
 Serendipity: suddenly finding or discovering something. 
 
+Allelopathy: effects of a plant on the development of neighboring plants by the release of biochemicals 
+
 {Penicillium diagram}
 
 {Aspergillus diagram}
