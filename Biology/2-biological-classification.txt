@@ -522,7 +522,7 @@ Eg: truffle
 
 >>> Fungus 
 
-Fungus is a kind of eukaryotic heterotrophic organism whose cell wall is made up of chitin. They might look like high-level plants but they don't come under kingdom plantae. They mainly grow on dead and decaying matter as well as in some sources like barks and roots. They reproduce through spore formation and lack chlorophyll to produce their own nutrients. 
+Fungus is a kind of eukaryotic heterotrophic organism whose cell wall is made up of chitin. They might look like high-level plants but they don't come under kingdom plantae. They mainly grow on dead and decaying matter as well as in some sources like barks and roots. They reproduce through spore formation and lack chlorophyll to produce their nutrients. 
 
 
 • Fungus is present everywhere (cosmopolitan)
