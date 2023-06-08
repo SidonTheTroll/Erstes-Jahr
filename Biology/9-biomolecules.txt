@@ -148,3 +148,70 @@ Nucleoside bond: A nucleoside bond is a linkage between a sugar molecule and a n
 
 • Distance between 2 base pairs: 0.34 nano meters 
 
+
+
+
+08/06/23 
+
+>>> RNA
+
+Rhibonucleic Acid 
+
+Composed of phosphate group, rhibose sugar, and four nitrogenous bases, i.e., adenine, cytosine, uracil, and guanine.
+
+
+Types: mRNA: Messenger RNA: Carries information about protein synthesis.
+       tRNA: transfer RNA Respomsible for transfer of amino acid from cellular environment to ribosome
+       rRNA: Ribosomal mRNA: forms ribosomes, which are essential in protein synthesis
+
+RNA is a linear structure made up of single strand of polynucleotide
+
+Structure
+{Structure of RNA}
+
+
+RNA virus: Ebola, infulenza, HIV 
+DNA virus: herpes, smallpox, hepatitis B, adenoviruses, warts
+
+
+>>> Enzyme 
+
+Mainly made of protein along with co-factor
+
+
+{https://i.imgur.com/KyuBOlM.png}
+
+Without co-factor, enzymes cannot work. 
+
+Prosthetic groups: tightly binded with the enzyme 
+Co-enzyme: binds whenever required 
+Metal-ions: attatch with protein part and  make the enzyme active or inactive
+
+
+>> Mechanism of enzyme action. 
+
+Lock and key theory method: enzymes have a specific site to activate in 
+
+           Amylase 
+Starch --------------> Maltose
+
+Enzyme substrate complex: it is a non covalent complex composed of a substrate bound to the active site of the enzyme and it is formed during chemical reaction. 
+
+Enzymes are substrate specific, i.e., it requires a specific substrate to work. 
+
+These can be visualized like building blocks which lock onto each other 
+
+Enzyme + substrate ----> Enzyme-substrate complex -------> Enzyme + product 
+
+‣ No change will occur in the enzyme 
+
+        Pepsin
+Starch -------> No reaction
+        Amylase
+Protein --------> No reaction 
+
+‣ For every specific enzyme, it has a specific substrate to accomodate 
+
+denaturation of protein: lost of function permanently
+
+
