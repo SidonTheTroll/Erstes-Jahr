@@ -161,7 +161,7 @@ Composed of phosphate group, rhibose sugar, and four nitrogenous bases, i.e., ad
 
 
 Types: mRNA: Messenger RNA: Carries information about protein synthesis.
-       tRNA: transfer RNA Respomsible for transfer of amino acid from cellular environment to ribosome
+       tRNA: transfer RNA Responsible for transfer of amino acid from cellular environment to ribosome
        rRNA: Ribosomal mRNA: forms ribosomes, which are essential in protein synthesis
 
 RNA is a linear structure made up of single strand of polynucleotide
@@ -185,7 +185,7 @@ Without co-factor, enzymes cannot work.
 
 Prosthetic groups: tightly binded with the enzyme 
 Co-enzyme: binds whenever required 
-Metal-ions: attatch with protein part and  make the enzyme active or inactive
+Metal-ions: attatch with protein part and make the enzyme active or inactive
 
 
 >> Mechanism of enzyme action. 
