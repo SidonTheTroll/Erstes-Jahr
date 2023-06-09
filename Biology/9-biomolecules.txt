@@ -215,3 +215,46 @@ Protein --------> No reaction
 denaturation of protein: lost of function permanently
 
 
+
+
+
+
+09/06/23
+
+>>> Factors affecting the rate of enzyme action
+
+(i) Temperature 
+(ii) pH level 
+(iii) Substrate concentration
+(iv) Competitive inhibitor 
+
+
+>> Temperature:
+
+- At higher temperatures, protein gets denatured and lower temperatures make the enzymes inactive.
+
+![rate of enzyme action]( https://i.imgur.com/JambJHx.png )
+
+>> pH level 
+
+Pepsin - acidic 
+Trypsin - Alkaline
+
+- Enzymes are pH specific 
+
+
+>> Substrate concentration 
+
+The amount of substrate present that can be turned into product
+
+If the amount of substrate is more than the enzymes, the reaction will slow down and create an arc which increases rapidly and then slows down to steady. 
+
+( https://www.ucl.ac.uk/~ucbcdab/enzass/images/subs1.png )
+
+
+>> Competitive inhibitor 
+
+Substrate molecule is prevented from binding to the active site of an enzyme by a molecule that is very similar in structure to the substrate.
+	Therefore, stopping the reaction from happening. 
+
+
