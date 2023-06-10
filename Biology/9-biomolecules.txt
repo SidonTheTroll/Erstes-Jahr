@@ -258,3 +258,42 @@ Substrate molecule is prevented from binding to the active site of an enzyme by 
 	Therefore, stopping the reaction from happening. 
 
 
+
+
+10/06/23 
+
+Eg.- inhibition of sucicne dehydrogenase by malonate which closely resembles the substrate succinate in structure. Such competitive inhibitors are often used in the cntryl of bacterial pathogens. 
+
+
+
+>>> Classification of enzymes
+
+- Oxidoreductase/dehydrogenase
+    Makes redox reactions in the body 
+
+- Transferase
+    Transfers groups of chemicals to make new chemicals 
+
+- Hydrolase 
+    Catalyses hydrolysis of ester, ether peptide, etc
+
+- Lyase 
+    Breaks down the bonds between two chemicals 
+
+- Isomerase 
+    Catalyses the change of structure without changing the compound 
+
+- Ligase
+    Helps in establishing bonds
+
+{https://i.imgur.com/nwXA3hL.png}
+
+‣ When any proces sis mediated by enzymes, it requires less energy to produce the product.
+
+
+>>> Carbohydrates
+
+Monosaccharide -> 1 saccharide 
+Disaccharide -> 2 saccharide
+Polysaccharides -> many saccharide 
+
