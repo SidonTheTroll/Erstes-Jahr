@@ -235,6 +235,9 @@ denaturation of protein: lost of function permanently
 
 ![rate of enzyme action]( https://i.imgur.com/JambJHx.png )
 
+
+Body getting hot is a defence mechanism to stop microbes during fever.
+
 >> pH level 
 
 Pepsin - acidic 
@@ -262,7 +265,7 @@ Substrate molecule is prevented from binding to the active site of an enzyme by 
 
 10/06/23 
 
-Eg.- inhibition of sucicne dehydrogenase by malonate which closely resembles the substrate succinate in structure. Such competitive inhibitors are often used in the cntryl of bacterial pathogens. 
+Eg.- inhibition of sucicne dehydrogenase by malonate which closely resembles the substrate succinate in structure. Such competitive inhibitors are often used in the contryl of bacterial pathogens. 
 
 
 
@@ -275,7 +278,7 @@ Eg.- inhibition of sucicne dehydrogenase by malonate which closely resembles the
     Transfers groups of chemicals to make new chemicals 
 
 - Hydrolase 
-    Catalyses hydrolysis of ester, ether peptide, etc
+    Catalyses hydrolysis of ester, ether, peptide, etc
 
 - Lyase 
     Breaks down the bonds between two chemicals 
@@ -288,12 +291,12 @@ Eg.- inhibition of sucicne dehydrogenase by malonate which closely resembles the
 
 {https://i.imgur.com/nwXA3hL.png}
 
-‣ When any proces sis mediated by enzymes, it requires less energy to produce the product.
+‣ When any process is mediated by enzymes, it requires less energy to produce the product.
 
 
 >>> Carbohydrates
 
-Monosaccharide -> 1 saccharide 
-Disaccharide -> 2 saccharide
-Polysaccharides -> many saccharide 
+Monosaccharide -> 1 saccharide -> glucose, fructose, xylose
+Disaccharide -> 2 saccharide -> sucrose, lactose, maltose 
+Polysaccharides -> many saccharide -> starch, glucogen, cellulose
 
