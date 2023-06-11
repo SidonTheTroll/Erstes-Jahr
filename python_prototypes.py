@@ -5,6 +5,6 @@
 x = int(input("What is the base? \n"))
 y = int(input("What is the power \n")) 
 
-a = x**y 
+b = x**y 
 
-print(f"The answer is {a}")
+print(f"The answer is {b}")
