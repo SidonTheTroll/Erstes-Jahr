@@ -568,7 +568,7 @@ Fruiting bodies: reproductive bodies
 • Phycology: study of algae 
 
 (i) Similar to algae but chlorophyll is absent 
-(ii) Grows in moist condiions 
+(ii) Grows in moist conditions 
 (iii) Mycelium is similar to algae
 (iv) Both asexual and sexual reproduction takes place 
 (v) Zoospores (has flagella), aplanospore are produced inside the hyphae (endogenous)
@@ -587,6 +587,7 @@ Unequal size gametes - anisogamete
 ‣ The smaller gamete acts like male gamete and the larger one acts like female 
 
 {https://i.imgur.com/wLJ4Cjx.png}
+‣ Oogamy
 
 Only one cell is motile 
 
@@ -598,7 +599,7 @@ Eg.- rhizopus, mucor, albugo (causes diseases in mustard plant which is economic
 
 • Also known as sac-fungi (sac = bag in latin)
 
-- These are spetet
+- These are septaet
 - Mostly multicellular 
 - Saprophytic, decomposer, parasitic or coprophilious 
 - Mycelium is branched and septate
