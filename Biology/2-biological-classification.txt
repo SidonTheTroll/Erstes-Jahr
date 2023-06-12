@@ -500,7 +500,7 @@ Phycomycetes
 
 Zoo spore: movable spore (having locomotion)
 
-Alpino spore: non-movable spore 
+Aplanospore: non-movable spore 
 
 Lichen: fungus + algae 
 	Fungus: provides nutrients and shelter
@@ -553,3 +553,69 @@ Types of fungi:
 	Basidiomycetes 
 	Deuteromycetes
 
+
+
+
+12/06/23 
+
+Fruiting bodies: reproductive bodies 
+
+
+
+>>> Phycomycetes
+
+• Phyco: algae 
+• Phycology: study of algae 
+
+(i) Similar to algae but chlorophyll is absent 
+(ii) Grows in moist condiions 
+(iii) Mycelium is similar to algae
+(iv) Both asexual and sexual reproduction takes place 
+(v) Zoospores (has flagella), aplanospore are produced inside the hyphae (endogenous)
+(vi) Male gamete fused with female gamete forms zygospores 
+(vii) Generally isogamete and anisogamete 
+
+Same size gametes - isogametes 
+
+{https://i.imgur.com/3cJkhyS.png}
+
+The cells are motile (capable of motion)
+
+Unequal size gametes - anisogamete 
+
+{https://i.imgur.com/Ahx9LpN.png}
+‣ The smaller gamete acts like male gamete and the larger one acts like female 
+
+{https://i.imgur.com/wLJ4Cjx.png}
+
+Only one cell is motile 
+
+Eg.- rhizopus, mucor, albugo (causes diseases in mustard plant which is economically important)
+
+
+
+>>>Ascomycetes
+
+• Also known as sac-fungi (sac = bag in latin)
+
+- These are spetet
+- Mostly multicellular 
+- Saprophytic, decomposer, parasitic or coprophilious 
+- Mycelium is branched and septate
+- Conida produces spores (asexual)
+- Sexual spores are produced endogenously 
+- The spore bag is called ascus 
+
+{https://i.imgur.com/ZxgAkeM.png}
+
+- Neurospora is important for genetic study 
+
+- Edible ascomycetes eg.- truffle & morels 
+
+Eg- penicillium, yeast (only unicellular), aspergillus, neurospora 
+
+Coprophilious fungi eg- Pilobolus, Cyathus, and Bolbitius
+
+Claviceps is a fungus that grows on wheat and if a cattle eats it, it is very lethal to it. 
+
+- Yeast is important for beverage industry 
