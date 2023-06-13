@@ -1,5 +1,4 @@
- 
-#  This is a prototype program file to test code for efficiency of code
+ #  This is a prototype program file to test code for efficiency of code
 
 
 x = int(input("What is the base? \n"))
