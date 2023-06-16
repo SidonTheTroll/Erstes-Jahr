@@ -14,4 +14,7 @@ UT1
 	Physics
 		1,2,3
 
+	Physical Education:
+		1,2,5
+
 Others are written in my textbook. Cope
