@@ -13,11 +13,11 @@ Physiology: Human physiology is the scientific study of the functions and mechan
 3. Helpful in the prevention from sports injuries. 
     It case of any injury in sports such as sprain, fracture, bruises, etc, the knowledge of human anatomy and physiology helps to minimize sports injuries during various sports training and competitions. 
 
-4. Helpful in the process of rehabilitations.
+4. Helpful in the process of rehabilitations. 
     Proper rehabilitation enables the player to perform well even after getting injured by helping him/her to gradually return to sports and also helping in performance enhancement.
 
 5. Helpful in the selection of sports. 
-    Knowledge of anatomy and physiology helps sportsperson to choose a proper sports as per his/her capabilities as different sports require different traits and capabilities to perform well in the field. 
+    Knowledge of anatomy and physiology helps sportsperson to choose a proper sports as per his/her capabilities as different sports require different traits and capabilities to perform well in their field. 
 
 6. Helpful in the preparation of training programs. 
     Physical education teachers and coaches should have proper knowledge of human anatomy and physiology in order to prepare good training programs and having such knowledge also helps to understand the structure and physiological capabilities of an individual or sportsperson. 
@@ -25,8 +25,34 @@ Physiology: Human physiology is the scientific study of the functions and mechan
 7. Aid in sports massage.
     Sports massage helps to change or settle the imbalances in soft tissues which are usually imbalanced by repetive physical activities. By providing sports massage before and after training can reduce injuries and enhance performance. 
 
-8. Facilitate understanding of environmental effects on sportspersons.
+8. Facilitate understanding of environmental effects on sportspersons. 
     Anatomy and physiology explain how environmental factors affect sportspersons' thermoregulation, cardiovascular function, respiratory system, hydration, musculoskeletal system, and neural adaptation
 
 9. Helpful to know about chemical changes during exercises. 
     The knowledge of human physiology helps to make the required changes in the balnaced diet resulting in the enhancement of the sports performance of the sportsperson. 
+
+
+
+
+17/06/23 
+
+>>> Glands
+
+1. Pituitary Gland: The Pituitary gland is a small gland in the brain that releases hormones to control various bodily functions.
+
+2. Thyroid: The Thyroid gland is a butterful-shaped gland lacated in the front of the neck. It produces hormones that regulate metablism, growth and developent of the body. 
+
+3. Adrenal Gland: is a pair of small triangular-shaped glands located on the top of kidneys. They produce hormones that help regulate stress response, blood pressure, metabolism and electrolite balance.
+
+4. Pancreas: the Pancreas is a gland located behind the stomach. It produces insulin and other hormones that regulate blood sugar levels and help in digestion by producing digestive enzymes. 
+
+5. Pineal gland: The pineal gland is a small gland in the brain that produces the homone melatonin, which regulates sleep patterns and ciradian rhythms. 
+
+6. Testis/ovaries: Testis is responsible for the development of the sucondary and primary male characteristics such deepening of voice, growth of facial and body hair and muscle developent. Additionally, the testis are involved in the production of other hormones which contribute to the reproductive functions. 
+    And the ovaries are responsible for the production of hormones estrogen and progesterone which regulate the menstrual cycle and plays a crucial role in the development of female secondary sexual characteristics. 
+
+7. Parathyroid: The Parathyroid glands are small glands located near the Thyroid gland in the neck. They produce the Parathyroid hormone which regulates calcium and phosphorus levels in the body and help maintain bone health.
+
+8. Hypothalamus: The Hypothalamus is a region in the brain that controls various bodily functions and behaviors by regulating hormone release, body temperature, hunger, thirst and sleep. 
+
+9. Thymus: the thyums gland is located in the chest which is responsible for the development and maturation of immune cells called T-cells, which play crucial role in the immune system's defence against infections and diseases. 
