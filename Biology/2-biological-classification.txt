@@ -742,8 +742,8 @@ Retrovirus: type of virus that inserts a DNA copy of its RNA genome into the DNA
 	Mutations are faster 
 	Unstable because of Uracil 
 
-DNA: ATGC -> Stable / Double stranded 
-RNA: ATGU -> Unstable 
+DNA: ATGC -> Stable & Double stranded 
+RNA: AUGC -> Unstable 
 {Go to ./8-cell-the-unit-of-life.txt for explaination}
 
 • Viroid has no capsid 
@@ -775,7 +775,7 @@ All viral infections are caused by body immunity provided by lymphocytes (antibo
 
 ‣ Even a patch of mud can contain virus 
 
-• Virus was first used by M.W. Beijerinek in 1898 and later experimented by W.M. Stanley 
+• Virus was first studied by M.W. Beijerinek in 1898 and later experimented by W.M. Stanley 
 
 
 • Viroid length: 50 nanometre and have 250-400 nucleotides. This small number of nucleotide is not enough to code for protein synthesis. 
@@ -786,8 +786,8 @@ Viroid doesn't has protein
 
 • Potato spindle tuber viroid (PST) was the first viroid to be identified. 
 
-Soap kills the virus because the Sodium Hydroxide breaks down the caspid and kills it. 
+Soap kills the virus because the Sodium Hydroxide breaks down the capsid and kills it. 
 
 HIV was first caused by chimpanzees
-	When hunters used to kill and eat chimpanzees, the infected viral cells in blood got transfused with human blood and it spread via. lymph nodes. 
+	When hunters used to kill chimpanzees for meat, the infected viral cells in blood got transfused with human blood and it spread via. lymph nodes. 
 
