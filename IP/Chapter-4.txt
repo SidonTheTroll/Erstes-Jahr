@@ -1,1 +1,25 @@
-RGF0YSBzdG9yZWQgaW4gdmFyaWFibGVzIGlzIGNhbGxlZCBkYXRhLiAKClR5cGVzOgoJbnVtYmVycywgc3RyaW5nLCBsaXN0LCB0dXBsZSwgZGljdGlvbmFyeSAKCk51bWJlcnM6IHZhcmlhYmxlcyBzdG9yZWQgYXMgbnVtYmVycyAKCkRhdGEgdHlwZTogCglOdW1iZXJzOiAKCQlJbnRlZ2VyIAoJCQlpbnRlZ2VyIAoJCQlib29sZWFuIAoJCWZsb2F0ID0gZGVjaW1hbCB2YWx1ZXMgCgkJQ29tcGxleCA9IDMgKyAxMi40NUogCgoJU3RyaW5nIChXb3JkLCBjaGFyYWN0ZXIsIHNlbnRlbmNlLCBwYXJhZ3JhcGgpIAoKCVZhcmlhYmxlIAoKCQojUHl0aG9uJ3MgdmFyaWFibGVzIGFyZSBsYWJsZXMKClZhcmlhYmxlcyBhcmUgYXNzaWduZWQgYW5kIGNhbiBiZSBjaGFuZ2VkIHRvbyB3aXRob3V0IGNoYW5naW5nIHRoZSB2YWx1ZS4gCgoK
+Data stored in variables is called data. 
+
+Types:
+	numbers, string, list, tuple, dictionary 
+
+Numbers: variables stored as numbers 
+
+Data type: 
+	Numbers: 
+		Integer 
+			integer 
+			boolean 
+		float = decimal values 
+		Complex = 3 + 12.45J 
+
+	String (Word, character, sentence, paragraph) 
+
+	Variable 
+
+	
+#Python's variables are lables
+
+Variables are assigned and can be changed too without changing the value. 
+
+
