@@ -7,4 +7,3 @@ Plants were first classified based on the morphology and anatomy and then later 
 Chemotaxonomy: clasisfication based on chemicals present.
 Cytotaxonomy: classified based on cell features 
 Numerical taxonomy: clasisfication with the help of computers 
-
