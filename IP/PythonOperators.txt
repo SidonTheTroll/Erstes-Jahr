@@ -1,1 +1,65 @@
-Pj4+IE9wZXJhdG9ycyBpbiBQeXRob24KCjEuIEFkZGl0aW9uICgrKQogICAgYyA9IGEgKyBiICMgYSA9IDUsIGIgPSA2CiAgICBjID0gMTEgCgoyLiBTdWJ0cmFjdGlvbiAoLSkKICAgIGMgPSBhIC0gYiAjIGEgPSA2LCBiID0gNQogICAgYyA9IDEgCgozLiBNdWx0aXBsaWNhdGlvbiAoKikKICAgIGMgPSBhICogYiAKCjQuIERpdmlzaW9uICgvKSAKICAgIGMgPSBhIC8gYiAjIGEgPSAxMSwgYiA9IDUKICAgIGMgPSAyLjIgCgo1LiBGbG9vciBkaXZpc2lvbiAoLy8pIAogICAgYyA9IGEgLy8gYiAjIGEgPSAxMSwgYiA9IDUKICAgIGMgPSAyICMgbm8gZGVjaW1hbCBwYXJ0Cgo2LiBSZW1haW5kZXIgKCUpCiAgICBjID0gYSAlIGIgIyBhID0gNywgYiA9IDMgCiAgICBjID0gMSAjcHJpbnRzIG91dCBvbmx5IHRoZSBkZWNpbWFsIHBhcnQKCjcuIFBvd2VyICgqKikgKGV4cG9uZW50KSAKICAgIGMgPSBhICoqIGIgIyBhID0gNSwgYiA9IDMgCiAgICBjID0gMTI1IAoKOC4gQm9vbGVhbiAKICAgIERlZmF1bHQgdmFsdWUgaXMgZmFsc2UKCgoKU2hvcnRjdXRzCjEuIGEgPSBhICsgYiAKICAgIGEgKz0gYiAKCjIuIGEgPSBhIC0gYiAKICAgIGEgLT0gYiAKCjMuIGEgPSBhICogYiAKICAgIGEgKj0gYiAKCjQuIGEgPSBhIC8gYiAKICAgIGEgLz0gYiAKCjUuIGEgPSBhICUgYiAKICAgIGEgJT0gYiAKCjYuIGEgPSBhIC8vIGIgCiAgICBhIC8vPWIgCgo3LiBhID0gYSAqKiBiIAogICAgYSAqKj0gYiAKClEvIFdyaXRlIGEgcHJvZ3JhbSB0byBpbnB1dCBiYXNlIGFuZCBwb3dlciBmcm9tIHVzZXIgYW5kIGZpbmQgb3V0IHRoZSB2YWx1ZS4gCgp4ID0gaW50KGlucHV0KCJXaGF0IGlzIHRoZSBiYXNlPyBcbikpCnkgPSBpbnQoaW5wdXQoIiBXaGF0IGlzIHRoZSBwb3dlciBcbikpIAoKYSA9IHgqKnkgCgpwcmludChmIlRoZSBhbnN3ZXIgaXMge2F9IikKCg==
+>>> Operators in Python
+
+1. Addition (+)
+    c = a + b # a = 5, b = 6
+    c = 11 
+
+2. Subtraction (-)
+    c = a - b # a = 6, b = 5
+    c = 1 
+
+3. Multiplication (*)
+    c = a * b 
+
+4. Division (/) 
+    c = a / b # a = 11, b = 5
+    c = 2.2 
+
+5. Floor division (//) 
+    c = a // b # a = 11, b = 5
+    c = 2 # no decimal part
+
+6. Remainder (%)
+    c = a % b # a = 7, b = 3 
+    c = 1 #prints out only the decimal part
+
+7. Power (**) (exponent) 
+    c = a ** b # a = 5, b = 3 
+    c = 125 
+
+8. Boolean 
+    Default value is false
+
+
+
+Shortcuts
+1. a = a + b 
+    a += b 
+
+2. a = a - b 
+    a -= b 
+
+3. a = a * b 
+    a *= b 
+
+4. a = a / b 
+    a /= b 
+
+5. a = a % b 
+    a %= b 
+
+6. a = a // b 
+    a //=b 
+
+7. a = a ** b 
+    a **= b 
+
+Q/ Write a program to input base and power from user and find out the value. 
+
+x = int(input("What is the base? \n))
+y = int(input(" What is the power \n)) 
+
+a = x**y 
+
+print(f"The answer is {a}")
+
