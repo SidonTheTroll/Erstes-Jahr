@@ -286,7 +286,7 @@ Negatives:
 
 Phylogenetic relationship: classification based on evolutionary relationship with the ancestors. 
 
-Acidophile example: Thermus aquaticus 
+Thermophile example: Thermus aquaticus 
 
 Cyanobacteria despite being called blue-green algae is kept in monera because it is a prokaryotic cell.
 
