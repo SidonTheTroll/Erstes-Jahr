@@ -84,6 +84,8 @@ Type B:
 (ii) Variable "b" not defined and 'And' is invalid syntax 
 (iii) Semicolon aren't used for element separator 
 (iv) Numbers can't be used as variable 
+(v) No separator used 
+(vi) "else" is a keyword 
 
 4. 
 (i) 13 22 
