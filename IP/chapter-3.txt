@@ -56,3 +56,41 @@ elif:
 	'elif' is a keyword used in an 'if' statement to check for additional conditions if the preceding 'if' condition is 'False'. It allows you to specify alternative conditions and code blocks to be executed when those conditions are 'True'. 
 
 
+
+
+
+Exercise: 
+
+Type B: 
+
+1. 
+(a) No error 
+(b) Error; variable can't start with number 
+(c) No error 
+(d) Error; variable can't start with special character
+(e) Error; variable can't contain spaces 
+(f) Error; float is a keyword 
+(g) 
+
+
+2. 
+(i) 1220
+(ii) 30
+(iii) 2000
+(iv) 14.75 
+
+3. 
+(i) 'temperature' should be in parentheses 
+(ii) Variable "b" not defined and 'And' is invalid syntax 
+(iii) Semicolon aren't used for element separator 
+(iv) Numbers can't be used as variable 
+
+4. 
+(i) 13 22 
+(ii) 11 3 33
+(iii) 7 49 
+
+5. 
+(i) print statements couldn't be in codeblocks 
+(ii) string can't be added to integer 
+(iii) string can't be divided 
