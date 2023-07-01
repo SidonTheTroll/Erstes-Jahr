@@ -25,3 +25,52 @@ Variables are assigned and can be changed too without changing the value.
 
 1/07/23
 
+Datatypes:
+	Character: stores letters, characters, symbols 
+	Integer: stores whole numbers
+	String: stores words, sentences and numbers 
+	Float: Stores decimals 
+	Boolean: True or False 
+
+Python by default stores input values as strings. 
+
+a = 2		|	a = 2 
+b = 3 		|	b = 3.5
+c = a + b 	|	c = a + b 
+# c = 5 	|	# c = 6.5 
+
+
+Python always follows hierarchy
+
+n = int(input("Enter a number: "))	# 3.2 -> 3 
+
+n = float(input("Enter a number: ")) # 7 -> 7.0 
+
+Disadvantages of float datatypes: 
+(i) It is slower than integer operations 
+(ii) After decimal point the maximum digits accepted is 15. 
+
+• In string datatype the address lines starts from zero 
+
+0	1	2	3 	   -> Forward indexing
+R 	A 	M 	A
+-4	-3	-2	-1 	   -> Backward indexing 
+
+>> x[0]
+'R'
+
+>> x[-4]
+'R'
+
+Forward indexing starts from 0 
+Backward indexing ends with -1 
+
+Lists, Tuples and Dictionary 
+
+• List and tuple are used to store multiple items in one variable 
+
+> List offers flexibility for modification
+> Tuples provide immutability and has fixed collection for values 
+
+list = [1, 2, 3]
+tuple = (1, 2, 3)
