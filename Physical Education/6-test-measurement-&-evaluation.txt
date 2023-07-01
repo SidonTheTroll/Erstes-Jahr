@@ -24,3 +24,50 @@ Evaluation: Evaluation is a means of organized assessment done to apprise the va
 (viii) Health test 
 (ix) Physical fitness test
 (x) Sports skill test 
+
+
+
+< 18.5 = underweight 
+18.5 - 24.9 = normal 
+25.0 - 29.9 = overweight 
+30.0 - 34.9 = Obesity 1 
+35.0 - 39.9 = Obesity 2 
+> 40.0 = Obesity 3 
+
+
+>>> Supplementary 
+
+>>> 1. 
+5. Fat percentage 
+6. Dividing waist by hip measurement 
+7. human physique 
+8. Flexibility 
+
+>>> 2. 
+5. height 
+6. H. Carter 
+
+>>> 3. 
+5. False
+6. True 
+
+>>> 4. 
+4. BMI abbreviated for Body Mass Index is a way of measuring the physique of an individual by dividing the weight by height squared. It tells whether an individual is underweight, normal, overweight or obese. 
+
+5. WHR stands for Waist Hip Ratio. It is a measure of the distribution of body fat, specially the ratio of waist circumference to hip circumference. 
+
+6. The different types of somato types are- Endomorph, Mesomorph, Ectomorph. 
+
+>>> 5.
+4. Push-up:
+(i) It is for boys
+(ii) Hands and toes touching the floor to keep the body and legs in a straight line, feet slightly apart nad arms at shoulder width, extended and forming a right angle to the body. 
+
+Modified pushup: 
+(i) It is for girls 
+(ii) Position will be with knees bent, ankles crossed and resting on the floor. 
+
+>>> 6 
+5. Endomorph: In characterized the body addiposity level regardless of its distribution. 
+Mesomorph: It focuses on the musco-skeletal development of the body, including features such as muscles and bone robustness. 
+Extomorph: It describes the relative slenderness of the body and physical characteristics such as elongation, linear body shape, and limb fragility without much bulk in the form of muscle or fat. 
