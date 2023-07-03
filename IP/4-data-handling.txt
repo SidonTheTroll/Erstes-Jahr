@@ -53,3 +53,42 @@ Lists, Tuples and Dictionary
 
 list = [1, 2, 3]
 tuple = (1, 2, 3)
+
+
+
+>>> Boolean Alzebra nad Logic Gate 
+
+There are 3 types of logic gates- 
+	And gate 
+	Or Gate 
+	Not gate 
+
+> And gate: And gate works when all the conditions are true. 
+
+Eg- Write a program to input 3 sides of a triangle and check the triangle is equilatreal or not. 
+
+a = int(input("Enter the 1st side: "))
+b = int(input("Enter the 2nd side: "))
+c = int(input("Enter the 3rd side: "))
+
+if (a == b and b == c and c == a):
+	print("It is an equilatreal triangle.")
+
+else:
+	print("It is not an equilatreal triangle.")
+
+> Or gate: Or gate works when any one condition is true. 
+Eg- Write a program to input 3 angles of a triangle and check if it is right angled triangle or not. 
+
+a = int(input("Enter the 1st angle: "))
+b = int(input("Enter the 2nd angle: "))
+c = int(input("Enter the 3rd angle: "))
+
+if (a == 90 or b == 90 or c == 90): 
+	print("It is a right angled triangle.")
+
+else:
+	print("It is not a right angled triangle.")
+
+Not gate: Not gate returns complimentary value of a given data or value. 
+Eg- write a program 
