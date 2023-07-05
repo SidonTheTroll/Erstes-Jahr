@@ -96,9 +96,9 @@ Consequences:
 
 Leaves are developed from leaf primordia (appendages from the stem)
 
-![leaf diagram]()
+![leaf diagram](https://i.imgur.com/8ZAZjj5.jpg)
 
-• Citronella leaf is very sharp. (leaf modification) 
+• Citronella leaf is sharp, i.e., example of leaf modification
 
 Functions: 
     Photosynthesis
@@ -117,19 +117,19 @@ Mesophyll cell:
     Spongy mesophyle 
     Palisade mesophyll
 
-Different types of leaves 
+Types of leaves 
     Simple
     Compound 
 
-![simple and compound leaf]()
+![simple and compound leaf](https://i.imgur.com/5GPNdDU.jpg)
 
 • Venation - network of veins
-
-![banana leaf and hibiscus leaf diagram]()
 
 > Types of Venation:
     Reticulate 
     Parallel 
+
+![banana leaf and maple leaf diagram](https://i.imgur.com/h56RGNu.jpg)
 
 Monocot has parallel venation 
 Dicot has reticulate venation 
@@ -141,20 +141,23 @@ Dicot - woody
 
 Vascular bundle: xylem and phloem. 
 
-Canbium is meristemitic tissue
-
 Inside: xylem; outside: phloem
 
 Pinnately Compound leaf: A leaf which is divided into smaller leaflets, those leaflets arranged on each side of the leaf's central stalk/rachis (axis).
 Palmately Compound leaf: A palmately compound leaf has its leaflets radiating outwards from the end of the petiole, like fingers off the palm of a hand.
 
+![pinnately and palmately compound leaf](https://i.imgur.com/y8HIIWB.jpg)
 
 >>> Phyllotaxy
 
-![alternate and opposite leaf]()
-![whorled leaf]()
+Types:
+    Alternate
+    Opposite
+    Whorled 
 
-Pitcher plant has modified leaf in form of a pitcher. 
+![alternate, opposite and whroled leaf](https://i.imgur.com/EQKS7zf.jpg)
+
+Pitcher plant has modified leaf in the form of a pitcher. 
 
 Petiole: a slender stem that supports the blade of a foliage leaf
     > Petiole gets flattened and forms a leaf. 
