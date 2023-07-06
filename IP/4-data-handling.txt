@@ -91,4 +91,56 @@ else:
 	print("It is not a right angled triangle.")
 
 Not gate: Not gate returns complimentary value of a given data or value. 
-Eg- write a program 
+Eg- write a program to use not gate and print input true as false and false as true. 
+
+def not_gate(value):
+  return not value
+
+def get_user_input():
+  while True:
+    input_value = input("Enter True or False: ").lower()
+    if input_value == "true":
+      return True
+    elif input_value == "false":
+      return False
+    else:
+      print("Invalid input. Please enter True or False.")
+
+print(not_gate(get_user_input()))
+
+
+
+06/07/23
+
+>>> Multiple assignment
+
+x = 5 
+y = 6 
+z = x + y
+# the above syntaxes assign values to variables 
+print(z) # 11
+
+x , y = 5 , 6 # this syntax is a multiple assignment
+z = x + y 
+print(z)
+
+• One variable can have more than one value in python. 
+
+x = 5,6 
+print(x) # (5,6)  because x is now a list 
+
+
+x = 5 
+y = 6 
+x = x + y
+y = y + 1 
+print(x, y) # 11 12 
+
+
+x = 5 
+y = 6 
+x,y = x+y , x+1 # multiple assignment 
+print(x,y) # 11 6 
+> Because multiple assignment doesn't change the value of variable for that line. 
+
+• Python doesn't change values till syntax is completed and stores it in the RAM. 
