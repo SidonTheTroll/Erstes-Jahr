@@ -1,0 +1,15 @@
+A> Answer the following questions
+
+1. Define registers. 
+2. Write a short note on SSD. 
+3. What are device drivers? 
+4. Write two differences between application software and system software. 
+5. Write two advantages and disadvantages of python.
+6. What is meant by a floating point literal in python? How many ways can a floating literal be represented into? 
+7. What are the two boolean literals in python? 
+
+B> Do the following python programs. 
+
+1. Write a program to input two different numbers and swap their value. 
+2. Write a program to find out the area and perimeter of a rectangle. 
+3. Write a program to check a given triangle is equable triangle or not. A triangle is said to be equable when its perimeter and area are same. 
