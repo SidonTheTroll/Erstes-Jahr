@@ -26,7 +26,7 @@ Evaluation: Evaluation is a means of organized assessment done to apprise the va
 (x) Sports skill test 
 
 
-
+>>> BMI 
 < 18.5 = underweight 
 18.5 - 24.9 = normal 
 25.0 - 29.9 = overweight 
