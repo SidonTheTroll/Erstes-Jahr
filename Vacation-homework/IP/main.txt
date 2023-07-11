@@ -1,0 +1,29 @@
+1. Write a python program to input cost of goods (cgos), revenue generated, operating costs (oc) and prints Gross Profit, net profit and net profit percentage. [Hint: net profit = revenue - cgos - oc]
+
+2. Write a program in python to input temperatures of 7 days(Monday, Tuesday, .... Sunday) and print the average temperature of the week. 
+
+3. Write a program in that reads the number of secdonds and prints it in the form hours minutes and seconds. For example, if the number of seconds are 3940, then the output should be 1 hour 5 minutes 40 seconds. 
+
+4. Find the output produced by the following:
+    (a) 
+    a,b,c = 2,8,9 
+    print(a,b,c)
+    c,b,a = a,b,c 
+    print(a,b,c)
+
+    (b) 
+    x = 40 
+    y = x + 1 
+    x = 20, y + x 
+    print(x, y)
+
+    (c)
+    a,b = 12,13
+    c,b = a*2, a/2 
+    print(a,b,c)
+
+    (d)
+    a,b,c = 10,20,30 
+    p,q,r = c-5, a+3, b-4 
+    print('a,b,c:', a,b,c, end=' ')
+    print('p,q,r:', p,q,r)
