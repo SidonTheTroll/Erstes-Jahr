@@ -1,4 +1,11 @@
-a,b,c = 10,20,30 
-p,q,r = c-5, a+3, b-4 
-print('a,b,c:', a,b,c, end=' ')
-print('p,q,r:', p,q,r)
+# Input the temperatures for each day
+temperatures = []
+for day in ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]:
+    temp = float(input("Enter the temperature for " + day + ": "))
+    temperatures.append(temp)
+
+# Calculate the average temperature
+average_temperature = sum(temperatures) / len(temperatures)
+
+# Print the average temperature
+print("Average temperature of the week:", average_temperature)
