@@ -1,8 +1,60 @@
 1. Write a python program to input cost of goods (cgos), revenue generated, operating costs (oc) and prints Gross Profit, net profit and net profit percentage. [Hint: net profit = revenue - cgos - oc]
 
+Ans> 
+
+cgos = float(input("Enter Cost of goods: "))
+revenue = float(input("Enter revenue generated: "))
+oc = float(input("Enter operating costs: "))
+
+gross = revenue - cgos 
+net = gross - oc
+netperc = net/revenue * 100 
+
+print("")
+print(f"Gross Profit: {gross}")
+print(f"Net Profit: {net}")
+print(f"Net Profit Percentage: {netperc} %")
+
+
+
+
 2. Write a program in python to input temperatures of 7 days(Monday, Tuesday, .... Sunday) and print the average temperature of the week. 
 
+Ans> 
+
+def avg():
+    return (sun+mon+tue+wed+thu+fri+sat) / 7 
+
+sun = float(input("Enter temperature in Sunday: "))
+mon = float(input("Enter temperature in Monday: "))
+tue = float(input("Enter temperature in Tuesday: "))
+wed = float(input("Enter temperature in Wednesday: "))
+thu = float(input("Enter temperature in Thursday: "))
+fri = float(input("Enter temperature in Friday: "))
+sat = float(input("Enter temperature in Saturday: "))
+
+print(f"\n The average temperature of the week is {avg()} units.")
+
+
+
 3. Write a program in that reads the number of secdonds and prints it in the form hours minutes and seconds. For example, if the number of seconds are 3940, then the output should be 1 hour 5 minutes 40 seconds. 
+
+Ans> 
+
+def convert_seconds(seconds):
+    hours = seconds // 3600
+    minutes = (seconds % 3600) // 60
+    remaining_seconds = (seconds % 3600) % 60
+
+    return hours, minutes, remaining_seconds
+
+seconds = int(input("Enter the number of seconds: "))
+
+hours, minutes, remaining_seconds = convert_seconds(seconds)
+
+print(hours, "hour(s)", minutes, "minute(s)", remaining_seconds, "second(s)")
+
+
 
 4. Find the output produced by the following:
     (a) 
@@ -11,19 +63,31 @@
     c,b,a = a,b,c 
     print(a,b,c)
 
+2 8 9
+9 8 2
+
+
     (b) 
     x = 40 
     y = x + 1 
     x = 20, y + x 
     print(x, y)
 
+(20, 81) 41
+
+
     (c)
     a,b = 12,13
     c,b = a*2, a/2 
     print(a,b,c)
+
+12 6 24
+
 
     (d)
     a,b,c = 10,20,30 
     p,q,r = c-5, a+3, b-4 
     print('a,b,c:', a,b,c, end=' ')
     print('p,q,r:', p,q,r)
+
+a,b,c: 10 20 30 p,q,r: 25 13 16
