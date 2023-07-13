@@ -16,5 +16,5 @@ Has handwritten notes for all subjects except Chemistry and Physics.
     - [x] IP 
     - [ ] Chemistry
     - [ ] Physics 
-    - [ ] English 
+    - [x] English 
     - [ ] PE 
