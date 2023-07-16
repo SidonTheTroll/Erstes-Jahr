@@ -101,7 +101,7 @@ M-Phase:
 6. Disassembly of the nucleolus: The nucleolus, a structure within the nucleus responsible for the production of ribosomes, begins to disassemble during prophase. This disassembly is necessary for the cell to allocate its resources toward mitotic processes.
 
 
-‣ The identical copies of chromosomes formed in DNA replication are called Sister Chromatid. 
+‣ The identical copies of chromosomes formed in DNA replication are called Sister chromatin. 
 
 
 > Metaphase 
@@ -116,11 +116,11 @@ Chromosome condensation maintenance: Throughout metaphase, the chromosomes remai
 
 Readiness for chromosome separation: Metaphase prepares the chromosomes for their eventual separation and distribution to daughter cells. The aligned and properly attached chromosomes are in a poised state, ready to be evenly segregated during the following stage of mitosis, called anaphase.
 
-‣ When the centromere breaks, the sister chromatids get separated. 
+‣ When the centromere breaks, the sister chromatins get separated. 
 
 > Anaphase
 
-Chromosome separation: Anaphase is marked by the separation of sister chromatids. The cohesion proteins that hold the sister chromatids together are cleaved, allowing each chromatid to become an independent chromosome. This separation ensures that each daughter cell receives a complete set of chromosomes.
+Chromosome separation: Anaphase is marked by the separation of sister chromatins. The cohesion proteins that hold the sister chromatins together are cleaved, allowing each chromatin to become an independent chromosome. This separation ensures that each daughter cell receives a complete set of chromosomes.
 
 Chromosome movement: The separated chromosomes are pulled towards opposite poles of the cell. This movement is facilitated by the shortening of the spindle fibers attached to the kinetochores of the chromosomes. As the spindle fibers shorten, they exert force on the chromosomes, causing them to move toward their respective poles.
 
@@ -147,7 +147,7 @@ Restoration of interphase state: By the end of telophase, two distinct daughter 
 
 
 
-• Chromatid material becomes defaced. 
+• chromatin material becomes defaced. 
 • If plant cell, centriole is absent 
 
 In plant cells, in the telophase, a cell plate starts forming and eventually into the cell wall which separates the cell. 
@@ -172,7 +172,7 @@ Similarly, the phases are named Prophase 1 and Prophase 2, etc.
 
 
 
-Non-sister chromatin: non-sister chromatin refers to the DNA strands that belong to different chromosomes and are involved in sister chromatid formation during DNA replication.
+Non-sister chromatin: non-sister chromatin refers to the DNA strands that belong to different chromosomes and are involved in sister chromatin formation during DNA replication.
 
 > Significance of meiosis: 
 1. Gamete formation
