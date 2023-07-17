@@ -1,12 +1,25 @@
 1. Different stages of Mitosis. 
-> ![prophase diagram]()
+> Prophase  
+![prophase diagram]()
 During prophase, the initial stage of mitosis, several essential events occur to prepare the cell for proper chromosome segregation and division. Firstly, the chromatin, which consists of loosely packed DNA, condenses into visible chromosomes. This condensation facilitates easier handling and separation of genetic material in the subsequent stages of mitosis. Secondly, the nuclear envelope, which surrounds the nucleus, breaks down, allowing the chromosomes to interact with the cellular machinery involved in mitosis. Thirdly, the spindle apparatus starts to form, consisting of microtubules that aid in the movement and distribution of chromosomes. Spindle fibers extend from centrosomes and attach to the chromosomes via kinetochores, ensuring proper alignment and separation of chromosomes. Additionally, the centrosomes migrate to opposite poles of the cell, playing a vital role in organizing the spindle apparatus and guiding chromosome distribution to daughter cells. Lastly, the nucleolus disassembles during prophase to allocate cellular resources towards the mitotic processes. These coordinated events in prophase ensure that the cell is prepared for successful and accurate chromosome division during mitosis.
 
+Metaphase
 ![metaphase diagram]()
 During metaphase, chromosomes align at the cell's equatorial plane forming the metaphase plate. Spindle fibers from opposite poles attach to the chromosomes' kinetochores, ensuring equal distribution of genetic material to daughter cells. This phase also activates the metaphase checkpoint, verifying proper alignment and attachment before proceeding. Chromosomes remain highly condensed, aiding efficient separation in mitosis. Metaphase readies chromosomes for segregation during anaphase, as they stay poised and prepared for even distribution to ensure successful cell division.
 
+Anaphase 
 ![anaphase diagram]()
 During anaphase, sister chromatids separate as cohesion proteins are cleaved, ensuring each daughter cell receives a full chromosome set. Chromosomes move to opposite cell poles as spindle fibers shorten, aided by elongation of polar microtubules. Cell elongation occurs as poles are pushed apart, preparing for cytokinesis. In animal cells, actin filaments form a contractile ring for cell membrane pinching, while plant cells create a cell plate to develop a new cell wall, ultimately separating the daughter cells.
+
+Telophase
+![telophase diagram]()
+Telophase is the final stage of mitosis, where separated chromosomes reach opposite poles of the cell and begin to decondense into extended chromatin. A new nuclear envelope forms around each set of chromosomes, nucleoli reappear, and the spindle apparatus disassembles. Telophase leads to the formation of two daughter cells with identical sets of chromosomes
+
+
+![Cytokinesis]()
+Cytokinesis is the last step of cell division, following telophase. It involves the division of the cytoplasm and organelles to create two separate daughter cells. In animal cells, a contractile ring made of actin filaments pinches the cell membrane inward, while in plant cells, a cell plate forms a new cell wall between the daughter nuclei, ultimately dividing the cytoplasm and completing the cell division process.
+
+
 
 
 
