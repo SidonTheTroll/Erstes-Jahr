@@ -20,12 +20,19 @@ Telophase is the final stage of mitosis, where separated chromosomes reach oppos
 Cytokinesis is the last step of cell division, following telophase. It involves the division of the cytoplasm and organelles to create two separate daughter cells. In animal cells, a contractile ring made of actin filaments pinches the cell membrane inward, while in plant cells, a cell plate forms a new cell wall between the daughter nuclei, ultimately dividing the cytoplasm and completing the cell division process.
 
 
-
-
-
-
-
-
-
 2. Different stages of Meiosis-1 
-(* Explaination with diagram)
+> Prophase 1
+During early meiosis, chromatin condenses into visible chromosomes. Homologous chromosomes pair up, and crossing over occurs, promoting genetic diversity. The nuclear membrane dissolves, and spindle fibers form to aid chromosome movement. In animal cells, centrioles move to opposite ends, preparing for chromosome separation.
+
+
+Metaphase 1
+During metaphase I of meiosis, homologous chromosome pairs align at the cell's center. Spindle fibers attach to their centromeres, aiding chromosome movement. Independent assortment results from random alignment, enhancing genetic diversity in gametes. Crossing over in prophase I influences chromosome alignment. An alignment checkpoint ensures accurate positioning before advancing to the next stage.
+
+Anaphase 1 
+During anaphase I of meiosis, spindle fibers attached to homologous chromosomes shorten, pulling them apart to opposite cell poles. This separation increases genetic diversity in gametes and reduces the chromosome number to half. Checkpoints ensure accurate chromosome separation before proceeding to the next stage.
+
+Telophase 1 
+Following anaphase I, homologous chromosomes reach opposite cell poles. New nuclear membranes form around each set of chromosomes, leading to two distinct nuclei. Chromosomes unwind, returning to their extended chromatin state, becoming less visible under the microscope.
+
+Cytokinesis 1 
+Following telophase I, cytokinesis I initiates, leading to the formation of two daughter cells. In animal cells, a cleavage furrow appears and pinches the cell membrane inward, while in plant cells, a cell plate forms and expands outward to separate the cell. Each daughter cell contains half the number of chromosomes as the original cell, with one set of homologous chromosomes.
