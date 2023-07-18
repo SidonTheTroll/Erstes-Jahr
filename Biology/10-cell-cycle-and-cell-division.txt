@@ -174,6 +174,76 @@ Similarly, the phases are named Prophase 1 and Prophase 2, etc.
 
 Non-sister chromatin: non-sister chromatin refers to the DNA strands that belong to different chromosomes and are involved in sister chromatin formation during DNA replication.
 
+
+>> Prophase 1
+
+Chromosomes Condense: The genetic material in the cell, which is usually spread out as chromatin, becomes tightly coiled and visible as distinct structures called chromosomes.
+
+Homologous Chromosomes Pair Up: Each chromosome finds its partner, forming pairs known as homologous chromosomes. These pairs contain genetic information from both parents.
+
+Crossing Over Occurs: During this phase, portions of the homologous chromosomes exchange genetic material with each other. This process, called crossing over, increases genetic diversity in the resulting gametes.
+
+Nuclear Membrane Breakdown: The membrane surrounding the cell nucleus starts to dissolve, allowing the chromosomes to interact more freely within the cell.
+
+Spindle Fiber Formation: Special structures called spindle fibers begin to form. These fibers help move and separate the homologous chromosomes during later stages of meiosis.
+
+Centrioles Move: In animal cells, centrioles (small structures responsible for organizing the spindle fibers) move to opposite ends of the cell, preparing for chromosome separation
+
+
+
+>> Metaphase 1 
+
+Chromosomes Align: The homologous chromosome pairs, which were formed during prophase I, align side by side at the equatorial plane (center) of the cell.
+
+Spindle Fibers Attach: Special structures called spindle fibers attach to the centromeres of the homologous chromosomes. These fibers help to move and position the chromosomes during later stages.
+
+Independent Assortment: The homologous chromosome pairs can align randomly at the center of the cell, leading to a phenomenon called "independent assortment." This random alignment contributes to genetic diversity in the resulting gametes.
+
+Crossing Over Influence: During prophase I, crossing over occurred, exchanging genetic material between the homologous chromosomes. In metaphase I, the effects of this genetic exchange can be seen in how the chromosomes align.
+
+Alignment Checkpoint: The cell ensures that all the homologous chromosome pairs are correctly aligned before proceeding to the next stage of meiosis.
+
+
+
+>> Anaphase 1 
+
+Separation Begins: The spindle fibers, which are attached to the centromeres of the homologous chromosomes, start to shorten and contract.
+
+Homologous Chromosomes Separate: The paired homologous chromosomes are pulled apart, each moving toward opposite poles (ends) of the cell.
+
+Genetic Diversity: The separation of homologous chromosomes during anaphase I results in each new cell receiving a unique combination of genetic material from the original cell. This process increases genetic diversity in the gametes.
+
+Reduction of Chromosome Number: Anaphase I reduces the chromosome number in each daughter cell to half of the original, ensuring that the gametes will have the appropriate number of chromosomes when they fuse during fertilization.
+
+Checkpoints: The cell ensures that the separation of homologous chromosomes is complete and accurate before advancing to the next stage of meiosis.
+
+
+
+>> Telophase 1 
+
+Chromosomes Reach Opposite Poles: The homologous chromosomes, which were separated during anaphase I, arrive at the opposite poles (ends) of the cell.
+
+Nuclear Membrane Forms: New nuclear membranes begin to form around each set of chromosomes at the poles, creating two distinct nuclei within the cell.
+
+Chromosomes Unwind: The chromosomes start to unwind and return to their extended chromatin state, becoming less visible under the microscope.
+
+
+
+>> Cytokinesis 1 
+
+Cell Division Starts: Cytokinesis I begins after telophase I when the homologous chromosomes have reached the opposite poles of the cell.
+
+Formation of Cleavage Furrow or Cell Plate: In animal cells, a cleavage furrow appears, which is a constriction or furrowing at the cell's equator. In plant cells, a cell plate starts to form in the middle of the cell.
+
+Cell Membrane Pinches In: In animal cells, the cleavage furrow gradually deepens and pinches the cell's membrane inward. In plant cells, the cell plate expands outward to separate the cell.
+
+Two Daughter Cells Form: As the cell membrane pinches or the cell plate expands completely, the cell divides into two daughter cells.
+
+Each Daughter Cell Has Half the Chromosomes: Each daughter cell receives one set of homologous chromosomes, half the number of chromosomes present in the original cell.
+
+
+
+
 > Significance of meiosis: 
 1. Gamete formation
 2. Chromosome number in species is maintained
