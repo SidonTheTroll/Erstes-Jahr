@@ -1,3 +1,5 @@
+20/06/23 
+
 Carl Linnaeus started studying plants based on mode of reproduction by flowers. 
 
 Bentham and Hooker divided Plant Kingdom into two divisions: Cryptogamia (non-flowering plants) and Phanerogamia (flowering plants)
@@ -7,3 +9,28 @@ Plants were first classified based on the morphology and anatomy and then later 
 Chemotaxonomy: clasisfication based on chemicals present.
 Cytotaxonomy: classified based on cell features 
 Numerical taxonomy: clasisfication with the help of computers 
+
+
+
+01/08/23 
+
+Funges: chitin, heterotroph
+Algae: cellulose, autotroph 
+
+Algae generally requires water to survive 
+
+[Chlamydomonas diagram](https://upload.wikimedia.org/wikipedia/commons/d/d1/Chlamydomonas_reinhardtii_vector_scheme.svg)
+
+[Spirogyra](https://upload.wikimedia.org/wikipedia/commons/1/18/Spirogyra.JPG)
+
+Algae: 
+    Green Algae (Chlorophyta)
+    Red Algae (Rhodophyta)
+    Brown Algae (Phaeophyta)
+    Diatoms (Bacillariophyta)
+    Dinoflagellates (Dinophyta)
+    Euglenophytes (Euglenophyta)
+    Blue-Green Algae (Cyanobacteria)
+
+[Volvox](https://upload.wikimedia.org/wikipedia/commons/1/1c/Mikrofoto.de-volvox-4.jpg)
+

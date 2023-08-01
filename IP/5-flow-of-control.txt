@@ -1,0 +1,41 @@
+01/08/23
+
+>>> Types of control flow  
+
+if 
+for loop 
+while loop 
+
+>>> Types of statements 
+
+Empty statement
+    Uses 'pass' syntax 
+
+Single statement
+    One line statement 
+
+Compound statement
+    More than one statement 
+
+• To keep an empty statement, pass syntax is used. 
+
+if ch == '':        # this is a header 
+    spaces += 1     # this is a body  
+    chars += 1      # this is a body 
+
+• Program to print the smallest number 
+
+x = float(input("Enter first number: "))
+y = float(input("Enter second number: "))
+z = float(input("Enter third number: "))
+
+min = x 
+
+if y < min: 
+    min = y 
+
+if z < min: 
+    min = z 
+
+print(f"The smallest number is {min}.")
+
