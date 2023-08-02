@@ -14,7 +14,7 @@ Numerical taxonomy: clasisfication with the help of computers
 
 01/08/23 
 
-Funges: chitin, heterotroph
+Fungus: chitin, heterotroph
 Algae: cellulose, autotroph 
 
 Algae generally requires water to survive 
@@ -34,3 +34,72 @@ Algae:
 
 [Volvox](https://upload.wikimedia.org/wikipedia/commons/1/1c/Mikrofoto.de-volvox-4.jpg)
 
+Colony of Chlamydomonas forms a piliminary organism but its not multicellular because every cell is independent and eventually forms a volvox 
+
+• Volvox is almost multicellular because it has some specialized cells and lives in colonies. 
+
+All chlophyll having algae are green but the form of chlorophyll is different. 
+
+
+Importance of algae: 
+    Food and Nutritional Supplements
+    Aquaculture and Animal Feed
+    Biofuel Production
+    Pharmaceutical and Biotechnology
+    Wastewater Treatment
+    Cosmetic and Personal Care Products
+    Agriculture and Fertilizers
+    Bioremediation and Carbon Sequestration
+    Algal Biomass and Bioproducts
+    Tourism and Aquatic Recreation
+
+Downsides of algae: 
+    Algal Blooms
+    Toxicity
+    Contamination of Water Supplies
+    High Cost of Cultivation and Harvesting
+    Competition with Native Species
+    Variable Growth Rates
+    Challenges in Scaling Up
+    Processing and Extraction Difficulties
+    Limited Public Awareness
+    Land and Water Use
+
+
+---
+
+02/08/23 
+
+Plantae
+    Thallophyta (embryo absent)
+    
+    Embryophyta (embryo present)
+        Bryophyta (vascular tissue absent)
+       
+        Tracheophyta (vascular tissue present)
+            Pteridophyta (no flower, no seed)
+       
+            Spermatophyta (flowering plant with seed)
+                Gymnospermae (naked seed, no fruit)
+       
+                Angiospermae (covered seed)
+                    Monocotyledon (one seed leaf)
+                    Dicotyledon (two seed leaf)
+
+
+• Algae belongs to thallophyta 
+Thallus in latin means
+
+• Study of algae is called phycology 
+
+Father of phycology:
+Father of Indian phycology:
+
+Basis of algal classification: 
+    1. Pigment composition and body color 
+    2. Nature and composition of reserved food materials 
+    3. Flagellation 
+
+• Rhodophycae is found in warm regions 
+    It can also survive in shallow and deep waters 
+    

@@ -16,3 +16,4 @@ Has handwritten notes for all subjects except Chemistry and Physics.
     - [ ] Physics 
     - [x] English 
     - [x] PE 
+- [ ] Write comparative account between 3 types of algaes
