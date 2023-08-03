@@ -14,7 +14,7 @@ Aim of the experiment
 Materials required 
 Observation 
 Conclusion 
-Precautions 
+Precautions (minimum 2)
 ```
 
 - Labeling should be on the right side 

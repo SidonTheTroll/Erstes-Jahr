@@ -88,12 +88,12 @@ Plantae
 
 
 • Algae belongs to thallophyta 
-Thallus in latin means
+Thallos in latin means green shoot, young branch, twig
 
 • Study of algae is called phycology 
 
-Father of phycology:
-Father of Indian phycology:
+Father of phycology: F. E. Fritsch
+Father of Indian phycology: Mandayam Osuri Parthasarathy Iyengar
 
 Basis of algal classification: 
     1. Pigment composition and body color 
@@ -102,4 +102,10 @@ Basis of algal classification:
 
 • Rhodophycae is found in warm regions 
     It can also survive in shallow and deep waters 
+    Floridean starch is reserved. 
+        Similar to amylopectin and glycogen.
+    
+
+>>> Laminaria
+    Reserved food is called laminarin reserves
     

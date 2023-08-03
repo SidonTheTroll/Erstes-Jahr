@@ -1,8 +1,8 @@
-1/7/23 
+# 1/7/23 
 
 Morphology: physical characteristics/ external observable features 
 
-Roots: 
+## Roots: 
 
 ![seed diagram](https://shorturl.at/chiCU)
 
@@ -12,8 +12,7 @@ Types of root: taproot, fibrous, adventitious root
 
 Adventitious root don't develop from the seed's radicle 
 
-
->>> Crop root 
+## Crop root 
 
 Develops from radicle: taproot and fibrous root 
 Doesn't develop from radicle (other than radicle): adventitious root
@@ -21,14 +20,16 @@ Doesn't develop from radicle (other than radicle): adventitious root
 Fibrous root: monocot 
 Taproot: dicot 
 
+---
 
-3/7/23 
+
+# 3/7/23 
 
 Primary root persistant - taproot 
 Primary root replaced - fibious root 
 Other than orrt - adventitious root 
 
->>> Regions of Root 
+## Regions of Root 
 
 ![root diagram & bryophylum](https://i.imgur.com/oQCYpe0.jpg)
 
@@ -40,7 +41,7 @@ Epiphyte: a plants that grows on another plant, especially one that is not paras
 
 ![orchid](https://i.imgur.com/GUv9aUR.jpg)
 
->>> Stem 
+## Stem 
 
 • Develops from plumule
 • Ascending part 
@@ -87,12 +88,12 @@ Consequences:
     Water stegnation 
 
 
+---
 
 
+# 04/07/23 
 
-04/07/23 
-
->>> Leaf
+## Leaf
 
 Leaves are developed from leaf primordia (appendages from the stem)
 
@@ -125,30 +126,31 @@ Types of leaves
 
 • Venation - network of veins
 
-> Types of Venation:
-    Reticulate 
-    Parallel 
+- Types of Venation:
+    - Reticulate 
+    - Parallel 
 
 ![banana leaf and maple leaf diagram](https://i.imgur.com/h56RGNu.jpg)
 
 Monocot has parallel venation 
 Dicot has reticulate venation 
 
-Monocot - not woody 
+Monocot - not woody <br> 
 Dicot - woody 
 
-> Woody means the stem that shows the growth of xylem and phloem, i.e., the secondary growth of the plant. 
+- Woody means the stem that shows the growth of xylem and phloem, i.e., the secondary growth of the plant. 
 
 Vascular bundle: xylem and phloem. 
 
-Inside: xylem; outside: phloem
+Inside: xylem <br>
+Outside: phloem
 
 Pinnately Compound leaf: A leaf which is divided into smaller leaflets, those leaflets arranged on each side of the leaf's central stalk/rachis (axis).
 Palmately Compound leaf: A palmately compound leaf has its leaflets radiating outwards from the end of the petiole, like fingers off the palm of a hand.
 
 ![pinnately and palmately compound leaf](https://i.imgur.com/y8HIIWB.jpg)
 
->>> Phyllotaxy
+## Phyllotaxy
 
 Types:
     Alternate
@@ -163,3 +165,85 @@ Petiole: a slender stem that supports the blade of a foliage leaf
     > Petiole gets flattened and forms a leaf. 
     Eg- australian acacia 
 
+
+
+
+---
+
+
+# 03/08/23 
+
+## Inflorescence 
+
+Marigold: many flowers (cluster) 
+Hibiscus: one flower (individual)
+
+Flower: unit of sexual reproduction 
+
+Types of Inflorescence: 
+    Racemose: floral axis keeps growing 
+    Cymose: floral axis terminates to flower 
+
+Generally, flower grows on axial sides 
+
+![racemose](https://i.imgur.com/WBBhlay.jpg)
+- It is also called indefinite or indeterminate inflorescence
+
+![cymose](https://i.imgur.com/Zdt7YtY.jpg)
+- It is also called determinate inflorescence
+
+
+## The Flower
+
+- Parts of floral appendages: 
+    - Sepal: Calyx
+    - Petal: Corolla 
+    - Anther: Androecium 
+    - Pistil: Gynoceum 
+
+<br>
+
+- Symbols: 
+    - Calyx: K 
+    - Corolla: C 
+    - Androecium: A 
+    - Gynoecium: G 
+
+<br>
+
+- Unisexual flower: has either male/female reproductive organs
+    - Eg: Papaya, Coconut flower, Cucumber, Watermelon, White mulberry, Cucumber Maize, Castor bean, Musk melon, Snake gourd, and Tapioca
+
+
+Bisexual flower: has both reproductive organs 
+    Eg: Rose, Lily, Tulip, Mustard, Tomato, Hibiscus, Country bean, Brinjal, Mango, and Sunflower
+
+Bisexual is also called hermaphrodite.
+
+
+- Incomplete flower: mising appendages 
+- Complete flower: has all appendages
+
+Trimerous: Floral appendages multiple of 3 
+Tetramerous: floral appendages multiple of 4 
+Pentamerous: floral appendages multiple of 5 
+
+- Trimerous flower is a character of monocotyledon plant 
+- Tetramerous and Pentamerous is a character of dicotyledon plant 
+
+## Symmetry 
+
+- Bilatreal symmetrical (zygomorphic): Divided into two equal parts from one part 
+- Radial symmetrical (actinomorphic): can be divided into two parts from any point
+
+## Floral formula 
+- ⊕ = radial symmetrical 
+- ％ = bilateral symmetrical
+
+- Symbols: 
+    - Calyx: K 
+    - Corolla: C 
+    - Androecium: A 
+    - Gynoecium: G 
+
+---
