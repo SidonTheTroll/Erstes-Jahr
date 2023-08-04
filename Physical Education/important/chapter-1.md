@@ -17,12 +17,12 @@
 5. **Sports lover:** Physical education teaches us to be a good spectator and sports lover. It also helps us to understand the sportsperson's personality. 
 6. **Knowledge About games:** This subject gives knowledge about various games and sports. It helps us to understand the various rules, regulations, skills and techniques of various games. 
 
-### Apart from a professional degree in physical education, what other key skills are required for opting for a career apart from teaching? 
+### Q/ Apart from a professional degree in physical education, what other key skills are required for opting for a career apart from teaching? 
 1. **Interest in that field:** For a career in any field, the individual should have high interest and positive attitude in that field. 
 2. **Good personality and good health:** One should possess a good personality, good fitness and good health which is a base for good career. 
 3. **Sound mind:** For career in any field, one shuld possess a sound mind, mental stability and emotional balance which gives high rise in career. 
 4. **Good academic performance:** Academic excellence is vital for a physical education career, demonstrating essential knowledge for teaching and coaching while enhancing future opportunities.
-5. **Leadership ability:** Leadership ability is crucial for a career in physical education as it enables effective management of students, teams, and programs, fostering a positive learning and sports environment. It also helps inspire and motivate others to achieve their fitness and performance goals.
-6. **Good organizational ability:** Good organizational ability is important for a career in physical education as it ensures smooth coordination of activities, schedules, and resources, leading to efficient and effective teaching and sports programs. It also helps create a structured and conducive learning environment for students and athletes.
-7. **Dedication:** Dedication is important for a career in physical education as it fosters a commitment to promoting health, fitness, and overall well-being among students and athletes. It also drives continuous improvement in teaching methods and coaching techniques to inspire lifelong participation in physical activities.
+5. **Leadership ability:** Leadership is crucial for a physical education career, enabling effective management of students, teams, and programs, fostering a positive learning and sports environment while inspiring and motivating others to achieve their fitness and performance goals.
+6. **Good organizational ability:** Strong organizational ability is vital for a physical education career, ensuring smooth coordination of activities, schedules, and resources for efficient teaching and sports programs, and a conducive learning environment.
+7. **Dedication:** Dedication is crucial for a physical education career, promoting health, fitness, and well-being among students and athletes, driving continuous improvement in teaching and coaching for lifelong physical activity.
 8. **Sociality:** Sociality is crucial in physical education careers for effective communication, collaboration, and motivation among students, colleagues, and parents. It fosters a supportive and engaging learning environment.

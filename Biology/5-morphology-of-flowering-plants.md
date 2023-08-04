@@ -175,14 +175,14 @@ Petiole: a slender stem that supports the blade of a foliage leaf
 
 ## Inflorescence 
 
-Marigold: many flowers (cluster) 
+Marigold: many flowers (cluster) <br>
 Hibiscus: one flower (individual)
 
 Flower: unit of sexual reproduction 
 
-Types of Inflorescence: 
-    Racemose: floral axis keeps growing 
-    Cymose: floral axis terminates to flower 
+- Types of Inflorescence: 
+    - Racemose: floral axis keeps growing 
+    - Cymose: floral axis terminates to flower 
 
 Generally, flower grows on axial sides 
 
@@ -199,7 +199,7 @@ Generally, flower grows on axial sides
     - Sepal: Calyx
     - Petal: Corolla 
     - Anther: Androecium 
-    - Pistil: Gynoceum 
+    - Pistil: Gynoecium 
 
 <br>
 
@@ -214,19 +214,23 @@ Generally, flower grows on axial sides
 - Unisexual flower: has either male/female reproductive organs
     - Eg: Papaya, Coconut flower, Cucumber, Watermelon, White mulberry, Cucumber Maize, Castor bean, Musk melon, Snake gourd, and Tapioca
 
+<br>
 
-Bisexual flower: has both reproductive organs 
-    Eg: Rose, Lily, Tulip, Mustard, Tomato, Hibiscus, Country bean, Brinjal, Mango, and Sunflower
+- Bisexual flower: has both reproductive organs 
+    - Eg: Rose, Lily, Tulip, Mustard, Tomato, Hibiscus, Country bean, Brinjal, Mango, and Sunflower
+<br>
 
-Bisexual is also called hermaphrodite.
+Bisexual flower is also called hermaphrodite flower
 
 
 - Incomplete flower: mising appendages 
 - Complete flower: has all appendages
 
+```
 Trimerous: Floral appendages multiple of 3 
 Tetramerous: floral appendages multiple of 4 
 Pentamerous: floral appendages multiple of 5 
+```
 
 - Trimerous flower is a character of monocotyledon plant 
 - Tetramerous and Pentamerous is a character of dicotyledon plant 
@@ -246,4 +250,10 @@ Pentamerous: floral appendages multiple of 5
     - Androecium: A 
     - Gynoecium: G 
 
+Bract present = bracteate (Br)<br>
+Bract absent = ebsrateate (Ebr)
+<br>
+
+- **Bract:** Scaly leaf-like structure
+ 
 ---
