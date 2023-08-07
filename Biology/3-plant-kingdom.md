@@ -1,0 +1,124 @@
+20/06/23 
+
+Carl Linnaeus started studying plants based on mode of reproduction by flowers. 
+
+Bentham and Hooker divided Plant Kingdom into two divisions: Cryptogamia (non-flowering plants) and Phanerogamia (flowering plants)
+
+Plants were first classified based on the morphology and anatomy and then later classified based evolutionary relationship called Phylogenetic relationship. 
+
+Chemotaxonomy: clasisfication based on chemicals present.
+Cytotaxonomy: classified based on cell features 
+Numerical taxonomy: clasisfication with the help of computers 
+
+
+
+01/08/23 
+
+Fungus: chitin, heterotroph
+Algae: cellulose, autotroph 
+
+Algae generally requires water to survive 
+
+![Chlamydomonas diagram](https://upload.wikimedia.org/wikipedia/commons/d/d1/Chlamydomonas_reinhardtii_vector_scheme.svg)
+
+![Spirogyra](https://upload.wikimedia.org/wikipedia/commons/1/18/Spirogyra.JPG)
+
+- Algae: 
+    - Green Algae (Chlorophyta)
+    - Red Algae (Rhodophyta)
+    - Brown Algae (Phaeophyta)
+    - Diatoms (Bacillariophyta)
+    - Dinoflagellates (Dinophyta)
+    - Euglenophytes (Euglenophyta)
+    - Blue-Green Algae (Cyanobacteria)
+
+![Volvox](https://upload.wikimedia.org/wikipedia/commons/1/1c/Mikrofoto.de-volvox-4.jpg)
+
+Colony of Chlamydomonas forms a piliminary organism but its not multicellular because every cell is independent and eventually forms a volvox 
+
+- Volvox is almost multicellular because it has some specialized cells and lives in colonies. 
+
+All chlophyll having algae are green but the form of chlorophyll is different. 
+
+
+- Importance of algae: 
+    - Food and Nutritional Supplements
+    - Aquaculture and Animal Feed
+    - Biofuel Production
+    - Pharmaceutical and Biotechnology
+    - Wastewater Treatment
+    - Cosmetic and Personal Care Products
+    - Agriculture and Fertilizers
+    - Bioremediation and Carbon Sequestration
+    - Algal Biomass and Bioproducts
+    - Tourism and Aquatic Recreation
+  
+<br>
+
+- Downsides of algae: 
+    - Algal Blooms
+    - Toxicity
+    - Contamination of Water Supplies
+    - High Cost of Cultivation and Harvesting
+    - Competition with Native Species
+    - Variable Growth Rates
+    - Challenges in Scaling Up
+    - Processing and Extraction Difficulties
+    - Limited Public Awareness
+    - Land and Water Use
+
+
+---
+
+# 02/08/23 
+
+```
+Plantae
+    Thallophyta (embryo absent)
+    
+    Embryophyta (embryo present)
+        Bryophyta (vascular tissue absent)
+       
+        Tracheophyta (vascular tissue present)
+            Pteridophyta (no flower, no seed)
+       
+            Spermatophyta (flowering plant with seed)
+                Gymnospermae (naked seed, no fruit)
+       
+                Angiospermae (covered seed)
+                    Monocotyledon (one seed leaf)
+                    Dicotyledon (two seed leaf)
+```
+
+- Algae belongs to thallophyta 
+    - Thallos in latin means green shoot, young branch, twig
+
+<br>
+
+- Study of algae is called phycology 
+
+```
+Father of phycology: F. E. Fritsch
+Father of Indian phycology: Mandayam Osuri Parthasarathy Iyengar
+```
+
+- Basis of algal classification: 
+    - Pigment composition and body color 
+    - Nature and composition of reserved food materials 
+    - Flagellation 
+
+<br>
+
+- Rhodophycae is found in warm regions 
+    - It can also survive in shallow and deep waters 
+    - Floridean starch is reserved. 
+        - Similar to amylopectin and glycogen.
+    
+<br>
+
+- **Laminaria:** Reserved food is called laminarin reserves
+    
+--- 
+
+
+# ADD CHART
