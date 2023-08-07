@@ -121,4 +121,77 @@ Father of Indian phycology: Mandayam Osuri Parthasarathy Iyengar
 --- 
 
 
-# ADD CHART
+# Divisions of algae
+
+### Chlorophyta (Green Algae):
+
+- Similarities:
+  - Habitat: Found in various aquatic environments, including freshwater and marine habitats.
+  - Pigment: Contain chlorophyll a and b, giving them a green color.
+  - Reproduction: Can reproduce both sexually and asexually.
+
+<br>
+
+- Differences:
+    - Pigment Reserve: Store excess energy as starch.
+    - Flagellation: Typically possess two flagella per cell.
+   
+### Phaeophyta (Brown Algae):
+- Similarities:
+    - Habitat: Primarily found in marine environments, especially in colder waters.
+    - Reproduction: Reproduce both sexually and asexually.
+
+<br>
+
+- Differences:
+    - Pigment: Contain chlorophyll a and c, fucoxanthin, which gives them a brown   color.
+    - Pigment Reserve: Store excess energy as laminarin and mannitol.
+    - Flagellation: Usually lack flagella.
+### Rhodophyta (Red Algae):
+- Similarities:
+    - Habitat: Predominantly found in marine environments, ranging from shallow to deep waters.
+    - Pigment: Contain chlorophyll a, phycocyanin, and phycoerythrin, giving them a red color.
+    - Reproduction: Exhibit both sexual and asexual reproduction.
+
+<br>
+
+- Differences:
+    - Pigment Reserve: Store excess energy as floridean starch.
+    - Flagellation: Lacks flagella.
+
+
+
+---
+
+# 07/08/23 
+
+### Q1/ Describe the pigmentation in algae. 
+- There are three types of algae, i.e., Chlorophyceae, Phaeophyceae and rhodophyceae. They have their own pigments which carry out functions in their cells. 
+- **Chlorophyceae (green algae):** As by the name, it is obvious that his algae has chlorophyll as its major pigment which carry out photosynthesis. Namely, those  are chlorophyll a and b which help to produce the organism's food as well as reserves. 
+- **Phaeophyceae (brown algae):** These algae have the fucoxanthin as its main pigment as well as chlorophyll a and c to help in photosynthesis. 
+
+- **Rhodophyceae (red algae):** These algae are red in color and have phycoerythrin as its main pigment but also has chlorophyll a and d to supplement in its photosynthesis. 
+
+### Q/ Discuss the reserve food material present in algae. 
+
+- Chlorophyceae has startch as their reserves which is a proof that it primaily uses chlorophyll to produce food. 
+  - Phaeophyceae have mannitol and laminarin which are the products of stored complex carbohydrates. 
+- Rhodophycae have floridean starch as its reserves which is the mixture of carbohydrates which is very similar to amylopectin and glycogen in structure. 
+
+### Q/ Mention the economic importance of algae 
+
+- The Economic importance of algae are as follows: 
+  - Species of porphyra, Laminaria and Sargassum are used as food. 
+  - Certain Rhodophyceae and Phaeophyceae in water bodies produce oxygen and in large amounts if they are in ocean. 
+  - Agar, an important commercial product used in microbial culture and production of ice-cream and jellies is derived from Gelidium and Gracilaria. 
+  - Chlorella is a source of protein dnad is used to make protein supplements for consumption even by astronauts.
+  - Many species of algae usually interfere in agriculture and their overconcentration causes the formation of algal blooms. 
+
+### Q/ Descrivb the reproduction in algae. 
+- Algae reproduce through fragmentation, where a piece of the parent algae breaks off and grows into a new individual.
+- Asexual spores are also a common means of reproduction in algae. They are produced by algae, forming identical daughter cells that can disperse and develop into new organisms.
+- Some algae undergo sexual reproduction. Specialized structures produce haploid gametes that fuse during fertilization, forming diploid zygotes. These zygotes then develop into new multicellular algae.
+
+
+
+
