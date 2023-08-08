@@ -201,11 +201,13 @@ Father of Indian phycology: Mandayam Osuri Parthasarathy Iyengar
 - Laminaria can grow more than 100 m below seabed. 
 
 ## Bryophyta
-<img align= 'right' src="https://i.imgur.com/1wO1UJ5.jpg" width= 300 height= 200>
+<img align= 'right' src="https://i.imgur.com/1wO1UJ5.jpg" width= 400>
 
 
 - Similar root, leaves and stem like structures like in higher plants. 
     - They are not true because they lack vascular bundle.
+
+<br>
 
 - Has single cell and multicell structures. 
 
@@ -225,13 +227,12 @@ Direct development: the young one can be identified similar to the adult.
 
 ## Bryophyta offsprings
 
-<img src="https://i.imgur.com/rxdC7wz.png" width=350 height=200>
+<img src="https://i.imgur.com/rxdC7wz.png" width=400>
 
 
 ### After the two gametes fuse
 
-<img align=centre src='https://i.imgur.com/XW5tEsv.png' width=250
-height=280>
+<img align=centre src='https://i.imgur.com/XW5tEsv.png' width=350>
 
 ## Moss
 
@@ -242,16 +243,14 @@ height=280>
 
 - Protonema is found in the sporophyte section and is diploid.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+- Features
+    - They are non-vascular
+    - Small in size 
+    - Anchor themselves by rhyzoids
+    - Needs moisture for reproduction 
+    - Reproduces by spores 
+    - Found in forests, wetlands, bogs, rocks and damp urban areas. 
+
 <br>
 <br>
 
@@ -261,6 +260,8 @@ height=280>
 - Reproduction same as moss and Bryophyte
 
 ### Gammae 
+<img align='right' src="diagrams/gemmae.png" width=400>
+
 
 Asexual reproduction takes place through fragmentation of thalli by the production of gemmae. 
 
