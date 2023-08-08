@@ -235,7 +235,7 @@ height=280>
 
 ## Moss
 
-<img align= right src="moss.jpeg" alt="moss" width="300" />
+<img align= right src="diagrams/moss.jpeg" alt="moss" width="300" />
 
 - **Sporophyte:** Diploid 
 - **Gametophyte:** Haploid

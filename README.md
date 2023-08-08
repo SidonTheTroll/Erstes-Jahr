@@ -9,11 +9,11 @@ Has handwritten notes for all subjects except Chemistry and Physics.
 
 # Todo
 
-- [ ] Complete vacation homework
+- [x] Complete vacation homework
     - [x] Biology 
     - [x] IP 
-    - [ ] Chemistry
-    - [ ] Physics 
+    - [x] Chemistry
+    - [x] Physics 
     - [x] English 
     - [x] PE 
-- [ ] Write comparative account between 3 types of algaes
+- [x] Write comparative account between 3 types of algaes
