@@ -1,4 +1,4 @@
-20/06/23 
+# 20/06/23 
 
 Carl Linnaeus started studying plants based on mode of reproduction by flowers. 
 
@@ -121,7 +121,7 @@ Father of Indian phycology: Mandayam Osuri Parthasarathy Iyengar
 --- 
 
 
-# Divisions of algae
+## Divisions of algae
 
 ### Chlorophyta (Green Algae):
 
@@ -193,5 +193,75 @@ Father of Indian phycology: Mandayam Osuri Parthasarathy Iyengar
 - Some algae undergo sexual reproduction. Specialized structures produce haploid gametes that fuse during fertilization, forming diploid zygotes. These zygotes then develop into new multicellular algae.
 
 
+---
+
+# 08/08/23
 
 
+- Laminaria can grow more than 100 m below seabed. 
+
+## Bryophyta
+<img align= 'right' src="https://i.imgur.com/1wO1UJ5.jpg" width= 300 height= 200>
+
+
+- Similar root, leaves and stem like structures like in higher plants. 
+    - They are not true because they lack vascular bundle.
+
+- Has single cell and multicell structures. 
+
+- Bryophyte is the **only amphibian group in plant Kingdom**. 
+
+**Amphibian:** initial part started in water but ended life on land. Eg: frog, dragonfly, etc. 
+
+`Male frog shouts to call for female for mating.`
+
+- Amphibians go through metamorphosis
+  - **Metamorphosis:** complete change 
+
+Indirect development: the young one is indistinguishable from the adult
+Direct development: the young one can be identified similar to the adult. 
+
+- Bryophyta needs water for reproduction. 
+
+## Bryophyta offsprings
+
+<img src="https://i.imgur.com/rxdC7wz.png" width=350 height=200>
+
+
+### After the two gametes fuse
+
+<img align=centre src='https://i.imgur.com/XW5tEsv.png' width=250
+height=280>
+
+## Moss
+
+<img align= right src="moss.jpeg" alt="moss" width="300" />
+
+- **Sporophyte:** Diploid 
+- **Gametophyte:** Haploid
+
+- Protonema is found in the sporophyte section and is diploid.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## Liverwort
+
+- Comes under Bryophyte 
+- Reproduction same as moss and Bryophyte
+
+### Gammae 
+
+Asexual reproduction takes place through fragmentation of thalli by the production of gemmae. 
+
+- Gemmae are green, multicellular and asexual spores. 
