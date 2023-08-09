@@ -281,3 +281,24 @@ Asexual reproduction takes place through fragmentation of thalli by the producti
 - Crustose lichen grow on rocks
 
 Humus: dead and decaying matter that helps in plant formation. 
+
+---
+# 09/08/23 
+
+- Bryophyte is found in damp and shady areas. 
+
+- Moss grows in damp areas and walls. 
+
+<img src='diagrams/liverwort.png' width=200 align=right alt=liverwort>
+
+- Liverwort is found in soil. 
+
+- Peat is formed when biomass (moss and trees) are buried in soil. 
+
+- Moss and other bryophyte spores can survive and again germinate in moist conditions. 
+
+- *Tinospora cordifolia* (heart-leaved moonseed/giloy) has chlorophyll in its roots. 
+
+<img src='diagrams/selaginella.png' width=350>
+
+*Pteridophyta selaginella* has true roots in its genus
