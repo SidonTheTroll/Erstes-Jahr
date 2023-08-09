@@ -196,12 +196,20 @@ Father of Indian phycology: Mandayam Osuri Parthasarathy Iyengar
 ---
 
 # 08/08/23
-
+<img align= 'right' src="https://i.imgur.com/1wO1UJ5.jpg" width= 400>
 
 - Laminaria can grow more than 100 m below seabed. 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Bryophyta
-<img align= 'right' src="https://i.imgur.com/1wO1UJ5.jpg" width= 400>
+
 
 
 - Similar root, leaves and stem like structures like in higher plants. 
@@ -210,7 +218,6 @@ Father of Indian phycology: Mandayam Osuri Parthasarathy Iyengar
 <br>
 
 - Has single cell and multicell structures. 
-
 - Bryophyte is the **only amphibian group in plant Kingdom**. 
 
 **Amphibian:** initial part started in water but ended life on land. Eg: frog, dragonfly, etc. 
@@ -220,9 +227,10 @@ Father of Indian phycology: Mandayam Osuri Parthasarathy Iyengar
 - Amphibians go through metamorphosis
   - **Metamorphosis:** complete change 
 
-Indirect development: the young one is indistinguishable from the adult
-Direct development: the young one can be identified similar to the adult. 
-
+```
+Indirect development: young one is different from the adult
+Direct development: young one is similar to the adult. 
+```
 - Bryophyta needs water for reproduction. 
 
 ## Bryophyta offsprings
@@ -259,10 +267,17 @@ Direct development: the young one can be identified similar to the adult.
 - Comes under Bryophyte 
 - Reproduction same as moss and Bryophyte
 
-### Gammae 
+### Gemmae 
 <img align='right' src="diagrams/gemmae.png" width=400>
 
 
 Asexual reproduction takes place through fragmentation of thalli by the production of gemmae. 
 
 - Gemmae are green, multicellular and asexual spores. 
+
+- Economic importance
+  - Helps in formation of forests 
+
+- Crustose lichen grow on rocks
+
+Humus: dead and decaying matter that helps in plant formation. 
