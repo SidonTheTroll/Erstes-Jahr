@@ -187,7 +187,7 @@ Father of Indian phycology: Mandayam Osuri Parthasarathy Iyengar
   - Chlorella is a source of protein dnad is used to make protein supplements for consumption even by astronauts.
   - Many species of algae usually interfere in agriculture and their overconcentration causes the formation of algal blooms. 
 
-### Q/ Descrivb the reproduction in algae. 
+### Q/ Describe the reproduction in algae. 
 - Algae reproduce through fragmentation, where a piece of the parent algae breaks off and grows into a new individual.
 - Asexual spores are also a common means of reproduction in algae. They are produced by algae, forming identical daughter cells that can disperse and develop into new organisms.
 - Some algae undergo sexual reproduction. Specialized structures produce haploid gametes that fuse during fertilization, forming diploid zygotes. These zygotes then develop into new multicellular algae.
@@ -278,7 +278,7 @@ Asexual reproduction takes place through fragmentation of thalli by the producti
 - Economic importance
   - Helps in formation of forests 
 
-- Crustose lichen grow on rocks
+- Crustose lichen grows on rocks
 
 Humus: dead and decaying matter that helps in plant formation. 
 
@@ -286,12 +286,15 @@ Humus: dead and decaying matter that helps in plant formation.
 # 09/08/23 
 
 - Bryophyte is found in damp and shady areas. 
+<img src='diagrams/liverwort.png' width=200 align=right alt=liverwort>
 
 - Moss grows in damp areas and walls. 
 
-<img src='diagrams/liverwort.png' width=200 align=right alt=liverwort>
 
 - Liverwort is found in soil. 
+
+- Under suitable conditions, moss can make a carpet on surfaces like on trees and floor. 
+<img src='diagrams/mature-moss.png' align=right width=300>
 
 - Peat is formed when biomass (moss and trees) are buried in soil. 
 
@@ -299,6 +302,10 @@ Humus: dead and decaying matter that helps in plant formation.
 
 - *Tinospora cordifolia* (heart-leaved moonseed/giloy) has chlorophyll in its roots. 
 
+<img src='diagrams/moss-on-tree.png' align=right width=300>
+
 <img src='diagrams/selaginella.png' width=350>
 
-*Pteridophyta selaginella* has true roots in its genus
+
+*Pteridophyta selaginella* has true roots in its genus. 
+

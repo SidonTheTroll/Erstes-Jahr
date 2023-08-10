@@ -26,3 +26,12 @@
 6. **Good organizational ability:** Strong organizational ability is vital for a physical education career, ensuring smooth coordination of activities, schedules, and resources for efficient teaching and sports programs, and a conducive learning environment.
 7. **Dedication:** Dedication is crucial for a physical education career, promoting health, fitness, and well-being among students and athletes, driving continuous improvement in teaching and coaching for lifelong physical activity.
 8. **Sociality:** Sociality is crucial in physical education careers for effective communication, collaboration, and motivation among students, colleagues, and parents. It fosters a supportive and engaging learning environment.
+
+### Q/ Discuss about Fit India movement. 
+
+Fit India Program was started on 29 August by Honable Prime Minister Narendra Modi. It was started with a vision to make physical fitness a way of life. Fit India Movement aims at behavioral changes from sedentary lifestyle to physically active way of living. Fit India Program helps to make fitness an integral part of our daily size. To achieve this mission, Fit India undertake various initiatives and conduct many events. Its objectives are discussed below: 
+
+1. It promotes fitness as easy, fun and free environment. 
+2. It encourages indigenous sports. 
+3. It makes fitness reachable to every school, college, university, panchayat, etc. 
+4. It creates a platform for citizens of India to share information, drive awareness and encourage learning of personal fitness stories. 
