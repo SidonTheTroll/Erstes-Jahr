@@ -50,18 +50,60 @@ for i in range(1,6):
         print(1, end='')
     print()
 ```
+### Make a pyramid
 
 ```py
-a = 5; b = 2 
+a = 5 
+b = 2 
 
 for i in range(1,6): 
-    for j in range(1, a): 
-        print("", end=" ")
-
-    for k in range(1,b):
-        print('1', end='')
-
+    for j in range(1,a): 
+        print('', end=' ') 
+    for k in range(1,b): 
+        print('1', end='') 
+    
     a -= 1 
     b += 2 
     print()
+```
+
+--- 
+
+# 10/08/23 
+
+```py
+a = 5; b = 4
+
+for i in range(1,5): 
+    for j in range(1,a): 
+        print(b, end = "") 
+        b -= 1 
+    print() 
+    a -= 1 
+    b = 4 
+
+# 4321
+# 432
+# 43
+# 4
+```
+
+```py 
+a = 5; b = 1 
+for i in range(1,6): 
+    for j in range(1,a): 
+        print(" ", end = "")
+    for k in range(1, i+1): 
+        print(b, end="")
+        b += 1
+
+    print()
+    a -= 1 
+    b = 1 
+
+#     1
+#    12
+#   123
+#  1234
+# 12345
 ```

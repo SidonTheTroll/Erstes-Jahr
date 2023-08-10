@@ -1,6 +1,6 @@
 ### Q/ Write a short note on ancient olympic games. 
 
-The ancient olympic games originated in the year 776 BC. These games were played as religious festival in the state of Athens near the valley of Appheur river at Olympaid. The games were held with religious customs in the honor of their god Zeus. The ceremony of olympic games begins for the new moon day after four years. The events of olympics continued for five days. The prizes (crown) given to winners were made of olive leaves. The famous heroes of these games were Homer, Atlas, Hercules and Gallen. Ancient olympics games came to sudden end when the Roman emperor Theodosius banned in the year 394 AD.
+The ancient olympic games originated in the year 776 BC. These games were played as religious festival in the state of Athens near the valley of Appheur river at Olympaid. The games were held with religious customs in the honor of their god Zeus. The ceremony of olympic games begins from the new moon day after four years. The events of olympics continued for five days. The prizes (crown) given to winners were made of olive leaves. The famous heroes of these games were Homer, Atlas, Hercules and Gallen. Ancient olympics games came to sudden end when the Roman emperor Theodosius banned in the year 394 AD.
 
 ### Q/ Write down the functions of IOC. 
 

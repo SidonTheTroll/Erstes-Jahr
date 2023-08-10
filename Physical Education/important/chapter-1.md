@@ -29,9 +29,18 @@
 
 ### Q/ Discuss about Fit India movement. 
 
-Fit India Program was started on 29 August by Honable Prime Minister Narendra Modi. It was started with a vision to make physical fitness a way of life. Fit India Movement aims at behavioral changes from sedentary lifestyle to physically active way of living. Fit India Program helps to make fitness an integral part of our daily size. To achieve this mission, Fit India undertake various initiatives and conduct many events. Its objectives are discussed below: 
+Fit India Program was started on 29 August by Honable Prime Minister Narendra Modi. It was started with a vision to make physical fitness a way of life. Fit India Movement aims at behavioral changes from sedentary lifestyle to physically active way of living. Fit India Program helps to make fitness an integral part of our daily life. To achieve this mission, Fit India undertake various initiatives and conduct many events. Its objectives are discussed below: 
 
 1. It promotes fitness as easy, fun and free environment. 
 2. It encourages indigenous sports. 
 3. It makes fitness reachable to every school, college, university, panchayat, etc. 
 4. It creates a platform for citizens of India to share information, drive awareness and encourage learning of personal fitness stories. 
+
+### Q/ What do you mean by sports journalism? 
+Sports journalism is the practice of reporting, analyzing, and presenting news and information related to sports events, athletes, teams, and their achievements in various media outlets.
+
+### Q/ What do you mean by health related careers? 
+Health-related careers in physical education involve roles such as fitness trainers, physical therapists, sports nutritionists, and exercise physiologists, focusing on promoting wellness and physical well-being through movement and exercise.
+
+### Q/ Explain the changes in physical education. 
+Physical education has evolved from traditional sports-centered activities to encompass holistic health, fitness, and wellness education. It now emphasizes lifelong physical activity, mental well-being, and diverse movement experiences for all students.
