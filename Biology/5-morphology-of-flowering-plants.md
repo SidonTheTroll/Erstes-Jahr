@@ -257,3 +257,66 @@ Bract absent = ebsrateate (Ebr)
 - **Bract:** Scaly leaf-like structure
  
 ---
+
+
+# 10/08/23 
+
+## Aestivation
+
+
+<img src="diagrams/aestivation.png" align="right" width=400>
+
+- Aestivation: arrangement of floral appendages on the thalamus
+
+- 4 arrangement: 
+  - **Valvate:** petal margins contact each other without overlapping
+  - **Twisted:** one petal margin overlaps the next petal 
+  - **Imbricate:** petals overlap without clear direction 
+  - **Vexillary:** distinctive arrangement in which one giant petal covers the other smaller petals
+
+<br>
+<br>
+
+## Placentation 
+<img src='diagrams/placentation.png' align=right width=400>
+
+- Arrangement of the ovule 
+
+
+- Types:
+  - **Marginal:** placenta forms a ridge or margin along the ventral suture of the ovary
+  - **Axile:** placenta is axial and the ovules are attached to it in a multilocular ovary
+  - **Parietal:** ovules develop on the inner wall of the ovary
+  - **Free central:** ovules cluster freely around a columnlike central placenta
+  - **Basal:** placenta gets developed on the base of the ovaries in which the single ovule has been attached
+
+## The Fruit
+
+- Fruit is the seed-bearing structure in flowering plants that is formed from the ovary after flowering
+
+- Ovules becomes seed
+
+| Type        | Description               | Example                     |
+| ----------- | ------------------------- | --------------------------- |
+| True Fruit  | Develops from ovary       | Mango, Coconut              |
+| False Fruit | Develops other than ovary | Apple, Date, Elephant apple |
+
+- **Parthenocarpic Fruit:** develops without fertilization. Eg- banana
+
+## Edible Part of Fruit 
+
+- The edible part of mango is called mesocarp
+
+- Clerencymatous mesocarp of coconut is inedible 
+
+- Endosperm of coconut is edible 
+
+```
+Epicarp: the outermost layer of the pericarp
+Mesocarp: the middle layer of the pericarp of a fruit 
+Endocarp: the innermost layer of the pericarp which surrounds a seed
+```
+
+- Coats of seed: 
+  - Testa 
+  - Tagment
