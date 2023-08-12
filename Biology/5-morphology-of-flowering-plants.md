@@ -1,21 +1,31 @@
-# Contents
-### [01/07/23](#1723)
+## Table of Contents
+- [1/7/23](#1723)
+  - [Roots:](#roots)
+  - [Crop root](#crop-root)
+- [3/7/23](#3723)
+  - [Regions of Root](#regions-of-root)
+  - [Stem](#stem)
+- [04/07/23](#040723)
+  - [Leaf](#leaf)
+  - [Phyllotaxy](#phyllotaxy)
+- [03/08/23](#030823)
+  - [Inflorescence](#inflorescence)
+  - [The Flower](#the-flower)
+  - [Symmetry](#symmetry)
+  - [Floral formula](#floral-formula)
+- [10/08/23](#100823)
+  - [Aestivation](#aestivation)
+  - [Placentation](#placentation)
+  - [The Fruit](#the-fruit)
+  - [Edible Part of Fruit](#edible-part-of-fruit)
 
-### [10/08/23](#100823)
-
-
-
-
- 
- 
- 
 # 1/7/23 
 
 Morphology: physical characteristics/ external observable features 
 
 ## Roots: 
 
-![seed diagram](https://shorturl.at/chiCU)
+<img src='diagrams/seed.png' align=right width=400>
 
 Types of root: taproot, fibrous, adventitious root
 
@@ -28,8 +38,8 @@ Adventitious root don't develop from the seed's radicle
 Develops from radicle: taproot and fibrous root 
 Doesn't develop from radicle (other than radicle): adventitious root
 
-Fibrous root: monocot 
-Taproot: dicot 
+- Fibrous root: monocot 
+- Taproot: dicot 
 
 ---
 
@@ -54,13 +64,16 @@ Epiphyte: a plants that grows on another plant, especially one that is not paras
 
 ## Stem 
 
-• Develops from plumule
-• Ascending part 
-• Always negatively geotrophic and positive phototropism 
+<img src='https://i.imgur.com/fTeCgnG.jpg' width= 200 align=right style="transform: rotate(-90deg);">
+
+- Develops from plumule
+ 
+- Ascending part 
+
+- Always negatively geotrophic and positive phototropism 
 
 Important part: Node, Internode 
 
-![bamboo](https://i.imgur.com/fTeCgnG.jpg)
 
 • Palm trees and bamboo have prominent nodes and internodes 
 • For development of leaves and root, nodal portion is required. 
