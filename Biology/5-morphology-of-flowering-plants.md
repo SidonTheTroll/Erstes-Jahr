@@ -1,3 +1,14 @@
+# Contents
+### [01/07/23](#1723)
+
+### [10/08/23](#10/08/23)
+
+
+
+
+ 
+ 
+ 
 # 1/7/23 
 
 Morphology: physical characteristics/ external observable features 
@@ -280,6 +291,8 @@ Bract absent = ebsrateate (Ebr)
 ## Placentation 
 <img src='diagrams/placentation.png' align=right width=400>
 
+
+
 - Arrangement of the ovule 
 
 
@@ -289,6 +302,10 @@ Bract absent = ebsrateate (Ebr)
   - **Parietal:** ovules develop on the inner wall of the ovary
   - **Free central:** ovules cluster freely around a columnlike central placenta
   - **Basal:** placenta gets developed on the base of the ovaries in which the single ovule has been attached
+
+<br>
+<br>
+<br>
 
 ## The Fruit
 
@@ -319,4 +336,4 @@ Endocarp: the innermost layer of the pericarp which surrounds a seed
 
 - Coats of seed: 
   - Testa 
-  - Tagment
+  - Tagmen
