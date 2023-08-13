@@ -17,7 +17,7 @@ The purpose of this study was to investigate and identify the animal based on th
 2. Body is elongated, cylindrical, unsegmented and pointed at both ends. 
 3. There is sexual dimorphism.
 4. Males are smaller than females.
-5. There are one dorsal, one ventral and tro lateral lines extending the whole length of the body. 
+5. There are one dorsal, one ventral and two lateral lines extending the whole length of the body. 
 
 <br><br><br><br><br><br><br><br><br>
 
