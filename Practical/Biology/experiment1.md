@@ -7,7 +7,7 @@ Pen, pencil, eraser, simple and compound microscope
 
 The purpose of this study was to investigate and document practical techniques for efficient and organized writing in a laboratory or scientific notebook. A well-maintained notebook is essential for reacording observations, data, procedures and reflections accurately and coherently. This report highlights key strategies and guidelines that contribute to efficient notebook writing, aiming to improve the quality of scientific documentations and communication.
 
-#### The following are the point sthat must be covered on starting a report every time
+#### The following are the points that must be covered on starting a report every time
 
 
 
