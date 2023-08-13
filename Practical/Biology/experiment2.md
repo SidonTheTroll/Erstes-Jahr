@@ -11,8 +11,7 @@ The purpose of this study was to investigate and identify the animal based on th
 
 ### Ascaris 
 
-<img src="pics/exp2/ascaris.png" align=right style="transform : rotate(180deg);" width=200>
-
+<img src="pics/exp2/ascaris.png" align=right width=200>
 
 1. Is an endoparasite in human intestine.
 2. Body is elongated, cylindrical, unsegmented and pointed at both ends. 
@@ -39,7 +38,7 @@ The purpose of this study was to investigate and identify the animal based on th
 
 ### Earthworm 
 
-<img src=pics/exp2/earthworm.png align=right width=200>
+<img src=pics/exp2/earthworm.png align=right width=280>
 
 1. Has long, cylindrical and segmented body which is slimy to touch. 
 2. Body is divided into many metameric segments.
@@ -47,9 +46,13 @@ The purpose of this study was to investigate and identify the animal based on th
 4. Anus lies in the last segment.
 5. Female genital pore lies in the 14th segment and male genital pore in the 18th segment on the ventral side. 
 
+<br><br><br><br><br><br><br><br><br><br>
+
+---
+
 ### Prawn 
 
-<img src='pics/exp2/prawn.png' width=200 align=right>
+<img src='pics/exp2/prawn.png' width=400 align=right>
 
 1. Body is elongated, spindle-shaped.
 2. Body its divided into cephalothorax and abdomen. 
@@ -57,9 +60,13 @@ The purpose of this study was to investigate and identify the animal based on th
 4. Head bears a pair of stalked compound eyes. 
 5. Exoskeleton of the head is projected forward as a serrated rostrum. 
 
+<br><br><br><br><br><br><br><br><br><br>
+
+---
+
 ### Silkmoth 
 
-<img src='pics/exp2/silkmoth.png' width=200 align=right> 
+<img src='pics/exp2/silkmoth.png' width=300 align=right> 
 
 1. Has a creamy white color with heavy body. 
 2. Wing has faint striations.
@@ -68,15 +75,23 @@ The purpose of this study was to investigate and identify the animal based on th
 5. Body is covered with hair.
 6. It is unisexual in nature. 
 
+<br><br><br><br>
+
+---
+
 ### Snail 
 
-<img src='pics/exp2/snail.png' align=right height=200>
+<img src='pics/exp2/snail.png' align=right height=360>
 
 1. Found in ponds, pools, lakes and in marshy places. 
 2. Is globular in shape and is univalved.
 3. Shell consists of various whorls and is marked by faint growth lines. 
 4. Head bears a pair of tentacles and stalked eyes.
 5. Foot is large and triangular organ whish is used for creeping. 
+
+<br><br><br><br><br><br><br><br><br><br><br>
+
+---
 
 ### Starfish 
 
