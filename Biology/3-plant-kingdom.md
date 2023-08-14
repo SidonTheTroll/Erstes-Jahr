@@ -12,7 +12,7 @@ Numerical taxonomy: clasisfication with the help of computers
 
 
 
-01/08/23 
+# 01/08/23 
 
 Fungus: chitin, heterotroph
 Algae: cellulose, autotroph 
@@ -123,7 +123,7 @@ Father of Indian phycology: Mandayam Osuri Parthasarathy Iyengar
 
 ## Divisions of algae
 
-### Chlorophyta (Green Algae):
+### Chlorophyta
 
 - Similarities:
   - Habitat: Found in various aquatic environments, including freshwater and marine habitats.
@@ -136,7 +136,7 @@ Father of Indian phycology: Mandayam Osuri Parthasarathy Iyengar
     - Pigment Reserve: Store excess energy as starch.
     - Flagellation: Typically possess two flagella per cell.
    
-### Phaeophyta (Brown Algae):
+### Phaeophyta
 - Similarities:
     - Habitat: Primarily found in marine environments, especially in colder waters.
     - Reproduction: Reproduce both sexually and asexually.
@@ -147,7 +147,7 @@ Father of Indian phycology: Mandayam Osuri Parthasarathy Iyengar
     - Pigment: Contain chlorophyll a and c, fucoxanthin, which gives them a brown   color.
     - Pigment Reserve: Store excess energy as laminarin and mannitol.
     - Flagellation: Usually lack flagella.
-### Rhodophyta (Red Algae):
+### Rhodophyta
 - Similarities:
     - Habitat: Predominantly found in marine environments, ranging from shallow to deep waters.
     - Pigment: Contain chlorophyll a, phycocyanin, and phycoerythrin, giving them a red color.
@@ -309,3 +309,16 @@ Humus: dead and decaying matter that helps in plant formation.
 
 *Pteridophyta selaginella* has true roots in its genus. 
 
+---
+
+# 14/08/23 
+
+## Random facts
+
+**Bryophyte:** Coined by Robert Brown in 1864
+
+**Father of bryophyte/Bryology:** German botanist, **Johanne Hedwig**
+
+**Father of India Bryology:** Shiv Ram Kashyap 
+
+- There are around 20,000 species of Bryophyte.
