@@ -18,6 +18,12 @@
   - [Placentation](#placentation)
   - [The Fruit](#the-fruit)
   - [Edible Part of Fruit](#edible-part-of-fruit)
+- [05/08/23](#050823)
+  - [Ovary](#ovary)
+  - [Calyx (K)](#calyx-k)
+  - [Corolla](#corolla)
+  - [Androecium](#androecium)
+  - [Gynoecium](#gynoecium)
 
 # 1/7/23 
 
@@ -350,3 +356,61 @@ Endocarp: the innermost layer of the pericarp which surrounds a seed
 - Coats of seed: 
   - Testa 
   - Tagmen
+
+---
+
+# 05/08/23
+
+## Ovary
+
+- **Hypogynous:** ovary seems to be superior to the other three whorls. Eg- Mustard, brinjal, potato
+- **Perigynous:** ovary and other flower parts are at the same level. Eg- peach, rose, plum
+- **Epigynous:** ovary is below all floral appendages. Eg- apple blossoms, rose flowers, cherry blossoms 
+
+**Superior ovary:** all floral appendages are below the ovary. 
+
+- **Perigynous:** bar below G 
+- **Hypogynous:** Ḡ (G bar)
+
+
+
+## Calyx (K)
+<img src='diagrams/free-calyx.png' align=right width=156>
+<img src='diagrams/united-calyx.png' align=right width=150>
+
+- **United sepals:** Gamosepalous 
+- **Free sepals:** Polysepalous 
+
+- Generally green 
+- Function: protect flower bud in initial stage 
+  
+5 sepals = $K_{\text{5}}$
+
+Gamosepalous = $K_{\text{(5)}}$
+
+Polysepalous = $K_{\text{5}}$
+
+$5$ in $K_{\text{5}}$ is the number of sepals.
+
+## Corolla 
+
+**Function:** attract pollinators
+
+**Individual=** petal 
+
+```
+Free = polypetalous
+United = Gamopetalous
+```
+
+- Symbol =  $C$ 
+- Nmuber = $C_{\text{6}}$
+
+- Gamopetalous = $C_{\text{(6)}}$
+- Polypetalous = $C_{\text{6}}$
+
+## Androecium
+
+
+
+## Gynoecium
