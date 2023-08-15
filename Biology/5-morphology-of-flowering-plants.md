@@ -384,11 +384,11 @@ Endocarp: the innermost layer of the pericarp which surrounds a seed
 - Generally green 
 - Function: protect flower bud in initial stage 
   
-5 sepals = $K_{\text{5}}$
+5 sepals = $K_{5}$
 
-Gamosepalous = $K_{\text{(5)}}$
+Gamosepalous = $K_{5}$
 
-Polysepalous = $K_{\text{5}}$
+Polysepalous = $K_{5}$
 
 $5$ in $K_{\text{5}}$ is the number of sepals.
 
@@ -406,8 +406,8 @@ United = Gamopetalous
 - Symbol =  $C$ 
 - Number = $C_{\text{6}}$
 
-- Gamopetalous = $C_{\text{(6)}}$
-- Polypetalous = $C_{\text{6}}$
+- Gamopetalous = $C_{(6)}$
+- Polypetalous = $C_{6}$
 
 ## Androecium
 
