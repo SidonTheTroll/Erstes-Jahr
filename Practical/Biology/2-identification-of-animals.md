@@ -87,7 +87,7 @@ The purpose of this study was to investigate and identify the animal based on th
 2. Is globular in shape and is univalved.
 3. Shell consists of various whorls and is marked by faint growth lines. 
 4. Head bears a pair of tentacles and stalked eyes.
-5. Foot is large and triangular organ whish is used for creeping. 
+5. Foot is large and triangular organ which is used for creeping. 
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
