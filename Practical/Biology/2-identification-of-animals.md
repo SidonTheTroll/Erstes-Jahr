@@ -93,12 +93,24 @@ The purpose of this study was to investigate and identify the animal based on th
 
 ---
 
-### Starfish 
+### Starfish <img src='pics/exp2/starfish' align=right width=350>
 
-<img src='pics/exp2/starfish' align=right width=400>
+
 
 1. Has flattened star shaped body with five blunt radiating arms. 
 2. Has two surfaces- lover oral surface and upper aboral surface. 
 3. Oral surface bears ambulacral groove in each arm having 2 or 4 rows of retractile tube feet.
 4. Mouth is pentagonal lying in the central disc of oral surface. 
 5. Aboral surface bears anus, short spines and madreporite.
+
+<br><br><br><br><br><br><br><br>
+
+## Conclusion
+
+In summary, the experiment effectively distinguished and classified Ascaris, leech, earthworm, prawn, silkmoth, snail, and starfish. By analyzing their distinct traits and behaviors, we successfully identified each organism's phylum and class. This experiment emphasized the significance of taxonomy in comprehending animal diversity and adaptation to different habitats.
+
+## Precautions 
+
+1. Do not tilt the container holding the specimen.
+2. Handle the specimen with care.
+3. If handling alive specimen, use proper specific procedures.
