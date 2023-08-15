@@ -404,7 +404,7 @@ United = Gamopetalous
 ```
 
 - Symbol =  $C$ 
-- Nmuber = $C_{\text{6}}$
+- Number = $C_{\text{6}}$
 
 - Gamopetalous = $C_{\text{(6)}}$
 - Polypetalous = $C_{\text{6}}$
