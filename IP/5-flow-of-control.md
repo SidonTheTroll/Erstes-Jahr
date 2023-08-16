@@ -107,3 +107,42 @@ for i in range(1,6):
 #  1234
 # 12345
 ```
+
+
+# 16/08/23 
+
+## While loop
+
+```py
+# Prints GTBA 5 times 
+
+i = 1 
+while(i<=5): 
+    print('GTBA')
+    i+=1 
+```
+
+```py 
+# Print multiplication table of 5 
+
+i = 1
+s = 0 
+while(i <= 10):
+    s = 5 * i 
+    print(f"5 X {i} = {s}")
+    i += 1 
+```
+
+```py 
+# Makes a right triangle with 1 
+
+i = 1
+j = 1 
+while i <= 5:
+    while j <= i:
+        print("1", end=" ")
+        j += 1
+    print()
+    i += 1
+    j = 1 
+```
