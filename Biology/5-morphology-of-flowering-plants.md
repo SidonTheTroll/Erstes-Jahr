@@ -21,9 +21,9 @@
 - [05/08/23](#050823)
   - [Ovary](#ovary)
   - [Calyx (K)](#calyx-k)
-  - [Corolla](#corolla)
-  - [Androecium](#androecium)
-  - [Gynoecium](#gynoecium)
+  - [Corolla $(C)$](#corolla-c)
+  - [Androecium $(A)$](#androecium-a)
+  - [Gynoecium $(A)$](#gynoecium-a)
 
 # 1/7/23 
 
@@ -369,63 +369,56 @@ Endocarp: the innermost layer of the pericarp which surrounds a seed
 
 **Superior ovary:** all floral appendages are below the ovary. 
 
-- **Perigynous:** bar below G 
-- **Hypogynous:** Ḡ (G bar)
-
-
+- **Epigynous:** $\underbar{G}$
+- **Hypogynous:** $\overline{G}$ 
 
 ## Calyx (K)
 <img src='diagrams/free-calyx.png' align=right width=156>
 <img src='diagrams/united-calyx.png' align=right width=150>
 
-- **United sepals:** Gamosepalous 
-- **Free sepals:** Polysepalous 
+**United sepals:** Gamosepalous  
+**Free sepals:** Polysepalous 
 
 - Generally green 
 - Function: protect flower bud in initial stage 
   
-5 sepals = $K_{5}$
-
-Gamosepalous = $K_{5}$
-
+5 sepals = $K_{5}$  
+Gamosepalous = $K_{(5)}$  
 Polysepalous = $K_{5}$
 
 $5$ in $K_{\text{5}}$ is the number of sepals.
 
-## Corolla 
+## Corolla $(C)$
 
-**Function:** attract pollinators
-
+**Function:** attract pollinators  
 **Individual=** petal 
 
-```
-Free = polypetalous
-United = Gamopetalous
-```
 
-- Symbol =  $C$ 
-- Number = $C_{\text{6}}$
+**Free** = polypetalous  
+**United** = Gamopetalous
 
-- Gamopetalous = $C_{(6)}$
-- Polypetalous = $C_{6}$
 
-## Androecium
+Symbol =  $C$   
+Number = $C_{\text{6}}$
 
-<img src='diagrams/androecium.png' align=center>
+Gamopetalous = $C_{(6)}$  
+Polypetalous = $C_{6}$
 
-- **Monadelphous:** all androecium are in one bundle. 
-- **Diadelphous:** stamens are divided into bundles of two 
-- **Polyadelphous:** stamens are dividid in more than two bundles. 
+## Androecium $(A)$
 
-- Sterile stamen cannot produce biable pollen. 
+<img src='diagrams/androecium.png' align=center width=500>
 
-**Epipetalous:** androecium is attatched to the petals 
+**Monadelphous:** all androecium are in one bundle.  
+**Diadelphous:** stamens are divided into bundles of two  
+**Polyadelphous:** stamens are dividid in more than two bundles. 
 
+- Sterile stamen cannot produce viable pollen. 
+
+**Epipetalous:** androecium is attatched to the petals  
 **Perianth:** used for undefined sepals and petals. 
   - Symbol: $P$
 
-$A_{9+5+6}$
-
+$A_{9+5+6}$  
 The numbers below are bundle notations 
 
 **Epipetalous:** $\overbrace{CA}$
@@ -434,12 +427,12 @@ The numbers below are bundle notations
 
 - **Perianth:**  is a characteristic of monocot
 
-## Gynoecium 
+## Gynoecium $(A)$
 
 <img src='diagrams/gynoecium.png' align=right>
 
-- 1 carpel = monocarpelary
-- More carpel = multicarpelary
+1 carpel = monocarpelary  
+More carpel = multicarpelary
 
 - Hibiscus has 5 carpels. 
 
