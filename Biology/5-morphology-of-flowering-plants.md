@@ -411,6 +411,37 @@ United = Gamopetalous
 
 ## Androecium
 
+<img src='diagrams/androecium.png' align=center>
 
+- **Monadelphous:** all androecium are in one bundle. 
+- **Diadelphous:** stamens are divided into bundles of two 
+- **Polyadelphous:** stamens are dividid in more than two bundles. 
 
-## Gynoecium
+- Sterile stamen cannot produce biable pollen. 
+
+**Epipetalous:** androecium is attatched to the petals 
+
+**Perianth:** used for undefined sepals and petals. 
+  - Symbol: $P$
+
+$A_{9+5+6}$
+
+The numbers below are bundle notations 
+
+**Epipetalous:** $\overbrace{CA}$
+
+**Epiphylus:** $\overbrace{PA}$
+
+- **Perianth:**  is a characteristic of monocot
+
+## Gynoecium 
+
+<img src='diagrams/gynoecium.png' align=right>
+
+- 1 carpel = monocarpelary
+- More carpel = multicarpelary
+
+- Hibiscus has 5 carpels. 
+
+**Syncarpous:** carpels are united   
+**Apocarpous:** carpels are free
