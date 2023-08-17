@@ -322,3 +322,40 @@ Humus: dead and decaying matter that helps in plant formation.
 **Father of India Bryology:** Shiv Ram Kashyap 
 
 - There are around 20,000 species of Bryophyte.
+
+
+# 16/08/23 
+
+## Ptridophyte 
+<img src='diagrams/horsetail.png' align=right height=400>
+
+> It is the first terrestrial plant with complete vascular bundle. 
+
+- Types:
+  - Fern 
+  - Fern-alyse 
+  - Tree fern 
+
+> Tree fern is also called a living fossil.  
+> *Nepenthes khasiana* is endengered and endemic to the **Khasi Hills**  
+> **Salvinia** is also called aquatic fern 
+> **Equisetum** is found in sandy areas near river banks. 
+
+- Plucking horsetail leaves make a ticking sound.  
+- Equisetum has homospores 
+  - Homospores = similar sized spores 
+
+**Heterospore** = different sized spores. Eg- selaginella <img align=right src="diagrams/selaginella1.png" width=400>
+
+<img src='diagrams/fern.png' width=400 align-left>
+
+- Fern has true roots, stems and leaf because they have vascular bundle.
+- Circinate vernation (coiling) is a key feature of **Fern**
+
+
+- Types of leaves <img src='diagrams/leaf-types.png' width=400 align=right>
+  - Iso-bilateral 
+  - Dorsi-ventral leaf 
+
+- Mature fern leaves have deep brown or deep green color.
+- Spore bearing leaf = sporophyll 

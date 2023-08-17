@@ -26,7 +26,7 @@
   - [Gynoecium $(G)$](#gynoecium-g)
 - [17/08/23](#170823)
   - [Floral Formula](#floral-formula-1)
-  - [Fabceae](#fabceae)
+  - [Fabaceae](#fabaceae)
   - [Solanaceae](#solanaceae)
   - [Liliaceae](#liliaceae)
 
@@ -457,7 +457,7 @@ Diadelphous = $A_{(5+5)}$
 Zygomorphic flower = $％$  
 Actinomorphic Flower = $⊕$
 
-## Fabceae 
+## Fabaceae 
 
 $％⚥$ $K_{5}$ $C_{1+2+2}$ $A_{9+1}$ $\underbar{G}_{1}$  
 > Complete Flower
