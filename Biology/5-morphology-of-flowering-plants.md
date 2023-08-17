@@ -472,15 +472,16 @@ $\underbar{G}_{1}$ = superior ovary, monocarpelary
 
 ## Solanaceae 
 
-$⊕ ⚥$ $K_{5}$ $\overgroup{C_{5}{A}_{5}}$ $\underbar{G}_{(2)}$  
+$⊕ ⚥$ $K_{(5)}$ $\overgroup{C_{(5)}{A}_{5}}$ $\underbar{G}_{(2)}$  
 > Complete flower 
 
 $⊕$ = radial symmetrical, actinomorphic  
 $⚥$ = Bisexual  
-$K_{5}$ = 5 sepals, united, gamosepalous  
-$\overgroup{C_{5}{A}_{5}}$ = Epipetalous; 5 petals, gamopetalous; 5 stamen  
+$K_{(5)}$ = 5 sepals, united, gamosepalous  
+$\overgroup{C_{(5)}{A}_{5}}$ = Epipetalous; 5 petals, gamopetalous; 5 stamen  
 $\underbar{G}_{(2)}$ = bicarpellary, syncarpous, superior ovary, hypogynous
 
+- Pentamerous Flower 
 
 ## Liliaceae 
 
@@ -488,7 +489,9 @@ $Br$ $⊕ ⚥$ $\overgroup{P_{(3+3)}A_{3+3}}$ $G_{3+3}$
 > Incomplete flower
 
 $Br$ = Bracted  
-$⊕$ = Radial, actinomorphic
+$⊕$ = Radial, actinomorphic  
 $⚥$ = Bisexual  
 $\overgroup{P_{(3+3)}A_{3+3}}$ = Epiphylus; Perianth; Diadelphous  
 $G_{3+3}$ = Tricarpelary, united, syncarpous
+
+- Trimerous flower; monocot
