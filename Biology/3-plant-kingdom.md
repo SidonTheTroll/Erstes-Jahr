@@ -331,15 +331,15 @@ Humus: dead and decaying matter that helps in plant formation.
 
 > It is the first terrestrial plant with complete vascular bundle. 
 
-- Types:
+- Fern Types:
   - Fern 
   - Fern-alyse 
   - Tree fern 
 
 > Tree fern is also called a living fossil.  
-> *Nepenthes khasiana* is endengered and endemic to the **Khasi Hills**  
-> **Salvinia** is also called aquatic fern 
-> **Equisetum** is found in sandy areas near river banks. 
+> *Nepenthes khasiana* is endengered and endemic species of pitcher plant native to the **Khasi Hills**  
+> **Salvinia** is also called aquatic fern   
+> **Equisetum** (horsetail) is found in sandy areas near river banks. 
 
 - Plucking horsetail leaves make a ticking sound.  
 - Equisetum has homospores 
@@ -353,7 +353,7 @@ Humus: dead and decaying matter that helps in plant formation.
 - Circinate vernation (coiling) is a key feature of **Fern**
 
 
-- Types of leaves <img src='diagrams/leaf-types.png' width=400 align=right>
+- Types of leaves  <img src='diagrams/leaf-types.png' width=400 align=right>
   - Iso-bilateral 
   - Dorsi-ventral leaf 
 
