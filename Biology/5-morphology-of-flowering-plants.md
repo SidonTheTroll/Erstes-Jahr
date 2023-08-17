@@ -23,7 +23,12 @@
   - [Calyx (K)](#calyx-k)
   - [Corolla $(C)$](#corolla-c)
   - [Androecium $(A)$](#androecium-a)
-  - [Gynoecium $(A)$](#gynoecium-a)
+  - [Gynoecium $(G)$](#gynoecium-g)
+- [17/08/23](#170823)
+  - [Floral Formula](#floral-formula-1)
+  - [Fabceae](#fabceae)
+  - [Solanaceae](#solanaceae)
+  - [Liliaceae](#liliaceae)
 
 # 1/7/23 
 
@@ -267,12 +272,12 @@ Pentamerous: floral appendages multiple of 5
 
 ## Symmetry 
 
-- Bilatreal symmetrical (zygomorphic): Divided into two equal parts from one part 
-- Radial symmetrical (actinomorphic): can be divided into two parts from any point
+**Bilatreal symmetrical (zygomorphic)**: Divided into two equal parts from one part  
+**Radial symmetrical (actinomorphic)**: can be divided into two parts from any point
 
 ## Floral formula 
-- ⊕ = radial symmetrical 
-- ％ = bilateral symmetrical
+$⊕$ = radial symmetrical  
+％ = bilateral symmetrical
 
 - Symbols: 
     - Calyx: K 
@@ -369,8 +374,8 @@ Endocarp: the innermost layer of the pericarp which surrounds a seed
 
 **Superior ovary:** all floral appendages are below the ovary. 
 
-- **Epigynous:** $\underbar{G}$
-- **Hypogynous:** $\overline{G}$ 
+- **Epigynous:** $\overline{G}$
+- **Hypogynous:** $\underbar{G}$ 
 
 ## Calyx (K)
 <img src='diagrams/free-calyx.png' align=right width=156>
@@ -421,13 +426,13 @@ Polypetalous = $C_{6}$
 $A_{9+5+6}$  
 The numbers below are bundle notations 
 
-**Epipetalous:** $\overbrace{CA}$
+**Epipetalous:** $\overgroup{CA}$
 
-**Epiphylus:** $\overbrace{PA}$
+**Epiphylus:** $\overgroup{PA}$
 
 - **Perianth:**  is a characteristic of monocot
 
-## Gynoecium $(A)$
+## Gynoecium $(G)$
 
 <img src='diagrams/gynoecium.png' align=right>
 
@@ -437,4 +442,53 @@ More carpel = multicarpelary
 - Hibiscus has 5 carpels. 
 
 **Syncarpous:** carpels are united   
-**Apocarpous:** carpels are free
+**Apocarpous:** carpels are free  
+
+<br><br><br><br><br>
+
+# 17/08/23
+
+- Banana is a parthenocarpic fruit
+
+## Floral Formula 
+
+Diadelphous = $A_{(5+5)}$ 
+
+Zygomorphic flower = $％$  
+Actinomorphic Flower = $⊕$
+
+## Fabceae 
+
+$％⚥$ $K_{5}$ $C_{1+2+2}$ $A_{9+1}$ $\underbar{G}_{1}$  
+> Complete Flower
+
+％ = It is zygomorphic (bilateral symmetrical)  
+⚥= Bisexual flower  
+$K_{5}$ = Calyx has 5 petals and are united (Gamosepalous)  
+$C_{1+2+2}$ = total 5 petal, polypetalous, vexillary aestivation  
+$A_{(9)+1}$ = total 10 stamen, diadelphous  
+$\underbar{G}_{1}$ = superior ovary, monocarpelary
+
+
+## Solanaceae 
+
+$⊕ ⚥$ $K_{5}$ $\overgroup{C_{5}{A}_{5}}$ $\underbar{G}_{(2)}$  
+> Complete flower 
+
+$⊕$ = radial symmetrical, actinomorphic  
+$⚥$ = Bisexual  
+$K_{5}$ = 5 sepals, united, gamosepalous  
+$\overgroup{C_{5}{A}_{5}}$ = Epipetalous; 5 petals, gamopetalous; 5 stamen  
+$\underbar{G}_{(2)}$ = bicarpellary, syncarpous, superior ovary, hypogynous
+
+
+## Liliaceae 
+
+$Br$ $⊕ ⚥$ $\overgroup{P_{(3+3)}A_{3+3}}$ $G_{3+3}$
+> Incomplete flower
+
+$Br$ = Bracted  
+$⊕$ = Radial, actinomorphic
+$⚥$ = Bisexual  
+$\overgroup{P_{(3+3)}A_{3+3}}$ = Epiphylus; Perianth; Diadelphous  
+$G_{3+3}$ = Tricarpelary, united, syncarpous
