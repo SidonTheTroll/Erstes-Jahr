@@ -146,3 +146,84 @@ while i <= 5:
     i += 1
     j = 1 
 ```
+
+# 16/08/23 
+
+## Q/ Check from 1 to n if its multiples are odd or even.
+```py 
+n = int(input('Enter the value of n: '))
+m = int(input('Enter the value of m: '))
+
+print(f'The following are the numbers those are divided by {m} from 1 to {n}:')
+
+for i in range (1 , n + 1):
+    if i % m == 0:
+        if i % 2 == 0: 
+            print(f'{i}    (even)')
+        else:
+            print(f'{i}    (odd)')
+```
+
+## The same function in while loop
+```py
+n = int(input("Enter the value of n: "))
+m = int(input("Enter the value of m: "))
+print(f"The following are the numbers that those are divided by {m} from 1 to {n}")
+
+i = 1
+
+while i <= n: 
+    if i % m == 0: 
+        if i % 2 == 0:
+            print(i, "(even)")
+        else:
+            print(i, "(odd)")
+    i += 1 
+```
+
+# 18/08/23
+
+
+## Q/ Write a python program to check a given number is a palindrome number or not.
+
+### Note:
+A number is said to be palindrome when its reverse form is also same.  
+Eg- 323 is a palindrome number 
+
+```py
+
+```
+
+```py
+n = int(input("Enter to check perfect number: "))
+r = int(str(n)[::-1])
+
+if r == n: 
+    print("Yes, it is a perfect number.")
+else:
+    print("No, it is not a perfect number.")
+```
+
+## Q/ Write a program to check a given number is a perfect number or not.  
+### Note: a perfect number is a positive integer, which is equal to the sum of its divisors, excluding the number.
+
+#### Eg- 
+Enter a number: 6  
+The divisors of 6 are: 1, 2, 3  
+Now, the summations of these divisors are: 1 + 2 + 3 = 6  
+So we can say that 6 is a perfect number  
+
+```py 
+sum_of_fact = 0 
+
+n = int(input("Enter to check perfect number: "))
+
+for i in range(1,n): 
+    if n % i == 0: 
+        sum_of_fact += i 
+
+if sum_of_fact == n:
+    print("Yes it is a perfect number.")
+else:
+    print("It is not a perfect number.")
+```
