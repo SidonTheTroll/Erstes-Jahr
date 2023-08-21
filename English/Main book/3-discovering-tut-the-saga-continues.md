@@ -28,9 +28,13 @@ Howard Carter was a British archaeologist.
 
 # 7. What problem did Carter faced when he reached the mummy? How did he find a way out? 
 
-
+When Carter and his men reached the mummy, they found that it was cemented to the bottom of the coffin by a ritual resin.  
+To make the mummy free, they set the mummy outside in the blazing sunshine and heated it to 64$\degree$C but it didn't worked so they chiselled it away benaeth the limbs and trunk. 
 
 # 8. How did Carter defend his action of cutting the mummy free? 
+
+
+
 # 9. Why do you think the royals carried so much gold to grave? 
 # 10. Which evidence proves the burial of Tut in March or April? 
 # 11. How did Carter's men treat Tut's body while removing the gold?
