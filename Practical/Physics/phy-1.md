@@ -9,7 +9,7 @@ Vernier callipers, small cylinder
 # Theory
 
 1. Vernier constant = 1 MSD - 1 VSD
-2. Zero error, e = $\pm$ No. of vernier division coinciding with some main scale division $X$ Vernier constant
+2. Zero error, e = $\pm$ No. of vernier division coinciding with some main scale division $\text{X}$ Vernier constant
 3. Zero correction,
    - $c$ = - zero error = $-e$
 4. Observed diameter,
