@@ -12,7 +12,7 @@ Screw gauge, metallic wire
 
 1. Pitch = $\frac{\text{Distance moved by the screw on linear scale}}{\text{Number of rotations of circular scale}}$
 2. Least count = $\frac{\text{Pitch}}{\text{Total number of divisions on the main scale}}$
-3. Total reading = $\text{LSR + CSR + least count}$
+3. Total reading = $\text{LSR + CSR * least count}$
 
 # Observation and calculation
 
