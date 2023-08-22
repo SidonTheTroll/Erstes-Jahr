@@ -33,7 +33,7 @@ To make the mummy free, they set the mummy outside in the blazing sunshine and h
 
 # 8. How did Carter defend his action of cutting the mummy free?
 
-Carter said that if he hadn't cut the mummy free, thieves would have certainly found a way of avoiding the guards. Then they would have dismantled everything to forcefully remove the gold. 
+Carter said that if he hadn't cut the mummy free, thieves would have certainly found a way of avoiding the guards. Then they would have dismantled everything to forcefully remove the gold.
 
 # 9. Why do you think the royals carried so much gold to grave?
 
@@ -45,15 +45,15 @@ Tut's shroud was adorned with willow and olive leaves, wild celery, lotus petals
 
 # 11. How did Carter's men treat Tut's body while removing the gold?
 
-Carter's men removed the mummy's head and cat off every joint to remove the golden ornaments. 
+Carter's men removed the mummy's head and cat off every joint to remove the golden ornaments.
 
 # 12. What startling fact came to light in 1968 through x-ray?
 
-In 1968, the x-ray revealed that Tut's body was missing breast bone and front ribs. 
+In 1968, the x-ray revealed that Tut's body was missing breast bone and front ribs.
 
 # 13. Which two questions still linger about Tut?
 
-The two questions are- "How Tut died" and "How old he was at the time of his death." 
+The two questions are- "How Tut died" and "How old he was at the time of his death."
 
 # 14. How has Archaeology undergone change in the 20th century?
 
@@ -61,8 +61,8 @@ Archaeology has shifted its focus from just searching for valuable items to expl
 
 # 15. Who is Zahi Hawass? Why do you think Zahi Hawass felt relieved after the CT scan?
 
-Zahi Hawass was the Secretary General of Egypt's Supreme Council of Antiquities. 
-    He was worried that the mummy's condition and the CT Scanner will fail to create perfect images. However, they succeeded in getting slides of the mummy. 
+Zahi Hawass was the Secretary General of Egypt's Supreme Council of Antiquities.
+He was worried that the mummy's condition and the CT Scanner will fail to create perfect images. However, they succeeded in getting slides of the mummy.
 
 # 16. How was the atmosphere when the CT scan of Tut was over?
 
