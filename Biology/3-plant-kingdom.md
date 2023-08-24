@@ -1,3 +1,32 @@
+- [20/06/23](#200623)
+- [01/08/23](#010823)
+- [02/08/23](#020823)
+  - [Divisions of algae](#divisions-of-algae)
+    - [Chlorophyta](#chlorophyta)
+    - [Phaeophyta](#phaeophyta)
+    - [Rhodophyta](#rhodophyta)
+- [07/08/23](#070823)
+    - [Q1/ Describe the pigmentation in algae.](#q1-describe-the-pigmentation-in-algae)
+    - [Q/ Discuss the reserve food material present in algae.](#q-discuss-the-reserve-food-material-present-in-algae)
+    - [Q/ Mention the economic importance of algae](#q-mention-the-economic-importance-of-algae)
+    - [Q/ Describe the reproduction in algae.](#q-describe-the-reproduction-in-algae)
+- [08/08/23](#080823)
+  - [Bryophyta](#bryophyta)
+  - [Bryophyta offsprings](#bryophyta-offsprings)
+    - [After the two gametes fuse](#after-the-two-gametes-fuse)
+  - [Moss](#moss)
+  - [Liverwort](#liverwort)
+    - [Gemmae](#gemmae)
+- [09/08/23](#090823)
+- [14/08/23](#140823)
+  - [Random facts](#random-facts)
+- [16/08/23](#160823)
+  - [Ptridophyte](#ptridophyte)
+- [22/08/23](#220823)
+  - [Fern](#fern)
+- [23/08/23](#230823)
+  - [Gymnospermae](#gymnospermae)
+
 # 20/06/23
 
 Carl Linnaeus started studying plants based on mode of reproduction by flowers.
@@ -391,15 +420,41 @@ Seed habit: mode of sexual reproduction
 <img src='diagrams/fern-gamete.png' width=600>
 
 Antheridium required moisture for growth
+<img src='diagrams/fern-growth.png' width=400 align=right>
 
 Archegonia = egg bearing structure (female character)
 
 After the fern zygote matures, it transforms into a structure called Protonema which grows into fern.
-
-<img src='diagrams/fern-growth.png' width=400 align=right>
 
 The gametes fall to the ground and forms a zygote that further grows to form protonema
 
 Embryophytic evolution: Embyophytic evolution is the process where plants evolved from water to land, developing features like embryos, roots, and protective layers to survive on land.
 
 Osmunda fern is found in Elephants waterwalls and the whorl of leaves is similar to that of flower but isn't.
+
+# 23/08/23
+
+## Gymnospermae
+
+- _Pinus khasian_ is found in the khasi hills
+
+> Christmas tree is in the genus Pinus
+
+Ovule in gymnosperm constains archegonia  
+Ovary is absent
+
+Male cone produces pollen (almost similar to angiosperm)
+
+- Sulphur shower: a shower of yellow pollen often seen in spring that is carried by the wind from conifers
+
+Gymno: naked  
+Sperm: seed
+
+Direct seed is formed in gymnosperm
+
+> Gymnosperm only has trees and shrub
+> Has no herbs
+
+Anatomy: study of internal organs and structures
+
+- Gymnosperm has a definite and defined vascular bundle.
