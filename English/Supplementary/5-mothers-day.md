@@ -53,23 +53,43 @@ Cyril is the first one to respond. He implies that she doesn't prefer stout, esp
 
 # 14. What changes in the behavior of Mrs Pearson startled Doris and Cyril? What possible reasons do they suggest?
 
+Doris and Cyril discuss among themselves how their mother has changed. She was talking rough to them, smoking and didn't prepared their tea at all. 
+They think that their mother had hit ther head with something that made her mother lose her mind. 
 # 15. How does Mrs Pearson teach her children to be responsible adults?
+
+First she scolds them for guffauling and giggling. Then she has a dig at their lifestyle. 
 
 # 16. What is Mrs Pearson's opinion on Charlie Spence?
 
+Mrs Pearson said that Charlie Spence is buck toothed and half witted and she wouldn't like to be seen dead with a fellow like Charlie Spence. 
+
 # 17. How do you think is George Pearson treated at the club?
+
+The members of the club laugh at George. He is in fact, one of their standing jokes. They all call him Pompy-Ompy Pearson because they think he is quite slow and pompous. Although this joke is quite famous, George is unaware of it. 
 
 # 18. What objection does Mrs Pearson does have against George going to the club frequently?
 
+Mrs Pearson was perplexed as to why her husband George spends so much time in the club despite the fact that he is mocked and called names by the member. Every night, George abandons his wife, Mrs Pearson. 
+
 # 19. What is Doris's idea about the incident that made her mother behave so strangely?
+
+Doris suggests to her brother Cyril that their mother could have hit her head against something and got a concussion and therefore she behaved in a strange way. 
 
 # 20. Why does Mrs Pearson doubt the value of Cyril's opinion?
 
+She tells Cyril frankly that he knows nothing about the worldly affairs. He spends too much time and good money an amusement shows like Greyhound race, dirt tracks and ice shows. 
+
 # 21. Why is George Pearson incensed (provoked) at Mrs Fitzgerald's utterances (words)?
+
+George reacts with horror and surprise when his neighbor, Mrs Fitzgerald addresses him with his first name George instead of the formal George Pearson. 
 
 # 22. Why does Mrs Pearson threatened to slap her husband?
 
+George gets angry at being humiliated in the presence of his neighbor. He loses his temper and asks his wife if she has gone mad. This is too much for him to bear. She jumps and threatens to slap George if he shouts at her again. 
+
 # 23. How does the real Mrs Pearson learn about her daughter's miserable state?
+
+
 
 # 24. How does the real Mrs Fitzgerald's final advice to Mrs Pearson after reversion to their original personalities?
 
