@@ -70,7 +70,7 @@ SELECT column1, column2 FROM table_name WHERE condition;
 - **Aggregate Functions**:  
 `SELECT AVG(column_name), SUM(column_name), MIN(column_name), MAX(column_name) FROM table_name;`
 
-- **Subqueries**:
+- **Subqueries**:  
 `SELECT column FROM table_name WHERE column IN (SELECT column FROM another_table);`
 
 - **Transactions**:  
