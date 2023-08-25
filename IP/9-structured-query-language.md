@@ -43,27 +43,42 @@ mysql> drop database school;
 
 # 23/08/23
 
-**`use database_name;`**: switch current working database for queries and operations  
-**`create table table_name`**: create a table in a current working database.
+- Switch current working database for queries and operations  
+  `use database_name`
 
-> **`(name char(20),`**: create dividision _name_ and limit it to 20 characters.
+- Create table in a current working database.
 
-**`desc table_name;`**: describe a table within a database  
-**`insert into table_name`**: insert values in table
+```
+create table table_name
+        (name char(20),
 
-> **`values(<values>)`**: insert values in a table
+```
 
-**`select Name,Atten`**: select values name and atten for display in database.
+- Describe a table within a database  
+  `desc table_name;`
 
-> **`from table_name;`** show table contents with presets
+- Insert value in table
+
+```
+insert into table_name
+        values(<values>)
+```
+
+- Select name and atten to show in a table
+
+```
+select Name,Atten
+        from table_name;
+```
 
 ---
 
-# 25/08/23 
+# 25/08/23
 
 $\underbar{Primary key}$: In SQL, a primary key is a unique identifier for a record in a table, ensuring each row has a distinct value, enabling data integrity and efficient retrieval.
 
-- Assigning primary key  
+- Assigning primary key
+
 ```
 create table table_name
         (ID int not null primary key,
@@ -71,5 +86,5 @@ create table table_name
         class int);
 ```
 
-`int not null primary key` creates a non-null primary key. 
-
+- Create a non-null primary key  
+`int not null primary key` 
