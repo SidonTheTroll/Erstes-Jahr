@@ -44,7 +44,7 @@ mysql> drop database school;
 # 23/08/23
 
 **`use database_name;`**: switch current working database for queries and operations  
-**`create table table_name`**: create a table in a curent working database.
+**`create table table_name`**: create a table in a current working database.
 
 > **`(name char(20),`**: create dividision _name_ and limit it to 20 characters.
 
@@ -63,6 +63,13 @@ mysql> drop database school;
 
 $\underbar{Primary key}$: In SQL, a primary key is a unique identifier for a record in a table, ensuring each row has a distinct value, enabling data integrity and efficient retrieval.
 
+- Assigning primary key  
+```
+create table table_name
+        (ID int not null primary key,
+        Name char(20),
+        class int);
+```
 
+`int not null primary key` creates a non-null primary key. 
 
-- Assigning 
