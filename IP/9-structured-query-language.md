@@ -38,3 +38,31 @@ mysql> drop database school;
 ```mysql> show database like 'school';
         Empty set (0.00 sec)
 ```
+
+---
+
+# 23/08/23
+
+**`use database_name;`**: switch current working database for queries and operations  
+**`create table table_name`**: create a table in a curent working database.
+
+> **`(name char(20),`**: create dividision _name_ and limit it to 20 characters.
+
+**`desc table_name;`**: describe a table within a database  
+**`insert into table_name`**: insert values in table
+
+> **`values(<values>)`**: insert values in a table
+
+**`select Name,Atten`**: select values name and atten for display in database.
+
+> **`from table_name;`** show table contents with presets
+
+---
+
+# 25/08/23 
+
+$\underbar{Primary key}$: In SQL, a primary key is a unique identifier for a record in a table, ensuring each row has a distinct value, enabling data integrity and efficient retrieval.
+
+
+
+- Assigning 

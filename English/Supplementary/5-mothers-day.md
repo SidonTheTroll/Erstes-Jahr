@@ -39,7 +39,7 @@ Doris is upset because her mother didn't iron her yellow silk dress for the even
 
 Mrs. Pearson says she understands how much Doris does. She states she worked twice as many hours as Doris but didn't get paid or got any gratitude.
 
-# 11. How does Mrs Pearson critisize Doris's going out with Charlie Spence?
+# 11. How does Mrs Pearson criticize Doris's going out with Charlie Spence?
 
 Mrs Pearson asks Doris if she couldn't have found anyone more suitable than Charlie Spence. She also mentions that Charlie has buck teeth and is half witted.
 
@@ -89,10 +89,16 @@ George gets angry at being humiliated in the presence of his neighbor. He loses 
 
 # 23. How does the real Mrs Pearson learn about her daughter's miserable state?
 
-
+The real Mrs Pearson has the body of Mrs Fitzgerald. She asks Doris about her plan of going out with Charlie Spence that night. She tells that her mother is criticizing her and making her feel very miserable. She also added that her mother said that Charlie Spence has buck-teeth and is half witted.  
 
 # 24. How does the real Mrs Fitzgerald's final advice to Mrs Pearson after reversion to their original personalities?
 
+Mrs Fitzgerald the told Mrs Pearson to act strong and brave. She advised her to sometimes give a stern look to make others a little afraid of her. 
+
 # 25. What would Mrs Pearson like the members of her family to do?
 
+She wants her family members to stay home that evening and help her with dinner. She also wants to play a fun game of rummy, which she only gets to play during christmas. 
+
 # 26. How does the stern treatment reform the spoiled children?
+
+The kids seem a bit worried when they look at Mrs. Pearson. But when she smiles, they smile back at her.
