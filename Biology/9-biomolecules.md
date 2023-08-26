@@ -32,7 +32,7 @@ Vitamin B, C: water-soluble
 
 
 
-2/6/23 
+# 2/6/23 
 
 Amino acids: essential and non-essential
     Essential: cannot be made by the body and requires to get from food
@@ -84,7 +84,7 @@ or
 
 
 
-3/6/23 
+# 3/6/23 
 
 <800 daltons -> micro nutrients 
 >800 daltons -> macro nutrients 
@@ -151,7 +151,7 @@ Nucleoside bond: A nucleoside bond is a linkage between a sugar molecule and a n
 
 
 
-08/06/23 
+# 08/06/23 
 
 >>> RNA
 
@@ -219,7 +219,7 @@ denaturation of protein: lost of function permanently
 
 
 
-09/06/23
+# 09/06/23
 
 >>> Factors affecting the rate of enzyme action
 
@@ -233,7 +233,7 @@ denaturation of protein: lost of function permanently
 
 - At higher temperatures, protein gets denatured and lower temperatures make the enzymes inactive.
 
-![rate of enzyme action]( https://i.imgur.com/JambJHx.png )
+![rate of enzyme action](https://i.imgur.com/JambJHx.png)
 
 
 Body getting hot is a defence mechanism to stop microbes during fever.
@@ -263,7 +263,7 @@ Substrate molecule is prevented from binding to the active site of an enzyme by 
 
 
 
-10/06/23 
+# 10/06/23 
 
 Eg.- inhibition of sucicne dehydrogenase by malonate which closely resembles the substrate succinate in structure. Such competitive inhibitors are often used in the contryl of bacterial pathogens. 
 
@@ -299,4 +299,19 @@ Eg.- inhibition of sucicne dehydrogenase by malonate which closely resembles the
 Monosaccharide -> 1 saccharide -> glucose, fructose, xylose
 Disaccharide -> 2 saccharide -> sucrose, lactose, maltose 
 Polysaccharides -> many saccharide -> starch, glucogen, cellulose
+
+--- 
+
+# All the previous notes in txt sucks
+
+
+# 24/08/23 
+
+- mRNA has code for amino $\overline{\text{a}}$ and polypeptide 
+> Peptide is a short chain of amino $\overline{a}$ linked by peptide bonds 
+
+TRNA: transfers amino acid and translate mRNA into sequence of protein.  
+rRNA: helps to form ribosome and assists in protein synthesis. 
+
+- Amino acid is the building block of protein. 
 
