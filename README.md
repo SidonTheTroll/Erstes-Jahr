@@ -11,5 +11,5 @@ Has handwritten notes for all subjects except Chemistry and Physics.
 
 - [ ] Biology 
 - [ ] Biology practical 
-- [ ] English 
+- [x] English 
 - [ ] 
