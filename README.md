@@ -7,3 +7,9 @@ Has handwritten notes for all subjects except Chemistry and Physics.
 
 --- 
 
+## TODO
+
+- [ ] Biology 
+- [ ] Biology practical 
+- [ ] English 
+- [ ] 

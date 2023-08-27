@@ -178,3 +178,30 @@ Alliance invited for a handsome, tall and cultured IT professional 29 years 180 
 |<center>BRIDE WANTED</center>|
 |-|
 |Alliance invited for a handsome, tall and smart Copyright Department Assistant Manager 28 years 5'11" tall NRI settled in Washington of a major Copyright Department. Beautiful, educated and calm girl between 24 and 28 years preferable. Write to Box no. 4329, The Hindustan Times, Uttar Pradesh. 
+
+
+# 26/08/23 
+
+## TODO
+
+### **Rules**
+1. Begin with 'Available' or 'Wanted' 
+2. State the type of accomondation to let or required on rent. 
+3. Give brief description of the accomdation. 
+    - Size, floor, number of rooms, etc. 
+    - Fixtures and fittengs 
+    - Location and surroundings
+4. Rent expected 
+5. End with contact address and phone number. 
+
+### Q/ You want to let out a flat. Prepare an advertisement to diseffect for publication in a newspaper giving location of the building, nature of accomdation, rent expected, etc. 
+
+|<center> $\underbar{TO-LET}$|
+|-|
+|Available on rent a 3 bedroom flat, second floor, fully furnished, well ventilated. Walking distance from main market and taxi stand. Parking for two cars available. Rent expected Rs. 10,000 (fixed). Contact: Jack Taixiera, 526-(392)-6250|
+
+### You want to let out a portion of your newly constructed independent house. Draft an advertisement to be published in the 'To-let' classifieds column of a national daily. 
+
+|<center> $\underbar{TO-LET}$|
+|-|
+Available on rent a 2 bedroom floor, second storey, fully tiled, well ventilated and water supply. Nearby to market complex and hospital. Parking for two cars available. Lawn, balcony and greenhouse available. Rent expected Rs. 13,000 (fixed). Contact: Phil Smith, 423-(573)-2932.| 
