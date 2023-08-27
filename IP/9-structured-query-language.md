@@ -88,3 +88,24 @@ create table table_name
 
 - Create a non-null primary key  
 `int not null primary key` 
+
+
+--- 
+
+# 26/08/23 
+
+- Show table details:
+`select * from table_name`
+
+- Order table content alphabetically 
+```
+select * from tale_name 
+	order by name_column;	-- add desc for descending 
+```
+- Order table content numerically 
+``` 
+select * from table_name 
+	order by number_column;	-- add desc for descending 
+```
+
+
