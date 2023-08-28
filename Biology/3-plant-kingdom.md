@@ -26,6 +26,7 @@
   - [Fern](#fern)
 - [23/08/23](#230823)
   - [Gymnospermae](#gymnospermae)
+  - [Extra questions](#extra-questions)
 
 # 20/06/23
 
@@ -458,3 +459,11 @@ Direct seed is formed in gymnosperm
 Anatomy: study of internal organs and structures
 
 - Gymnosperm has a definite and defined vascular bundle.
+
+
+## Extra questions
+
+Q/ Differences on vascular tissue of gymnosperms and angiosperms. 
+Q/ Differences betweeen dicot and monocot.
+Q/ Differences between gymnosperm and angiosperm. 
+Q/ Heterosporus is a precursor to the seed habit considered an important evloution. Give reason. 
