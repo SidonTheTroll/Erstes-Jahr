@@ -28,8 +28,6 @@
   - [Fabaceae](#fabaceae)
   - [Solanaceae](#solanaceae)
   - [Liliaceae](#liliaceae)
-- [25/08/23](#250823)
-  - [Gymnosperm](#gymnosperm)
 
 
 # 1/7/23 
@@ -500,29 +498,3 @@ $G_{3+3}$ = Tricarpelary, united, syncarpous
 
 ---
 
-# 25/08/23 
-
-## Gymnosperm 
-
-Pinus khasiana is found in the Khasi hills. 
-
-- Christmas tree is also in the genus Pinus. 
-- Ovule in gymnosperm contains archgonia.
-  - Ovule is absent
-- Male produces pollen grains (similar to angiosperm)
-
-**Sulphur shower:** large release of pollen grain often in spring from cornifers (pines)
-
-Seed is formed directly in gymnosperm. 
-
-Gymnosperm has only trees and shrub.  
-Has no herbs.
-
-Phloem: sieve tubes, companion cells, phloem fibres, phloem parenchyma  
-Xylem: trachieds, vessels, xylem parenchyma, xylem fibres. 
-
-- All four components of xylem or phloem may not be present in gymnosperms
-
-**Xaerophyte** grows in dry conditions (cactus)
-
-- Gymnosperms (mostly) have modified leaves and show xaerophytic characters. 

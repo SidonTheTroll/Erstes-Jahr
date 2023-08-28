@@ -1,34 +1,36 @@
-- [20/06/23](#200623)
-- [01/08/23](#010823)
-- [02/08/23](#020823)
-  - [Divisions of algae](#divisions-of-algae)
-    - [Chlorophyta](#chlorophyta)
-    - [Phaeophyta](#phaeophyta)
-    - [Rhodophyta](#rhodophyta)
-- [07/08/23](#070823)
-    - [Q1/ Describe the pigmentation in algae.](#q1-describe-the-pigmentation-in-algae)
-    - [Q/ Discuss the reserve food material present in algae.](#q-discuss-the-reserve-food-material-present-in-algae)
-    - [Q/ Mention the economic importance of algae](#q-mention-the-economic-importance-of-algae)
-    - [Q/ Describe the reproduction in algae.](#q-describe-the-reproduction-in-algae)
-- [08/08/23](#080823)
-  - [Bryophyta](#bryophyta)
-  - [Bryophyta offsprings](#bryophyta-offsprings)
-    - [After the two gametes fuse](#after-the-two-gametes-fuse)
-  - [Moss](#moss)
-  - [Liverwort](#liverwort)
-    - [Gemmae](#gemmae)
-- [09/08/23](#090823)
-- [14/08/23](#140823)
-  - [Random facts](#random-facts)
-- [16/08/23](#160823)
-  - [Ptridophyte](#ptridophyte)
-- [22/08/23](#220823)
-  - [Fern](#fern)
-- [23/08/23](#230823)
-  - [Gymnospermae](#gymnospermae)
-  - [Extra questions](#extra-questions)
+- [1. 20/06/23](#1-200623)
+- [2. 01/08/23](#2-010823)
+- [3. 02/08/23](#3-020823)
+  - [3.1. Divisions of algae](#31-divisions-of-algae)
+    - [3.1.1. Chlorophyta](#311-chlorophyta)
+    - [3.1.2. Phaeophyta](#312-phaeophyta)
+    - [3.1.3. Rhodophyta](#313-rhodophyta)
+- [4. 07/08/23](#4-070823)
+    - [4.0.1. Q1/ Describe the pigmentation in algae.](#401-q1-describe-the-pigmentation-in-algae)
+    - [4.0.2. Q/ Discuss the reserve food material present in algae.](#402-q-discuss-the-reserve-food-material-present-in-algae)
+    - [4.0.3. Q/ Mention the economic importance of algae](#403-q-mention-the-economic-importance-of-algae)
+    - [4.0.4. Q/ Describe the reproduction in algae.](#404-q-describe-the-reproduction-in-algae)
+- [5. 08/08/23](#5-080823)
+  - [5.1. Bryophyta](#51-bryophyta)
+  - [5.2. Bryophyta offsprings](#52-bryophyta-offsprings)
+    - [5.2.1. After the two gametes fuse](#521-after-the-two-gametes-fuse)
+  - [5.3. Moss](#53-moss)
+  - [5.4. Liverwort](#54-liverwort)
+    - [5.4.1. Gemmae](#541-gemmae)
+- [6. 09/08/23](#6-090823)
+- [7. 14/08/23](#7-140823)
+  - [7.1. Random facts](#71-random-facts)
+- [8. 16/08/23](#8-160823)
+  - [8.1. Ptridophyte](#81-ptridophyte)
+- [9. 22/08/23](#9-220823)
+  - [9.1. Fern](#91-fern)
+- [10. 23/08/23](#10-230823)
+  - [10.1. Gymnospermae](#101-gymnospermae)
+- [11. 25/08/23](#11-250823)
+  - [11.1. Gymnosperm](#111-gymnosperm)
+  - [11.2. Extra questions](#112-extra-questions)
 
-# 20/06/23
+# 1. 20/06/23
 
 Carl Linnaeus started studying plants based on mode of reproduction by flowers.
 
@@ -40,7 +42,7 @@ Chemotaxonomy: clasisfication based on chemicals present.
 Cytotaxonomy: classified based on cell features
 Numerical taxonomy: clasisfication with the help of computers
 
-# 01/08/23
+# 2. 01/08/23
 
 Fungus: chitin, heterotroph
 Algae: cellulose, autotroph
@@ -96,7 +98,7 @@ All chlophyll having algae are green but the form of chlorophyll is different.
 
 ---
 
-# 02/08/23
+# 3. 02/08/23
 
 ```
 Plantae
@@ -146,9 +148,9 @@ Father of Indian phycology: Mandayam Osuri Parthasarathy Iyengar
 
 ---
 
-## Divisions of algae
+## 3.1. Divisions of algae
 
-### Chlorophyta
+### 3.1.1. Chlorophyta
 
 - Similarities:
   - Habitat: Found in various aquatic environments, including freshwater and marine habitats.
@@ -161,7 +163,7 @@ Father of Indian phycology: Mandayam Osuri Parthasarathy Iyengar
   - Pigment Reserve: Store excess energy as starch.
   - Flagellation: Typically possess two flagella per cell.
 
-### Phaeophyta
+### 3.1.2. Phaeophyta
 
 - Similarities:
   - Habitat: Primarily found in marine environments, especially in colder waters.
@@ -174,7 +176,7 @@ Father of Indian phycology: Mandayam Osuri Parthasarathy Iyengar
   - Pigment Reserve: Store excess energy as laminarin and mannitol.
   - Flagellation: Usually lack flagella.
 
-### Rhodophyta
+### 3.1.3. Rhodophyta
 
 - Similarities:
   - Habitat: Predominantly found in marine environments, ranging from shallow to deep waters.
@@ -189,9 +191,9 @@ Father of Indian phycology: Mandayam Osuri Parthasarathy Iyengar
 
 ---
 
-# 07/08/23
+# 4. 07/08/23
 
-### Q1/ Describe the pigmentation in algae.
+### 4.0.1. Q1/ Describe the pigmentation in algae.
 
 - There are three types of algae, i.e., Chlorophyceae, Phaeophyceae and rhodophyceae. They have their own pigments which carry out functions in their cells.
 - **Chlorophyceae (green algae):** As by the name, it is obvious that his algae has chlorophyll as its major pigment which carry out photosynthesis. Namely, those are chlorophyll a and b which help to produce the organism's food as well as reserves.
@@ -199,13 +201,13 @@ Father of Indian phycology: Mandayam Osuri Parthasarathy Iyengar
 
 - **Rhodophyceae (red algae):** These algae are red in color and have phycoerythrin as its main pigment but also has chlorophyll a and d to supplement in its photosynthesis.
 
-### Q/ Discuss the reserve food material present in algae.
+### 4.0.2. Q/ Discuss the reserve food material present in algae.
 
 - Chlorophyceae has startch as their reserves which is a proof that it primaily uses chlorophyll to produce food.
   - Phaeophyceae have mannitol and laminarin which are the products of stored complex carbohydrates.
 - Rhodophycae have floridean starch as its reserves which is the mixture of carbohydrates which is very similar to amylopectin and glycogen in structure.
 
-### Q/ Mention the economic importance of algae
+### 4.0.3. Q/ Mention the economic importance of algae
 
 - The Economic importance of algae are as follows:
   - Species of porphyra, Laminaria and Sargassum are used as food.
@@ -214,7 +216,7 @@ Father of Indian phycology: Mandayam Osuri Parthasarathy Iyengar
   - Chlorella is a source of protein dnad is used to make protein supplements for consumption even by astronauts.
   - Many species of algae usually interfere in agriculture and their overconcentration causes the formation of algal blooms.
 
-### Q/ Describe the reproduction in algae.
+### 4.0.4. Q/ Describe the reproduction in algae.
 
 - Algae reproduce through fragmentation, where a piece of the parent algae breaks off and grows into a new individual.
 - Asexual spores are also a common means of reproduction in algae. They are produced by algae, forming identical daughter cells that can disperse and develop into new organisms.
@@ -222,7 +224,7 @@ Father of Indian phycology: Mandayam Osuri Parthasarathy Iyengar
 
 ---
 
-# 08/08/23
+# 5. 08/08/23
 
 <img align= 'right' src="https://i.imgur.com/1wO1UJ5.jpg" width= 400>
 
@@ -236,7 +238,7 @@ Father of Indian phycology: Mandayam Osuri Parthasarathy Iyengar
 <br>
 <br>
 
-## Bryophyta
+## 5.1. Bryophyta
 
 - Similar root, leaves and stem like structures like in higher plants.
   - They are not true because they lack vascular bundle.
@@ -260,15 +262,15 @@ Direct development: young one is similar to the adult.
 
 - Bryophyta needs water for reproduction.
 
-## Bryophyta offsprings
+## 5.2. Bryophyta offsprings
 
 <img src="https://i.imgur.com/rxdC7wz.png" width=400>
 
-### After the two gametes fuse
+### 5.2.1. After the two gametes fuse
 
 <img align=centre src='https://i.imgur.com/XW5tEsv.png' width=350>
 
-## Moss
+## 5.3. Moss
 
 <img align= right src="diagrams/moss.jpeg" alt="moss" width="300" />
 
@@ -288,12 +290,12 @@ Direct development: young one is similar to the adult.
 <br>
 <br>
 
-## Liverwort
+## 5.4. Liverwort
 
 - Comes under Bryophyte
 - Reproduction same as moss and Bryophyte
 
-### Gemmae
+### 5.4.1. Gemmae
 
 <img align='right' src="diagrams/gemmae.png" width=400>
 
@@ -311,7 +313,7 @@ Humus: dead and decaying matter that helps in plant formation.
 
 ---
 
-# 09/08/23
+# 6. 09/08/23
 
 - Bryophyte is found in damp and shady areas.
   <img src='diagrams/liverwort.png' width=200 align=right alt=liverwort>
@@ -337,9 +339,9 @@ _Pteridophyta selaginella_ has true roots in its genus.
 
 ---
 
-# 14/08/23
+# 7. 14/08/23
 
-## Random facts
+## 7.1. Random facts
 
 **Bryophyte:** Coined by Robert Brown in 1864
 
@@ -349,9 +351,9 @@ _Pteridophyta selaginella_ has true roots in its genus.
 
 - There are around 20,000 species of Bryophyte.
 
-# 16/08/23
+# 8. 16/08/23
 
-## Ptridophyte
+## 8.1. Ptridophyte
 
 <img src='diagrams/horsetail.png' align=right height=400>
 
@@ -386,9 +388,9 @@ _Pteridophyta selaginella_ has true roots in its genus.
 - Mature fern leaves have deep brown or deep green color.
 - Spore bearing leaf = sporophyll
 
-# 22/08/23
+# 9. 22/08/23
 
-## Fern
+## 9.1. Fern
 
 Plant body (sporophyte) is prominent  
 Gametophyte is prominent in bryophyte
@@ -433,9 +435,9 @@ Embryophytic evolution: Embyophytic evolution is the process where plants evolve
 
 Osmunda fern is found in Elephants waterwalls and the whorl of leaves is similar to that of flower but isn't.
 
-# 23/08/23
+# 10. 23/08/23
 
-## Gymnospermae
+## 10.1. Gymnospermae
 
 - _Pinus khasian_ is found in the khasi hills
 
@@ -460,10 +462,66 @@ Anatomy: study of internal organs and structures
 
 - Gymnosperm has a definite and defined vascular bundle.
 
+# 11. 25/08/23
 
-## Extra questions
+## 11.1. Gymnosperm
 
-Q/ Differences on vascular tissue of gymnosperms and angiosperms. 
+Pinus khasiana is found in the Khasi hills.
+
+- Christmas tree is also in the genus Pinus.
+- Ovule in gymnosperm contains archgonia.
+  - Ovule is absent
+- Male produces pollen grains (similar to angiosperm)
+
+**Sulphur shower:** large release of pollen grain often in spring from cornifers (pines)
+
+Seed is formed directly in gymnosperm.
+
+Gymnosperm has only trees and shrub.  
+Has no herbs.
+
+Phloem: sieve tubes, companion cells, phloem fibres, phloem parenchyma  
+Xylem: trachieds, vessels, xylem parenchyma, xylem fibres.
+
+- All four components of xylem or phloem may not be present in gymnosperms
+
+**Xaerophyte** grows in dry conditions (cactus)
+
+- Gymnosperms (mostly) have modified leaves and show xaerophytic characters.
+
+## 11.2. Extra questions
+
+Q/ Differences on vascular tissue of gymnosperms and angiosperms.
+
+| <center> Gymnosperm                                                                                                   | <center> Angiosperm                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| 1. Generally lack vessel elements, which are specialized cells for water conduction in angiosperms.                   | 1. Possess vessel elements, larger and more efficient for water transport due to perforation plates        |
+| 2. Main water-conducting cells, with tapered ends and overlapping cell walls.                                         | 2. Present in addition to vessel elements, especially in some primitive angiosperms                        |
+| 3. Lack fibers in their xylem, which provide mechanical support in angiosperms.                                       | 3. Often have fiber caps on top of vessel elements, providing structural support.                          |
+| 4. Lack true sieve tube elements, responsible for food (sugar) transport, and companion cells present in angiosperms. | 4. Contain sieve tube elements responsible for food transport, accompanied by specialized companion cells. |
+| 5. Often have resin canals for defense and storage of resinous compounds                                              | 5. Generally lack resin canals; instead, produce latex in laticifers for defense and storage.              |
+
 Q/ Differences betweeen dicot and monocot.
+
+|<center> Dicot|<center> Monocot| 
+|-|-| 
+|1. The have 2 cotyledons | 1. They have one cotyledon| 
+|2.  They have reticulate venation. |2. They have parallel venation.|
+|3. Often taproot system with a main root and lateral roots.|3. Generally fibrous root system without a dominant main root|
+|4. Floral parts often in multiples of four or five.|4. Floral parts often in multiples of three|
+|5. Stomata are usually scattered on the leaf surface.| 5. Stomata are usually arranged in a regular pattern on the leaf surface.|
+
 Q/ Differences between gymnosperm and angiosperm. 
-Q/ Heterosporus is a precursor to the seed habit considered an important evloution. Give reason. 
+
+|<center> Gymnosperm|<center> Angiosperm|
+|-|-|
+|1. Seeds are naked (not enclosed in fruit).| 1. Seeds are enclosed in fruits.| 
+|2. Cones are the reproductive structures. | 2. Cones are the reproductive structures| 
+|3. Lack vessel elements in their xylem. | 3. Have vessel elements in their xylem for efficient water transport.| 
+|4. Lack true flowers and fruits.|4. True flowers and fruits are characteristic.|
+|5. Needle-like or scale-like leaves common.|5. Broad, diverse leaf shapes and sizes.|
+|6. Sporophyte is the dominant life stage.|6. Gametophyte is the dominant life stage.|
+
+Q/ Heterosporus is a precursor to the seed habit considered an important evloution. Give reason.
+
+Heterospory's two spore types (microspores, megaspores) reduced water reliance, protected embryos, aided nutrient supply, enabled dispersal, dormancy, and an independent sporophytic life cycle, crucial for seed habit evolution.
