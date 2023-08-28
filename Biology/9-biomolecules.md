@@ -276,14 +276,13 @@ Polysaccharides -> many saccharide -> starch, glucogen, cellulose
 - mRNA has code for amino $\overline{\text{a}}$ and polypeptide <img align=right src='diagrams/glycine.png' width=200>
   > Peptide is a short chain of amino $\overline{a}$ linked by peptide bonds
 
-<img src='diagrams/alanine.png' align=right width= 200>
 
 TRNA: transfers amino acid and translate mRNA into sequence of protein.  
 rRNA: helps to form ribosome and assists in protein synthesis.
 
-<img align=right src='diagrams/serine.png' width=200>
-
 - Amino acid is the building block of protein.
+
+<img src='diagrams/alanine.png' align=right width= 200>
 
 - 3 main amino acid in human body:
   - Glycine
@@ -292,9 +291,13 @@ rRNA: helps to form ribosome and assists in protein synthesis.
 
 There are total 20 amino acid
 
+<img align=right src='diagrams/serine.png' width=200>
+
+<br><br><br><br>
+
 ## Zwitterionic form
 
-<img align=right width=200 src>
+<img align=right width=350 src='diagrams/zwitterion.png'>
 
 - Amino acid can exist as ionized form and it is called Zwitterionic form
 
