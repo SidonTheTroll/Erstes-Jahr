@@ -13,3 +13,17 @@ However, the blame should not be solely placed on students; rather, it is our re
 In conclusion, let us work collectively to teach our young minds that discipline is not a restriction, but a guiding force that shapes their character, refines their behavior, and ultimately leads them towards a brighter future. Through discipline, we equip ourselves with the tools to navigate life's challenges with grace and determination.
 
 Thank you.
+
+---
+
+# 29/08/23 
+
+### You are Priya/Piyush. You have to deliver a speech on the topic- "Examination, test of efficiency". Write the speech in about 150-200 words.
+
+Good morning everyone! Respected Principal, teachers and all my dear friends. Today, I'd like to deliver a speech on the topic - 'Examination, test of efficiency'. Exams play a big role in education, but sometimes they can make things competitive and stressful. They check how well we understand our lessons, remember information, and even how creative we are.
+
+We all have dreams, but the education system sometimes feels like a hurdle course. It's not always fair because some students use unfair methods to get high scores. Exams began a long time ago, like in the industrial age, to find obedient workers. The idea was to absorb what's taught and then spit it out in exams. This approach reduced creativity and made us focus on memorizing.
+
+But there's a bright side too. Some students mix their memory and creativity to shine. Yet, the system isn't perfect. People can get high scores with intense coaching, and that's not right.
+
+To sum up, our education system relies heavily on exams, but they have issues. Exams can hurt creativity and make people compete too much. We should rethink this and focus more on helping students think and create. This way, students can do well in exams and also in real life.
