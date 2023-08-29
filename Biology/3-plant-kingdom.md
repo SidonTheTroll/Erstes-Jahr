@@ -29,6 +29,7 @@
 - [11. 25/08/23](#11-250823)
   - [11.1. Gymnosperm](#111-gymnosperm)
   - [11.2. Extra questions](#112-extra-questions)
+- [28/08/23](#280823)
 
 # 1. 20/06/23
 
@@ -525,3 +526,26 @@ Q/ Differences between gymnosperm and angiosperm.
 Q/ Heterosporus is a precursor to the seed habit considered an important evloution. Give reason.
 
 Heterospory's two spore types (microspores, megaspores) reduced water reliance, protected embryos, aided nutrient supply, enabled dispersal, dormancy, and an independent sporophytic life cycle, crucial for seed habit evolution.
+
+# 28/08/23 
+
+**Higher plants:** diploid  
+**Lover plants:** haploid 
+
+**Haplo-diplontic life-cycle:** equal lengths of alteration in haploid and diploid life cycle. 
+
+Ptridophyte has haplo-diplontic type life-cycle 
+
+- **Moss life cycle**
+  - Spores from sporophyte capsule germinate into protonema, producing male and female gametophytes. Sperm from antheridia fertilizes egg in archegonia, forming sporophyte atop gametophyte.
+
+<br>
+
+- **Pteridophyte life cycle**
+  - Spores disperse from sporangia on sporophyte, grow into gametophyte. Sperm from antheridia fertilizes egg in archegonia on gametophyte, leading to sporophyte development.
+
+<br>
+
+- **Bryophyte life cycle**
+  - Spores from sporophyte capsule develop into male and female gametophytes. Sperm from antheridia fertilizes egg in archegonia, forming sporophyte attached to gametophyte.
+
