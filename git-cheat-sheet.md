@@ -57,4 +57,3 @@
 `git config --list`: List your Git configuration.  
 `git remote show <remote_name>`: Show information about a remote repository.  
 `git show <commit_hash>`: Show detailed information about a commit.
-
