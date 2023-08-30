@@ -12,4 +12,4 @@ Has handwritten notes for all subjects except Chemistry and Physics.
 - [ ] Biology 
 - [ ] Biology practical 
 - [x] English 
-- [ ] 
+- [ ] Add 2 bio practicals
