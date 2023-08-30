@@ -196,12 +196,27 @@ Alliance invited for a handsome, tall and cultured IT professional 29 years 180 
 
 ### Q/ You want to let out a flat. Prepare an advertisement to diseffect for publication in a newspaper giving location of the building, nature of accomdation, rent expected, etc. 
 
-|<center> $\underbar{TO-LET}$|
+|<center> TO-LET|
 |-|
 |Available on rent a 3 bedroom flat, second floor, fully furnished, well ventilated. Walking distance from main market and taxi stand. Parking for two cars available. Rent expected Rs. 10,000 (fixed). Contact: Jack Taixiera, 526-(392)-6250|
 
 ### You want to let out a portion of your newly constructed independent house. Draft an advertisement to be published in the 'To-let' classifieds column of a national daily. 
 
-|<center> $\underbar{TO-LET}$|
+|<center> TO-LET| 
 |-|
 Available on rent a 2 bedroom floor, second storey, fully tiled, well ventilated and water supply. Nearby to market complex and hospital. Parking for two cars available. Lawn, balcony and greenhouse available. Rent expected Rs. 13,000 (fixed). Contact: Phil Smith, 423-(573)-2932.| 
+
+
+# 30/08/23 
+
+### You are the manager, Herbal India Ltd. Draft an advertisement for your company for the post of two sales executives. Specify your requirement by drafting an advertisement to be published in the classified columns of a national daily. 
+
+|<centre> SITUATION VACANT|
+|-|
+|Wanted two sales executives for Herbal India Ltd. Minimum requirements include Bachelor's degree in economics or accontancy. Opened for age group 25-32, gender no bar and must be fluent in or more than 3 Indian languages. Apply within one month. Salary negotiable. Contact HR Manager, contact@herbalindia.co.in|
+
+### You have been transferred to another city, you want to sell certain household goods. Draft a suitable advertisement to be published in a newspaper.
+
+|<center> FOR SALE|
+|-| 
+|Available for sale household items such as utensils, mops, plumbing equipment, first aid kits, etc. Open for limited time only. 15% discount. Contact: 94563-15892, Sector 6, Noida|
