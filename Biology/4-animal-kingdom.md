@@ -1,0 +1,49 @@
+- [29/08/23](#290823)
+	- [Basis of classification](#basis-of-classification)
+	- [Symmetry](#symmetry)
+	- [Diploblastic and Triploblastic](#diploblastic-and-triploblastic)
+
+
+# 29/08/23
+
+- Human being are also animal because:
+	- Heterotrophs
+	- Locomotion 
+	- Cell wall absent
+	- Mammalary characteristics 
+
+**Zoology**: study of animals  
+**Cytology**: study of cell  
+**Biochemistry**: study of chemical processes within living beings.  
+**Molecular biology**: study of biological processes at a molecular level.  
+**Genetics**: study of genes, heredity, and variation in living organisms.
+
+## Basis of classification
+
+Classification is based on the level of organization. 
+
+Cell -> Tissue -> Organ -> Organ system 
+
+All higher animals have organ system organization 
+
+**Open circulatory system**: blood is not entirely contained within vessels and comes into direct contact with tissues.  
+**Closed circulatory system**: blood is contained within vessels and distinct from the interstitial fluid.
+
+Hypertension causes brain arteries to burse and damages the brain. This causes problems and may result in coma and paralysis. To avoid this, one must consume sufficient water, fruits and minimize soidum and do adequate exercies. 
+
+Pressure and diabetes are major cause of fatality. 
+
+- Vertibrates have closed circulatory system. 
+
+## Symmetry
+
+- Bilateral symmetry: two halves equal 
+- Radial symmetry: more symmetrical divisions possible
+- Asymmetry: no symmetry present.
+
+## Diploblastic and Triploblastic 
+
+- Diploblastic: Ectoderm, mesoglea, endoderm 
+- Triploblastic: Ectoderm, mesoderm, endoderm
+
+Mesoglea is a gelatinous, non-living substance found between the layers of tissue in cnidarians, such as jellyfish, providing structural support.
