@@ -9,7 +9,4 @@ Has handwritten notes for all subjects except Chemistry and Physics.
 
 ## TODO
 
-- [ ] Biology 
-- [ ] Biology practical 
-- [x] English 
-- [ ] Add 2 bio practicals
+- [ ] Animal kingdom notes 
