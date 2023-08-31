@@ -1,4 +1,4 @@
-monosaccharides: sweet and water soluble 
+**Monosaccharides**: sweet and water soluble 
 
 2-10: polygosaccharide
 +10 unit: Polysaccharide
@@ -6,5 +6,5 @@ monosaccharides: sweet and water soluble
 Rh- rhesus factor 
     The Rh factor is an inherited protein that can be found on the surface of the red blood cell. If your blood type is positive, then your blood cells have the Rh protein.
 
-Male blood positive and femal blood negative hinders the development of the fetus. 
+Male blood positive and female blood negative hinders the development of the fetus. 
 

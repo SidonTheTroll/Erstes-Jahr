@@ -47,3 +47,40 @@ Pressure and diabetes are major cause of fatality.
 - Triploblastic: Ectoderm, mesoderm, endoderm
 
 Mesoglea is a gelatinous, non-living substance found between the layers of tissue in cnidarians, such as jellyfish, providing structural support.
+
+--- 
+
+# 30/08/23
+
+## Coelom
+
+- Coelom is the principal body cavity in most animals, located between the intestinal canal and the body wall.
+
+- Coelomate: Possesing coelom 
+- Acoelomate: Coelom absent 
+
+Iris diaphragm: The iris diaphragm in a microscope is an adjustable aperture that controls the amount of light reaching the specimen, enhancing visibility and image clarity.
+
+Psuedocoelomate: having coelom but false (its a cavity) 
+
+**Coelomte**: annelids, molluscs, arthropods, chordates
+**Acoelomate**: Platyhelminthes
+
+Platyhelminthes (flatworms, liver fluke, etc) don't have full alimentary canal. 
+
+
+## Segmentation 
+
+**Internal or external division of body in serial repetition**
+
+Eg: earthworm, leech, tapeworm, arthropoda 
+
+## Notochord 
+
+Cartilaginous skeletal rod supporting the organism developed during embryonic development.
+
+Chordata: having notochord. Eg- amphibia, reptilia, aves, mammalia 
+Non-chordata: notochord absent. Eg- arthropoda, annelida, mollusca, hemichordata 
+
+
+## 

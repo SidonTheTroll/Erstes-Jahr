@@ -206,6 +206,7 @@ Alliance invited for a handsome, tall and cultured IT professional 29 years 180 
 |-|
 Available on rent a 2 bedroom floor, second storey, fully tiled, well ventilated and water supply. Nearby to market complex and hospital. Parking for two cars available. Lawn, balcony and greenhouse available. Rent expected Rs. 13,000 (fixed). Contact: Phil Smith, 423-(573)-2932.| 
 
+---
 
 # 30/08/23 
 
@@ -213,7 +214,7 @@ Available on rent a 2 bedroom floor, second storey, fully tiled, well ventilated
 
 |<centre> SITUATION VACANT|
 |-|
-|Wanted two sales executives for Herbal India Ltd. Minimum requirements include Bachelor's degree in economics or accontancy. Opened for age group 25-32, gender no bar and must be fluent in or more than 3 Indian languages. Apply within one month. Salary negotiable. Contact HR Manager, contact@herbalindia.co.in|
+|Wanted two sales executives for Herbal India Ltd. Minimum requirements include Bachelor's degree in economics or accontancy. Opened for age group 25-32, gender no-bar and must be fluent in or more than 3 Indian languages. Apply within one month. Salary negotiable. Contact HR Manager, contact@herbalindia.co.in|
 
 ### You have been transferred to another city, you want to sell certain household goods. Draft a suitable advertisement to be published in a newspaper.
 
