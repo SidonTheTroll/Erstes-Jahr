@@ -68,7 +68,6 @@ Psuedocoelomate: having coelom but false (its a cavity)
 
 Platyhelminthes (flatworms, liver fluke, etc) don't have full alimentary canal. 
 
-
 ## Segmentation 
 
 **Internal or external division of body in serial repetition**
@@ -83,4 +82,4 @@ Chordata: having notochord. Eg- amphibia, reptilia, aves, mammalia
 Non-chordata: notochord absent. Eg- arthropoda, annelida, mollusca, hemichordata 
 
 
-## 
+

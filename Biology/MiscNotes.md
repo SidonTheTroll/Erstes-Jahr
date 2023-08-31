@@ -8,3 +8,24 @@ Rh- rhesus factor
 
 Male blood positive and female blood negative hinders the development of the fetus. 
 
+
+# Animal Kingdom
+
+Liver fluke spreads by fragmentation 
+
+> Tapeworm has pieces and adult tapeworm fragments and spreads the eggs wherever it falls. 
+
+Liver fluke also spreads by excreta  
+Has hooks and sucker  
+Alimentary system is incomplete (anus is absent) 
+
+Osmoregulation is maintained by **flame cells**  
+Sexes are nonseparate (hermaphrodite)  
+Has indirect development.  
+Planaria has high regeneration ability.  
+Bilaterally symmetrical  
+Triploblastic and acoelomate  
+
+- Humans are coelomate 
+- Has organ level organization 
+- Dorso-ventrally flattened body
