@@ -20,6 +20,17 @@ Ways to dissect flower:
 6. Pull out stamen or apply precise cut to remove it.
 7. Apply adjustment cuts to remove unwanted parts from gynoecium. 
 
+## Drawing floral diagram 
+
+1. Choose a fixed point of reference for the axis. 
+2. Determine floral symmetry
+3. Draw a circle 
+4. Add sepals 
+5. Add petals 
+6. Add stamens 
+7. Add carpels 
+8. Indicate ovary position 
+
 > Draw floral diagram yourself. 
 
 # Conclusion 
