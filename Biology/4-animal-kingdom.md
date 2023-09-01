@@ -2,6 +2,11 @@
 	- [Basis of classification](#basis-of-classification)
 	- [Symmetry](#symmetry)
 	- [Diploblastic and Triploblastic](#diploblastic-and-triploblastic)
+- [30/08/23](#300823)
+	- [Coelom](#coelom)
+	- [Segmentation](#segmentation)
+	- [Notochord](#notochord)
+	- [Phylum - Porifera](#phylum---porifera)
 
 
 # 29/08/23
@@ -82,4 +87,17 @@ Chordata: having notochord. Eg- amphibia, reptilia, aves, mammalia
 Non-chordata: notochord absent. Eg- arthropoda, annelida, mollusca, hemichordata 
 
 
+## Phylum - Porifera 
 
+Commonly known as sponges 
+
+- Marine and asymmetrical 
+- Cellular level organization 
+- Digestion is intracellular 
+- Skeleton is made of spicules or spongin fibres
+- Hermaphoride (bisexual)
+  - Asexual reproduction also present 
+- Internal fertilization
+- Indirect development 
+
+TODO: describe water transport or canal system. 

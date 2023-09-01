@@ -276,7 +276,6 @@ Polysaccharides -> many saccharide -> starch, glucogen, cellulose
 - mRNA has code for amino $\overline{\text{a}}$ and polypeptide <img align=right src='diagrams/glycine.png' width=200>
   > Peptide is a short chain of amino $\overline{a}$ linked by peptide bonds
 
-
 TRNA: transfers amino acid and translate mRNA into sequence of protein.  
 rRNA: helps to form ribosome and assists in protein synthesis.
 
@@ -318,3 +317,56 @@ Protein produced by our body are biomacromolecules
 - Acid insoluble particles are biomacromolecules
 - Acid soluble particles are biomicromolecules
 
+---
+
+# 01/09/23
+
+#### Peptide bond
+
+<img src='diagrams/peptide-bond.png'>
+
+### Primary protein
+
+- Linear chain of polypeptide bonds
+
+### Secondary protein
+
+- Helical structure
+
+### Tertiary protein
+
+> It is biologycally active.
+
+<img src='diagrams/h2l2-antibody.png' width=500>
+
+**Antibody**: Protein produced by WBC
+
+- Antibodies are proteins that provide immunity against unwanted substance that enters the body
+
+- Made of 3 polypeptide chains.
+
+Antigen is sent to active site for immunity by producing antibodies.
+
+### Quaternary protein
+
+- It is also biologycally active
+- Consists of two or more individual polypeptide chains, often called subunits, coming together to form a larger, functional protein
+
+
+### Functions of Protein
+
+| Protein  | Functions                            |
+| -------- | ------------------------------------ |
+| Collagen | Intercellular ground substance       |
+| Trypsin  | Enzyme                               |
+| Insulin  | Hormone                              |
+| Antibody | Provides immunity                    |
+| Receptor | Sensory reception                    |
+| GLUT-4   | Enables glucose transport into cells |
+
+- Basic hormones are proteinous in nature except sex hormones. 
+
+3 amino acid classification: 
+Neutral amino acid: 1 acidic group + 1 basic group  
+Acidic amino acid: 2 acidic group + 1 basic group  
+Basic amino acid: 1 acidic group + 2 basic group 
