@@ -2,7 +2,7 @@
 
 # Aim of the experiment 
 
-To identify animal specimen
+To identify animal specimen and classifying them based on characteristics. 
 
 # Observation 
 
@@ -31,7 +31,7 @@ Species: oligactis
 1. Inhibits in fresh water bodies.  
 2. It is cylindrical with radial symmetry.  
 3. It is diploblastic.  
-4. It is attatched to structure with flat basal disc. 
+4. It is attatched to surfaces with its flat basal disc. 
 5. Mature hydra forms buds to reproduce. 
 
 ## Liver-fluke 
@@ -43,8 +43,8 @@ Genus: *Fasciola*
 Species: *hepatica* 
 
 1. It is endoparasite in ruminants 
-2. Mouth lise at the front end surrounded by oral sucker. 
-3. Genital pore lise in between the two suckers. 
+2. Mouth lies at the front end surrounded by oral sucker. 
+3. Genital pore lies in between the two suckers. 
 4. Excretory pore occurs on the ventral side at the extreme posterior end. 
 5. Ventral sucker lies before oral sucker 
 
