@@ -26,5 +26,5 @@ Mid term:
 	English:
 		Main book: 2, 3
 		Supplementary: Mother's day, the address
-		Poem: Voice of the rain, the laburnum top 
+		Poem: Voice of the rain, the laburnum top, childhood 
 		Grammar: note making, reading comprehension, poster making, advertisement writing, speech writing, gap filling, narration, rearrangement
