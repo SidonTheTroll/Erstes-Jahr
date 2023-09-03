@@ -10,3 +10,4 @@ Has handwritten notes for all subjects except Chemistry and Physics.
 ## TODO
 
 - [ ] Animal kingdom notes 
+- [ ] Don't overwork
