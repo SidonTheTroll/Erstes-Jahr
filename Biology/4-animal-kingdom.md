@@ -32,7 +32,7 @@ Cell -> Tissue -> Organ -> Organ system
 All higher animals have organ system organization 
 
 **Open circulatory system**: blood is not entirely contained within vessels and comes into direct contact with tissues.  
-**Closed circulatory system**: blood is contained within vessels and distinct from the interstitial fluid.
+**Closed circulatory system**: blood is contained within vessels and distinct from the interstitial fluid (fluid which fills space between cells).
 
 Hypertension causes brain arteries to burse and damages the brain. This causes problems and may result in coma and paralysis. To avoid this, one must consume sufficient water, fruits and minimize soidum and do adequate exercies. 
 
@@ -91,7 +91,8 @@ Non-chordata: notochord absent. Eg- arthropoda, annelida, mollusca, hemichordata
 
 Commonly known as sponges 
 
-- Marine and asymmetrical 
+- Marine 
+- asymmetrical 
 - Cellular level organization 
 - Digestion is intracellular 
 - Skeleton is made of spicules or spongin fibres
@@ -100,4 +101,44 @@ Commonly known as sponges
 - Internal fertilization
 - Indirect development 
 
-TODO: describe water transport or canal system. 
+Water enters through ostia (minute pores) into the osculum (central cavity). This is used for food gathering, respiration and excretion. 
+
+## Phylum - Coelenterata (Cnidarian) 
+
+- Aquatic, mostly marine
+- Sessile or free swimming 
+- Stinging capsules are present on tentacles and body. 
+- Cnidoblasts (stingers) are used for anchorage, defence and predation. 
+- Tissue level organization 
+- Diploblastic 
+- Digestion is interstitial and extracellular. 
+- Some species have Calcium Carbonate skelton. 
+
+- Cnidarians exhibit two forms: 
+    - Polyp 
+    - Medusa
+
+
+Polyp: sessile & cylindrical form  
+Medusa: umbrella-shaped & free swimming 
+
+- Cnidarians which show alteration in generation:   
+    - Polyps reproduce medusae sexually 
+    - Medusae produce polyps sexually 
+
+## Phylum - Ctenophora
+
+> Commonly called sea walnuts or comb jellies. 
+
+- Marine 
+- Radially symmetrical 
+- Tissue level organization 
+- Digestion is extracellular and intracellular 
+- Bioluminiscent
+- Hermaphroide
+- Only sexual reproduction 
+- External fertilization 
+- Indirect development
+
+- Body bears 8 external rows of ciliated comb plates
+
