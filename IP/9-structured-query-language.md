@@ -108,4 +108,15 @@ select * from table_name
 	order by number_column;	-- add desc for descending 
 ```
 
+---
 
+# 02/09/23 
+
+- Show required field condition  
+`select field1, desc1, condition1, desc2, condition2 from table_name where condition1 = '{cond1}' or condition2 = '{cond2}'; `
+
+- Select specific field column data without dupes  
+`select distinct column_name from table_name`
+
+- Show data of characters with initials starting as mentioned character.  
+`select column1, column2 from table_name where column1 like '{char}*';` 
