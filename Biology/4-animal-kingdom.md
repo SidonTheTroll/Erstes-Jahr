@@ -111,7 +111,7 @@ Water enters through ostia (minute pores) into the osculum (central cavity). Thi
 - Cnidoblasts (stingers) are used for anchorage, defence and predation. 
 - Tissue level organization 
 - Diploblastic 
-- Digestion is interstitial and extracellular. 
+- Digestion is interstitial and extracellular.
 - Some species have Calcium Carbonate skelton. 
 
 - Cnidarians exhibit two forms: 
@@ -141,4 +141,5 @@ Medusa: umbrella-shaped & free swimming
 - Indirect development
 
 - Body bears 8 external rows of ciliated comb plates
+
 
