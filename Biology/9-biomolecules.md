@@ -370,3 +370,49 @@ Antigen is sent to active site for immunity by producing antibodies.
 Neutral amino acid: 1 acidic group + 1 basic group  
 Acidic amino acid: 2 acidic group + 1 basic group  
 Basic amino acid: 1 acidic group + 2 basic group 
+
+---
+
+# 02/09/23 
+
+## Lipid
+
+Fat is stored in the **adipose tissue**
+
+- Hydrocarbons: 
+  - Saturated: Alkanes 
+  - Unsaturated: Alkenes, Alkynes
+
+## Unsaturated and Saturated Fatty acid
+
+**Fatty acid**: Long chain of carboxylic acid
+
+- Lipid requirement
+  - Fatty acid 
+  - Glycerol (Alcohol group)
+
+**Triglycerin**: fat molecule that consists of three fatty acids attached to a glycerol molecule and serves as a major energy storage form in animals and plants 
+
+**Hydrogenation**: converting unsaturated molecules to saturated molecules
+
+Saturated fat: solid at room temperature
+Unsaturated fat: liquid at room temperature 
+
+- Functions of **Fat**: 
+  - Energy storage 
+  - Insulation 
+  - Cell structure
+  - Protection 
+  - Absorption of fat-soluble vitamins 
+
+- Essential vitamins: A, D, E, K 
+- Non-essential vitamins: B, C 
+
+> Excess of vitamin is lethal for the body
+
+
+Micronutrient: required in small quantities  
+Macronutrients: required in large quantities 
+
+- Bad cholesterol is deposited in the arteries
+
