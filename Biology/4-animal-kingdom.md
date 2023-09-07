@@ -96,21 +96,23 @@ Commonly known as sponges
 - Cellular level organization 
 - Digestion is intracellular 
 - Skeleton is made of spicules or spongin fibres
-- Hermaphoride (bisexual)
+- Hermaphrodite (bisexual)
   - Asexual reproduction also present 
 - Internal fertilization
 - Indirect development 
+- Collar cells or choanocytes line the spongocoel (central cavity) and the canals. 
 
-Water enters through ostia (minute pores) into the osculum (central cavity). This is used for food gathering, respiration and excretion. 
+Water enters through ostia (minute pores) and released through the osculum (central cavity). This is used for food gathering, respiration and excretion. 
 
 ## Phylum - Coelenterata (Cnidarian) 
 
 - Aquatic, mostly marine
 - Sessile or free swimming 
-- Stinging capsules are present on tentacles and body. 
+- Stinging capsules (Cnidoblast) are present on tentacles and body. 
 - Cnidoblasts (stingers) are used for anchorage, defence and predation. 
 - Tissue level organization 
 - Diploblastic 
+- Indirect developed
 - Digestion is interstitial and extracellular.
 - Some species have Calcium Carbonate skelton. 
 
@@ -118,13 +120,17 @@ Water enters through ostia (minute pores) into the osculum (central cavity). Thi
     - Polyp 
     - Medusa
 
-
 Polyp: sessile & cylindrical form  
 Medusa: umbrella-shaped & free swimming 
 
 - Cnidarians which show alteration in generation:   
     - Polyps reproduce medusae sexually 
     - Medusae produce polyps sexually 
+
+> Box Jellyfish is the most poisonous jellyfish. 
+
+Sea anemone and Hermit crab sometimes live in symbiotic relation  
+Also seen in sea anemone and clownfish. Fish provides excreta as food and anemone gives shelter 
 
 ## Phylum - Ctenophora
 
@@ -135,11 +141,99 @@ Medusa: umbrella-shaped & free swimming
 - Tissue level organization 
 - Digestion is extracellular and intracellular 
 - Bioluminiscent
-- Hermaphroide
+- Hermaphrodite
 - Only sexual reproduction 
 - External fertilization 
 - Indirect development
-
 - Body bears 8 external rows of ciliated comb plates
 
+Some species are extremely poisonous. 
 
+---
+
+# 07/09/23 
+
+## Phylum - Platyhelminthes
+
+- Dorso-ventrally flattened body. 
+- Mosly endoparasites. 
+- Bilaterally symmetrical
+- Triploblastic
+- Organ level organization
+- Acoelomate
+- Flame cell help in osmoregulation and excretion. 
+- Hermaphrodite 
+- Internal fertilization
+
+## Phylum - Aschelminthes
+
+- Freeliving, aquatic, terrestrial or parasitic. 
+- Bilaterally symmetrical
+- Triploblastic
+- Psuedocoelomate
+- Complete alimentary canal. 
+- Dioecious (unisexual)
+- Sexually diamorphic 
+- Internal fertilization
+- Direct and indirect development
+
+> Ascaris in intestine gives ascariasis
+
+## Phylum - Annelida 
+
+- Aquatic or terrestrial
+- Freeliving or parasitic 
+- Organ level organization
+- Bilaterally symmetrical
+- Metamerically segmented
+- Coelomate
+- Triploblastic
+- Possess longitudinal and circular muscles for locomotion 
+- Nephridia helps in osmoregulation and excretion
+- Sexual reproduction
+
+Nereis is dioecious but earthworms and leeches are monoecious (hermaphrodite) 
+
+## Plylum - Arthropoda 
+
+This is the largest plylum in Animalia  
+This also includes insects  
+2/3 of earth's species are in arthropoda
+
+- Organ level organization 
+- Bilaterally symmetrical
+- Triploblastic
+- Segmented body 
+- Coelomate 
+- Body covered with chitinous exoskeleton 
+- Body consists of head, thorax and abdomen
+- Have joined appendages
+- Respiratory system are gills, book gills, book lungs or tracheal system. 
+- Open circulatory system 
+- Antennae, eyes (compound and simple), statocyst are present. 
+- Excretion by malpighian tubules
+- Dioecious
+- Internal fertilization
+- Mostly oviparous
+- Direct and indirect development 
+
+## Mollusca
+
+This is the second largest plylum in Animalia. 
+
+- Terrestrial or aquatic 
+- Organ level organization
+- Bilaterally symmetrical
+- Triploblastic
+- Coelomate 
+
+| Chordates  | Non-chordates   | 
+|-------------- | -------------- |
+| 1. Notochord persent. | 1. Notochord absent. |
+| 2. Central nervous system is dorsal, hollow and single. | 2. Central nervous system is ventral, solid and double. | 
+| 3. Pharynx perforated by gill slits. | 3. Gill slits absent. | 
+| 4. Heart is ventral. | 4. Heart is dorsal. | 
+| 5. A post-anal part (tail) is present. | 5. Post anal tail is absent. | 
+
+- Invertebrate: vertebral column is absent. 
+- Porifera is one of the simplest form of life. 
