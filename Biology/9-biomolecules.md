@@ -1,33 +1,35 @@
-Biomolecules: the molecules that are found in living organisms
+# Biomolecules
 
-Human body is made up of many chemicals and they contribute to the biomolecules
+- **Biomolecules**: the molecules that are found in living organisms
 
-• Human diet mainly consists of proteins, carbohydrates and fats
+Human body is made up of many chemicals and they contribute to the biomolecules.
 
-Protein: C, H, O, N, S
-Carbohydrates: C, H, O
-Fats: C, H, O
+- Human diet mainly consists of proteins, carbohydrates and fats
 
-Nucleic acid consists of DNA and RNA
-Its components are C, H, O, N, P
+**Protein**: C, H, O, N, S  
+**Carbohydrates**: C, H, O  
+**Fats**: C, H, O   
 
-Enzymes: C, H, O, N, S
+- Nucleic acid consists of DNA and RNA
+    - Its components are C, H, O, N, P
 
-• Approximately 27 different elements are found in the human body
+- Enzymes: C, H, O, N, S
 
-Other elements: Calcium, Iodine, Iron, Magnesium, Phosphorus, Sodium, Zinc
+- Approximately 27 different elements are found in the human body. 
 
-Some animals also have gold and radioactive materials in their body
+**Other elements**: Calcium, Iodine, Iron, Magnesium, Phosphorus, Sodium, Zinc
 
-Micro and macro nutrients:
-Micro: found in low quantities
-Macro: found in high quantities
+> Some animals also have gold and radioactive materials in their body
 
-More micro nutrients: physiological disorders
-Less micro and/or macro elements: deficiency
+- Micro and macro nutrients:
+    - Micro: found in low quantities
+    - Macro: found in high quantities
 
-Vitamin A, D, E, K: fat soluble
-Vitamin B, C: water-soluble
+- **More micro nutrients**: physiological disorders
+- **Less micro and/or macro elements**: deficiency
+
+**Vitamin A, D, E, K**: fat soluble  
+**Vitamin B, C**: water-soluble
 
 # 2/6/23
 
