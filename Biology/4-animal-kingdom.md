@@ -226,6 +226,30 @@ This is the second largest plylum in Animalia.
 - Bilaterally symmetrical
 - Triploblastic
 - Coelomate 
+- Body covered by calcareous shell and is unsegmented with a distinct head muscular foot and visceral hump. 
+- Space between and mantle is called the mantle cavity where feather like gills are present with respiratory and excretory functions. 
+- Anterior head region has sensory tentacles. 
+- Mouth contains hard, rough organ called radula for breaking hard objects for nutrition. 
+- Dioecious 
+- oviparous
+- Indirect development
+
+## Phylum - Echinodermata
+
+**Echino**: Spine  
+**Derma**: Skin 
+
+- Adults are radially symmetrical and offsprings are bilateral 
+- Organ level organization 
+- Triploblastic
+- Coelomate
+- Complete digestive system. Mouth on ventral and anus on dorsal side. 
+- Has water vascular system for locomotion, respiration and nutrition. 
+- Excretory system absent 
+- Dioecious
+- Sexual reproduction 
+- fertilization usually external. 
+- Indirect development with free-swimming larva 
 
 | Chordates  | Non-chordates   | 
 |-------------- | -------------- |
