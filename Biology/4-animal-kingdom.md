@@ -226,13 +226,14 @@ This is the second largest plylum in Animalia.
 - Bilaterally symmetrical
 - Triploblastic
 - Coelomate 
-- Body covered by calcareous shell and is unsegmented with a distinct head muscular foot and visceral hump. 
+- Body covered by calcareous shell (Calsium Carbonate) and is unsegmented with a distinct head muscular foot and visceral hump. 
 - Space between and mantle is called the mantle cavity where feather like gills are present with respiratory and excretory functions. 
 - Anterior head region has sensory tentacles. 
 - Mouth contains hard, rough organ called radula for breaking hard objects for nutrition. 
 - Dioecious 
-- oviparous
+- Oviparous
 - Indirect development
+- Very soft body 
 
 ## Phylum - Echinodermata
 
