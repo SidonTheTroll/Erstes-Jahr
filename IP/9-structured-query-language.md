@@ -120,3 +120,10 @@ select * from table_name
 
 - Show data of characters with initials starting as mentioned character.  
 `select column1, column2 from table_name where column1 like '{char}%';` 
+
+# 07/09/23 
+
+- Date datatype  
+Stores as YYYY-MM-DD 
+
+
