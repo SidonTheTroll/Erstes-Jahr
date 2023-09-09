@@ -108,6 +108,8 @@ Water enters through ostia (minute pores) and released through the osculum (cent
 
 - Aquatic, mostly marine
 - Sessile or free swimming 
+- Aquatic, mostly marine
+- Sessile or free swimming 
 - Stinging capsules (Cnidoblast) are present on tentacles and body. 
 - Cnidoblasts (stingers) are used for anchorage, defence and predation. 
 - Tissue level organization 
@@ -238,8 +240,6 @@ This is the second largest plylum in Animalia.
 ## Phylum - Echinodermata
 
 **Echino**: Spine  
-**Derma**: Skin 
-
 - Adults are radially symmetrical and offsprings are bilateral 
 - Organ level organization 
 - Triploblastic
@@ -252,6 +252,26 @@ This is the second largest plylum in Animalia.
 - fertilization usually external. 
 - Indirect development with free-swimming larva 
 
+
+---
+
+# 08/09/23 
+
+## Hemichordata
+
+- They have a simple structure in the collar region called stomochord similar to notochord. 
+- Organ system level organization
+- Bilaterally symmetrical
+- Triploblastic
+- Coelomate 
+- Cylindrical body composed of anterior proboscis, collar and long trunk.
+- Open circulatory system. 
+- Excretory organ proboscis gland. 
+- Dioecious
+- External fertilization
+- Indirect development 
+
+
 | Chordates  | Non-chordates   | 
 |-------------- | -------------- |
 | 1. Notochord persent. | 1. Notochord absent. |
@@ -262,3 +282,17 @@ This is the second largest plylum in Animalia.
 
 - Invertebrate: vertebral column is absent. 
 - Porifera is one of the simplest form of life. 
+
+
+## Phylum - Chordata 
+
+ ____  _                _           _     _           
+|  _ \| | __ _  ___ ___| |__   ___ | | __| | ___ _ __ 
+| |_) | |/ _` |/ __/ _ \ '_ \ / _ \| |/ _` |/ _ \ '__|
+|  __/| | (_| | (_|  __/ | | | (_) | | (_| |  __/ |   
+|_|   |_|\__,_|\___\___|_| |_|\___/|_|\__,_|\___|_|   
+
+
+
+
+
