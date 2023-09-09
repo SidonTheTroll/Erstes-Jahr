@@ -295,4 +295,58 @@ This is the second largest plylum in Animalia.
 
 
 
+## Plylum - Mammalia
+
+- Bilateral
+- Triploblastic
+- Coelomate 
+- Organ system level organization
+- Presence of mammalary gland 
+- Exoskeleton is hairy 
+- Endoskeleton is bony
+- External pinna/ear
+- 4 chambered heart 
+- Warm blooded/homeothermus 
+- Unisexual 
+- Viviparous 
+- Respiration through lungs 
+- Mostly terrestrial 
+
+
+
+Whale and dolphin are aqatic  
+Duck-billed platypus lays egg
+
+## Aves 
+
+- Bilateral
+- Triploblastic
+- Coelomate
+- Organ level system organization
+- Feathery exoskeleton
+- Bony endoskeleton
+- Pulminory respiration 
+- 4 chambered heart 
+- Warm blooded 
+- Limbs modified to wings
+- Have pneumatic (hollow) bones
+- Post anal part present (feathery)
+- Oil gland (preen glands) in post-anal part 
+- Beak present, teeth absent 
+- Streamlined body 
+- One ovary 
+
+Exception: ostrich, penguin, kiwi
+
+## Reptilia 
+
+- Bilateral 
+- Coelomate 
+- Scaly exoskeleton
+- Bony endoskeleton 
+- Cold blooded
+- 4 limbs (snake exception)
+- Oviparous 
+- No external ear 
+
 
