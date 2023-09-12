@@ -323,6 +323,19 @@ Vertebrates have 2, 3 or 4 chamber heart on ventral side.
 Kidney for excretion and osmoregulation.  
 Paried appendages may be fins or limbs.
  
+## Class - Cyclostomata
+
+- Ectoparasites in other fishes. 
+- Possess elongated body bearing 6-15 pair of gill slits. 
+- Mouth has no jaws and is used to suck on host.
+- No scales and paired fins 
+- Cranium and vertebral column are cartilaginous 
+- Closed circulatory system 
+- Marine but migrate to freshwater for spawning. 
+- Indirect development
+
+
+
 # 08/09/23
 
 ## Plylum - Mammalia
