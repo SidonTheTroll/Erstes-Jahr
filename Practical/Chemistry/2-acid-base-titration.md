@@ -1,6 +1,6 @@
 # 30/08/23
 
-## Aim
+## Aim of the experiment
 
 To study the change in pH by titrating strong acid with a strong base using universal indictor.
 
@@ -14,13 +14,13 @@ HCl, NaOH and Phenolphthalein indicator.
 
 ## Theory
 
-It titration of strong acid with a strong base involves neutralization reaction:
+The titration of strong acid with a strong base involves neutralization reaction:
 
 $$
 \text{NaOH} + \text{HCl} --> \text{NaCl} + \text{H}\underset{2}{}\text{O}
 $$
 
-NaOh is taken in the burette and HCl is taken in the conical flask. During titration (i.e., adding NaOH from the burette into the conical flask containing 10 ml HCl) the pH of the solution in the conical flask will increase.
+NaOH is taken in the burette and HCl is taken in the conical flask. During titration (i.e., adding NaOH from the burette into the conical flask containing 10 ml HCl) the pH of the solution in the conical flask will increase.
 
 ## Procedure
 
@@ -41,7 +41,12 @@ NaOh is taken in the burette and HCl is taken in the conical flask. During titra
 
 ## Conclusion 
 
-The pH of the solution gradually changes with the addition of NaOh solution drop-wise into 10 ml HCl. At the end point there is a sudden change in colour purple.
+The pH of the solution gradually changes with the addition of NaOH solution drop-wise into 10 ml HCl. At the end point there is a sudden change in colour purple.
 
+## Precautions
 
-TODO: add precautions
+- Wear safety gear.
+- Handle chemicals carefully.
+- Ensure good lab ventilation.
+- Use calibrated pipettes and burettes.
+- Keep accurate records. 
