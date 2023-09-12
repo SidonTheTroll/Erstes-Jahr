@@ -104,6 +104,8 @@ Commonly known as sponges
 
 Water enters through ostia (minute pores) and released through the osculum (central cavity). This is used for food gathering, respiration and excretion. 
 
+This is one of the simplest form of life. 
+
 ## Phylum - Coelenterata (Cnidarian) 
 
 - Aquatic, mostly marine
@@ -255,22 +257,39 @@ This is the second largest plylum in Animalia.
 
 ---
 
-# 08/09/23 
+# 12/09/23 
 
 ## Hemichordata
 
 - They have a simple structure in the collar region called stomochord similar to notochord. 
+- Marine 
 - Organ system level organization
 - Bilaterally symmetrical
 - Triploblastic
 - Coelomate 
 - Cylindrical body composed of anterior proboscis, collar and long trunk.
+- Gills present 
 - Open circulatory system. 
-- Excretory organ proboscis gland. 
+- **Excretory organ**: proboscis gland. 
 - Dioecious
 - External fertilization
 - Indirect development 
 
+## Phylum - Chordata 
+
+Characterized by presence of notochord in any part of life cycle. 
+
+**Requirements**: dorsal, hollow nerve cord and pharyngeal gill slits. 
+
+- Bilaterally symmetrical
+- Triploblastic 
+- Organ-system level organization 
+- Possess post-anal tail 
+- Closed circulatory system. 
+
+It shows both chordate and non-chordate characters. 
+
+Stomochord is a small bone-like structure
 
 | Chordates  | Non-chordates   | 
 |-------------- | -------------- |
@@ -281,19 +300,30 @@ This is the second largest plylum in Animalia.
 | 5. A post-anal part (tail) is present. | 5. Post anal tail is absent. | 
 
 - Invertebrate: vertebral column is absent. 
-- Porifera is one of the simplest form of life. 
 
+**Chordata is divided into 3 sub-phylums** 
 
-## Phylum - Chordata 
+- Chordata
+    - Urochordata or Tunicata 
+    - Cephalochordata
+    - Vertebrata 
 
- ____  _                _           _     _           
-|  _ \| | __ _  ___ ___| |__   ___ | | __| | ___ _ __ 
-| |_) | |/ _` |/ __/ _ \ '_ \ / _ \| |/ _` |/ _ \ '__|
-|  __/| | (_| | (_|  __/ | | | (_) | | (_| |  __/ |   
-|_|   |_|\__,_|\___\___|_| |_|\___/|_|\__,_|\___|_|   
+<br> 
 
+- Urochordata and Cephalochordata are also called **protochordates** and **are exclusively marine**
 
+Urochordata has notochord in larval stage.  
+Cephalochordata has notochord from head to tail throughout life.
 
+Vertebrata has notochord in the embryonic period. Then it is replaced by cartilaginous or bony **vertebral column** on the **Dorsal side**
+
+***All vertebrates are chordates but not all chordates are vertebrates***
+
+Vertebrates have 2, 3 or 4 chamber heart on ventral side.  
+Kidney for excretion and osmoregulation.  
+Paried appendages may be fins or limbs.
+ 
+# 08/09/23
 
 ## Plylum - Mammalia
 
