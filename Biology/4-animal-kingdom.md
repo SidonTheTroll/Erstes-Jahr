@@ -334,19 +334,5 @@ Duck-billed platypus lays egg
 - Oil gland (preen glands) in post-anal part 
 - Beak present, teeth absent 
 - Streamlined body 
-- One ovary 
-
-Exception: ostrich, penguin, kiwi
-
-## Reptilia 
-
-- Bilateral 
-- Coelomate 
-- Scaly exoskeleton
-- Bony endoskeleton 
-- Cold blooded
-- 4 limbs (snake exception)
-- Oviparous 
-- No external ear 
 
 
