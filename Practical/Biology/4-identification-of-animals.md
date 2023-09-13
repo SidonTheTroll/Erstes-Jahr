@@ -48,9 +48,101 @@ Species: *hepatica*
 4. Excretory pore occurs on the ventral side at the extreme posterior end. 
 5. Ventral sucker lies before oral sucker 
 
+## Shark (Dog-fish)
+
+Kingdom: Animalia  
+Phylum: Chordata  
+Sub-phylum: Vertebrata  
+Super Class: Pisces  
+Class: *Chondrichthyes*  
+Genus: *Scoliodon*
+
+1. Mouth in ventral side.
+2. It has Flattened spindal shaped body.
+3. Has 5 vertical gill slits in each side of body.
+4. Exoskeleton has fine placoid scales. 
+5. Endoskeleton is cartilaginous. 
+6. Swim bladder is absent. 
+
+## Rohu
+
+Kingdom: Animalia  
+Phylum: Chordata  
+Sub-phylum: Vertebrata  
+Super Class: Pieces  
+Class: Osteihcthyes  
+Genus: *Labeo*  
+Species: *rohita*
+
+ ____  _                _           _     _             
+|  _ \| | __ _  ___ ___| |__   ___ | | __| | ___ _ __   
+| |_) | |/ _` |/ __/ _ \ '_ \ / _ \| |/ _` |/ _ \ '__|  
+|  __/| | (_| | (_|  __/ | | | (_) | | (_| |  __/ |     
+|_|   |_|\__,_|\___\___|_| |_|\___/|_|\__,_|\___|_|     
+
+## Frog
+
+Kingdom: Animalia  
+Phylum: Choridata  
+Sub-phylum: Vertebrata  
+Class: Amphibia  
+Genus: *Rana*  
+Species: *tigrina*  
+
+ ____  _                _           _     _             
+|  _ \| | __ _  ___ ___| |__   ___ | | __| | ___ _ __   
+| |_) | |/ _` |/ __/ _ \ '_ \ / _ \| |/ _` |/ _ \ '__|  
+|  __/| | (_| | (_|  __/ | | | (_) | | (_| |  __/ |     
+|_|   |_|\__,_|\___\___|_| |_|\___/|_|\__,_|\___|_|     
+
+## Lizard 
+
+Kingdom: Animalia  
+Plylum: Chordata  
+Sub-phylum: Vertebrata  
+Class: Reptilia  
+Genus: *hemidactylus*
+
+ ____  _                _           _     _             
+|  _ \| | __ _  ___ ___| |__   ___ | | __| | ___ _ __   
+| |_) | |/ _` |/ __/ _ \ '_ \ / _ \| |/ _` |/ _ \ '__|  
+|  __/| | (_| | (_|  __/ | | | (_) | | (_| |  __/ |     
+|_|   |_|\__,_|\___\___|_| |_|\___/|_|\__,_|\___|_|     
+
+
+## Pidgeon
+
+Kingdom: Animalia  
+Plylum: Chordata  
+Sub-phylum: Vertebrata  
+Class: Aves  
+Genus: *Columba*  
+Species: *livia* 
+
+ ____  _                _           _     _             
+|  _ \| | __ _  ___ ___| |__   ___ | | __| | ___ _ __   
+| |_) | |/ _` |/ __/ _ \ '_ \ / _ \| |/ _` |/ _ \ '__|  
+|  __/| | (_| | (_|  __/ | | | (_) | | (_| |  __/ |     
+|_|   |_|\__,_|\___\___|_| |_|\___/|_|\__,_|\___|_|     
+
+## Rabbit
+
+Kingdom: Animalia  
+Plylum: Chordata  
+Sub-phylum: Vertebrata  
+Class: Mammalia  
+Genus: *oryctolagus*  
+Species: *cuniculus*
+
+ ____  _                _           _     _             
+|  _ \| | __ _  ___ ___| |__   ___ | | __| | ___ _ __   
+| |_) | |/ _` |/ __/ _ \ '_ \ / _ \| |/ _` |/ _ \ '__|  
+|  __/| | (_| | (_|  __/ | | | (_) | | (_| |  __/ |     
+|_|   |_|\__,_|\___\___|_| |_|\___/|_|\__,_|\___|_|     
+
 ## Conclusion 
 
-In summary, this experiment distinguished and classified amoeba, hydra and liver-fluke. By analyzing their distinct traits and behaviors, we successfully identified each organism's phylum and class. This experiment emphasized the significance of taxonomy in comprehending animal diversity and adaptation to different habitats.
+In summary, this experiment distinguished with many parasites, fishes, reptiles, bird and animal. By analyzing their distinct traits and behaviors, we successfully identified each organism's phylum and class. This experiment emphasized the significance of taxonomy in comprehending animal diversity and adaptation to different habitats.
 
 ## Precautions
 
