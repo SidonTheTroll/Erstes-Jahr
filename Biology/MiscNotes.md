@@ -29,3 +29,13 @@ Triploblastic and acoelomate
 - Humans are coelomate 
 - Has organ level organization 
 - Dorso-ventrally flattened body
+
+
+# 13/09/2023
+
+Physical and mental weakness leads to sleep walking. 
+
+- Body temperature above 103 degree Fahrenheit is considered high fever
+    - This leads to hallucinations 
+
+Male seahorse doesn't give birth. The female lays eggs in its pouch and the male incubates them.

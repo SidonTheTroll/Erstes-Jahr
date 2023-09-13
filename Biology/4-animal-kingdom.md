@@ -160,7 +160,7 @@ Some species are extremely poisonous.
 ## Phylum - Platyhelminthes
 
 - Dorso-ventrally flattened body. 
-- Mosly endoparasites. 
+- Mostly endoparasites. 
 - Bilaterally symmetrical
 - Triploblastic
 - Organ level organization
@@ -334,31 +334,85 @@ Paried appendages may be fins or limbs.
 - Marine but migrate to freshwater for spawning. 
 - Indirect development
 
+---
+
+# 13/09/2023
 
 
-# 08/09/23
 
-## Plylum - Mammalia
+## Class - Chondrichthyes
 
-- Bilateral
-- Triploblastic
-- Coelomate 
-- Organ system level organization
-- Presence of mammalary gland 
-- Exoskeleton is hairy 
-- Endoskeleton is bony
-- External pinna/ear
-- 4 chambered heart 
-- Warm blooded/homeothermus 
+- Marine 
+- Streamlined body 
+- Cartilaginous endoskeleton 
+- Mouth in ventral side 
+- Notochord persistent throughout life
+- GIll slits are separate without operculum (gill cover)
+- Teeth are modified placoid scales directed backwards
+- Predatory animals
+- Air bladder absent (has to swim continious)
+- Heart is two chambered
+- Some have electric organs (electric ray) and some possess poison sting (sting ray)
+- Cold blooded animals 
 - Unisexual 
-- Viviparous 
-- Respiration through lungs 
+- Males have pelvic fins that bear claspers (to channel semen into the female's cloaca during copulation)
+- Internal fertilization
+- Many of them are viviparous
+
+## Class - Osteichthyes 
+
+- Includes both marine and freshwater fishes
+- Bony endoskeleton 
+- Mouth is mostly terminal 
+- Streamlined body 
+- Four pairs of gills on each side with operculum (gill cover) 
+- Exoskeleton has cycloid/ctenoid scales 
+- Air bladded present to maintain buoyancy
+- 2 chambered heart 
+- Cold blooded 
+- Unisexual
+- External fertilization
+- Mostly oviparous 
+- Direct development
+
+## Amphibia 
+
+- Both aquatic and terrestrial
+- Body divisible into head and trunk
+- Tail is present in some 
+- Skin is moist without scales
+- Most have two pair of limbs 
+- Eyes have eyelids
+- Tympanum represents ears 
+- Alimentary canal, urinary and reproductive tract open into common chamber called **cloaca**
+- Respiration through lungs, gills and skin 
+- 3 chambered heart (1 ventrical, 2 auricles)
+- Cold-blooded
+- Unisexual 
+- External fertilization 
+- Oviparous
+- Indirect development
+
+## Reptilia 
+
+Characterized by creeping or crawling mode of locomotion. 
+
 - Mostly terrestrial 
+- Body covered by dry, cornified skin called scales or scutes 
+- Limbs usually present (except snakes)
+- Usually 3 chambered heart (except crocodile with 4)
+- They are poikilotherms (cannot maintain body temperature)
+- Snakes and lizards shed their skin
+- Unisexual 
+- Internal fertilization
+- Oviparous 
+- Direct development
+- Tympanum represents ears 
 
 
+--- 
 
-Whale and dolphin are aqatic  
-Duck-billed platypus lays egg
+# 08/09/23 
 
 ## Aves 
 
@@ -378,4 +432,25 @@ Duck-billed platypus lays egg
 - Beak present, teeth absent 
 - Streamlined body 
 
+## Class - Mammalia
+
+- Bilateral
+- Triploblastic
+- Coelomate 
+- Organ system level organization
+- Presence of mammalary gland 
+- Exoskeleton is hairy 
+- Endoskeleton is bony
+- External pinna/ear
+- 4 chambered heart 
+- Warm blooded/homeothermus 
+- Unisexual 
+- Viviparous 
+- Respiration through lungs 
+- Mostly terrestrial 
+
+
+
+Whale and dolphin are aquatic  
+Duck-billed platypus lays egg
 
