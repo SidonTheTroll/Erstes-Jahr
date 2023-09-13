@@ -2,6 +2,12 @@
 
 ## Format 
 
+|Key to Abbreviation|
+|-|
+|Mountain: Mt.|
+|Strawberry: Strb. |
+|Ridge: Ridg.|
+
 Title 
 Notes- 
 
@@ -32,6 +38,14 @@ Summary
 4. Women, these days, are much freer than they were in the last century. Not only are they free to take part in social and professional functions of a society and professional functions of a society as an equal to man, but also to look attractive in any given situation. The beauty industry is shrewd enough to exploid this trend and women in every walk of life have something to buy from the range of products that the beauty industry offers. The British matron, today, is the thing of the past.
 
 5. As a result of the number of beauty parlours that have sprung up in every street corner of the metropolises, and the exercises, the health motors and the skin foods that they offer, you can hardly run into an old woman these days. One could say 'old ladies' are fast becoming an extinct species. White hair, wrinkles, bent backs and hollow cheeks, are features of a bygone era. Cosmetic surgery has slowly eradicated these unwanted phenomena. If children of posterity want to look at an old woman, they might have to run to an art gallery and find a medieval painting. 
+
+|Key to Abbreviation|
+|-|
+|Unaffected: Unaf.|
+|Advertisemen: Adv.|
+|America: Amr.|
+|Europe: Eu.| 
+|Economy: Eco.| 
 
 Title: Beauty Industry  
 Notes- 
