@@ -21,6 +21,18 @@ Summary
 
 --- 
 
+### Q/ Passage 11
+
+1. The one industry that remains unaffected by any depression in trade is the beauty industry. The women world over continue to spend money on their faces and bodies even when there is a great slump in othe areas of trade. The number of advertisements proclaiming the miracles performed by the various beauty aids goes to support the fact that, today, with all the tales about emancipation, equality of sexes and feminism, women are still observed with their physical beauty as they were in the time of Cleopetra.
+
+2. America leads the figures, literally and metaphorically. Many parts of Europe by virtue of being affected by political and economic instability, leave precious little for women to beautify themselves. May be, all that women in Europe, can do is to wash and hope for the best. But, the rich and upper middle class women, everywhere in the world, block a substantial amount of their income on beautifying themselves. Why is it so? 
+
+3. The richer the man gets the more obsessed he becomes with high powered cars and electronic gadgets and bank balances. On the contrary, the women especially the urban upper middle class women, find their bodies and faces worthy of investing a major part of their income. 
+
+4. Women, these days, are much freer than they were in the last century. Not only are they free to take part in social and professional functions of a society and professional functions of a society as an equal to man, but also to look attractive in any given situation. The beauty industry is shrewd enough to exploid this trend and women in every walk of life have something to buy from the range of products that the beauty industry offers. The British matron, today, is the thing of the past.
+
+5. As a result of the number of beauty parlours that have sprung up in every street corner of the metropolises, and the exercises, the health motors and the skin foods that they offer, you can hardly run into an old woman these days. One could say 'old ladies' are fast becoming an extinct species. White hair, wrinkles, bent backs and hollow cheeks, are features of a bygone era. Cosmetic surgery has slowly eradicated these unwanted phenomena. If children of posterity want to look at an old woman, they might have to run to an art gallery and find a medieval painting. 
+
 Title: Beauty Industry  
 Notes- 
 
