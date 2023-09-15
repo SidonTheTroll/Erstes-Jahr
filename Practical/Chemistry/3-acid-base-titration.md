@@ -21,7 +21,7 @@ Sodium hydroxide is taken in burette and oxalic acid is taken in conical flask w
 To prepare M/20 solution of Oxalic acid, the weight of oxalic acid required can be calculated by using the formula. 
 
 $$
-\text{Molarity = } \frac{W_b * 1000}{M_b * \text{volume in ml} } \quad\text{or} \quad W_b = \frac{\text{Molarity} * M_b * \text{volume in ml}}{1000}
+\text{Molarity = } \frac{W_b*1000}{M_b*\text{volume in ml}}\quad\text{or}\quad W_b=\frac{\text{Molarity}*M_b *\text{volume in ml}}{1000}
 $$
 
 Where, $W_b$ = Whight of oxalic acid, $\qquad$ $M_b$ = Molecular mass of oxalic acid = 126 g/mol
