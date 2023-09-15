@@ -80,7 +80,7 @@ $$
 
 Molecular mass of NaOH = 40  
 Molarity of NaOH solution = $M_2$  
-Strength of NaOH solution = $M_2$\*40 g = $\underline{\phantom{xyz}}$ g/liter
+Strength of NaOH solution = $M_2$\*40 g = $\underline{xyz}$ g/liter
 
 ## Precautions
 
@@ -91,5 +91,5 @@ Strength of NaOH solution = $M_2$\*40 g = $\underline{\phantom{xyz}}$ g/liter
 
 ## Results
 
-Molarity of the given NaOH solution = $\underline{\phantom{xyz}}$ M  
-Strength of given NaOH solution = $\underline{\phantom{xyz}}$ g/l
+Molarity of the given NaOH solution = $\underline{xyz}$ M  
+Strength of given NaOH solution = $\underline{xyz}$ g/l
