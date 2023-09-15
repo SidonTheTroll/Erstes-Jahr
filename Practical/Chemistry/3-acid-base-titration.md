@@ -29,9 +29,10 @@ Where, $W_b$ = Whight of oxalic acid, $\qquad$ $M_b$ = Molecular mass of oxalic 
 Molarity = M/20 
 
 $$
-W_b = \frac{126 * 250}{20*1000} = 1.57 g 
+W_b = \frac{126 * 250}{20*1000} 
 $$
-Wheght of Oxalic acid required = 1.57 g 
+
+Weight of Oxalic acid required = 1.57 g 
 
 ## Reaction involved 
 
