@@ -63,4 +63,28 @@ File based systems may have duplicated data and stored differently in different 
 "A Database System or a database is an organized collection of structured information, or data, typically stored electronically in a computer system at a central location."
 
 - Database system doesn't keep separate copies of the same data. 
-    - All data are stored in a central location 
+    - All data are stored in a central location that applications can access. 
+
+- If a change is made, it will be only done to one file and the patch will be made to every application referring to it. 
+
+## Database Management System 
+
+- Also known as DBMS 
+
+- DBMS:
+    - Database 
+    - Software 
+
+It allows the person to store, manipulate and retrieve data in a variety of ways. 
+
+Eg: Oracle, DB2, SQL Server, PostgreSQL, MySQL, etc. 
+
+### Advantages of Database 
+
+#### Reduction of data redundancy 
+
+- All data is stored in a central location which makes sure that data remains consistent and secure. 
+
+#### Reduction of data inconsistency 
+
+- Makes sure that if data is copied due to technical error, updates are made to all of them automatically. 
