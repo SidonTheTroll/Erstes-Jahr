@@ -88,3 +88,62 @@ Eg: Oracle, DB2, SQL Server, PostgreSQL, MySQL, etc.
 #### Reduction of data inconsistency 
 
 - Makes sure that if data is copied due to technical error, updates are made to all of them automatically. 
+
+#### Facilitates Sharing of Data 
+
+- Individual pieces of data can be shared among several users and also making users see specific data. 
+
+#### Databases Enforce Standards
+
+- Ensures all the data are centrally stored and follows specific structure and format. 
+
+#### Ensures Data Security
+
+- DBMS ensures data security and privacy by ensuring access to the database is through proper channel and also by carrying out authorization checks whenever sensitive data access is attempted. 
+
+#### Ensures Data Independence
+
+- DBMS separates data descriptions and metadata from application programs, allowing changes to data structures without affecting the programs, ensuring data independence.
+
+## Converting from file system to DBMS 
+
+Things to keep in mind:  
+1. Relational databases do not store all the data in the same table 
+2. Repeated data is moved into its own table
+3. Separated tables this way are linked through a common field in both the tables (called relationship)
+
+Steps to convert table:  
+1. Firstly move all duplicated data into a separate table. 
+2. Establish relationship in the separated tables by adding a common field as we added Doctor ID field in the primary table, using which the records of the duplicate table can be accessed. 
+
+## DBMS Key Concepts 
+
+### 1. Database Schema 
+
+- It is the representation of the structure or design of a database. It repsesents database tables, table structures along with inter-table relationships. Schema is also called visual or logical architecture of a database. 
+
+### 2. Database Instance 
+
+A database instance is a snapshot of a database that exists at a particular time, i.e. the data which is stored in the database at a particular moment of time is called instance of the database.  
+These instances change over time 
+
+### Metadata 
+
+- It refers to the data about the data. 
+- In DBMS context, the data in tables have certain properties and attributes, (type, length, description) that allow DBMS to process the data meaningfully. These are stored in Data Dictionary. 
+
+#### Data Dictionary 
+
+- It contains metadata such as the definitions of all schema objects in the database (tables, views, indexes, datatypes,etc)along with information like: space allocated, default values of columns, integrity constraint information, user's name, privelages and roles along with other general information. 
+
+### Data Constraints
+
+Data stored in a database must fulfil some rules and conditions so that only validated and required data is stored. It is called data constraint. 
+
+List of primary ponstraints:  
+9. NOT NULL
+9. PRIMARY KEY 
+9. UNIQUE
+9. CHECK 
+9. DEFAULT 
+9. FOREIGN KEY
