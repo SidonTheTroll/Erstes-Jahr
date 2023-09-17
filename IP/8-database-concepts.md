@@ -127,7 +127,7 @@ Steps to convert table:
 A database instance is a snapshot of a database that exists at a particular time, i.e. the data which is stored in the database at a particular moment of time is called instance of the database.  
 These instances change over time 
 
-### Metadata 
+### 3. Metadata 
 
 - It refers to the data about the data. 
 - In DBMS context, the data in tables have certain properties and attributes, (type, length, description) that allow DBMS to process the data meaningfully. These are stored in Data Dictionary. 
@@ -136,14 +136,128 @@ These instances change over time
 
 - It contains metadata such as the definitions of all schema objects in the database (tables, views, indexes, datatypes,etc)along with information like: space allocated, default values of columns, integrity constraint information, user's name, privelages and roles along with other general information. 
 
-### Data Constraints
+### 4. Data Constraints
 
 Data stored in a database must fulfil some rules and conditions so that only validated and required data is stored. It is called data constraint. 
 
-List of primary ponstraints:  
+List of primary constraints:  
 9. NOT NULL
 9. PRIMARY KEY 
 9. UNIQUE
 9. CHECK 
 9. DEFAULT 
 9. FOREIGN KEY
+
+### 5. Query
+
+- A query is a type of command that retrieves data from a database stored in a server. It is written in SQL (specifically made for typing queries)
+- It can either be select query or action query. 
+
+- Queries: 
+    - Select query: Requests data from a database from one or more tables. 
+    - Action query: Changes, updates or add data into databases. 
+
+### 6. Data Manipulation
+
+- Data manipulation involves using action queries to insert, update, or delete data in database tables.
+
+### 7. Database Engine
+
+- A database engine is the core software within a DBMS that manages data operations in a database.
+
+- Types: 
+    - Storage Engine: This component is responsible for storing and retrieving data from stable storage media, such as hard drives or SSDs. It ensures data durability and handles the physical aspects of data management.
+    - Query Processor: The query processor is in charge of accepting, parsing, and executing SQL (Structured Query Language) commands. It interprets user queries, interacts with the storage engine to fetch or update data, and returns the results to the user or application. 
+
+# Relational Database Model
+
+- Data is organized into tables. These tables are called relations. 
+- A row in a table represents a relationship among a set of values. 
+- It is derived from the mathematical term **relation**.
+
+- **Rows of realtion are called tuples
+- Columns are referred to as attributes. 
+
+## Components of a table 
+
+- **Byte**: it is a group of eight bits and is used to store characters. 
+
+- **Data Item (Field)**: A data item is the smallest unit of named data. It may consist of any number of bits or bytes. A data item represents one type of information and is often referred to as a field or data element. 
+
+- **Record**: A record is a named collection of data items which represents a complete unit of information. 
+
+- **Table**: A table is a named collection of all occurances of a given type of logical record. 
+
+- **Other database models**: 
+    - Network Data Model 
+    - Hierarchial Data Model 
+    - Object Oriented Data Model 
+
+> **Only one field can have unique value. Such fields are called primary key.** 
+
+<br> 
+
+A relational data model is based on a collection of tables (relations). The user of the RDBMS may query these tables, insert new tuples, delete tuples and modify tuples. 
+
+There are several languages for expressing these operations such as relational query language and relational algebra. 
+
+# The Relational Model Terminology 
+
+- This model was put forward by E.F. Codd of the IBM. Since then, it is considered very important concept of DBMS technology. 
+
+### Relation 
+
+Relation is a table and has the following properties: 
+
+1. In any given column of a table, all items are of th esame kind whereas items in different columns may not be the same kind. 
+2. For a row, each column must have an atomic (indivisible) value and also for a row, a column cannot have more than one value. 
+3. All rows of a relation are distinct. That is, a relation does not contain two rows which are identical in every column. That is, each row, of the relation can be uniquely identified by its contents. 
+4. There is no order maintained for rows inside a relation. That is, we cannot retrieve anything by saying that from row number 5, column name is to be accessed.
+5. The columns of a relation are assigned distinct names and the ordering of these columns is immaterial.
+
+### Domain 
+
+A domain is a pool of values from which the actual values appearing in a given column are drawn. 
+
+- It is said to be atomic if elements of the domain are considered to be individual units. 
+
+> An atomic domain means that the values within it are treated as indivisible, single units. In simple terms, you can't break them down into smaller pieces. For example, if you have a domain for "ages," each age is a single, whole number, like 25 or 30, and not something like "25 years and 6 months."
+
+### Tuple 
+
+A row of tables (realtions) are generally referred to as tuples.
+
+### Attributes 
+
+A column of tables (realtions) are generally referred to as attributes. 
+
+### Degree
+
+A relation's degree is determined by the number of attributes it has. If a relation has three attributes, we call it a "degree 3" relation. Likewise, if a relation has 'n' attributes, it's called a "degree n" relation. In simpler terms, the degree of a relation just tells us how many characteristics or properties are associated with that relation.
+
+### Cardinality
+
+The number of tuples (rows) in a realtion is called the cardinality of the realtion. 
+
+## Properties of a Relation
+
+### Properties of Columns (Attributes) 
+
+#### Sequence/Ordering of Columns is Insignificant 
+
+This property states that the ordering of the columns in the relational table has no meaning. Columns can be retrieved in any order and in various sequences. 
+
+#### Each Column has a Unique Name 
+
+Since the sequence of columns is insignificant, columns must be referred by name and not by position. 
+
+### Properties of Rows (attributes)
+
+#### Each Row is Unique (distinct) 
+
+This property ensures that no two rows in a relational table are identical; there is at laest one column, or set of columns, the values of which uniquely identify each row in the table.
+
+#### The Sequence of Rows is Insignificant
+
+This property states that the ordering of the rows in the relational table has no meaning. Rows can be retrieved in any order and in various sequences. 
+
