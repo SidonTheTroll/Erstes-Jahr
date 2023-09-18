@@ -395,3 +395,18 @@ Some of its functions are:
     - **ALTER** changes or modifies existing schema objects. 
     - **DROP** deletes or removes schema objects. 
     - More examples include: **CREATE TABLE, ALTER TABLE, DROP TABLE, CREATE INDEX, ALTER INDEX, RENAME TABLE, TRUNCATE, etc.**
+2. **Grant and revoke privileges and roles**: This section of DDL commands are used to grant or revoke permissions or privileges to work upon schema objects. This section of commands are also known as **Data Control Language (DDL)**
+    - **GRANT** gives a user certain permissions. 
+    - **REVOKE** takes away the privileges. 
+3. **Maintenance Commands**: This section of DDL commands aer used to analyse information on a table with an aim of maintaining it.
+    - Some commands are: **ANALYZE TABLE, CHECK TABLE, REPAIR TABLE, RESTORE TABLE, etc** 
+
+### DML Commands
+
+By data manipulation, it means: 
+
+- The retrieval of information stored in the database. 
+- The insertion of new information into the database. 
+- The deletion of information from the database. 
+- The modification of data stored in the database.
+
