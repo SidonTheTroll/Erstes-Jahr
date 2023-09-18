@@ -263,8 +263,47 @@ This property states that the ordering of the rows in the relational table has n
 
 ### Properties or Relations
 
-#### Values are automatically
+#### Values are Atomic 
 
 Columns and rows in a relational table cannot contain groups of groups of arrays of values (a row cannot contain multiple values for a `phone_number` column). Exactly, a column must have one value of a row.
 
+#### A column's values are from the same domain
 
+It means that all thn values of a calumn are of the same kind, i.e., from the same domain. 
+
+#### Columns cannot contain empty values
+
+Any column's value cannot be left blank. 
+
+> If thn value of thn column is unknown or unavailable, a legal blank value of ***NULL*** can be designated to represent missing value. 
+
+## Keys in a Database 
+
+It is required to distinguish rows conceptually, for a database the difference among them must be expressed in terms of their attributes. That is the work of **KEYS**. 
+
+### Primary Key
+
+It is used ti assigne a tuple having a unique value for a distinguished field that are unique to that tuple. 
+
+If a primary key consists of more than one attribute, it is called **composite-primary-key**. 
+
+> The primary key is non-redundant (doesn't has duplicate values in the same realtion. )
+> Non-primary-key attributes of a table can be referred to as **non-key attributes**
+
+### Candidate Key 
+
+If a realtion has more than one attribute possessing the unique identificatiob property, all such instances are called candidate key. 
+
+If there are two or more than two candidate keys, one of them can de defined as primary key. 
+
+### Alternate Key 
+
+If there are multiple Candidate keys and one if them is defined as primary key, the rest of them are **alternate keys**.
+
+### Foreign key 
+
+A foreign key can be as an non-primary attribute which is the primary key in other table. 
+
+The table in which the foreign-key attribute exists is called the Foreign Table of Detail Table. 
+
+The table that defines Primary-key, which the *foreign-key* of *detail-table* refers to is called the **Primary table** or **Master Table**r the *parent table* sometimes. 
