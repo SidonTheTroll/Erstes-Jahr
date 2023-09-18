@@ -306,4 +306,92 @@ A foreign key can be as an non-primary attribute which is the primary key in oth
 
 The table in which the foreign-key attribute exists is called the Foreign Table of Detail Table. 
 
-The table that defines Primary-key, which the *foreign-key* of *detail-table* refers to is called the **Primary table** or **Master Table**r the *parent table* sometimes. 
+The table that defines Primary-key, which the *foreign-key* of *detail-table* refers to is called the **Primary table** or **Master Table** or the *parent table* sometimes. 
+
+## Referential Integrity 
+
+A referential integrity is a system of rules that a DBMS uses to ensure that relationships between records in related tables are valid, and that users don't accidentally delete or change related data. 
+
+- Referential integrity can be set when all the following conditions are met: 
+    - The matching field from the primary table is a primary key or has a unique index. 
+    - The related fields have the same data type. 
+    - Both tables belong to the same database. If the tables are linked tables, they must be of same DBMS format, and you must open the database in which they are stored to set referential integrity. Referential integrity can't be enforced for linked tables from databases in other formats. 
+
+- On setting up Referential Integrity, the following rules must be followed: 
+    - You can't enter a value in the foreign key field of the related table that doesn't exist in the primary key of the primary table. However, you can't enter a Null value in the foreign key, specifying that the records are unrelated. 
+    - You can't delete a record from a primary table if matching records exist in a related table. 
+    - You can't change a primary key value in the primary table, if that record has related records. 
+
+## Disadvantages of Databases 
+
+- Security can be compromised without good controls. 
+- Integrity may be compromised without goot controls. 
+- Extra hardware may be required. 
+- Performance overhead may be significant. 
+- System is likely to be complex. 
+
+# Brief History of MySQL 
+
+- MySQL is a freely available open source RDBMS that uses Structured Query Language. 
+- Information are stored in a table. 
+- A single MySQL database can contain many tables at once and store thousands of individual records. 
+- It provides rich set of features that support secure environment for storing, maintaining and accessing data. 
+- It was created and supported by MySQL AB, a company based in Sweden. This company is now a subsidary of Sun Microsystems, which holds the copyright to most of the codebase. 
+- On 20th April, 2009, Oracle Corp., which develops and sells the proprietary Oracle database, announced a deal to aquire Sun Microsystems. 
+- Chief inventor was Michael Widenius (aka Monty). 
+    - MySQL is named after his daughter '**My**'. 
+    - The logo dolphin's name is '**Sakila**'.
+
+# MySQL Database System 
+
+MySQL database system refers to the combination of a MySQL server instance and a MySQL database. It operates using client/server architecture in which the server runs on the machine containing the databases and client connects to the server over a network. MySQL is a multi-user database system, meaning several users can login simultaneously. 
+
+- Here: 
+    - The server listens for client requests coming in over the network and accesses database contents according to those requests and provides to the clients.
+    - Clients are programs that connect to the database server and issue queries in a per-specified format. 
+
+<br> 
+
+- Features: 
+    1. **Speed**: If hardware is optimal, MySQL runs very fast. 
+    2. **Easy of use**: It has a high-performing and relatively simple database. 
+    3. **Cost**: MySQL is available free of cost. It is an "Open Source" database. It is a part of LAMP (Linux, Apache, MySQL, PHP/Perl/Python) environment, a fast and growing opens source enterprise software stack. 
+    4. **Query Language Support**: MySQL understands standards based SQL. 
+    5. **Portability**: It supports various OS and has been tested on different compilers. 
+    6. **Data Types**: It supports various types of data with fixed or variable length. 
+    7. **Security**: MySQL offers a privelage and password system that is very flexible and secure, and allows host-based verification. Passwords are secure because all password traffic is encrypted when you connect to a server. 
+    8. **Scalability and Limits**: MySQL can handle large databases. Real life examples include databases with 5 million to 5 billion rows. 
+    9. **Connnectivity**: Clients can connect to the server using various protocols. 
+    10. **Localizaiton**: The client provides error messages in many languages. 
+    11. **Clients and Tools**: MySQL provides several client and utility programs. 
+
+# MySQL and SQL 
+
+In order to access data within the MySQL database, all programs and users must use SQL. SQL is a set of commands that is recognised by nearly all RDBMSs.
+
+Usage of SQL has become a standard for most of RDBMSs. Though applications programs and MySQL tools often allow users to access database without directly using SQL, but these applications in turn must use SQL when executing the user's request.
+
+SQL is a language that enables you to create and operate on relational databases, which are sets of related information stored in tables. 
+
+## Processing Capabilities of SQL 
+
+1. **Data Definition Language (DDL)**: The SQL DLL provides commands for defining relatino schemas, deleting relations, creating indexes and modifying relation schemas. 
+2. **Interactive Data Manipulation Language (DML)**: The SQL DML includes a query language which includes also commands to insert, delete and modify tuples in the database. 
+3. **Embedded Data Manipulation Language**: The embedded form of SQL is designed to use within general-purporse programming languages such as python, C, CPP, etc. 
+4. **Authorization**: The SQL DDL includes commands for specifying access rights to relations and views. 
+5. **Integrity**: The SQL provides (liimited) forms of integrity checking. Future products and standards of SQL are likely to include enhanced features for integrity checking. 
+6. **Transaction Control**: SQL includes commands for specifying the beginning of and ending of transactions along with commands to have control over transaction processing. 
+
+## Classification of SQL Statments 
+
+SQL, technically speaking, is a data sublanguage, i.e., it is a language used to interact with database only. It is different from other languages such as C, Cpp, javascript, etc. 
+
+### DDL Commands 
+
+Data Definition Language (DDL) commands allow the user to perform tasks related to data definition. 
+
+Some of its functions are:  
+1. **Create, alter and drop schema objects**: These commands are used to create or define, change or delete objects such as a table, a view, and index, etc. 
+    - **ALTER** changes or modifies existing schema objects. 
+    - **DROP** deletes or removes schema objects. 
+    - More examples include: **CREATE TABLE, ALTER TABLE, DROP TABLE, CREATE INDEX, ALTER INDEX, RENAME TABLE, TRUNCATE, etc.**
