@@ -261,3 +261,10 @@ This property ensures that no two rows in a relational table are identical; ther
 
 This property states that the ordering of the rows in the relational table has no meaning. Rows can be retrieved in any order and in various sequences. 
 
+### Properties or Relations
+
+#### Values are automatically
+
+Columns and rows in a relational table cannot contain groups of groups of arrays of values (a row cannot contain multiple values for a `phone_number` column). Exactly, a column must have one value of a row.
+
+
