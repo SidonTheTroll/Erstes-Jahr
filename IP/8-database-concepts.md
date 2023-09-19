@@ -203,11 +203,12 @@ These instances change over time
 
 #### 3.3.3.1. Data Dictionary
 
-- It contains metadata such as the definitions of all schema objects in the database (tables, views, indexes, datatypes,etc)along with information like: space allocated, default values of columns, integrity constraint information, user's name, privelages and roles along with other general information.
+- It contains metadata such as the definitions of all schema objects in the database (tables, views, indexes, datatypes,etc) along with information like: space allocated, default values of columns, integrity constraint information, user's name, privelages and roles along with other general information.
 
 ### 3.3.4. Data Constraints
 
-Data stored in a database must fulfil some rules and conditions so that only validated and required data is stored. It is called data constraint.
+Data stored in a database must fulfil some rules and conditions so that only validated and required data is stored. It is called data constraint.  
+It makes sure that a set of rules are fulfiled that define valid data. 
 
 - List of primary constraints:  
     1. NOT NULL 
@@ -244,7 +245,7 @@ Data stored in a database must fulfil some rules and conditions so that only val
 - A row in a table represents a relationship among a set of values.
 - It is derived from the mathematical term **relation**.
 
-- \*\*Rows of realtion are called tuples
+- Rows of realtion are called tuples
 - Columns are referred to as attributes.
 
 ## 4.1. Components of a table
