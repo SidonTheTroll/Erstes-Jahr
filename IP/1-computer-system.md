@@ -1,26 +1,43 @@
-### 25/04/23
+- [1. 25/04/23](#1-250423)
+  - [1.1. Storage: Primary and secondary](#11-storage-primary-and-secondary)
+  - [1.2. Booting](#12-booting)
+  - [1.3. Charles Babbage](#13-charles-babbage)
+  - [1.4. The most important input device is the keyboard.](#14-the-most-important-input-device-is-the-keyboard)
+  - [1.5. The CPU](#15-the-cpu)
+- [2. 26/04/23](#2-260423)
+  - [2.1. Software](#21-software)
+  - [2.2. Booting](#22-booting)
+  - [2.3. RAM](#23-ram)
+- [3. 27/04/23](#3-270423)
+  - [3.1. Railway systems/services use DOS](#31-railway-systemsservices-use-dos)
+  - [3.2. Machine Language](#32-machine-language)
+  - [3.3. Binary to Decimal](#33-binary-to-decimal)
+  - [3.4. High-Level Language](#34-high-level-language)
 
-#### Storage: Primary and secondary
+
+### 1. 25/04/23
+
+#### 1.1. Storage: Primary and secondary
 
 Primary: RAM and ROM
 
-#### Booting
+#### 1.2. Booting
 
 Booting is the process of starting up a computer and loading the necessary software to make it operational. It includes hardware checks, loading the operating system, and initializing system components.
 
 The OS is stored in the hard disk.
 
-#### Charles Babbage
+#### 1.3. Charles Babbage
 
 Charles Babbage is known as the father of the computer because he designed and developed the first mechanical computer in the 19th century.
 
-#### The most important input device is the keyboard.
+#### 1.4. The most important input device is the keyboard.
 
 Input devices: Keyboard, mouse, joystick, scanner, light pen, microphone, etc.
 
 Output devices: Monitor, speaker, printer, headphones, projector, etc.
 
-#### The CPU
+#### 1.5. The CPU
 
 The CPU is logically divided into three parts, i.e., ALU, CU, and MU.
 
@@ -33,6 +50,7 @@ Memory Unit: stores data or instructions temporarily or permanently, including p
 The CPU powers and operates/communicates with all peripheral devices.
 
 Drivers are required to use any peripheral device.
+
 - They usually come on compact disks or can be installed from the internet.
 - These drivers are an introductory part between the computer and peripherals and require an installation process to be usable.
 
@@ -40,9 +58,9 @@ Plug and play devices: the devices that are designed to be recognized and config
 
 ---
 
-### 26/04/23
+### 2. 26/04/23
 
-#### Software
+#### 2.1. Software
 
 Software: System (operating system) and application (depends on requirements)
 
@@ -62,14 +80,14 @@ Application software is also installed in the secondary memory.
 
 Upon pressing the power button, OS copies from secondary to the primary memory.
 
-#### Booting
+#### 2.2. Booting
 
 Booting: warm and cold.
 
 Cold booting: the computer was turned off at first.
 Warm booting: shut down and start again (restart)
 
-#### RAM
+#### 2.3. RAM
 
 - Its full form is Random Access Memory
 - It is a primary memory.
@@ -88,9 +106,9 @@ Some disks are rewritable but can only be done a few times, and rewriting it nee
 
 ---
 
-### 27/04/23
+### 3. 27/04/23
 
-#### Railway systems/services use DOS
+#### 3.1. Railway systems/services use DOS
 
 DOS: Disk Operating System
 
@@ -101,12 +119,13 @@ Till now, modern PCs can also run DOS, but the disk is not required as the OS ca
 Linux is the most popular among free OS.
 
 Reasons to use Linux:
+
 - Virus-free
 - Modifiable
 - Free to use
 - Lightweight
 
-#### Machine Language
+#### 3.2. Machine Language
 
 A computer can only understand signals, i.e., high voltage (1) and low voltage (0).
 
@@ -114,7 +133,7 @@ A computer can only understand signals, i.e., high voltage (1) and low voltage (
 
 All the alphabets, numbers, punctuation marks, and space are only recognized as a picture in a computer, and each one of them is recognized as a particular signal.
 
-#### Binary to Decimal
+#### 3.3. Binary to Decimal
 
 A = 1000001
 
@@ -125,11 +144,11 @@ Therefore, B = 66
 
 ASCII, abbreviated from American Standard Code for Information Interchange, is a character encoding standard for electronic communication. ASCII codes represent text in computers, telecommunications equipment, and other devices.
 
-95 is the ASCII value for '_'
+95 is the ASCII value for '\_'
 
 Upon division of 97 with 2 and the other quotients and getting the remainder, we get the number 010011; this is called ASCII code.
 
-#### High-Level Language
+#### 3.4. High-Level Language
 
 Computer languages (C, C++, JS, Java, Python, etc.) are called high-level languages.
 
@@ -143,3 +162,4 @@ public class Acid {
         System.out.println(a);
     }
 }
+```

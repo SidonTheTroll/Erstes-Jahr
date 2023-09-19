@@ -1,8 +1,15 @@
-### 29/04/23
+- [1. 29/04/23](#1-290423)
+  - [1.1. Getting Started with Python](#11-getting-started-with-python)
+    - [1.1.1. Planning - Algorithm or Flow Chart](#111-planning---algorithm-or-flow-chart)
+- [2. Installing Python in Windows](#2-installing-python-in-windows)
+- [3. IDE (Integrated Development Environment)](#3-ide-integrated-development-environment)
 
-#### Getting Started with Python
 
-##### Planning - Algorithm or Flow Chart
+### 1. 29/04/23
+
+#### 1.1. Getting Started with Python
+
+##### 1.1.1. Planning - Algorithm or Flow Chart
 
 **Algorithm**
 
@@ -25,6 +32,7 @@ Combining languages is not counted as a new language.
 Base Languages of Python: ABC, Modula 3
 
 **Advantages:**
+
 - Easy to use
 - Expressive
 - Fewer lines of code
@@ -35,6 +43,7 @@ Base Languages of Python: ABC, Modula 3
 - Variety of uses
 
 **Disadvantages:**
+
 - Not fast
 - Less libraries than C and Java
 - Dynamic nature is vulnerable to security issues
@@ -44,7 +53,7 @@ Base Languages of Python: ABC, Modula 3
 
 Library package: toolkits to implement in the code to increase functionality easily along with saving time.
 
-### Installing Python in Windows
+### 2. Installing Python in Windows
 
 1. Go to the official website of Python at [https://www.python.org/downloads/](https://www.python.org/downloads/) and click on the "Download Python" button.
 
@@ -72,11 +81,12 @@ Python is pre-installed in Linux for a barebones installation, the following ste
 
 3. When done, type 'python3' in the terminal.
 
-### IDE (Integrated Development Environment)
+### 3. IDE (Integrated Development Environment)
 
 IDE stands for Integrated Development Environment. An integrated development environment (IDE) is software for building applications that combines common developer tools into a single GUI.
 
 **Advantages of using an IDE:**
+
 - Code editing automation
 - Syntax highlighting
 - Intelligent code completion
@@ -88,6 +98,7 @@ IDE stands for Integrated Development Environment. An integrated development env
 A Python file ends with the extension '.py'.
 
 **Examples of Python IDEs:**
+
 - PyCharm: PyCharm is a popular cross-platform IDE developed by JetBrains. It provides advanced features such as code completion, debugging, and version control integration.
 - Visual Studio Code: Visual Studio Code is a lightweight but powerful cross-platform IDE developed by Microsoft. It has built-in support for Python, as well as many other programming languages.
 - Spyder: Spyder is an open-source IDE specifically designed for scientific computing and data analysis with Python. It has a user-friendly interface and provides many features for data visualization and analysis.
