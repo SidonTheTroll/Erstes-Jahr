@@ -2,8 +2,6 @@
 
 Has handwritten notes for all subjects except Physics.
 
-<br>
-
 ---
 
 ## TODO
