@@ -19,7 +19,16 @@
 
 #### 1.1. Storage: Primary and secondary
 
-Primary: RAM and ROM
+- Primary: 
+    - RAM 
+    - ROM
+
+- Secondary: 
+    - USB Stick
+    - Blue-Ray Disk
+    - SSD 
+    - SD Card 
+    - etc 
 
 #### 1.2. Booting
 
@@ -163,3 +172,49 @@ public class Acid {
     }
 }
 ```
+
+
+--- 
+
+# Extra 
+
+# Introduction 
+
+- Computers can be divided into 
+    - **Hardware**: Physical electronic components. 
+    - **Software**: Recorded instructions and programs that run the computer. 
+
+# Computer System 
+
+- Can be divided into 5 parts: 
+    - **Input unit**: Responsible for taking inputs for the computer. 
+    - **Output unit**: Responsible for processing output. 
+    - **Central Processing Unit**: Responsible for processing data and instructions. It has two parts:
+        - *Arithmetic & Logical Unit (ALU)*: Responsible for carrying out the arithmetic instructions and make logical decisions. 
+        - *Control Unit*: Responsible for controlling and supervising the processing. 
+    - **Primary memory**: Internal volatile memeory where data and instructions are stored during processing. 
+    - **Secondary Storage Unit**: Refers to external storage devices which provide permanent memory to the computer system. 
+
+## Comuter Organization 
+
+It refers to the logical structure of computer describing how its components are connected to one another. 
+
+Computers work by the *'IPO'* principle, i.e., Input $\rightarrow$ Process $\rightarrow$ Output 
+
+## Input unit (input devices) 
+
+The input unit is formed by the input devices attached to the computer. 
+
+The input unit is responsible for taking input and converting it into binary code. 
+
+The input unit is comprised of different input devices that take the input and differnt forms and pass them in digital form to CPU for processing. 
+
+## Output Unit (Output Devices) 
+
+Output unit is formed by the output units attached to the computer. 
+
+The output coming from the CPU is in the form of electronic binary signals which needs conversion in some form which can be easily understood by human beings, i.e., characters, graphics and audio-visual form. 
+
+## The CPU (Central Processing Unit) 
+
+The CPU or the Central Processing Unit is the main control center 
