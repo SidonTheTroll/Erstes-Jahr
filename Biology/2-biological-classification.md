@@ -26,7 +26,15 @@
       - [Unequal size gametes - anisogamete](#unequal-size-gametes---anisogamete)
       - [Oogamy](#oogamy)
   - [Ascomycetes](#ascomycetes)
-    - [Bacteriophage virus](#bacteriophage-virus)
+  - [Basidiomycetes](#basidiomycetes)
+      - [After meiosis](#after-meiosis)
+  - [Deuteromycetes](#deuteromycetes)
+    - [Lichen](#lichen)
+    - [Plant succession](#plant-succession)
+- [Virus, Viroids and Prions](#virus-viroids-and-prions)
+- [Notes](#notes)
+  - [Single Stranded DNA virus: influenza virus](#single-stranded-dna-virus-influenza-virus)
+  - [Bacteriophage virus](#bacteriophage-virus)
 
 # Introduction
 
@@ -588,8 +596,7 @@ The cells are motile (capable of motion)
 
 ‣ The smaller gamete acts like male gamete and the larger one acts like female
 
-
-####  Oogamy
+#### Oogamy
 
 <img src='./diagrams/ch3/oogamy.png' width=380>
 
@@ -599,172 +606,177 @@ The cells are motile (capable of motion)
 
 ## Ascomycetes
 
+<img src='./diagrams/ch3/ascomycetes.png' width=400>
+
 > Also known as **sac-fungi** (saccus = bag in latin)
 
-- These are septate
-- Mostly multicellular
-- Saprophytic, decomposer, parasitic or coprophilious
-- Mycelium is branched and septate
-- Conida produces spores (asexual)
-- Sexual spores are produced endogenously
-- The spore bag is called ascus
+- These are **septate**
+- Mostly **multicellular**
+- **Saprophytic, decomposer, parasitic or coprophilious**
+- **Mycelium** is **branched and septate**
+- **Conida** produces **spores** (asexual)
+- **Sexual spores** are **produced endogenously**
+- The **spore bag** is called **ascus**
 
-{https://i.imgur.com/ZxgAkeM.png}
+> Neurospora is an important fungus for genetic study
 
-- Neurospora is important for genetic study
+> Edible ascomycetes eg.- truffle & morels
 
-- Edible ascomycetes eg.- truffle & morels
+- Eg- penicillium, yeast (only unicellular), aspergillus, neurospora
 
-Eg- penicillium, yeast (only unicellular), aspergillus, neurospora
+- **Coprophilious fungi**: These arefungi that **thrive on or are associated** with **animal dung** as their **primary substrate** for growth and reproduction.
 
-Coprophilious fungi eg- Pilobolus, Cyathus, and Bolbitius
+> Coprophilious fungi eg- Pilobolus, Cyathus, and Bolbitius
 
-Claviceps is a fungus that grows on wheat and if a cattle eats it, it is very lethal to it.
+> **Claviceps** is a fungus that **grows on wheat** and if a cattle eats it, it is very lethal to it.
 
-- Yeast is important for beverage industry
+- Yeast is important for **beverage industry**
 
-13/06/23
+## Basidiomycetes
 
-> > > Basidiomycetes
+- Mycelium is **septed and branced**
+- Asexual **spores are absent**
+- Vegetative **propagation by fragmentation**
+- **Sex organs are absent**
+- Grows in **soil, logs, trunks, tree stumps**
+- Lives as **parasites in living trees**
+- **Basidiospores are exogenously produced** on the basidium
 
-- Mycelium is septed and branced
-- Asexual spores are absent
-- Vegetative propagation by fragmentation
-- Sex organs are absent
-- Grows in soil, logs, trunks, tree stumps
-- Lives as parasites in living trees
+#### After meiosis
 
-After meiosis
+<img src='./diagrams/ch3/basidiomycetes.png' width=400>
 
-{https://i.imgur.com/3OIh2k0.png}
+> There are four spores attatched to basidium
 
-• There are four spores attatched to basidium
+<img align=right src='./diagrams/ch3/cap-fungus.png' width=400>
 
-{https://i.imgur.com/HKFA653.png}
+> Colorful or black mushrooms are generally poisonous
 
-• Colorful or black mushrooms are generally poisonous
+> Eg: agaricus, ustilago (damages wheat flower and prevents seed formation), puccinia (causes rust in plants)
 
-Eg- agaricus, ustilago (damages wheat flower and prevents seed formation), puccinia (causes rust in plants)
+- **Forms**: mushrooms, bracket fungi, puffballs
 
-Forms: mushrooms, bracket fungi, puffballs
-
-> > > Deuteromycetes
+## Deuteromycetes
 
 Also known as Fungi imperfecti
 
-- Sexual reproduction not known
-- Septate and branced mycelium
-- Saprotrophic and parasitic
-- Reproduce only by asexual medium
-- Decomposes material and balances minerals
+- Sexual **reproduction not known**
+- **Septate and branced mycelium**
+- **Saprotrophic and parasitic**
+- **Reproduce** only by **asexual medium**
+- **Decomposes material and balances minerals**
 
-Alternaria -> early blight of potato
-Colletotrichum -> red rust
+> Alternaria $\rightarrow$ early blight of potato  
+> Colletotrichum $\rightarrow$ red rust
 
 15/06/23
 
-> > > Lichen
+### Lichen
 
-![Licen in trees](https://i.imgur.com/IrPayBs.png)
-![Lichen diagram](https://i.imgur.com/fuH4o0L.png)
+<img align=center src='./diagrams/ch3/lichen-in-tree.png' width=300> <img align=center src='./diagrams/ch3/lichen.png' width=400>
 
-Lichen can also grow in glass by dissolving it by Usnic acid and absorbing the nutrients.
+- **Lichen can also grow in glass** by dissolving it by **Usnic acid** and absorbing the nutrients.
 
-Lichen makes conditions suitable for other plants eg. grass, herbs, etc
+- **Lichen makes conditions suitable** for other plants eg. grass, herbs, etc
 
-> Plant succession
+### Plant succession
 
-Lichen -> moss -> fern -> grass -> herbs -> shrubs -> trees
+Lichen $\rightarrow$ moss $\rightarrow$ fern $\rightarrow$ grass $\rightarrow$ herbs $\rightarrow$ shrubs $\rightarrow$ trees
 
-• Mycobian: fungi part of lichen
-• Phycobian: algal part of lichen
+- Mycobian: fungi part of lichen
+- Phycobian: algal part of lichen
 
-3 types of lichen
-Foliose: looks like foilage on tree branch
-Crustose: formation of lichen that looks like crust
-Fruticose: looks like corals hanging down from tree body (most vulerable to pollution)
+- 3 types of lichen
+  - Foliose: looks like foilage on tree branch
+  - Crustose: formation of lichen that looks like crust
+  - Fruticose: looks like corals hanging down from tree body (most vulerable to pollution)
 
-• Licen are considered important bioindicator for pollution.
+> Licen are considered important bioindicator for pollution.
 
-> > > Virus
+# Virus, Viroids and Prions
 
-• Virus was first coined by Beijerinck, in 1898
+> Virus was first coined by Beijerinck, in 1898
 
 1st virus to be studied: tobacco mosiac virus
 
-![Mosiac virus on tobacco leaf](https://i.imgur.com/qz770IA.png)
+<img src='./diagrams/ch3/tobacco-leaf.png' width=300>
 
 • Virus is poison in Latin
 
-![TMT diagram](https://i.imgur.com/3BewVV7.png)
+<img src='./diagrams/ch3/tmv.png' width=400>
 
-• Virus reproduce by injecting its DNA or RNA and make the host cell to produce virus cells.
+- Virus reproduce by injecting its DNA or RNA and make the host cell to produce virus cells.
 
-Viroid: capsid absent, low molecular weight RNA
+<br>
 
-Prions: nucleic acid absent, highly oily protein molecules
+- **Viroid**: capsid absent, low molecular weight RNA
+- **Prions**: nucleic acid absent, highly oily protein molecules
 
-![Diagram of a viroid](https://study.com/cimages/multimages/16/06_virus_4504391932014405073880.jpg)
+<img src='./diagrams/ch3/virus.png'>
 
-19/06/23
+> Sars Cov-2  
+> Corona is a group of virus  
+> It is retrovirus (nuclic acid RNA)
 
-Sars Cov-2
-Corona is a group of virus
-It is retrovirus (nuclic acid RNA)
+- **Retrovirus**: type of virus that **inserts a DNA copy of its RNA** genome **into the DNA of a host cell** that it invades. Eg: HIV, Walleye epidermal hyperplasia virus, Mouse mammalary tumor virus
 
-Retrovirus: type of virus that inserts a DNA copy of its RNA genome into the DNA of a host cell that it invades
-Eg.- HIV, Walleye epidermal hyperplasia virus, Mouse mammalary tumor virus
+<br>
 
-• RNA is very fragile
-Mutations are faster
-Unstable because of Uracil
+- RNA is very fragile therefore,
+  - Mutations are faster
+  - Unstable because of Uracil
 
-DNA: ATGC -> Stable & Double stranded
-RNA: AUGC -> Unstable
-{Go to ./8-cell-the-unit-of-life.txt for explaination}
+<br>
+
+- **DNA**: **ATGC** $\rightarrow$ Stable & Double stranded
+- **RNA**: **AUGC** $\rightarrow$ Unstable  
+  [Refer chapter 8](./8-cell-the-unit-of-life.txt)
 
 • Viroid has no capsid
 
 Actual viroid diagram
-![viroid digram](https://i.imgur.com/PYwplKq.png)
 
-![prion diagram](https://i.imgur.com/WXU5Umi.png)
+<img src='./diagrams/ch3/viroid.png' width=400>
 
-Mad Cow disease is very harmful to the economy as it harms the cattle farms
+<img src='./diagrams/ch3/prion.png' width=400>
 
-• Mad cow disease is caused by prion-protein molecule
+> Mad Cow disease ([Bovine spongiform encephalopathy](https://en.wikipedia.org/wiki/Bovine_spongiform_encephalopathy)) is very harmful to the economy as it harms the cattle farms  
+> Mad cow disease is caused by prion-protein molecule
 
-Human counterpart of Mad cow disease
-CR-Jakob disease is a rare, rapidly worsening brain disorder that causes unique changes in brain tissue and affects muscle coordination thinking, and memory.
+- Human counterpart of Mad cow disease
+  - CR-Jakob disease is a rare, rapidly worsening brain disorder that causes unique changes in brain tissue and affects muscle coordination thinking, and memory.
 
-• Prion protein imitates the function of enzymes and causes malfunction in the vital organs by acting as a competitive inhibitor.
+> Prion protein imitates the function of enzymes and causes malfunction in the vital organs by acting as a competitive inhibitor.
 
-> > > Notes
-> > > Single Stranded DNA virus: influenza virus
+# Notes
+
+## Single Stranded DNA virus: influenza virus
 
 Double stranded RNA virus: Rotavirus, orbivirus (causes Encephalitis which inflammates the brain)
 
 All viral infections are caused by body immunity provided by lymphocytes (antibodies)
 
-• Vaccine: introduction of weakened/dead germ cells to increase immunity.
+- **Vaccine**: **introduction of weakened/dead germ cells** to **increase immunity**.
 
-‣ Even a patch of mud can contain virus
+- Even a patch of mud can contain virus
 
-• Virus was first studied by M.W. Beijerinek in 1898 and later experimented by W.M. Stanley
+> **Virus** was first studied by **M.W. Beijerinek** in 1898 and later experimented by W.M. Stanley
 
-• Viroid length: 50 nanometre and have 250-400 nucleotides. This small number of nucleotide is not enough to code for protein synthesis.
+- **Viroid length**: **50 nanometre** and have **250-400 nucleotides**. This small number of nucleotide is not enough to code for protein synthesis.
 
-Viroid doesn't has protein
-Reason: number of nucleotide is not enough to form protein.
+<br> 
 
-• Potato spindle tuber viroid (PST) was the first viroid to be identified.
+- Viroid doesn't has protein
+  - Reason: number of nucleotide is not enough to form protein.
 
-Soap kills the virus because the Sodium Hydroxide breaks down the capsid and kills it.
+> Potato spindle tuber viroid (PST) was the first viroid to be identified.
 
-HIV was first caused by chimpanzees
-When hunters used to kill chimpanzees for meat, the infected viral cells in blood got transfused with human blood and it spread via. lymph nodes.
+> Soap kills the virus because the Sodium Hydroxide breaks down the capsid and kills it.
 
-### Bacteriophage virus
+- HIV was first caused by chimpanzees
+  - When hunters used to kill chimpanzees for meat, the infected viral cells in blood got transfused with human blood and it spread via. lymph nodes.
+
+## Bacteriophage virus
 
 Bacteriophages, also known as phages, are viruses that specifically infect and replicate within bacteria. They are the most abundant and diverse biological entities on Earth, estimated to outnumber bacteria by a factor of 10 to 1. Bacteriophages play a crucial role in shaping bacterial populations and influencing microbial ecosystems.
 
@@ -782,10 +794,10 @@ Impact on Bacterial Populations: Bacteriophages are major drivers of bacterial e
 
 Applications: Bacteriophages have gained attention for their potential applications in various fields. They have been explored as alternatives to antibiotics for treating bacterial infections, especially those caused by antibiotic-resistant bacteria (phage therapy). Phages are also used in molecular biology research, genetic engineering, and as tools for detecting and quantifying bacteria
 
-[^1]: Polysaccharide + amino acid
-[^2]: Chemosynthetic and photosynthetic
-[^3]: Saprophytic / Parasitic
-[^4]: Photosynthetic like in plants
-[^5]: Saprophytic or parasitic
-[^6]: Fully photosynthetic
+[^1]: Polysaccharide + amino acid  
+[^2]: Chemosynthetic and photosynthetic  
+[^3]: Saprophytic / Parasitic  
+[^4]: Photosynthetic like in plants  
+[^5]: Saprophytic or parasitic  
+[^6]: Fully photosynthetic  
 [^7]: Holozoic / Saprophytic, etc
