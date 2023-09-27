@@ -580,10 +580,6 @@ Example: paramecium
 - Male gamete fused with female gamete forms zygospores
 - Generally isogamete and anisogamete
 
-12/06/23
-
-> > > Phycomycetes
-
 #### Same size gametes - isogametes
 
 <img src='./diagrams/ch3/isogamete.png' width=400>
