@@ -21,8 +21,8 @@
 
 - **_1665_**: the invention of the microscope by **Antonie van Leeuwenhoek**
 
-> Heat is the infrared radiation being released
-> Sunglasses filter the IR radiation and we feel cool
+> Heat is the infrared radiation being released and sunglasses filter the IR radiation and we feel cool
+
 > Similar chemical processes lead to similar ideas and the same thinking in the human brain.
 
 - **Sodium and potassium** are required for the movement in the body.
