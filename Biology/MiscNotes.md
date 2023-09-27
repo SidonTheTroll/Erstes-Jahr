@@ -39,3 +39,11 @@ Physical and mental weakness leads to sleep walking.
     - This leads to hallucinations 
 
 Male seahorse doesn't give birth. The female lays eggs in its pouch and the male incubates them.
+
+
+**Gizzard**: The gizzard is an oval, muscular, and thick-walled structural organ with teeth that helps to grind the food.
+Thorax: provides a base for the muscle attachment of the upper extremities, the head and neck, the vertebral column, and the pelvis.
+
+**Spiracle**: external respiratory opening with a number of holes in an insect.
+
+**Serendipity**: suddenly finding or discovering something.
