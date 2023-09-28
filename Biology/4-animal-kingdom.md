@@ -1,15 +1,36 @@
-- [29/08/23](#290823)
-	- [Basis of classification](#basis-of-classification)
-	- [Symmetry](#symmetry)
-	- [Diploblastic and Triploblastic](#diploblastic-and-triploblastic)
-- [30/08/23](#300823)
-	- [Coelom](#coelom)
-	- [Segmentation](#segmentation)
-	- [Notochord](#notochord)
-	- [Phylum - Porifera](#phylum---porifera)
+- [1. 29/08/23](#1-290823)
+	- [1.1. Basis of classification](#11-basis-of-classification)
+	- [1.2. Symmetry](#12-symmetry)
+	- [1.3. Diploblastic and Triploblastic](#13-diploblastic-and-triploblastic)
+- [2. 30/08/23](#2-300823)
+	- [2.1. Coelom](#21-coelom)
+	- [2.2. Segmentation](#22-segmentation)
+	- [2.3. Notochord](#23-notochord)
+	- [2.4. Phylum - Porifera](#24-phylum---porifera)
+	- [2.5. Phylum - Coelenterata (Cnidarian)](#25-phylum---coelenterata-cnidarian)
+	- [2.6. Phylum - Ctenophora](#26-phylum---ctenophora)
+- [3. 07/09/23](#3-070923)
+	- [3.1. Phylum - Platyhelminthes](#31-phylum---platyhelminthes)
+	- [3.2. Phylum - Aschelminthes](#32-phylum---aschelminthes)
+	- [3.3. Phylum - Annelida](#33-phylum---annelida)
+	- [3.4. Plylum - Arthropoda](#34-plylum---arthropoda)
+	- [3.5. Mollusca](#35-mollusca)
+	- [3.6. Phylum - Echinodermata](#36-phylum---echinodermata)
+- [4. 12/09/23](#4-120923)
+	- [4.1. Hemichordata](#41-hemichordata)
+	- [4.2. Phylum - Chordata](#42-phylum---chordata)
+	- [4.3. Class - Cyclostomata](#43-class---cyclostomata)
+- [5. 13/09/2023](#5-13092023)
+	- [5.1. Class - Chondrichthyes](#51-class---chondrichthyes)
+	- [5.2. Class - Osteichthyes](#52-class---osteichthyes)
+	- [5.3. Amphibia](#53-amphibia)
+	- [5.4. Reptilia](#54-reptilia)
+- [6. 08/09/23](#6-080923)
+	- [6.1. Aves](#61-aves)
+	- [6.2. Class - Mammalia](#62-class---mammalia)
 
 
-# 29/08/23
+# 1. 29/08/23
 
 - Human being are also animal because:
 	- Heterotrophs
@@ -23,7 +44,7 @@
 **Molecular biology**: study of biological processes at a molecular level.  
 **Genetics**: study of genes, heredity, and variation in living organisms.
 
-## Basis of classification
+## 1.1. Basis of classification
 
 Classification is based on the level of organization. 
 
@@ -40,13 +61,13 @@ Pressure and diabetes are major cause of fatality.
 
 - Vertibrates have closed circulatory system. 
 
-## Symmetry
+## 1.2. Symmetry
 
 - Bilateral symmetry: two halves equal 
 - Radial symmetry: more symmetrical divisions possible
 - Asymmetry: no symmetry present.
 
-## Diploblastic and Triploblastic 
+## 1.3. Diploblastic and Triploblastic 
 
 - Diploblastic: Ectoderm, mesoglea, endoderm 
 - Triploblastic: Ectoderm, mesoderm, endoderm
@@ -55,9 +76,9 @@ Mesoglea is a gelatinous, non-living substance found between the layers of tissu
 
 --- 
 
-# 30/08/23
+# 2. 30/08/23
 
-## Coelom
+## 2.1. Coelom
 
 - Coelom is the principal body cavity in most animals, located between the intestinal canal and the body wall.
 
@@ -73,13 +94,13 @@ Psuedocoelomate: having coelom but false (its a cavity)
 
 Platyhelminthes (flatworms, liver fluke, etc) don't have full alimentary canal. 
 
-## Segmentation 
+## 2.2. Segmentation 
 
 **Internal or external division of body in serial repetition**
 
 Eg: earthworm, leech, tapeworm, arthropoda 
 
-## Notochord 
+## 2.3. Notochord 
 
 Cartilaginous skeletal rod supporting the organism developed during embryonic development.
 
@@ -87,7 +108,7 @@ Chordata: having notochord. Eg- amphibia, reptilia, aves, mammalia
 Non-chordata: notochord absent. Eg- arthropoda, annelida, mollusca, hemichordata 
 
 
-## Phylum - Porifera 
+## 2.4. Phylum - Porifera 
 
 Commonly known as sponges 
 
@@ -106,7 +127,7 @@ Water enters through ostia (minute pores) and released through the osculum (cent
 
 This is one of the simplest form of life. 
 
-## Phylum - Coelenterata (Cnidarian) 
+## 2.5. Phylum - Coelenterata (Cnidarian) 
 
 - Aquatic, mostly marine
 - Sessile or free swimming 
@@ -136,7 +157,7 @@ Medusa: umbrella-shaped & free swimming
 Sea anemone and Hermit crab sometimes live in symbiotic relation  
 Also seen in sea anemone and clownfish. Fish provides excreta as food and anemone gives shelter 
 
-## Phylum - Ctenophora
+## 2.6. Phylum - Ctenophora
 
 > Commonly called sea walnuts or comb jellies. 
 
@@ -155,9 +176,9 @@ Some species are extremely poisonous.
 
 ---
 
-# 07/09/23 
+# 3. 07/09/23 
 
-## Phylum - Platyhelminthes
+## 3.1. Phylum - Platyhelminthes
 
 - Dorso-ventrally flattened body. 
 - Mostly endoparasites. 
@@ -169,7 +190,7 @@ Some species are extremely poisonous.
 - Hermaphrodite 
 - Internal fertilization
 
-## Phylum - Aschelminthes
+## 3.2. Phylum - Aschelminthes
 
 - Freeliving, aquatic, terrestrial or parasitic. 
 - Bilaterally symmetrical
@@ -183,7 +204,7 @@ Some species are extremely poisonous.
 
 > Ascaris in intestine gives ascariasis
 
-## Phylum - Annelida 
+## 3.3. Phylum - Annelida 
 
 - Aquatic or terrestrial
 - Freeliving or parasitic 
@@ -198,7 +219,7 @@ Some species are extremely poisonous.
 
 Nereis is dioecious but earthworms and leeches are monoecious (hermaphrodite) 
 
-## Plylum - Arthropoda 
+## 3.4. Plylum - Arthropoda 
 
 This is the largest plylum in Animalia  
 This also includes insects  
@@ -221,7 +242,7 @@ This also includes insects
 - Mostly oviparous
 - Direct and indirect development 
 
-## Mollusca
+## 3.5. Mollusca
 
 This is the second largest plylum in Animalia. 
 
@@ -239,7 +260,7 @@ This is the second largest plylum in Animalia.
 - Indirect development
 - Very soft body 
 
-## Phylum - Echinodermata
+## 3.6. Phylum - Echinodermata
 
 **Echino**: Spine  
 - Adults are radially symmetrical and offsprings are bilateral 
@@ -257,9 +278,9 @@ This is the second largest plylum in Animalia.
 
 ---
 
-# 12/09/23 
+# 4. 12/09/23 
 
-## Hemichordata
+## 4.1. Hemichordata
 
 - They have a simple structure in the collar region called stomochord similar to notochord. 
 - Marine 
@@ -275,7 +296,7 @@ This is the second largest plylum in Animalia.
 - External fertilization
 - Indirect development 
 
-## Phylum - Chordata 
+## 4.2. Phylum - Chordata 
 
 Characterized by presence of notochord in any part of life cycle. 
 
@@ -323,7 +344,7 @@ Vertebrates have 2, 3 or 4 chamber heart on ventral side.
 Kidney for excretion and osmoregulation.  
 Paried appendages may be fins or limbs.
  
-## Class - Cyclostomata
+## 4.3. Class - Cyclostomata
 
 - Ectoparasites in other fishes. 
 - Possess elongated body bearing 6-15 pair of gill slits. 
@@ -336,11 +357,11 @@ Paried appendages may be fins or limbs.
 
 ---
 
-# 13/09/2023
+# 5. 13/09/2023
 
 
 
-## Class - Chondrichthyes
+## 5.1. Class - Chondrichthyes
 
 - Marine 
 - Streamlined body 
@@ -359,7 +380,7 @@ Paried appendages may be fins or limbs.
 - Internal fertilization
 - Many of them are viviparous
 
-## Class - Osteichthyes 
+## 5.2. Class - Osteichthyes 
 
 - Includes both marine and freshwater fishes
 - Bony endoskeleton 
@@ -375,7 +396,7 @@ Paried appendages may be fins or limbs.
 - Mostly oviparous 
 - Direct development
 
-## Amphibia 
+## 5.3. Amphibia 
 
 - Both aquatic and terrestrial
 - Body divisible into head and trunk
@@ -393,7 +414,7 @@ Paried appendages may be fins or limbs.
 - Oviparous
 - Indirect development
 
-## Reptilia 
+## 5.4. Reptilia 
 
 Characterized by creeping or crawling mode of locomotion. 
 
@@ -412,9 +433,9 @@ Characterized by creeping or crawling mode of locomotion.
 
 --- 
 
-# 08/09/23 
+# 6. 08/09/23 
 
-## Aves 
+## 6.1. Aves 
 
 - Bilateral
 - Triploblastic
@@ -432,7 +453,7 @@ Characterized by creeping or crawling mode of locomotion.
 - Beak present, teeth absent 
 - Streamlined body 
 
-## Class - Mammalia
+## 6.2. Class - Mammalia
 
 - Bilateral
 - Triploblastic
