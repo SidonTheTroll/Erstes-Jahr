@@ -475,7 +475,7 @@ Example: paramecium
 
 # Kingdom - fungi
 
-<img align=right src='./diagrams/ch3/penicillium.png' width=280>
+<img align=right src='./diagrams/ch2/penicillium.png' width=280>
 
 > Fungus is a kind of **eukaryotic heterotrophic organism** whose **cell wall is made up of chitin**. They might look like high-level plants but they don't come under kingdom plantae. They **mainly grow on dead and decaying matter** as well as in some sources like barks and roots. They **reproduce through spore formation** and **lack chlorophyll** to produce their nutrients.
 
@@ -488,7 +488,7 @@ Example: paramecium
 
 **Allelopathy**: effects of a plant on the development of neighboring plants by the release of biochemicals
 
-<img align=right src='./diagrams/ch3/aspergillus.png' width=280>
+<img align=right src='./diagrams/ch2/aspergillus.png' width=280>
 
 <br>
 
@@ -510,7 +510,7 @@ Example: paramecium
 - Helps **control plant diseases** by **_outcompeting pathogens_**
 - **Breaks down pollutants** and **heavy metals**
 - **Absorbs and retains water** in the soil
-  <img align=right src='./diagrams/ch3/reproduction-in-fungus.png' width=400>
+  <img align=right src='./diagrams/ch2/reproduction-in-fungus.png' width=400>
 - **Captures and stores carbon**, aiding in climate change mitigation
 - Some species are **edible**
 - **Filters and removes pollutants** from water and soil
@@ -523,7 +523,7 @@ Example: paramecium
 
 > The cells that have **more than 1 nucleus** are called **dikaryon**
 
-<img align=right src='./diagrams/ch3/gametangial-fusion.png' width=280>
+<img align=right src='./diagrams/ch2/gametangial-fusion.png' width=280>
 
 - **Aseptate hyphae**: hyphae with **no partition wall**.
 
@@ -582,19 +582,19 @@ Example: paramecium
 
 #### Same size gametes - isogametes
 
-<img src='./diagrams/ch3/isogamete.png' width=400>
+<img src='./diagrams/ch2/isogamete.png' width=400>
 
 The cells are motile (capable of motion)
 
 #### Unequal size gametes - anisogamete
 
-<img src='./diagrams/ch3/anisogamete.png' width=350>
+<img src='./diagrams/ch2/anisogamete.png' width=350>
 
 ‣ The smaller gamete acts like male gamete and the larger one acts like female
 
 #### Oogamy
 
-<img src='./diagrams/ch3/oogamy.png' width=380>
+<img src='./diagrams/ch2/oogamy.png' width=380>
 
 - Only one cell is motile
 
@@ -602,7 +602,7 @@ The cells are motile (capable of motion)
 
 ## Ascomycetes
 
-<img src='./diagrams/ch3/ascomycetes.png' width=400>
+<img src='./diagrams/ch2/ascomycetes.png' width=400>
 
 > Also known as **sac-fungi** (saccus = bag in latin)
 
@@ -640,11 +640,11 @@ The cells are motile (capable of motion)
 
 #### After meiosis
 
-<img src='./diagrams/ch3/basidiomycetes.png' width=400>
+<img src='./diagrams/ch2/basidiomycetes.png' width=400>
 
 > There are four spores attatched to basidium
 
-<img align=right src='./diagrams/ch3/cap-fungus.png' width=400>
+<img align=right src='./diagrams/ch2/cap-fungus.png' width=400>
 
 > Colorful or black mushrooms are generally poisonous
 
@@ -669,7 +669,7 @@ Also known as Fungi imperfecti
 
 ### Lichen
 
-<img align=center src='./diagrams/ch3/lichen-in-tree.png' width=300> <img align=center src='./diagrams/ch3/lichen.png' width=400>
+<img align=center src='./diagrams/ch2/lichen-in-tree.png' width=300> <img align=center src='./diagrams/ch2/lichen.png' width=400>
 
 - **Lichen can also grow in glass** by dissolving it by **Usnic acid** and absorbing the nutrients.
 
@@ -695,11 +695,11 @@ Lichen $\rightarrow$ moss $\rightarrow$ fern $\rightarrow$ grass $\rightarrow$ h
 
 1st virus to be studied: tobacco mosiac virus
 
-<img src='./diagrams/ch3/tobacco-leaf.png' width=300>
+<img src='./diagrams/ch2/tobacco-leaf.png' width=300>
 
 • Virus is poison in Latin
 
-<img src='./diagrams/ch3/tmv.png' width=400>
+<img src='./diagrams/ch2/tmv.png' width=400>
 
 - Virus reproduce by injecting its DNA or RNA and make the host cell to produce virus cells.
 
@@ -708,7 +708,7 @@ Lichen $\rightarrow$ moss $\rightarrow$ fern $\rightarrow$ grass $\rightarrow$ h
 - **Viroid**: capsid absent, low molecular weight RNA
 - **Prions**: nucleic acid absent, highly oily protein molecules
 
-<img src='./diagrams/ch3/virus.png'>
+<img src='./diagrams/ch2/virus.png'>
 
 > Sars Cov-2  
 > Corona is a group of virus  
@@ -732,9 +732,9 @@ Lichen $\rightarrow$ moss $\rightarrow$ fern $\rightarrow$ grass $\rightarrow$ h
 
 Actual viroid diagram
 
-<img src='./diagrams/ch3/viroid.png' width=400>
+<img src='./diagrams/ch2/viroid.png' width=400>
 
-<img src='./diagrams/ch3/prion.png' width=400>
+<img src='./diagrams/ch2/prion.png' width=400>
 
 > Mad Cow disease ([Bovine spongiform encephalopathy](https://en.wikipedia.org/wiki/Bovine_spongiform_encephalopathy)) is very harmful to the economy as it harms the cattle farms  
 > Mad cow disease is caused by prion-protein molecule

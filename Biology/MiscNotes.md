@@ -47,3 +47,5 @@ Thorax: provides a base for the muscle attachment of the upper extremities, the 
 **Spiracle**: external respiratory opening with a number of holes in an insect.
 
 **Serendipity**: suddenly finding or discovering something.
+
+> Male frog shouts to call for female for mating.
