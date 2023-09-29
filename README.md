@@ -4,6 +4,8 @@
 
 Has handwritten notes for all subjects except Physics.
 
+Read [**CONTRIBUTING.md**](./CONTRIBUTING.md) for collaboration.
+
 ## TODO
 
 - [ ] Animal kingdom done for mid-term. Do the rest after exam
@@ -15,7 +17,8 @@ Has handwritten notes for all subjects except Physics.
         -  [ ] Patches for past errors 
 - [ ] Retrieve Salt Analysis notes from senior
 - [ ] Copy [Plant kingdom](./Biology/3-plant-kingdom.md) notes in notebook.
-- [ ] Illustrate poster (Add poster making if suitable) for music event 
+- [ ] Illustrate poster (Add poster making if suitable) for music event.
+- [ ] Arrange [Biology diagrams](./Biology/diagrams/) chapterwise. 
 
 ![Alt](https://repobeats.axiom.co/api/embed/529b470931ea1f63dd9ad0ba8577989a531b82a9.svg "Repobeats analytics image") 
 
