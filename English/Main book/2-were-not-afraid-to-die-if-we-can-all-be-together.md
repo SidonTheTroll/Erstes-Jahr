@@ -1,0 +1,101 @@
+- Characters 
+  - Narrator, 37 
+  - Mary, wife 
+  - Jonathan, son, 6 
+  - Suzanne, daughter, 7 
+
+<br>
+
+- Boat
+  - Name: Wavewalker
+  - Length: 23 meter 
+  - Weight: 30 ton 
+
+<br> 
+
+- Past 16 years were spent on practicing seafaring in British waters. 
+
+- Wanted to duplicate the round-the-world voyage my Captain James Cook 200 years ago. 
+
+- Journey was expected to be 3 years long. 
+
+# July, 1976 - December 24, 1976 
+
+**Starting point**: Phymouth, England
+
+- Travelled 105,000 km towards South Africa.
+- Hired Larry Vigil, American and Herb Seigler, Swiss. 
+    - For tackling the rough waters of Indian Ocean.
+- Strong gales blew from the second day in Cape Town. 
+- High waves were seen up to 15 meters, high as the main mast.
+
+# December 25, 1976
+
+- Now 35,000 km east of Cape Town. 
+- Christmas was celebrated despite of the bad weather. 
+
+# January 2, 1977 
+
+## Dawn 
+
+- Waves were giant 
+- Got to 8 knots when using strom jib. 
+
+Sound of wind and waves were painful to the ears. 
+
+- To slow the boat down:
+    - Dropped storm jib 
+    - Heavy mooring was lashed across the stren 
+- Double lashed everything 
+- Drills were done:
+    - Life-raft
+    - Lifeline attachment 
+    - Donned (wore) oilskins 
+
+## At and after evening 6 pm 
+
+- Silence was omnious (indication of something bad)
+- Wind dropped (reduecd)
+- Loud roar was heard and wave larger than the ship was seen.
+- Stern moved up
+- An intense explosion shook the whole ship. 
+- Torrent of green and white water broke over the ship 
+- Narrator's head shashed the deck and lost consciousness.
+- Then he saw the Wavewalker almost sinking but another wave made it upright. 
+- Narrator grabbed the railing and climbed the ship. 
+- Waves tossed him around 
+    - So his ribs got broken and mouth was full of broken teeth and blood. 
+- Then the hatch opened and Mary (his wife) screamed that they were sinking
+- Narrator told her to take the wheel 
+- Inside, Larry and Vigil were pumping water out like madmen. 
+
+<br> 
+
+- Damages:
+    - Timber were swinging 
+    - Starboard was bulged inwards
+    - Clothes, crockery, charts, tins, toys were floating in water. 
+
+<br> 
+
+- The children were in the upper bunk of the cabin. 
+- Sue's head was swollen
+- Narrator then picked hammer, screws and canvas. 
+- Narrator repaired some holes and now most of the water was redirected to the other side. 
+- **The water pumps started getting blocked.**
+    - Electric pumps were short-circuited.
+- 2 spare pumps, forestay sail, storm jib, dinghies and main anchor were lost in the water. 
+- Then he realized that there was another pump in the chartroom floor and it worked. 
+- Night was spent pumping, steering and working the radio. 
+    - No reply for **Mayday calls** were received. 
+- Sue's head was swollen alarmingly, had two enormous black eyes, had a deep cut on the arm. 
+- Narrator asked why she didn't tell earlier, Sue told that she didnt want to make her father angry. 
+
+# January 3, 1977 
+
+- Water level was under control but leaks were still there. 
+- Damages:
+    - All the main rib frames were broken.
+    - Starbord was held together by some cupboard partition 
+
+
