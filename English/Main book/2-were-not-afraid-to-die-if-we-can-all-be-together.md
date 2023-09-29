@@ -97,5 +97,27 @@ Sound of wind and waves were painful to the ears.
 - Damages:
     - All the main rib frames were broken.
     - Starbord was held together by some cupboard partition 
+- For 15 hours, they had survived the waves. 
+    - But Wavewalker wasn't in a good condition to reach Australia. 
+- Then they planned to head towards Ile Amsterdam, a French scientific base.
 
+# January 4, 1977 
+
+- After 36 hours of pumping, the water was reduced to few centimeters. 
+- Main sail can't be used because the pressue on rigging will rip apart the damaged hull. 
+    - Therefore a storm jib was used.
+- They had their first meal after almost 2 days 
+    - They had corned beef and cracker biscuits.
+
+## 4 p.m. 
+
+- Black clouds started appearing again
+- Wind was blowing at 40 knots
+- Weather continued to become worse till the next day.
+
+# January 5, 1977 
+
+## Dawn
+
+- The son said that he isn't afraid of dying if they can all be together. 
 
