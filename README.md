@@ -1,4 +1,4 @@
-<img align='right' src='https://img.shields.io/github/repo-size/SidonTheTroll/HS-1st-year?style=flat&logo=markdown&logoColor=FFFFFF&labelColor=%23c53f00&color=%23e8d3ad'>
+<img align='right' src='https://img.shields.io/github/repo-size/SidonTheTroll/Hashbrowns?style=flat&logo=markdown&logoColor=FFFFFF&labelColor=%23c53f00&color=%23e8d3ad'>
 
 # First year notes
 
