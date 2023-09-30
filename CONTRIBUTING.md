@@ -12,7 +12,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Code of Conduct
 
-Please note that [Your Project Name] has a [Code of Conduct](./CODE_OF_CONDUCT.md). I expect all contributors to adhere to this code of conduct to create a welcoming and inclusive environment.
+Please note that **Hashbrowns** has a [Code of Conduct](./CODE_OF_CONDUCT.md). I expect all contributors to adhere to this code of conduct to create a welcoming and inclusive environment.
 
 ## How to Contribute
 
