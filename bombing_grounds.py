@@ -4,3 +4,5 @@ while(i<=10):
     s = 9 * i
     print(f"9 x {i} = {s}")
     i += 1 
+
+# Its saturday
