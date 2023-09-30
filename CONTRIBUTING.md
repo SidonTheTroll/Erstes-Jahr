@@ -7,7 +7,7 @@ Welcome to Hashbrowns, a note taking repository for students in High School!I'm 
 Before you begin, ensure you have met the following requirements:
 - [ ] You have a GitHub account.
 - [ ] You are studying in the same school as me or familiar to the topics. 
-- [ ] You know [Markdown](https://github.com/SidonTheTroll/markdown-tutorial) well.
+- [ ] You know [Markdown](https://github.com/SidonTheTroll/markdown-cheatsheet) well.
 - [ ] You don't put unverified data. 
 
 ## Code of Conduct
