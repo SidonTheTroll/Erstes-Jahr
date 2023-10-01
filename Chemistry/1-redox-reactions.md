@@ -47,16 +47,16 @@ $\downarrow: \text{Anti-clockwise/down spin}$
   - Addition of $O$, removal of $H$
   - Loss of $e^-$
 
-$$Na \rightarrow Na^+ + 1e^-$$
-$$Fe \rightarrow Fe^3+ + e^-$$
-$$S^{2-} \rightarrow S + 2e^-$$
+$Na \rightarrow Na^+ + 1e^-$$  
+$Fe \rightarrow Fe^3+ + e^-$  
+$S^{2-} \rightarrow S + 2e^-$$  
 
 - $\text{Red}^n$: 
   - Removal of $O$, addition of $H$
   - Gain of $e^-$
 
-$$Cl + e^- \rightarrow Cl^-$$
-$$\underset{Ferricyanoion}{[Fe(CN)_6]^{3-}} + e^- \rightarrow \underset{Ferrocyanoion}{[Fe(CN)_6]^{4-}}$$
+$Cl + e^- \rightarrow Cl^-$
+$\underset{Ferricyanoion}{[Fe(CN)_6]^{3-}} + e^- \rightarrow \underset{Ferrocyanoion}{[Fe(CN)_6]^{4-}}$
 
 # Oxidation Number 
 
@@ -66,8 +66,70 @@ Oxidation numebr is the oxidation state of an element in a compound following a 
 
 1. Elements with no charge have zero oxidation number.
 2. $NH^4$, $SO_3^\text{2-}$, $Cl^-$, $Mg^{+2}$ have +1, -2, -1 , +2 oxidation number respectively. 
-3. For 
+3. For **Hydrogen**
     1. H $\rightarrow$ +1 (when with non-metal)
          - Eg: $HCl$
     2. $H$ $\rightarrow$ -1 (when with metal)
       - $NaH$
+4. For **Oxygen**
+    1. $O$ $\rightarrow$ -1 (for peroxides)
+        - $H_2O_2$, $Na_2O_2$
+    2. $O$ $\rightarrow$ +2 (for Oxygen dyfloride)
+       - $OF_2$
+    3. $O$ $\rightarrow$ -1 (for dyoxygen dyfloride)
+       - $O_2F_2$ 
+5. **Halogens** usually -1, positive with oxygen.
+6. If a compound is between metal and non-metal, **metal shows positive oxidation state** and **non-metal shows negative oxidation state**. 
+- $\underset{+1}{Na}\underset{-1}{Cl}$ and $\underset{+2}{Mg}\underset{-2}{Cl}$
+7. In non-metal + non-metal, 
+  - $\underset{{+ve\text{ }oxd^n\text{ }state}}{\text{Non-metal}}$ $+$ $\underset{-ve\text{ }oxd^n\text{ }state}{\text{Non-metal}}$
+
+<br>
+
+$\xrightarrow{\text{Li Be B C N O F Ne}}$
+
+### Electo negitivity 
+
+It is the ability of an atom (deficient in electron to fulfil its octet) to attract an electron to become in noble gas configuration is called eletronegativity. 
+
+# Balancing Chemical Equation by Oxidation Number Method 
+
+## Redox Reaction in Acidic Medium 
+
+$Ag + NO^-_3 \rightarrow Ag^+ + NO$
+
+### Step 1: Assign Oxidation Numbers 
+ 
+> Determine the oxidation numbers of each element in the equation:  
+> 
+> **Element by itself**: 0
+> **Group 1A**: always +1 
+> **Group 2A**: always +2
+> **Halogens**: usually -1, positive with Oxygen 
+>
+> - Monatomic ion: ion charge
+>   1. $H$: +1 with non-metals, -1 with metals 
+>   2. $O$: Usually -2, -1 in peroxide ($H_2O_2$)
+>   3. $F$: always -1 
+> 
+> Sum of ON's for a neutral compound: 0  
+> Sum of ON's for a polyatomic ion = ion charge
+>
+> Assign oxidation numbers to each element:
+
+$\overset{0}{Ag} + \overset{+5}{N}\overset{-6}{O^-_3} \rightarrow \overset{+1}{Ag^+} + \overset{+2}{N}\overset{-2}{O}$
+
+### Step 2: Figure out what's being oxidized and reduced
+>
+> Reduction = gain of electron $\rightarrow$ $ON\downarrow$  
+> Oxidation = loss of electrons $\rightarrow$ $ON\uparrow$
+
+$\therefore \text{Silver is oxidized}$  
+$\And\text{ Nitrogen is reduced}$
+
+### Write half reactions 
+
+#### Reduction half-reaction 
+
+> Use $H_2O$ to balance O and $H^+$ to balance H
+> 
