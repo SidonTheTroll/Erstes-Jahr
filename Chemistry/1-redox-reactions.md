@@ -127,9 +127,73 @@ $\overset{0}{Ag} + \overset{+5}{N}\overset{-6}{O^-_3} \rightarrow \overset{+1}{A
 $\therefore \text{Silver is oxidized}$  
 $\And\text{ Nitrogen is reduced}$
 
-### Write half reactions 
+### Step 3: Write half reactions 
+
+<img src='./src/redox-reaction/identify-acidic.jpg'>
 
 #### Reduction half-reaction 
 
+### Step 4: Add electrons to balance charges 
 > Use $H_2O$ to balance O and $H^+$ to balance H
-> 
+
+<img src='./src/redox-reaction/reduction-half-reaction-acidic.jpg'>
+
+### Step 5: Repeat the same steps on Oxidation half-reaction.
+
+<img src='./src/redox-reaction/oxidation-half-reaction-acidic.jpg'>
+
+### Step 6: Multiply half reactions to make the number of electrons equal in both 
+
+<img src='./src/redox-reaction/multiplication-acidic.jpg'>
+
+### Step 7: Add the half reactions, cancelling out stuff that appearss on both sides of the arrow. 
+
+<img src='./src/redox-reaction/addition-of-atoms-acidic.jpg'>
+
+### Step 8: Do a final check to make cure everything's balanced
+
+<img src='./src/redox-reaction/doublecheck-acidic.jpg'>
+
+## Oxidation Reaction in Basic Medium 
+
+$\overset{0}{Zn} + \overset{+5}{N}\overset{-2}{O_3^-} \rightarrow \overset{+2}{Zn^{2+}} + \overset{+4}{N}\overset{-2}{O_2}$
+
+### Step 1: Figure out what's being oxidized and reduced
+
+<img src='./src/redox-reaction/identify-basic.jpg'>
+
+### Step 2: Write half reactions 
+
+<img src="./src/redox-reaction/write-half-reactions-basic.jpg">
+
+### Step 3: Add electrons to balance charges 
+
+<img src="./src/redox-reaction/electron-balance-basic.jpg">
+
+### Step 4: Repeat the same on oxidation half reaction 
+
+<img src="./src/redox-reaction/oxidation-half-reaction-basic.jpg">
+
+### Step 5: Multiply half reactions to make the number of eletrons equal in both 
+
+<img src='./src/redox-reaction/multiplication-basic.jpg'>
+
+### Step 6: Add the half reactions, cancelling out stuff that appears on both sides of the arrow
+
+<img src='./src/redox-reaction/cancel-electrons-basic.jpg'>
+
+### Step 7: For each $H^+$, add one $OH^-$ to both sides 
+
+<img src='./src/redox-reaction/adding-OH-.jpg'>
+
+### Step 8: Combine $H^+$ and $OH^-$ to make $H_2O$
+
+<img src='./src/redox-reaction/combine-basic.jpg'>
+
+### Step 9: Subtract $H_2O$ from both sides if possible 
+
+<img src='./src/redox-reaction/subtraction-basic.jpg'>
+
+### Step 10: Do a final check to make sure everything's balanced 
+
+<img src='./src/redox-reaction/remove-extra-water.jpg'>
