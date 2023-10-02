@@ -1,3 +1,33 @@
+- [Laws](#laws)
+- [Some Electron Configuration](#some-electron-configuration)
+- [Electronic Concept of Oxidation and Reduction](#electronic-concept-of-oxidation-and-reduction)
+- [Oxidation Number](#oxidation-number)
+  - [Rules](#rules)
+    - [Electo negitivity](#electo-negitivity)
+- [Balancing Chemical Equation by Oxidation Number Method](#balancing-chemical-equation-by-oxidation-number-method)
+  - [Redox Reaction in Acidic Medium](#redox-reaction-in-acidic-medium)
+    - [Step 1: Assign Oxidation Numbers](#step-1-assign-oxidation-numbers)
+    - [Step 2: Figure out what's being oxidized and reduced](#step-2-figure-out-whats-being-oxidized-and-reduced)
+    - [Step 3: Write half reactions](#step-3-write-half-reactions)
+      - [Reduction half-reaction](#reduction-half-reaction)
+    - [Step 4: Add electrons to balance charges](#step-4-add-electrons-to-balance-charges)
+    - [Step 5: Repeat the same steps on Oxidation half-reaction.](#step-5-repeat-the-same-steps-on-oxidation-half-reaction)
+    - [Step 6: Multiply half reactions to make the number of electrons equal in both](#step-6-multiply-half-reactions-to-make-the-number-of-electrons-equal-in-both)
+    - [Step 7: Add the half reactions, cancelling out stuff that appearss on both sides of the arrow.](#step-7-add-the-half-reactions-cancelling-out-stuff-that-appearss-on-both-sides-of-the-arrow)
+    - [Step 8: Do a final check to make cure everything's balanced](#step-8-do-a-final-check-to-make-cure-everythings-balanced)
+  - [Oxidation Reaction in Basic Medium](#oxidation-reaction-in-basic-medium)
+    - [Step 1: Figure out what's being oxidized and reduced](#step-1-figure-out-whats-being-oxidized-and-reduced)
+    - [Step 2: Write half reactions](#step-2-write-half-reactions)
+    - [Step 3: Add electrons to balance charges](#step-3-add-electrons-to-balance-charges)
+    - [Step 4: Repeat the same on oxidation half reaction](#step-4-repeat-the-same-on-oxidation-half-reaction)
+    - [Step 5: Multiply half reactions to make the number of eletrons equal in both](#step-5-multiply-half-reactions-to-make-the-number-of-eletrons-equal-in-both)
+    - [Step 6: Add the half reactions, cancelling out stuff that appears on both sides of the arrow](#step-6-add-the-half-reactions-cancelling-out-stuff-that-appears-on-both-sides-of-the-arrow)
+    - [Step 7: For each $H^+$, add one $OH^-$ to both sides](#step-7-for-each-h-add-one-oh--to-both-sides)
+    - [Step 8: Combine $H^+$ and $OH^-$ to make $H\_2O$](#step-8-combine-h-and-oh--to-make-h_2o)
+    - [Step 9: Subtract $H\_2O$ from both sides if possible](#step-9-subtract-h_2o-from-both-sides-if-possible)
+    - [Step 10: Do a final check to make sure everything's balanced](#step-10-do-a-final-check-to-make-sure-everythings-balanced)
+    
+
 # Laws 
 
 1. **Aufbau Principle**: In the ground state of an atom, the electrons are **added progressively** to the various orbatals in **increasing order of energies**
