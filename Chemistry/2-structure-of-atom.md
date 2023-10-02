@@ -21,6 +21,11 @@
 - [Energy of electron in Hydrogen Atom](#energy-of-electron-in-hydrogen-atom)
   - [Example](#example)
 - [Explaination for the Simultaneous Appearance of many Spectral Light in Hydrogen Spectrum](#explaination-for-the-simultaneous-appearance-of-many-spectral-light-in-hydrogen-spectrum)
+- [Dual Behavoir of Matter (de-Broglie equation)](#dual-behavoir-of-matter-de-broglie-equation)
+  - [de-Broglie equation](#de-broglie-equation)
+- [Relationship between de-broglie equation and Kinetic Energy](#relationship-between-de-broglie-equation-and-kinetic-energy)
+- [Heisenberg's Uncertainity Principle](#heisenbergs-uncertainity-principle)
+- [Significance of Heisenberg's Uncertainity Principle](#significance-of-heisenbergs-uncertainity-principle)
 
 > Electron is just a wave which moves around the nucleus in a fixed path.
 
@@ -118,11 +123,11 @@ We can say that electron is undergoing acceleration. According to the radiation 
 
 Isotopes are the atoms of same element having same atomic number but different mass number.
 
-$H \rightarrow \text{ } ^1_1H$, $^2_1H(D)$, $^3_1H(T)$
+$H \rightarrow ^1_1H$, $^2_1H(D)$, $^3_1H(T)$
 
-$Cl \rightarrow \text{ } ^{35}_{17}Cl$, $^{35}_{17}Cl$
+$Cl \rightarrow ^{35}_{17}Cl \text{, } ^{35}_{17}Cl$
 
-$C \rightarrow \text{ } ^{12}_{6}C$, $^{13}_{6}C$, $^{14}_{6}C$
+$C \rightarrow ^{12}_{6}C, ^{13}_{6}C, ^{14}_{6}C$
 
 # Isobars
 
@@ -164,12 +169,11 @@ $\Delta E = E_2 \text{(Higher energy level)}- E_1 \text{Lower energy level}$
 
 ## Drawbacks
 
-1. **Limited Applicability**: Bohr's model primarily worked well for hydrogen-like atoms with a single electron. It struggled to accurately describe atoms with multiple electrons, such as helium or heavier elements.
-2. **Ignored Electron Motion**: The model didn't provide a detailed explanation of how electrons move within their orbits. It treated electrons as particles following classical paths, which contradicted the principles of quantum mechanics.
-3. **Lack of Explanation for Energy Levels**: Bohr's model couldn't explain why electrons occupied specific energy levels or why they didn't continuously spiral into the nucleus due to their accelerating motion.
-4. **Failed to Explain Fine Structure**: It couldn't account for the fine structure of spectral lines, which are additional splitting of lines in atomic spectra due to electron interactions and relativistic effects.
-5. **Neglected Electron Spin**: Bohr's model did not consider the intrinsic property of electron spin, which is crucial for understanding the behavior of electrons in atoms.
-6. **Quantum Mechanics Superseded It**: Eventually, Bohr's model was replaced by quantum mechanics, which provides a more comprehensive and accurate description of atomic behavior, including the wave-like nature of electrons and their probability distributions.
+1. The theory couldn't explain the atomic spectra of the atoms containing more than one atom. 
+2. Bohr theory predicted only one spectral line for electronic transistion between two energy levels. However if examined carefully, certain single lines found to contain a number of fine lines. 
+3. The splitting of lines in the magnetic field is known as Zeeman effect and the eletric field is called Stark effect. When the source emitting this radiation is subjected to magnetic or eletric field, each spectral line is found to split in number of lines.
+4. It cannot explain the shape of molecule. 
+5. The theory also failed to explain new principles such as de-Broglie relationship and Heisenberg Uncertainity Principle. 
 
 
 # Achievements of Bohr's Atomic Model 
@@ -233,3 +237,59 @@ In study of hydrogen spectrum, the appearance of spectral lines in difference se
 Spectra lines in different series of hydrogen spectrum.
 
 <img src='./src/structure-of-atom/spectrum.jpg'>
+
+# Dual Behavoir of Matter (de-Broglie equation)
+
+- There are 2 natures of matetr 
+    - Particle 
+    - Wave 
+
+<br> 
+
+- A moving particle (microscopic as well as macroscopic) has dual nature, i.e., wave and particle nature. 
+
+## de-Broglie equation 
+
+$\lambda = \frac{h}{p}$
+
+- $\lambda$ = wavelength 
+- p = momentum of the particle 
+- h = Planck's constant 
+- h = $6.626 \cdot 10^{-34}kgm^2s^{-1}$
+
+Also, 
+
+$\lambda = \frac{h}{mv}$
+
+Wave nature $\propto$ $\frac{1}{\text{Particle nature}}$
+
+# Relationship between de-broglie equation and Kinetic Energy 
+
+KE = $\frac{1}{2}mv^2$  
+E = $\frac{1}{2}mv^2$
+
+Multiplying 2m on both sides, 
+
+$2mE = 2m \cdot \frac{1}{2}v^2$  
+$\implies 2mE = m^2v^2$  
+$\sqrt{2mE} = P$  
+$\lambda = \frac{h}{P}$  
+$\lambda = \frac{h}{\sqrt{2mE}}$
+
+# Heisenberg's Uncertainity Principle
+
+It is not possible to measure simultaneously the position and the momentum of a microscopic particle with absolute accuracy or certainity.   
+Alternatively, the product of uncertainity in position and uncertainity in momentum of a microscopic particle is always constant and greater than or equal to $\frac{h}{4\pi}$
+
+Mathematically,
+
+$\Delta x \cdot \Delta p \geq \frac{h}{4\pi}$
+
+# Significance of Heisenberg's Uncertainity Principle 
+
+According to principle of optics, the accuracy with which a particle can be located depends upon the wavelength of the light used. The uncertainity in position is $\plusmn\lambda$
+
+$\uparrow E = \frac{hc}{\lambda\downarrow}$  
+More the energy, lower the wavelength
+
+$\therefore$ We cannot see a microscopic particle like electron without disturbing it. 
