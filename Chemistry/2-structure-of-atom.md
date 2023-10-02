@@ -287,7 +287,7 @@ $\Delta x \cdot \Delta p \geq \frac{h}{4\pi}$
 
 # Significance of Heisenberg's Uncertainity Principle 
 
-According to principle of optics, the accuracy with which a particle can be located depends upon the wavelength of the light used. The uncertainity in position is $\plusmn\lambda$
+According to principle of optics, the accuracy with which a particle can be located depends upon the wavelength of the light used. The uncertainity in position is $\pm \lambda$
 
 $\uparrow E = \frac{hc}{\lambda\downarrow}$  
 More the energy, lower the wavelength
