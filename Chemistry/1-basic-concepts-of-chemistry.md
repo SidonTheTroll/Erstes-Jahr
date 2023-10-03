@@ -152,7 +152,7 @@ Mass of 1 mole of $H_2O$ = 18 g
 # Volume in Terms of Mole 
 
 Gram molecular of gas = Gram molecular volume  
-$\implies \text{molar volume} = 22.4 liter$
+$\implies \text{molar volume} = 22.4 \text{ liter}$
 
 Under NTP/STP (Normal Temperature Pressue/Standard Temperature Pressue)
 

@@ -9,7 +9,6 @@
     - [Step 1: Assign Oxidation Numbers](#step-1-assign-oxidation-numbers)
     - [Step 2: Figure out what's being oxidized and reduced](#step-2-figure-out-whats-being-oxidized-and-reduced)
     - [Step 3: Write half reactions](#step-3-write-half-reactions)
-      - [Reduction half-reaction](#reduction-half-reaction)
     - [Step 4: Add electrons to balance charges](#step-4-add-electrons-to-balance-charges)
     - [Step 5: Repeat the same steps on Oxidation half-reaction.](#step-5-repeat-the-same-steps-on-oxidation-half-reaction)
     - [Step 6: Multiply half reactions to make the number of electrons equal in both](#step-6-multiply-half-reactions-to-make-the-number-of-electrons-equal-in-both)
