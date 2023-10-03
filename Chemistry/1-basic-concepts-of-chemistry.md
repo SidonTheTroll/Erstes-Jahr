@@ -175,7 +175,7 @@ n is the simple whole number ratio
 
 1. Write the percentage of diferent element involved in the formula. Then write the atomic mass of the element involved.
 2. Divide the percentage of each element by its atomic mass to calculate the gram atoms or moles of the element.
-   - Gram atom (moles) = $\frac{\% \text{ of element}}{\text{Atomic mass}}$
+   - Gram Atom (moles) = $\frac{\% \text{ of element}}{\text{Atomic mass}}$
 3. Divide the gram atoms or moles of different element by the smallest among them to find the atomic ratio or molar ratio.
 4. Raise the atomic or molar ratio of the element to the nearest whole number. If necessary, multiply by suitable integers. 
 
