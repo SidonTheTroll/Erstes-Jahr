@@ -161,8 +161,6 @@ $\And\text{ Nitrogen is reduced}$
 
 <img src='./src/redox-reaction/identify-acidic.jpg'>
 
-#### Reduction half-reaction 
-
 ### Step 4: Add electrons to balance charges 
 > Use $H_2O$ to balance O and $H^+$ to balance H
 
