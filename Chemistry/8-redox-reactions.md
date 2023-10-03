@@ -132,9 +132,9 @@ $Ag + NO^-_3 \rightarrow Ag^+ + NO$
  
 > Determine the oxidation numbers of each element in the equation:  
 > 
-> **Element by itself**: 0
-> **Group 1A**: always +1 
-> **Group 2A**: always +2
+> **Element by itself**: 0  
+> **Group 1A**: always +1  
+> **Group 2A**: always +2  
 > **Halogens**: usually -1, positive with Oxygen 
 >
 > - Monatomic ion: ion charge
