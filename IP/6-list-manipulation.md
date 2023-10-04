@@ -19,7 +19,7 @@ print(c)  #  5
 
 But for this case, the replaced variable gets deleted. This is the problem of python
 
-- Storage also becomes difficult of huge number of variables. 
+- Storage also becomes difficult with huge number of variables. 
 
 List solves that problem 
 
