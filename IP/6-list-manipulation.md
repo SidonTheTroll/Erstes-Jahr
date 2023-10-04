@@ -55,7 +55,7 @@ B = [50,60,70,80,90]
 
 ```py
 a = [1,2,,3,4,5] # Integer list  
-b = [1,2,,3,4,5] # Floating-point list  
+b = [1.6,2.3,3.9,4.4,5.6] # Floating-point list  
 c = ['W','O','R','L','D'] # Character list  
 d = ['so','sehr','schon']  # Word List  
 e = [1, 3.5, -2, 'Sekai','L'] # Mixed list   
@@ -69,7 +69,7 @@ Q = List[]
 
 - Sequence is also a kind of list 
 
-a = (1,2,3,4,5) # This is a sequence 
+`a = (1,2,3,4,5) # This is a sequence`
 
 - List follows index values but sequences do not. 
 
