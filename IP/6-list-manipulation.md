@@ -19,7 +19,7 @@ print(c)  #  5
 
 But for this case, the replaced variable gets deleted. This is the problem of python
 
-- Storage also becomes difficult of huge numebr of variables. 
+- Storage also becomes difficult of huge number of variables. 
 
 List solves that problem 
 
@@ -53,11 +53,13 @@ B = [50,60,70,80,90]
 
 ## Types of Lists 
 
-a = [1,2,,3,4,5] # Integer list 
-b = [1,2,,3,4,5] # Floating-point list 
-c = ['W','O','R','L','D'] # Character list 
-d = ['so','sehr','schon']  # Word List
-e = [1, 3.5, -2, 'Sekai','L'] # Mixed list 
+```py
+a = [1,2,,3,4,5] # Integer list  
+b = [1,2,,3,4,5] # Floating-point list  
+c = ['W','O','R','L','D'] # Character list  
+d = ['so','sehr','schon']  # Word List  
+e = [1, 3.5, -2, 'Sekai','L'] # Mixed list   
+```
 
 - For calculations, only pure list of one type is applicable. 
 
