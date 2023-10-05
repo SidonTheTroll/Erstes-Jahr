@@ -86,4 +86,89 @@ print(a) # (1,2,,3,4,5)
 
 - Sequence can be converted into list but not vice versa. 
 
+# 05/10/2023
 
+## List VS String 
+
+- List: mutable 
+- String: non-mutable 
+
+Prog1
+
+Write a program to print the positive and negative indexes of each element of a sequence which is given below along with the elements. (['s','c','h','o','o','l'])
+
+```py
+a = ['s','c','h','o','o','l']
+L = len(a)
+n = 0 
+
+for n in range(L):
+    print('At indexs', n, "and", (n-L), 'element is:', (a[n]))
+
+```
+> The output will be the following 
+> At indexes 0 and -6 element is: s 
+> At indexes 1 and -5 element is: c 
+> At indexes 2 and -4 element is: h 
+> At indexes 3 and -3 element is: o 
+> At indexes 4 and -2 element is: o
+> At indexes 5 and -1 element is: l 
+
+- ONLY ADDITION OF ELEMENTS IS ALLOWED IN LISTS 
+- AND TWO LISTS CANNOT BE MULTIPLIED
+
+
+```python
+
+# Program to combine lists
+
+A = [1,2,3,4]
+B = [1,2,3]
+
+C = A+B 
+
+print(C) # [1,2,3,4,1,2,3]
+
+```
+
+```python
+# Program to multiply the element of list 
+
+B = [1,2,3]
+B = B*3 
+
+print(B) # [1,2,3,1,2,3,1,2,3]
+```
+
+```python
+# Program to check for equal content in list 
+
+A = [1,2,3,4]
+B = [1,2,3]
+
+if A == B: 
+    print('Equal')
+else: 
+    print('Not equal')
+```
+
+- "Greater than and less than functions can also be used."
+
+Q/ Write a program to create a new list from an existing list. 
+
+```python
+A = [1,2,3,4,5,6,7]
+B = A[3:6]
+
+print(B) # [4,5,6]
+
+# For reverse 
+
+B = A[::-1]
+print(B) # [7,6,5,4,3,2,1]
+
+# Skipping values 
+
+B = A[0:5:2]
+print(B) # [1,3,5]
+```
