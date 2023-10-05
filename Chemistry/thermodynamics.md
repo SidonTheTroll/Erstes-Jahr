@@ -42,7 +42,7 @@ If a system undergoes changs as a result of chemical reaction, it can describe b
 ## Thermodynamic Process 
 
 1. **Iso-thermal process**: the temperature of system remains constant.
-    - dt =  
+    - dt = 0
 
 2. **Adiabetec process**: no exchange of heat between system and surrounding is possible (system is isolated)
     - dq (heat) = 0 
@@ -129,5 +129,4 @@ In case the system expands from a finite volume $v_1$ to $v_2$ during the change
 $\therefore Work done by the system will be,$  
 
 $W = -P$  
-$$
 
