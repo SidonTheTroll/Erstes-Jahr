@@ -1,4 +1,4 @@
-# 07/09/23 
+# Introduction 
 
 **Thermo**: heat  
 **Dynamics**: flow (flow of heat) | Heat = energy 
@@ -25,10 +25,6 @@
 
 - **Extensive Property**: The properties of a system which depends upon either the size or quantity of matter present in it. Eg: mass, volume, internal energy, enthalpy, and entropy.
 
----
-
-# 08/09/23 
-
 ## Thermodynamic State Function
 
 If a system undergoes changs as a result of chemical reaction, it can describe before and after the change in terms of certain properties. Such as pressue, volume, temperature, etc. These are known as state function, which can describe the state of function. 
@@ -42,3 +38,26 @@ If a system undergoes changs as a result of chemical reaction, it can describe b
     6. Pressue 
     7. Volume 
     8. Temperature 
+
+## Thermodynamic Process 
+
+1. **Iso-thermal process**: the temperature of system remains constant.
+    - dt =  
+
+2. **Adiabetec process**: no exchange of heat between system and surrounding is possible (system is isolated)
+    - dq (heat) = 0 
+
+3. **Isobaric process**: when the pressure remains constant throughout the process. 
+    - dP (perssure) = 0 
+
+> Change in volumme may not take place. 
+
+4. Isochoric process: Process carried out in constant volume. 
+    - dV = 0 
+
+> Change in pressure may not take place. 
+
+5. **Cyclic process**: when a system undergoes a series of change and finally returns to initial state. 
+    - dE = 0 
+
+
