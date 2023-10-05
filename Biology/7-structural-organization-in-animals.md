@@ -19,12 +19,12 @@ Gastric juices are secreted by glandular epithelium tissue.
 <br> 
 
 - Stratified epithelium is found in the upper layer of skin.
-    - No blood capillaried are connected to it.  
+No blood capillaries are connected to it.  
 
 <br> 
 
 - Dry cells that are found in the scalp are the nutrition for fungus. 
-    - If a person has untidy hair, the hyphae eats the living cells and cause dandruff and other symptoms. 
+    - If a person has untidy hair, the hyphae eat the living cells and cause dandruff and other symptoms. 
 
 ## Types
 
@@ -44,13 +44,13 @@ Gastric juices are secreted by glandular epithelium tissue.
    - Found in the lining of the digestive tract, uterine tubes, and respiratory bronchioles.
 
 4. **Pseudostratified Columnar Epithelium:**
-   - Appears stratified but is actually a single layer of cells with varying heights.
+   - Appears stratified but is a single layer of cells with varying heights.
    - Often possesses cilia and goblet cells.
    - Lines the respiratory tract and parts of the male reproductive system.
 
 5. **Stratified Squamous Epithelium:**
    - Multiple layers of flat, scale-like cells.
-   - Provides protection against abrasion.
+   - Protects against abrasion.
    - Found in the skin (epidermis), mouth, esophagus, and vagina.
 
 6. **Stratified Cuboidal Epithelium:**
@@ -85,15 +85,15 @@ Gastric juices are secreted by glandular epithelium tissue.
 
 > All voluntary muscles are striated.
 
-Areolar Tissue: specialized fibre called collagen and elastin 
+Areolar Tissue: specialized fiber called collagen and elastin 
 
 
-> Wrinkles form when areolar tissue becomes less firm on age.  
+> Wrinkles form when areolar tissue becomes less firm with age.  
 > Vitamin B complex, E and C help to retain elasticity. 
 
 - Plant supplements and water are important for areolar tissue preservation 
 
-> Nutrition from a region a person a belongs to is the most effective.  
+> Nutrition from a region a person belongs to is the most effective.  
 > This also decreases the amount of carbon footprint 
 
 > Carbon Credit: It is a reduction or removal of emissions of carbon dioxide or other greenhouse gases made in order to compensate for emissions made elsewhere.
