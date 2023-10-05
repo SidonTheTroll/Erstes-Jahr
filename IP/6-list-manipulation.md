@@ -103,7 +103,7 @@ L = len(a)
 n = 0 
 
 for n in range(L):
-    print('At indexs', n, "and", (n-L), 'element is:', (a[n]))
+    print('At indexes', n, "and", (n-L), 'element is:', (a[n]))
 
 ```
 > The output will be the following   
@@ -154,7 +154,7 @@ else:
 
 - "Greater than and less than functions can also be used."
 
-Q/ Write a program to create a new list from an existing list. 
+## Making new list from existing list 
 
 ```python
 A = [1,2,3,4,5,6,7]
