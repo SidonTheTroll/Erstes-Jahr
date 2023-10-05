@@ -106,13 +106,13 @@ for n in range(L):
     print('At indexs', n, "and", (n-L), 'element is:', (a[n]))
 
 ```
-> The output will be the following 
-> At indexes 0 and -6 element is: s 
-> At indexes 1 and -5 element is: c 
-> At indexes 2 and -4 element is: h 
-> At indexes 3 and -3 element is: o 
-> At indexes 4 and -2 element is: o
-> At indexes 5 and -1 element is: l 
+> The output will be the following   
+> At indexes 0 and -6 element is: s   
+> At indexes 1 and -5 element is: c  
+> At indexes 2 and -4 element is: h  
+> At indexes 3 and -3 element is: o  
+> At indexes 4 and -2 element is: o  
+> At indexes 5 and -1 element is: l  
 
 - ONLY ADDITION OF ELEMENTS IS ALLOWED IN LISTS 
 - AND TWO LISTS CANNOT BE MULTIPLIED
