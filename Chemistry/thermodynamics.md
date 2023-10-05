@@ -59,5 +59,75 @@ If a system undergoes changs as a result of chemical reaction, it can describe b
 
 5. **Cyclic process**: when a system undergoes a series of change and finally returns to initial state. 
     - dE = 0 
+    - Change in energy 
 
+# Reversable and Irreversable Change 
+
+## Mode of Energy Exchange 
+
+### 1. As heat energy 
+
+The heat from the system escapes to the surrounding or vice versa. 
+
+$\therefore \text{Heat q is -ve (if transferred from system to surrounding)}$
+
+If the heat is transferred from the surrounding from the system,  
+$\therefore \text{Heat (q) is +ve)}$
+
+### 2. As Work Energy 
+
+1. Mechanical Work (P-V Work): This is perhaps the most common form of work discussed in thermodynamics. It occurs when a system's volume changes while it is exposed to an external pressure. The formula for mechanical work, often denoted as W, is given by:
+
+$W = -P\Delta V$
+
+Where:
+
+W is the work done on the system (positive if work is done on the system, negative if done by the system).  
+P is the external pressure.  
+$\Delta V$ is the change in volume of the system.  
+
+2. Electrical Work: This type of work involves the movement of charged particles, typically electrons, and is important in electrochemistry. The formula for electrical work is:
+
+$W = -qV$
+
+Where:
+
+W is the work done.  
+q is the charge moved.  
+V is the potential difference (voltage) across which the charge is moved.  
+Other Forms of Work: Depending on the specific situation, work can also take forms such as shaft work (e.g., in rotating equipment), surface work (e.g., when a gas expands against a piston), and more. Each of these forms of work has its own associated equations and considerations.
+
+Work energy exchange is a crucial concept in thermodynamics because it helps describe how energy is transferred between a system and its surroundings during various processes. It is essential for understanding and calculating changes in the internal energy of a system, as defined by the first law of thermodynamics, which relates changes in internal energy (ΔU), heat transfer (Q), and work done (W) as follows:
+
+$ΔU = Q - W$
+
+Where:
+
+ΔU is the change in internal energy.  
+Q is the heat added to or removed from the system.  
+W is the work done on or by the system.  
+
+# Mechanical Work or Perress Volume Work
+
+1. Work done during expansion 
+
+Consider an ideal gas (1 ATP or NTP) enclosed in a cylinder fitted with a weightless and frictionless piston having an area of cross section 'A'. Let 'v' be the volume of gas and P be the pressue acting on the system. 
+
+$\therefore \text{Pressure} = \frac{force}{area}$  
+$\implies P = \frac{f}{a}$  
+$\implies f = P \cdot a$ {Equation 1}
+
+If the piston moves outward through a distance 'dl',
+
+$\therefore W = \text{foce} \cdot \text{distance}$  
+$\implies -f \cdot dl$  
+$\implies -P \cdot a \cdot dl$ {From Equation 1}  
+$dW = -P \cdot dv$ [Negative since the system is doing the work]
+
+In case the system expands from a finite volume $v_1$ to $v_2$ during the change, 
+
+$\therefore Work done by the system will be,$  
+
+$W = -P$  
+$$
 
