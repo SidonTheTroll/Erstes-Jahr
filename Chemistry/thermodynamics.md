@@ -126,7 +126,14 @@ $dW = -P \cdot dv$ [Negative since the system is doing the work]
 
 In case the system expands from a finite volume $v_1$ to $v_2$ during the change, 
 
-$\therefore Work done by the system will be,$  
+$\therefore \text{Work done by the system will be,}$  
 
 $W = -P$  
+$W = -P \int_{v_1}^{v_2} dv$  
+$W = -P [v_2 - v_1]$  
+$W = -P \Delta V$
+
+2. Work done during contraction 
+
+If The work is done on the system 
 
