@@ -173,7 +173,7 @@ B = A[0:5:2]
 print(B) # [1,3,5]
 ```
 
-06/10/23 
+# 06/10/23 
 
 ### Q/ Write a program to store all vowels in a list. Now display any one vowel as per the user's choice. User will choose the vowel as per the index value.
 
