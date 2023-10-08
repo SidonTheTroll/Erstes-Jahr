@@ -217,9 +217,9 @@ print("List after incrementing:", myList)
 ```py 
 a = [1,2,3,4,5]
 
-b = a[::-1]
+a = a[::-1]
 
-print(b)
+print(a)
 ```
 
 ### Write a program that inputs two lists and creates a third, that contains all element of first followed by all elements of the second. 
