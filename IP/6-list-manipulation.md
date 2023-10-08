@@ -93,9 +93,7 @@ print(a) # (1,2,,3,4,5)
 - List: mutable 
 - String: non-mutable 
 
-Prog1
-
-Write a program to print the positive and negative indexes of each element of a sequence which is given below along with the elements. (['s','c','h','o','o','l'])
+### Q/ Write a program to print the positive and negative indexes of each element of a sequence which is given below along with the elements. (['s','c','h','o','o','l'])
 
 ```py
 a = ['s','c','h','o','o','l']
@@ -117,10 +115,9 @@ for n in range(L):
 - ONLY ADDITION OF ELEMENTS IS ALLOWED IN LISTS 
 - AND TWO LISTS CANNOT BE MULTIPLIED
 
+### Program to combine lists
 
 ```python
-
-# Program to combine lists
 
 A = [1,2,3,4]
 B = [1,2,3]
@@ -131,8 +128,10 @@ print(C) # [1,2,3,4,1,2,3]
 
 ```
 
+### Program to multiply the element of list 
+
 ```python
-# Program to multiply the element of list 
+
 
 B = [1,2,3]
 B = B*3 
@@ -140,8 +139,9 @@ B = B*3
 print(B) # [1,2,3,1,2,3,1,2,3]
 ```
 
+### Program to check for equal content in list 
+
 ```python
-# Program to check for equal content in list 
 
 A = [1,2,3,4]
 B = [1,2,3]
@@ -154,7 +154,7 @@ else:
 
 - "Greater than and less than functions can also be used."
 
-## Making new list from existing list 
+### Making new list from existing list 
 
 ```python
 A = [1,2,3,4,5,6,7]
@@ -171,4 +171,64 @@ print(B) # [7,6,5,4,3,2,1]
 
 B = A[0:5:2]
 print(B) # [1,3,5]
+```
+
+06/10/23 
+
+### Q/ Write a program to store all vowels in a list. Now display any one vowel as per the user's choice. User will choose the vowel as per the index value.
+
+```py
+A = ['a', 'e', 'i', 'o', 'u']
+n = int(input("Enter a vowel to print, you need to enter number from 1 to 5: "))
+
+print(A[n-1])
+```
+
+### Write a program and store 10 different numbers in a list. Print the highest number from the list. 
+
+```py 
+A = [5,9,10,2,3,23,17,20,8,1]
+n = 0 
+
+for i in range(10):
+    if (A[i]>n):
+        n = A[i]
+
+print("The highest number is", n)
+```
+
+### Write a program to increment the elements of a list with a number 
+
+```py 
+myList = [1,2,3,4,5]
+
+value = 10 
+
+# value = int(input("What's the value of incrementation?\n"))
+
+for i in range(len(myList)):
+    myList[i] += value 
+
+print("List after incrementing:", myList)
+```
+
+### Write a program to reverse a list of integers (in place)
+
+```py 
+a = [1,2,3,4,5]
+
+b = a[::-1]
+
+print(b)
+```
+
+### Write a program that inputs two lists and creates a third, that contains all element of first followed by all elements of the second. 
+
+```py 
+a = [1,2,3,4,5]
+b = [6,7,8,9,10]
+
+c = a+b 
+
+print(c)
 ```
