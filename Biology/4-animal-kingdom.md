@@ -429,8 +429,7 @@ Characterized by creeping or crawling mode of locomotion.
 - Oviparous 
 - Direct development
 - Tympanum represents ears 
-
-
+- No external ear
 
 --- 
 
@@ -444,9 +443,9 @@ Characterized by creeping or crawling mode of locomotion.
 - Organ level system organization
 - Feathery exoskeleton
 - Bony endoskeleton
-- Pulminory respiration 
+- Pulmonory respiration 
 - 4 chambered heart 
-- Warm blooded 
+- Warm blooded (homoiothermous)
 - Limbs modified to wings
 - Have pneumatic (hollow) bones
 - Post anal part present (feathery)
@@ -461,18 +460,26 @@ Characterized by creeping or crawling mode of locomotion.
 - Coelomate 
 - Organ system level organization
 - Presence of mammalary gland 
-- Exoskeleton is hairy 
 - Endoskeleton is bony
+- Exoskeleton is hairy 
 - External pinna/ear
 - 4 chambered heart 
-- Warm blooded/homeothermus 
+- Warm blooded/homoiothermous
 - Unisexual 
 - Viviparous 
 - Respiration through lungs 
 - Mostly terrestrial 
 
+<br> 
 
+- Execption:
+    - Whale and dolphin are aquatic  
+    - Duck-billed platypus lays egg
 
-Whale and dolphin are aquatic  
-Duck-billed platypus lays egg
+# Important Features of Different Phyla in Animal Kingdom
 
+|Phylum|Level of Organization|Symmetry|Coelom|Segmentation|Digestive System|Circulatory System|Respiratory System|Distinctive Features|
+|-|-|-|-|-|-|-|-|-| 
+|Porifera|Cellular|Various|Absent|Absent|Absent|Absent|Absent|Body with pores and canals in walls| 
+|Coelenterata (Cnidaria)|Tissue|Radial|Absent|Absent|Incomplete|Absent|Absent|Cnidoblasts present|
+|Ctenophora|Tissue|Radial|Absent|Absent|Incomplete|Absent|Absent|Comb plate for locomotion|
