@@ -483,3 +483,11 @@ Characterized by creeping or crawling mode of locomotion.
 |Porifera|Cellular|Various|Absent|Absent|Absent|Absent|Absent|Body with pores and canals in walls| 
 |Coelenterata (Cnidaria)|Tissue|Radial|Absent|Absent|Incomplete|Absent|Absent|Cnidoblasts present|
 |Ctenophora|Tissue|Radial|Absent|Absent|Incomplete|Absent|Absent|Comb plate for locomotion|
+|Platyhelminthes|Organ & Organ system|Bilateral|Absent|Absent|Incomplete|Absent|Absent|Flat body, suckers|
+|Aschelminthes|Organ system|Bilateral|Psuedocoelomate|Absent|Complete|Absent|Absent|Often worm-shaped, elongated|
+|Annelida|Organ-system|Bilateral|Coelomate|Present|Complete|Present|Absent|Body segmentation like rings|
+|Arthropoda|Organ-system|Bilateral|Coelomate|Present|Complete|Present|Present|Exoskeleton of cuticl, joined appendages|
+|Mollusca|Organ-system|Bilateral|Coelomate|Absent|Complete|Present|Present|Exoskeleton of shell usually persent|
+|Echinodermata|Organ-system|Radial|Coelomate|Absent|Complete|Present|Present|Water vascular system, radial symmetry|
+|Hemichordata|Organ-system|Bilateral|Coelomate|Absent|Complete|Present|present|Worm-like with proboscis, collar and trunk|
+|Chordata|Organ-system|Bilateral|Coelomate|Present|Complete|Present|Present|Notochord, dorsal hollor nerve cord, gill slits with limbs or fins|
