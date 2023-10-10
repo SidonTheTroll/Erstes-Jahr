@@ -28,3 +28,9 @@ Mid term:
 		Supplementary: Mother's day, the address
 		Poem: Voice of the rain, the laburnum top, childhood 
 		Grammar: note making, reading comprehension, poster making, advertisement writing, speech writing, gap filling, narration, rearrangement
+
+
+# Post mid term 
+
+- Biology: 
+    - Photosynthesis 
