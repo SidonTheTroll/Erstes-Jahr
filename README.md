@@ -1,4 +1,4 @@
-<h1 align=center>Hashbrowns</h1>
+Gh1 align=center>Hashbrowns</h1>
 
 <div align='center'>
  
@@ -16,9 +16,9 @@ Read [**CONTRIBUTING.md**](./CONTRIBUTING.md) for collaboration.
 ## TODO
 
 - [x] Animal kingdom done for mid-term. Do the rest after exam
-- [ ] Don't overwork
 - [ ] Activities in notebook 
     - [ ] Bio (Identification of animals)
+    - [ ] Bio potato osmometer
     - [ ] Chem (Acid-Base Titration)
     - [ ] Phy (Volume of Irregular Lamina)
         -  [ ] Patches for past errors 
@@ -27,5 +27,3 @@ Read [**CONTRIBUTING.md**](./CONTRIBUTING.md) for collaboration.
 - [ ] Arrange [Biology diagrams](./Biology/diagrams/) chapterwise. 
 
 ![Alt](https://repobeats.axiom.co/api/embed/529b470931ea1f63dd9ad0ba8577989a531b82a9.svg "Repobeats analytics image") 
-
-
