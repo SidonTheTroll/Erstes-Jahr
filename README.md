@@ -15,14 +15,13 @@ Read [**CONTRIBUTING.md**](./CONTRIBUTING.md) for collaboration.
 
 ## TODO
 
-- [ ] Animal kingdom done for mid-term. Do the rest after exam
+- [x] Animal kingdom done for mid-term. Do the rest after exam
 - [ ] Don't overwork
 - [ ] Activities in notebook 
     - [ ] Bio (Identification of animals)
     - [ ] Chem (Acid-Base Titration)
     - [ ] Phy (Volume of Irregular Lamina)
         -  [ ] Patches for past errors 
-- [ ] Retrieve Salt Analysis notes from senior
 - [ ] Copy [Plant kingdom](./Biology/3-plant-kingdom.md) notes in notebook.
 - [ ] Illustrate poster (Add poster making if suitable) for music event.
 - [ ] Arrange [Biology diagrams](./Biology/diagrams/) chapterwise. 
