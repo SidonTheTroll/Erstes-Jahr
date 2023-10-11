@@ -232,3 +232,88 @@ c = a+b
 
 print(c)
 ```
+
+# 10/10/23 
+
+### Write a program to accept numbers from 1 to 12 and transform any number to 10 if its larger than 10. 
+
+```py 
+a = eval(input("Enter elements between 1 to 12: "))
+for i in range(len(a)):
+    if a[i] > 10: 
+        a[i] = 10 
+print(a)
+```
+
+### Write a program to enter numbers and then check if a number is present in the list. 
+
+```py 
+a = eval(input("Enter the elements for the list: "))
+n = int(input("Enter the number to check: "))
+for i in range(len(a)): 
+    if a[i] == n: 
+        print(f"This number is present in {i+1} position in the list.")
+    else: 
+        print("This number is not present in the list.")
+```
+
+# 11/10/2023
+
+### Write a program to input elements in a list and calculate the number of odd and even numbers. 
+
+```py 
+a = eval(input("Enter the elements in the list: "))
+odd = even = 0 
+
+if i in range(len(a)):
+    if a[i]%2 == 0: 
+        even += 1 
+    else:
+        odd += 1 
+
+print("Total odd numbers:", odd)
+print("Total even numbers:", even)
+```
+
+### Write a program to ingut elements in a list and find the largest number. 
+
+```python
+a = eval(input("Enter the elements: "))
+l = 0 
+
+for i in range(len(a)):
+    if a[i]>l: 
+        l = a[i]
+print("The largest number is:", l)
+```
+
+### Write a program to input elements in a list and find the lowest number. 
+
+```py 
+a = eval(input("Enter the elements: "))
+s = a[0] 
+
+for i in range(len(a)):
+    if a[i]>l: 
+        s = a[i]
+print("The smallest number is:", s)
+```
+
+### Write a program to input the elements in a list and print the summation of the list followed by the summation of the odd numbers and the summation of even numbers. 
+
+```py 
+a = eval(input("Enter the elements: "))
+so=se=sl=0
+
+for i in range(len(a)):
+    if a[i]%2 == 0: 
+        se += a[i]
+    else: 
+        so += a[i]
+    sl += a[i]
+
+
+print("List summation:", sl)
+print("Odd summation:", so)
+print("Even summation:", se)
+```
