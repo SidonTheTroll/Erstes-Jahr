@@ -1,4 +1,4 @@
-Gh1 align=center>Hashbrowns</h1>
+<h1 align=center>Hashbrowns</h1>
 
 <div align='center'>
  
