@@ -15,7 +15,6 @@ Read [**CONTRIBUTING.md**](./CONTRIBUTING.md) for collaboration.
 
 ## TODO
 
-- [x] Animal kingdom done for mid-term. Do the rest after exam
 - [ ] Activities in notebook 
     - [ ] Bio (Identification of animals)
     - [ ] Bio potato osmometer
