@@ -22,7 +22,6 @@ Read [**CONTRIBUTING.md**](./CONTRIBUTING.md) for collaboration.
     - [ ] Phy (Volume of Irregular Lamina)
         -  [ ] Patches for past errors 
 - [ ] Copy [Plant kingdom](./Biology/3-plant-kingdom.md) notes in notebook.
-- [ ] Illustrate poster (Add poster making if suitable) for music event.
 - [ ] Arrange [Biology diagrams](./Biology/diagrams/) chapterwise. 
 
 ![Alt](https://repobeats.axiom.co/api/embed/529b470931ea1f63dd9ad0ba8577989a531b82a9.svg "Repobeats analytics image") 
