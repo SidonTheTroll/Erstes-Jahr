@@ -54,3 +54,5 @@ Initiated by the contraction of diaphragm which increases the volume of the thor
 ### Expiration
 
 The relaxation of the diaphragm and the inter-costal muscles returns the diaphragm and the sternum to their normal positions and reduce the thoracic and pulmonary volume. This makes the pressues more than the atmospheric pressure causing the expulsion of the air from the lungs. 
+
+
