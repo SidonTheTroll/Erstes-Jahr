@@ -1,10 +1,7 @@
 # 06/10/23 
 
 $$
-CO_2 + H_0 \rightarrow C_{6}H_{12}O_{6} + H_2O + O_2 
-$$ 
-
-\text{This takes place in the presence of chlorophyll and sunlight}
+CO_2 + H_0 \overset{Chlorophyll}{\underset{Sunlight}{\rightarrow}} C_{6}H_{12}O_{6} + H_2O + O_2 
 $$
 
 Steps:  
