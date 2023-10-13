@@ -1,4 +1,4 @@
-06/10/23 
+# 06/10/23 
 
 $$
 CO_2 + H_0 \rightarrow C_{6}H_{12}O_{6} + H_2O + O_2 
@@ -28,29 +28,37 @@ Vascular bungle is surrounded by bundle sheath cells.
 
 - Generally leaves perform in photosynthesis 
 
-    _    ____  ____     ____ _____      _    _   _ ____     ____ _  _   
-   / \  |  _ \|  _ \   / ___|___ /     / \  | \ | |  _ \   / ___| || |  
-  / _ \ | | | | | | | | |     |_ \    / _ \ |  \| | | | | | |   | || |_ 
- / ___ \| |_| | |_| | | |___ ___) |  / ___ \| |\  | |_| | | |___|__   _|
-/_/   \_\____/|____/   \____|____/  /_/   \_\_| \_|____/   \____|  |_|
-  ______   ______ _     _____ 
- / ___\ \ / / ___| |   | ____|
-| |    \ V / |   | |   |  _|  
-| |___  | || |___| |___| |___ 
- \____| |_| \____|_____|_____|
+## $C_3$ pathway 
+
+The $C_3$ pathway, also known as the Calvin cycle, is a vital part of photosynthesis in plants. 
+
+1. **Carbon Capture**: It starts by capturing carbon dioxide (CO2) from the air and turning it into a 3-carbon compound, 3-PGA.
+
+2. **Making Energy**: In the next steps, 3-PGA becomes G3P and uses energy molecules (ATP and NADPH) produced in the light-dependent reactions.
+
+3. **Recycling**: Some of the G3P helps regenerate the initial carbon-capturing molecule.
+
+4. **Sugar Production**: The rest of the G3P is used to make glucose and other sugars, essential for the plant.
+
+Remember, it's called C3 because it starts with **3 carbon atoms** . While it's common, some plants use more efficient pathways like C4 and CAM in specific conditions.
 
 - Some plants also use $CO_2$ at night to conserve water, specially seen in desert plants. 
 
-    _    ____  ____    _  ______      _    _   _ _____
-   / \  |  _ \|  _ \  | |/ /  _ \    / \  | \ | |__  /
-  / _ \ | | | | | | | | ' /| |_) |  / _ \ |  \| | / / 
- / ___ \| |_| | |_| | | . \|  _ <  / ___ \| |\  |/ /_ 
-/_/   \_\____/|____/  |_|\_\_| \_\/_/   \_\_| \_/____|
-    _    _   _    _  _____ ___  __  ____   __
-   / \  | \ | |  / \|_   _/ _ \|  \/  \ \ / /
-  / _ \ |  \| | / _ \ | || | | | |\/| |\ V / 
- / ___ \| |\  |/ ___ \| || |_| | |  | | | |  
-/_/   \_\_| \_/_/   \_\_| \___/|_|  |_| |_|  
+## Kranz Anatomy 
+
+Kranz Anatomy is a special leaf structure found in certain plants, mainly in C4 plants. 
+
+1. Cell Arrangement: Kranz anatomy features a unique cell arrangement in the leaves of C4 plants. These cells are arranged in two distinct layers: the inner bundle sheath cells and the outer mesophyll cells.
+
+2. Cell Roles: In this setup, the mesophyll cells are responsible for capturing carbon dioxide (CO2) and converting it into a 4-carbon compound. This is more efficient in high-heat and high-light conditions.
+
+3. Protection: The inner bundle sheath cells act as protective shields. They keep oxygen out and prevent water loss through evaporation.
+
+4. Efficiency: This arrangement enhances the efficiency of photosynthesis in C4 plants, especially in hot and dry environments.
+
+So, Kranz anatomy is like a two-layered team, with one layer capturing CO2 efficiently and the other layer protecting against wasteful processes, making it perfect for certain plants in challenging conditions.
+
+**Eg: Maize (corn), Sugarcane, Millet, Switchgrass**
 
 # 12/10/23 
 
