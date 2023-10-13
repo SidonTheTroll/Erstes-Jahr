@@ -92,6 +92,7 @@ The red and blue wavelenghts are captured the most in leaves.
 
 - Other thylakoid agents like chlorophyll $b$, xanthophyll and carotenoid are also called accessory pigments. 
 
+| | |  
 |--------------- | --------------- |
 | <img src="./diagrams/ch13/absorption-spectrum.png"> | This table shows the maximum absorption of the electro-magnetic spectrum of different pigments |
 
