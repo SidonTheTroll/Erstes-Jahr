@@ -28,7 +28,7 @@ Vascular bungle is surrounded by bundle sheath cells.
 
 - Generally leaves perform in photosynthesis 
 
-## $C_3$ pathway 
+## C3 pathway 
 
 The $C_3$ pathway, also known as the Calvin cycle, is a vital part of photosynthesis in plants. 
 
