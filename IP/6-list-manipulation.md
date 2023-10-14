@@ -350,7 +350,7 @@ print("Even summation:", se)
 - Remove element based on face value  
 `<listName>.remove(<value>)`
 
-> **Note**: This only works for the first value that comes on order.
+> **Note**: This only works for the first value that comes in order.
 
 - Count number of similar elements on face value  
 `<listName>.count(<value>)`
