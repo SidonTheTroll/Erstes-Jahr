@@ -317,3 +317,45 @@ print("List summation:", sl)
 print("Odd summation:", so)
 print("Even summation:", se)
 ```
+
+# 14/10/2023
+
+- Adding single element  
+`<listName>.append(<value>)`
+
+- Adding more than 1 element  
+`<listName>.extend([<elements>])`
+
+- Finding largest value in list  
+`max(<listName>)`
+
+- Finding smallest value in list  
+`min(<listName>)`
+
+- Finding the sum of elements in list  
+`sum(<listName>)`
+
+- Sort in ascending order  
+`<listName>.sort()`
+
+- Sort in descending order  
+`<listName>.sort(reverse=True)`
+
+- Reversing a list  
+`<listName>.reverse()`
+
+- Delete element based on index value  
+`<listName>.pop(<address>)`
+
+- Remove element based on face value  
+`<listName>.remove(<value>)`
+
+> **Note**: This only works for the first value that comes on order.
+
+- Count number of similar elements on face value  
+`<listName>.count(<value>)`
+
+> Consider a value is counted that is not in the list, it will give the result as `0`
+
+- Clear all elements of a list  
+`<listName>.clear()`
