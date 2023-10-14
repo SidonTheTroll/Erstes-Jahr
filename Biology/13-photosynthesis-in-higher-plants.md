@@ -131,3 +131,13 @@ The various pigments help the plant to capture a broad spectrum of light to make
 - The PS1 photosystem chlorophyll $a$ has absorption maxima of 700 nm and is called the P700 
 - The PS2 photosystem chlorophyll $a$ has absorption maxima of 680 nm and is called the P680
 
+## the Electron Transport 
+
+<img src="./diagrams/ch13/Z-scheme.png" align=right width=400>
+
+In photosystem 2, the reaction center chlorophyll $a$ absorbs 690 nm wavelength of red light which causes the electrons to become excited and jump into an orbit farther from the atomic nucleus. These electrons are picked up by an electron acceptor which passes them to an **electrons transport system consisting of cytochromes**. 
+
+Electrons move through the electron transport chain from high to low energy states (downhill), facilitating the production of energy-rich molecules, but they are not consumed; instead, they are passed on to photosystem I, where they play a crucial role in converting light energy into chemical energy.
+
+Simultaneously, electrons in PS1 are also excited in the reaction when they receive red light of wavelength 700 nm and are transferred to another accepter molecule that has a greater redox potential. In the Z-scheme, electrons flow downhill through a sequence of carriers, ultimately reducing $NADP^+$ to produce energy-rich $NADPH + H^+$, forming a distinctive "Z" shape on the redox potential scale.
+
