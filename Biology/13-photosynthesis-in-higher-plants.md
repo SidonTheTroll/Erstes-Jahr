@@ -131,7 +131,7 @@ The various pigments help the plant to capture a broad spectrum of light to make
 - The PS1 photosystem chlorophyll $a$ has absorption maxima of 700 nm and is called the P700 
 - The PS2 photosystem chlorophyll $a$ has absorption maxima of 680 nm and is called the P680
 
-## the Electron Transport 
+## The Electron Transport 
 
 <img src="./diagrams/ch13/Z-scheme.png" align=right width=400>
 
