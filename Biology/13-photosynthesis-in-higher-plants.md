@@ -98,9 +98,8 @@ The red and blue wavelenghts are captured the most in leaves.
 
 - Other thylakoid agents like chlorophyll $b$, xanthophyll and carotenoid are also called accessory pigments. 
 
-| | |  
-|--------------- | --------------- |
 | <img src="./diagrams/ch13/absorption-spectrum.png"> | This table shows the maximum absorption of the electro-magnetic spectrum of different pigments |
+|--------------- | --------------- |
 
 ## What is Light Reaction 
 
@@ -140,4 +139,65 @@ In photosystem 2, the reaction center chlorophyll $a$ absorbs 690 nm wavelength 
 Electrons move through the electron transport chain from high to low energy states (downhill), facilitating the production of energy-rich molecules, but they are not consumed; instead, they are passed on to photosystem I, where they play a crucial role in converting light energy into chemical energy.
 
 Simultaneously, electrons in PS1 are also excited in the reaction when they receive red light of wavelength 700 nm and are transferred to another accepter molecule that has a greater redox potential. In the Z-scheme, electrons flow downhill through a sequence of carriers, ultimately reducing $NADP^+$ to produce energy-rich $NADPH + H^+$, forming a distinctive "Z" shape on the redox potential scale.
+
+
+## Cyclic and Non-cyclic Photo-phosphorylation 
+
+<img align=right src='./diagrams/ch13/cyclic-photophosphorylation.png' width=400>
+
+- The process through which ATP is synthesized by cells (in mitochondria and chloroplast) is called phosphorylation.
+
+- Phosphorylation is the process by which ATP is synthesized from ADP and inorganic phosphate in the presence of light. 
+
+When two photosystems work in a series (first PS2 and then PS1), the process is called Non-cyclic Photo-phosphorylation. 
+
+The two photosystems are connected thorugh electron transport chain in the [Z-scheme](#the-electron-transport). 
+
+- Both ATP and NADPH + $H^+$ are synthesized by this kind of electron flow. 
+
+When only PS1 is functional, electron is circulated within the photosystem and phosphorylation occurs due to cyclic flow of electrons. 
+
+- The location where this happens could possibly be the stroma lamellae 
+
+When the membrane or lamellae of the grana have both PS1 and PS2, the **stroma lamellae membrane lacks PS2 and NADP reductase enzyme**  
+The excited electron doesn't pass on to $NADP^+$ and it cycled back to the PS1 complex through the electron transport chain. 
+
+### Cyclic Phosphorylation 
+
+Cyclic Phosphorylation results only in ATP but not $NADPH+H^+$
+
+It only occurs in the light of wavelengths beyond 680 nm for excitation of the electons. 
+
+## The Calvin Cycle 
+
+Clavin Cycle is a cyclic operation which synthesizes sugar and RuBP is regenerated. 
+
+- Calvin Cycle is present in all plants irrespctive that they use $C_3$ or $C_4$ pathway. 
+
+<br> 
+
+- Stages: 
+    - Carboxylation
+    - Reduction 
+    - Regeneration 
+
+1. Carboxylation
+
+It is the fixation of $CO_2$ into a stable organic intermediate. It is the **most crucial step of Calvin Cycle** where $CO_2$ is utilized for the carboxylation of RuBP. This reaction is **catalyzed by enzyme RuBP carboxylase** resulting in the **formation of two molecules of 3-Phosphoglycerate (3-PGA)**. Since this enzyme also has has an oxygenation activity, it is also called **RuBisCO (Ribulose bisphosphate Carboxylase-Oxygenase)**. It is also the **most abundant protein in the biosphere**. 
+
+2. Reduction 
+
+It is a series of reactions that result in the formation of glucose. This step includes **2 molecules of ATP for phosphorylation and two of NADPH for reduction per $CO_2$ molecule** fixed. Therefore, **six molecules of $CO_2$ and 6 turns of the cycle are required for the formation of one molecule of glucose from the pathway**. 
+
+3. Regeneration 
+
+Regeneration of $CO_2$ acceptor molecule **RuBP** is crucial if the cycles has to continue uninterrupted. This step for regeneration requires **one APT for phosphorylation to form RuBP**. 
+
+In the Calvin cycle of photosynthesis, for every $CO_2$ molecule converted into a carbohydrate, 3 molecules of ATP and 2 molecules of NADPH are needed to supply energy and reducing power for the chemical reactions that turn $CO_2$ into sugars.
+
+| In | Out |
+|-|-|
+| 6 $CO_2$ | 1 Glucose |
+| 18 ATP | 18 ADP |
+| 12 NADPH | 12 NADP |
 
