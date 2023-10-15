@@ -78,7 +78,7 @@ Species: *rohita*
 2. Bears pair of pectoral fin, pair of pelvic fin, unpaired dorsal and anal fin and lobed caudal fin. 
 3. Has wider mouth in the terminal position with pair of nostrils and median eyes. 
 4. Has 5 pair gill slits covered by operculum.
-5. Has bony Endoskeleton.
+5. Has bony endoskeleton.
 
 ## Frog
 
