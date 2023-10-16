@@ -29,7 +29,7 @@ Unwanted particles may go to the wind pipe and it causes the lungs to release th
 
 # 12/10/2023
 
-## Steps in Respiration 
+## Steps involved in Respiration 
 
 1. Breathing or pulmonary ventilation by which atmospheric air is drawn in and $CO_2$ rich alveolar air is released out. 
 2. Diffusion of gases ($O_2$ and $CO_2$) across alveolar membrane. 
@@ -55,4 +55,30 @@ Initiated by the contraction of diaphragm which increases the volume of the thor
 
 The relaxation of the diaphragm and the inter-costal muscles returns the diaphragm and the sternum to their normal positions and reduce the thoracic and pulmonary volume. This makes the pressues more than the atmospheric pressure causing the expulsion of the air from the lungs. 
 
+# 16/10/2023
 
+## Respiratory Volumes and Capacities 
+
+1. **Tidal Volume (TV)**: It is the air inspired or expired during a normal respiration. It's approximately 500 ml and its 6000 to 8000 mL in a healthy man.
+
+2. **Inspiratory Reserve Volume (IRV)**: It's the additional volume of air forcefully inspired. **Averages from 2500 to 3000 mL**.
+
+3. **Expiratory Reserve Volume (ERV)**: It's the additional volume a person can forcefully expire. **Averages from 1000 to 1100 mL**.
+
+4. **Residual Volume (RV)**: It's the volume of air in the lungs even afetr a forceful expire. **Averages around 1100 to 1200 mL** 
+
+5. **Inspiratory Capacity (IC)**: Total volume of air a person can inspire after a normal expiration. **This includes tidal volume and inspiratory reserve volume (TV+IRV)** 
+
+6. **Expiratory Capacity (EC)**: Total volume of air a person can expire after a normal expiration. **This includes tidal volume and expiratory reserve volume (TV+ERV)** 
+
+7. **Functional Residual Capacity (FRC)**: Volume of air that will remain in the lungs after a normal expiration. **This includes ERV+RV** 
+
+8. **Vital Capacity**: It's the maximum volume of air a person can breathe in after a forced expiration. **This includes ERV, TV and IRV** 
+
+9. **Total Lung Capacity**: Total volume of air accomodation in the lungs at the end of a forced inspiration. This includes **RV, ERV, TV and IRV or vital capacity + residual volume** 
+
+> Shallow breathes result in restlessness.  
+> Oxygen is toxic for cancer cells.  
+> There are 15 to 18 strokes of breathes in a minute.
+
+> The brain only needs oxygen and glucose. 
