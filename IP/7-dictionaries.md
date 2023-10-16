@@ -34,7 +34,7 @@ A, B are the how header
 Q/ Create a dictionary and print it. 
 
 ```py
-a {'Rohan': 'Assam'; 'Shalini': 'Kolkata'; 'Raja': Delhi}
+a {'Rohan': 'Assam'; 'Shalini': 'Kolkata'; 'Raja': 'Delhi'}
 print(a)
 ```
 
