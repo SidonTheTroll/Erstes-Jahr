@@ -201,3 +201,45 @@ In the Calvin cycle of photosynthesis, for every $CO_2$ molecule converted into 
 | 18 ATP | 18 ADP |
 | 12 NADPH | 12 NADP |
 
+
+# 16/10/2023
+
+- First product to form in $C_4$ pathway - **Oxaloacetic acid**. 
+
+## Photorespiration 
+
+Photorespiration is the main difference between $C_3$ and $C_4$ pathway. 
+
+ ____  _                _           _     _           
+|  _ \| | __ _  ___ ___| |__   ___ | | __| | ___ _ __ 
+| |_) | |/ _` |/ __/ _ \ '_ \ / _ \| |/ _` |/ _ \ '__|
+|  __/| | (_| | (_|  __/ | | | (_) | | (_| |  __/ |   
+|_|   |_|\__,_|\___\___|_| |_|\___/|_|\__,_|\___|_|
+
+## Factors Affecting Photosynthesis 
+
+### Blackman's Law of Limiting Factors 
+
+"If a chemical reaction is affected by more than one factor, then its rate will be determined by the factor which is nearest to its minimal value: it is the factor which directly affects the process if its quantity is changed."
+
+- The above law should never be changed. 
+
+It means that if a reaction is governed by more than one factor, then the factor which has the minimum value is the key factor which determines the limit of the reaction if its quantity can be changed. 
+
+### Light 
+
+As light increases, the reaction of photosynthesis increases but it has a point after which the increase will cause a breakdown in the chlorophyll. 
+
+### Carbon Dioxide Concentation 
+
+$CO_2$ is a major factor which is directly proportional to the rate of photosynthesis. 
+
+Its increase in concentation can increase the $CO_2$ fixation rates.
+
+### Temperature
+
+Temperature is a sensitive factor which governs photosynthesis due to the enzyme action having a narrow limit in the temperature for the full productivity.
+
+### Water
+
+Water is need in the process of photosynthesis, but its stress can cause the stomata to close hence reducing the $CO_2$ availability. Besides water can also wilt leaves, thus, reducing the surface are of leaves and metabolic activity. 
