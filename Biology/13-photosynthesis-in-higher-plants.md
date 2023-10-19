@@ -243,3 +243,25 @@ Temperature is a sensitive factor which governs photosynthesis due to the enzyme
 ### Water
 
 Water is need in the process of photosynthesis, but its stress can cause the stomata to close hence reducing the $CO_2$ availability. Besides water can also wilt leaves, thus, reducing the surface are of leaves and metabolic activity. 
+
+# 17/10/23 
+
+PAR: Photsynthetically Active Radiation 
+
+If plants are in shady area, to capture more energy, the increase their surface area. 
+
+More Chlorophyll = More energy trapped 
+
+No algae is found after the depth of 500 m because of the lack of light. 
+
+High amounts of solar energy is harmful to plants because it deforms the proteins in it. 
+
+# CAM 
+
+Instead of taking $O_2$ at day, it't taken at night 
+
+Fix $CO_2$ almost as $C_4$ pathway 
+
+Daytime regen $CO_2$ by decarboxylation and produce carbohydrate without opening stomata. 
+
+Prominent in desert plants 
