@@ -6,10 +6,14 @@ The speed at which technology is advancing is astonishing. It's changing our liv
 
 Artificial Intelligence (AI) refers to the ability of machines or computers to learn by adjusting it to the latest things just like a human being. 
 
+- They usually run on algorithms. 
+
 It brings out the following things: 
 
 1. It can mimic human thoughts and behavior (learning from mistakes, catching new ideas, etc)
 2. It acts in a very human like way: intelligent, rational and ethical (take decision in a right way)
+
+More the data is fed to the AI, the better results it will give. 
 
 Therefore they are designed and programmed to: 
 
@@ -39,6 +43,4 @@ Virtual Reality is where with an environment is simulated with the help of compu
 It makes possible for the user to interact with the virtual environment with multiple senses; this is called **sensory synchronicity**.
 
 VR is made possible by devices like VR Headset, instrumented and sensory gloves and VR bodysuit. 
-
-
 
