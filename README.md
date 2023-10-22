@@ -16,12 +16,9 @@ Read [**CONTRIBUTING.md**](./CONTRIBUTING.md) for collaboration.
 ## TODO
 
 - [ ] Activities in notebook 
-    - [x] Bio (Identification of animals)
     - [ ] Bio potato osmometer
     - [ ] Chem (Acid-Base Titration)
-    - [x] Phy (Volume of Irregular Lamina)
-        -  [ ] Patches for past errors 
-- [ ] Copy [Plant kingdom](./Biology/3-plant-kingdom.md) notes in notebook.
+    - [ ] Patches for past physics errors 
 - [ ] Arrange [Biology diagrams](./Biology/diagrams/) chapterwise. 
 
 ![Alt](https://repobeats.axiom.co/api/embed/529b470931ea1f63dd9ad0ba8577989a531b82a9.svg "Repobeats analytics image") 
