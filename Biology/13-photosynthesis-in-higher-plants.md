@@ -30,7 +30,7 @@ Vascular bungle is surrounded by bundle sheath cells.
 
 The $C_3$ pathway, also known as the Calvin cycle, is a vital part of photosynthesis in plants. 
 
-1. **Carbon Capture**: It starts by capturing carbon dioxide (CO2) from the air and turning it into a 3-carbon compound, 3-PGA.
+1. **Carbon Capture**: It starts by capturing carbon dioxide (CO2) from the air and turning it into a 3-carbon compound, 3-PGA (Phosphoglyceric Acid).
 
 2. **Making Energy**: In the next steps, 3-PGA becomes G3P and uses energy molecules (ATP and NADPH) produced in the light-dependent reactions.
 
@@ -242,17 +242,33 @@ In the Calvin cycle of photosynthesis, for every $CO_2$ molecule converted into 
 
 ## The C4 Pathway 
 
+- First product to form in $C_4$ pathway - **Oxaloacetic acid**. 
+
+<img align=right src="./diagrams/ch13/hatch-and-slack-pathway.png" width=400> 
+
 - Plants in arid regions adapt $C_4$ pathway. 
     - Tolerate higher temperatures. 
     - Response to high light intensities. 
     - Lack of [photorespiration](#photorespiration)
+    - Better [biomass productivity](./misc-notes/Biomass-Productivity.md)
 
+The large cells around the vascular bundles in $C_4$ plants are called bundle sheath cells.  
+This anatomy is called [Kranz Anatomy](#kranz-anatomy)
 
+Bundle sheath cells form various layers around vascular bundles and is characterized by a large number of chloroplasts, thick walls imprevious to gaseous exchange and no intercellular spaces. 
 
+The primary $CO_2$ acceptor is the 3-cabron molecule **phosphoenol pyruvate (PEP)** and is present in **mesophyll cells**. The enzyme responsible for this fixation is called **PEP carboxylase or PEPcase.** RuBisCO is absent in the $C_4$ pathway but use **OAA (Oxaloacetic acid)**. 
+
+Then it forms other 4-carbon compounds like **malic acid or aspartic acid in the mesophyll cells to transfer bundle sheath cells**. 
+
+In bundle sheath cells, $C_4$ acids are broken down to release $CO_2$ and a 3-cabon molecule.  
+Then the 3-carbon molecle is transported back to mesophyll where it is converted to PEP again, thus completing the cycle. 
+
+The $CO_2$ released in the bundle sheath cells enter the $C_3$ or [Calvin pathway](#the-calvin-cycle) which are rich in **RuBisCO (Ribulose bisphosphate carboxylase-oxygenase) which results in the formation of sugars. 
+
+> **Therefore calvin cycle is common in both $C_3$ and $C_4$ pathways.** 
 
 # 16/10/2023
-
-- First product to form in $C_4$ pathway - **Oxaloacetic acid**. 
 
 ## Photorespiration 
 
@@ -280,6 +296,29 @@ Photorespiration is the main difference between $C_3$ and $C_4$ pathway.
 - C4 plants minimize photorespiration through increased CO2 concentration.
 - C4 plants are more productive and heat-tolerant.
 
+
+# Differences between C3 and C4 Plants
+
+| Characteristics    | $C_3$ plants | $C_4$ plants |
+|---------------- | --------------- | --------------- |
+| Cell type in which calvin cycle takes place | Mesophyll | Bundle sheath |
+| Cell type in which the initial carboxylation reaction occurs | Mesophyll | Mesophyll |
+| How many cell types does the leaf have that fix $CO_2$ | One | Two |
+| Primary $CO_2$ acceptor | PGA  | RuBP |
+| Number of carbons in the primary $CO_2$ acceptor | 5 | 3 | 
+| Primary $CO_2$ fixation product | PGA | OAA | 
+| No. of carbons in the primary $CO_2$ fixation product | 3 | 4 | 
+| RuBisCO present? | Yes | Yes | 
+| PEPcase present? | No | Yes | 
+| Cell containing RuBisCO | Mesophyll | Bundle Sheath | 
+| $CO_2$ fixation rates under high light conditions | Low | High |
+| Photorespiration under low light conditions | Negligible | Negligible | 
+| Photorespiration under high light conditions | High | Negligible | 
+| Photorespiration at low $CO_2$ concentration | High | Negligible | 
+| Photorespiration at high $CO_2$ concentration | Negligible | Negligible | 
+| Temperature optimum | 20-25 C | 30-40 C | 
+| Examples | Wheat, Rice, Oat, Bamboo, Potato | Sugarcane, Maize, Sorghum (guinea corn), Pearl millet, Amaranth | 
+
 ## Factors Affecting Photosynthesis 
 
 ### Blackman's Law of Limiting Factors 
@@ -297,11 +336,11 @@ As light increases, the reaction of photosynthesis increases but it has a point 
 > High amounts of solar energy is harmful to plants because it deforms the proteins in it. 
 
 
-### Carbon Dioxide Concentation 
+### Carbon Dioxide Concentration 
 
 $CO_2$ is a major factor which is directly proportional to the rate of photosynthesis. 
 
-Its increase in concentation can increase the $CO_2$ fixation rates.
+Its increase in concentration can increase the $CO_2$ fixation rates.
 
 ### Temperature
 
