@@ -44,7 +44,7 @@ Remember, it's called C3 because it starts with **3 carbon atoms** . While it's 
 
 ## Kranz Anatomy 
 
-Kranz Anatomy is a special leaf structure found in certain plants, mainly in C4 plants. 
+Kranz Anatomy is a special leaf structure found in certain plants, mainly in [$C_4$](#the-c4-pathway) plants. 
 
 1. Cell Arrangement: Kranz anatomy features a unique cell arrangement in the leaves of C4 plants. These cells are arranged in two distinct layers: the inner bundle sheath cells and the outer mesophyll cells.
 
@@ -140,6 +140,43 @@ Electrons move through the electron transport chain from high to low energy stat
 
 Simultaneously, electrons in PS1 are also excited in the reaction when they receive red light of wavelength 700 nm and are transferred to another accepter molecule that has a greater redox potential. In the Z-scheme, electrons flow downhill through a sequence of carriers, ultimately reducing $NADP^+$ to produce energy-rich $NADPH + H^+$, forming a distinctive "Z" shape on the redox potential scale.
 
+## Z-Scheme 
+
+The Z-scheme is a crucial concept in the process of photosynthesis, specifically in the light-dependent reactions that occur in the thylakoid membranes of chloroplasts. 
+
+### The Z-Scheme in Photosynthesis:
+
+1. **Light Absorption**: The process begins when chlorophyll and other pigments in the photosynthetic machinery absorb sunlight. This energy is absorbed by chlorophyll molecules in the photosystem II (PSII) and photosystem I (PSI).
+
+2. **Photosystem II (PSII)**:
+
+PSII comes first in the Z-scheme.
+It absorbs light and uses this energy to split water molecules, releasing oxygen ($O_2$) and protons ($H^+$).
+The energy from PSII is transferred to an electron transport chain, creating an electron flow.
+
+3. **Electron Transport Chain**:
+
+The energized electrons from PSII move through a chain of proteins embedded in the thylakoid membrane.
+As the electrons move along this chain, they release energy, which is used to pump protons (H+) into the thylakoid space, creating a proton gradient.
+
+4. **Photosystem I (PSI)**:
+
+After the electrons have passed through the electron transport chain, they arrive at PSI.
+PSI absorbs more light energy, further energizing the electrons.
+The electrons are then used to reduce NADP+ (nicotinamide adenine dinucleotide phosphate) to form NADPH, which is an important molecule for the Calvin cycle, the light-independent reactions of photosynthesis.
+
+5. **ATP Synthesis**:
+
+Simultaneously, the proton gradient created in the thylakoid space due to both PSII and PSI pumps is used to generate ATP (adenosine triphosphate) through ATP synthase. This is known as chemiosmotic phosphorylation.
+
+6. **The "Z" Shape**:
+
+The name "Z-scheme" comes from the zigzag shape formed when representing the flow of electrons and energy in the process.
+
+### Overall Significance:
+
+- The Z-scheme illustrates the way in which light energy is captured, used to split water, generate ATP, and produce NADPH, all of which are critical for the subsequent dark reactions (Calvin cycle) in photosynthesis.
+- It's a key part of how plants and other photosynthetic organisms convert light energy into chemical energy stored in glucose and other organic molecules.
 
 ## Cyclic and Non-cyclic Photo-phosphorylation 
 
@@ -181,6 +218,8 @@ Clavin Cycle is a cyclic operation which synthesizes sugar and RuBP is regenerat
     - Reduction 
     - Regeneration 
 
+<img align=right src="./diagrams/ch13/chloroplast.png" width=400> 
+
 1. Carboxylation
 
 It is the fixation of $CO_2$ into a stable organic intermediate. It is the **most crucial step of Calvin Cycle** where $CO_2$ is utilized for the carboxylation of RuBP. This reaction is **catalyzed by enzyme RuBP carboxylase** resulting in the **formation of two molecules of 3-Phosphoglycerate (3-PGA)**. Since this enzyme also has has an oxygenation activity, it is also called **RuBisCO (Ribulose bisphosphate Carboxylase-Oxygenase)**. It is also the **most abundant protein in the biosphere**. 
@@ -201,6 +240,15 @@ In the Calvin cycle of photosynthesis, for every $CO_2$ molecule converted into 
 | 18 ATP | 18 ADP |
 | 12 NADPH | 12 NADP |
 
+## The C4 Pathway 
+
+- Plants in arid regions adapt $C_4$ pathway. 
+    - Tolerate higher temperatures. 
+    - Response to high light intensities. 
+    - Lack of [photorespiration](#photorespiration)
+
+
+
 
 # 16/10/2023
 
@@ -210,11 +258,27 @@ In the Calvin cycle of photosynthesis, for every $CO_2$ molecule converted into 
 
 Photorespiration is the main difference between $C_3$ and $C_4$ pathway. 
 
- ____  _                _           _     _           
-|  _ \| | __ _  ___ ___| |__   ___ | | __| | ___ _ __ 
-| |_) | |/ _` |/ __/ _ \ '_ \ / _ \| |/ _` |/ _ \ '__|
-|  __/| | (_| | (_|  __/ | | | (_) | | (_| |  __/ |   
-|_|   |_|\__,_|\___\___|_| |_|\___/|_|\__,_|\___|_|
+### Photorespiration and RuBisCO
+
+- RuBisCO is a crucial enzyme in the Calvin pathway.
+- It can bind to both $CO_2$ and $O_2$, and this binding is competitive.
+- The relative concentration of O2 and CO2 determines which binds to RuBisCO.
+- In C3 plants, some O2 binds to RuBisCO, reducing CO2 fixation.
+- Photorespiration occurs when RuBP binds with O2, resulting in the release of CO2 and phosphoglycolate, but no ATP or sugar production.
+- The biological purpose of photorespiration is still unknown.
+
+### C4 Plants vs. C3 Plants
+
+- C4 plants minimize photorespiration.
+- They achieve this by increasing CO2 concentration at the enzyme site.
+- C4 acids in mesophyll cells break down in bundle sheath cells to release CO2, reducing oxygenase activity of RuBisCO.
+- C4 plants have better productivity, higher yields, and increased heat tolerance compared to C3 plants.
+
+### Key Takeaways
+
+- Photorespiration reduces CO2 fixation and occurs in C3 plants.
+- C4 plants minimize photorespiration through increased CO2 concentration.
+- C4 plants are more productive and heat-tolerant.
 
 ## Factors Affecting Photosynthesis 
 
@@ -230,6 +294,9 @@ It means that if a reaction is governed by more than one factor, then the factor
 
 As light increases, the reaction of photosynthesis increases but it has a point after which the increase will cause a breakdown in the chlorophyll. 
 
+> High amounts of solar energy is harmful to plants because it deforms the proteins in it. 
+
+
 ### Carbon Dioxide Concentation 
 
 $CO_2$ is a major factor which is directly proportional to the rate of photosynthesis. 
@@ -244,19 +311,9 @@ Temperature is a sensitive factor which governs photosynthesis due to the enzyme
 
 Water is need in the process of photosynthesis, but its stress can cause the stomata to close hence reducing the $CO_2$ availability. Besides water can also wilt leaves, thus, reducing the surface are of leaves and metabolic activity. 
 
-# 17/10/23 
+## Crassulacean acid metabolism (CAM) 
 
-PAR: Photsynthetically Active Radiation 
-
-If plants are in shady area, to capture more energy, the increase their surface area. 
-
-More Chlorophyll = More energy trapped 
-
-No algae is found after the depth of 500 m because of the lack of light. 
-
-High amounts of solar energy is harmful to plants because it deforms the proteins in it. 
-
-# CAM 
+CAM is a unique photosynthetic pathway found in certain desert plants, such as cacti and succulents.
 
 Instead of taking $O_2$ at day, it't taken at night 
 
@@ -265,3 +322,31 @@ Fix $CO_2$ almost as $C_4$ pathway
 Daytime regen $CO_2$ by decarboxylation and produce carbohydrate without opening stomata. 
 
 Prominent in desert plants 
+
+### Day-Night Separation:
+
+CAM plants separate the processes of CO2 uptake and photosynthesis into day and night phases.
+
+### Nighttime CO2 Uptake:
+
+At night, CAM plants open stomata to take in CO2, as it's cooler and less water loss occurs.
+The CO2 is converted into organic acids and stored in the vacuoles.
+
+### Daytime Photosynthesis:
+
+During the day, stomata close to conserve water.
+The stored organic acids from the night are broken down to release CO2 for photosynthesis.
+This separation of processes reduces water loss and enhances water use efficiency.
+
+### Adaptation to Arid Environments:
+
+CAM is an adaptation to arid (dry) environments where water conservation is crucial.
+Examples:
+
+Examples of CAM plants include cacti, agaves, and many succulents.
+
+### Key Takeaways:
+
+CAM is a photosynthetic strategy that separates CO2 uptake and photosynthesis in time to conserve water.
+It's an adaptation to arid environments, allowing plants to thrive with minimal water availability.
+
