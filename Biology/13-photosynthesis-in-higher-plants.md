@@ -389,3 +389,32 @@ Examples of CAM plants include cacti, agaves, and many succulents.
 CAM is a photosynthetic strategy that separates CO2 uptake and photosynthesis in time to conserve water.
 It's an adaptation to arid environments, allowing plants to thrive with minimal water availability.
 
+
+# Extra QnA 
+
+### 1. State the differences between cyclic and non-cyclic photo-phosphorylation. 
+
+When PSI and PSII photosystems both work together when the are connected through an electron transport chain by which they synthesize both ATP and $NADPH+H^+$ is called non-cyclic photo-phosphorylation.  
+Whereas when only PSI is working and an electron is circulated within the photosystem of the stroma lamellae and leads to the production of only ATP is called cyclic photo-phosphorylation. 
+
+### 2. How water can affect the rate of photosynthetis? 
+
+Water affects the rate of photosynthesis because its presenc can put stress on the stroma which causes it to be closed which reduces the supply of $CO_2$ availability. Moreover, it makes the leaves wilt and this reduces the surface area of leaves and the metabolic activity. 
+
+### 3. What are the factors on which photosynthesis depends? 
+
+The factors on which photosynthesis depends are- 
+
+1. Light: higher light intensities beyond a fixed point can cause the breakdown of chlorophyll a. 
+2. Concentration of $CO_2$: Increase of $CO_2$ levels is detremential to the plant over long periods.
+3. Temperature: It affcts the enzyme action. 
+4. Water: It stresses the stoma and causes the leaves to wilt. 
+
+### 4. What is photorespiration? 
+
+Photorespiration is the process by which a plant releases $CO_2$ by consuming ATP and no production of sugar of ATP is called photorespiration.  
+It occurs because RuBP is instead converted into 2 molecule of phosphoglycerate and it binds with $O_2$ to form one molecule of phosphoglycerate and one phosphoglycolate in the pathway. This is hugely due to a flaw in the plant's genetics. 
+
+### 5. Why every light harvesting complexes must have chlorophyll a molecule? 
+
+Every light harvesting complex must have chlorophyll a molecule because it forms the reation center which excites the photon of diffrent wavelengths to be transported to the primary acceptor. 
