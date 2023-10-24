@@ -13,12 +13,12 @@ Screw gauge, lamina, graph paper
 2. Least count = $\frac{\text{Pitch}}{\text{Total number of divisions on the circular scale}}$
 
 3. Total Reading = LSR + CSR * Least count  
-$\implies M+n \text{X} LC$
+$\implies M+n \text{ x } LC$
 
 An irregular lamina is a body of irregular geometrical shape having negligibly small thickness as compared to length and breadth. 
 
 $$
-\text{Volume} = \text{Surface area} \text{x} \text{thickness} 
+\text{Volume} = \text{Surface area} \text{ x } \text{thickness} 
 $$
 
 So, the determination of volume of an irregular lamina involves two steps: 
@@ -33,7 +33,7 @@ n = 100 - 80
 
 So,  
 $e$ = $n$ * $LC$  
-$\implies 20 \text{x} 0.01$  
+$\implies 20 \text{ x } 0.01$  
 $\implies 0.2$
 
 $\therefore \text{It is a negative error}$
@@ -58,14 +58,14 @@ $\implies 1.9 mm$
 ## Mean Corrected Thickness 
 
 $t = t_0 + e$  
-$\implies 1.90 + .20$  
-$\implies 2.10 mm$  
-$\implies 0.21 cm$
+$\implies 1.90 + 0.20$  
+$\implies 2.10$ mm  
+$\implies 0.21$ cm
 
 Now,  
 v = area of lamina * mean corrected thickness 
-$\implies 1.75 cm^2 \text{x} 0.21 cm$  
-$v = 36.75 cm^2$
+$\implies 1.75 cm^2 \text{ x } 0.21 cm$  
+$v = 36.75$ $cm^2$
 
 # Result
 
