@@ -8,9 +8,9 @@ Screw gauge, lamina, graph paper
 
 # Theory 
 
-1. Pitch = \frac{\text{Distance moved by the screw on linear scale}}{\text{Number of rotation of circular scale}}
+1. Pitch = $\frac{\text{Distance moved by the screw on linear scale}}{\text{Number of rotation of circular scale}}$
 
-2. Least count = \frac{\text{Pitch}}{\text{Total number of divisions on the circular scale}}
+2. Least count = $\frac{\text{Pitch}}{\text{Total number of divisions on the circular scale}}$
 
 3. Total Reading = LSR + CSR * Least count  
 $\implies$
