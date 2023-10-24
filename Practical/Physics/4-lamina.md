@@ -12,5 +12,5 @@ Screw gauge, lamina, graph paper
 
 2. Least count = \frac{\text{Pitch}}{\text{Total number of divisions on the circular scale}}
 
-3. Total Reading = LSR + CSR * Least count 
-\implies 
+3. Total Reading = LSR + CSR * Least count  
+$\implies$
