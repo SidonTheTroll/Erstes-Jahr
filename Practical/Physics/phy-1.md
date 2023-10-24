@@ -2,7 +2,7 @@
 
 To measure the diameter of a small cylinder using **Vernier callipers**.
 
-# APPARATUS REQUIRED
+# Apparatus Required 
 
 Vernier callipers, small cylinder
 
@@ -29,6 +29,17 @@ $D_1R_2$ = 3.1 + (0.01 \* 4)
 => 3.14 cm
 
 $\underbar{D}_1$
+
+# Observations 
+
+
+
+
+# Calculations 
+
+VC = 1 - \frac{9}{10}  
+\implies 0.01 cm 
+
 
 # Result
 
