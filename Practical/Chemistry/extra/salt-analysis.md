@@ -10,9 +10,9 @@ Qualitative analysis of inorganic salts primarily involves the identification of
 
 These preliminary tests, often known as dry tests, can be completed in a short period, typically within 10-15 minutes. They involve noting the general appearance and physical properties of the salt, including color, smell, and solubility. Dry tests encompass procedures such as heating the dry salt, blow pipe tests, flame tests, borax bead tests, sodium carbonate bead tests, and charcoal cavity tests.
 
-Furthermore, the solubility of a salt in water and the pH of its aqueous solutions offer critical insights into the nature of ions present in the salt. If a solution of the salt is found to be acidic or basic, it indicates hydrolysis in water. A basic solution may suggest the presence of carbonates or sulphides, while an acidic solution may indicate an acid salt or a salt of a weak base and strong acid. In the latter case, neutralizing the solution with sodium carbonate before testing for anions is recommended.
+Furthermore, the solubility of a salt in water and the $pH$ of its aqueous solutions offer critical insights into the nature of ions present in the salt. If a solution of the salt is found to be acidic or basic, it indicates hydrolysis in water. A basic solution may suggest the presence of carbonates or sulphides, while an acidic solution may indicate an acid salt or a salt of a weak base and strong acid. In the latter case, neutralizing the solution with sodium carbonate before testing for anions is recommened.
 
-Additionally, gases evolved during the preliminary tests with dilute H2SO4, dilute HCl, and concentrated H2SO4 provide valuable indications about the presence of acid radicals. It is essential to conduct these preliminary tests before proceeding with the confirmatory tests for ions.
+Additionally, gases evolved during the preliminary tests with dilute $H_2SO_4$, dilute $HCl$, and concentrated $H_2SO_4$ provide valuable indications about the presence of acid radicals. It is essential to conduct these preliminary tests before proceeding with the confirmatory tests for ions.
 
 ## Color of some inorganic salts 
 
@@ -66,32 +66,57 @@ Information from this test can give valuable clues, partly from observation of t
 | $\text{　} \text{　}$ (a) Colorless and odorless gas, turns lime water milky | $CO_3^{2-} \text{ or } C_2O_4^{3-} \text{ present}$ | 
 | $\text{　} \text{　}$ (b) Evolution of ammonia, gives white fumes when a glass rod dipped in dilute $HCl$ is brought near the mouth of the test tube. | $NH_4^+$
 
-
 # Dry Test For Acid Radicals 
 
 - Dry tests for acid radicals are performed in the following manner
     1. Action of diluted hydrochloric acid 
     2. Action of concentrated sulphuric acid 
 
-
-
 ## Action of Diluted Hydrochloric Acid 
 
-| <center>Experiment | <center>Observation | <center>Inference | 
-|-|-|-|
-| Take a small amount of the substance and add 5 ml of dil. $H_2SO_4$, if no reaction takes place, warm a little. | 1. Colorless and odorless gas is evolved with fizz, turns lime water milky. | Carbonate $(CO_3^{2-})$ and Bicarbonate $(HCO_3^-)$| 
-| | 2. COlorless gas with odor of rotten eggs turns lead acetate paper black. | Sulphate $(S^{2-})$ | 
-| | 3. Colorless gas possessing suffocating odor, turns acidified potassium dichromate solution green. | Sulphite $(SO_2)$
+> Take a small amount of the substance and add 5 ml of dil. $H_2SO_4$, if no reaction takes place, warm a little.
 
+| <center>Observation | <center> Gas Evolved | <center>Possible anion | 
+|:-|:-:|:-:|
+| $1.$ Colorless and odorless gas is evolved with fizz, turns lime water milky. | $CO_2$ |Carbonate $(CO_3^{2-})$ and Bicarbonate $(HCO_3^-)$| 
+| $2.$ Colorless gas with odor of rotten eggs turns lead acetate paper black. | $H_2S$ | Sulphide $(S^{2-})$ | 
+| $3.$ Colorless gas with pungent smell, like burning sulfur which turns acidified potassium dichromate solution green. | $SO_2$ | Sulphite $(SO_3^{2-})$ | 
+| $3.$ Reddish-brown gas is evolved turns acidified startch-iodide paper blue (starch iodide paper is prepared by moistening a piece of filter paper with a $Kl$ solution) | $Cl_2$ | Nitrite $(NO_2^-)$
+| $4.$ Colourless vapours with smell of vinegar. Vapours turn blue litmus red. | $CH_3COOH$ vapours | Acetate, $(CH_3COO^-)$
 
-<div align=center>
+## Action of Concentrated Sulphuric Acid 
 
-| <center>Observations | <center>Gas Evolved | <center>Possible Anion | 
-|-|-|-|
-| A colourless, odourless gas is evolved with fizz, which turns lime water milky. | $CO_2$ | Carbonate $(CO_3^{2-})$ | 
-| Colourless gas with the smell of rotten eggs is evolved which turns lead acetate paper black. | $H_2S$ | Sulphide $(S^{2-})$
-| Colourless gas with a pungent smell, like burning sulphur which turns acidified potassium dichromate solution green. | $SO_2$ | Sulphite $(SO_3^{2-})$
-| Brown fumes which turn acidified potassium iodide solution containing starch solution blue. | $NO_2$ | Nitrite $(NO_2^-)$
-| Colourless vapours with smell of vinegar. Vapours turn blue litmus red. | $CH_3COOH$ vapours | Acetate, $(CH_3COO)$
+> Take a small amount of substance in a dry test tube. Add 4-5 ml of concentrated $H_2SO_4$, and gently heat the solution. 
 
-</div>
+| <center> Observation | <center> Gas evolved | <center> Possible anions | 
+|:-|:-:|:-:|
+| $1.$ A colourless gas with pungent smell, which gives dense white fumes when a rod dipped in $NH_4OH$ (ammonium hydroxide) is brought near the mouth of the test tube | $HCl$ | Chloride, $Cl^-$ | 
+| $2.$ Reddish brown gas with a pungent odour is evolved. Intensity of reddish gas increases on heating the reaction mixture after addition of solid MnO 2 to the reaction mixture. Solution also acquires red colour. | $Br_2$ vapors | Bromide, $Br^-$ | 
+| $3.$ Violet vapours, which turn starch paper blue and a layer of violet sublimate is formed on the sides of the tube. Fumes become dense on adding MnO 2 to the reaction mixture. | $I_2$ vapors | Iodide, $I^-$ | 
+| $4.$ Brown fumes evolve which become dense upon heating the reaction mixture after addition of copper turnings and the solution acquires blue colour. | $NO_2$ | Nitrate, $NO_3^-$ | 
+| $5.$ Colourless, odourless gas is evolved which turns lime water milky and the gas coming out of lime water burns with a blue flame, if ignited. | $CO \text{ and }$ CO_2 | Oxalate $(C_2O_4^{2-})$
+
+> Take small amount of substance in a dry test tube. Add a little $MnO_2$ and 2 ml concentrated $H2SO4$. Heat gently. 
+
+| <center> Observation | <center> Gas evolved | <center> Possible anions | 
+|:-|:-:|:-:|
+|$1.$ Greenish-yelow gas turns moist starch-iodide paper blue. | $Cl_2$ | Chloride $(Cl^-)$| 
+| $2.$ Brown-red vapors turn strach-iodide paper blue. | $Br_2$ | Bromide $(Br^-)$ | 
+| $3.$ Violet vapors turn starch paper blue. | $I_2$ | Iodide $(I^-)$
+
+> Take a small amound of the substance in a dry test tube. Add 3-4 ml concentrated $H_2SO_4$ and a little $Cu$ turning. Heat gently. 
+
+| <center> Observation | <center> Gas evolved | Possible Anion | 
+|:-|:-:|:-:| 
+|Reddish-brown fumes and the solution in the test tube appears blue. | $NO_2$ | Nitrate $(NO_3^-)$
+
+# Wet Test for Acid Radical 
+
+> if salt not soluble in $H_2O$, then prepare $Na_2CO_3$ extract. Otherwise water extract. 
+
+| <center> Experiment | <center> Observation | <center> Inference |
+|:-|:-|:-:|
+| $1.$ take about 5 ml of $NA_2CO_3$ extract in a test tube. Acidify with dilute $HCl$. Boil to expel $CO$. Add $BaCl_2$ solution. | White ppt insoluble in dilute $HCl$ or dilute $HNO_3$ | Sulfate $(SO_4)^{2-}$ | 
+| $2.$ Take 5 ml of $Na_2CO_3$ (sodium carbonate) extract in a test tube. Accidiryfwith dilute $HCl$. Add $BaCl_2$ solution followed by bromine water. Heat the content. | White ppt | Slufite $(SO_3^{2-})$ | 
+| $3.$ Take 5 ml of sodium carbonate extract in a test tube. Acidify with dilute $H_2SO_4$. Add about 5 ml of freshly prepared $FeSO_4$ solution. Slowly pour 2-3 ml of concentrated $H_2SO_4$ down the side of the tube. Hold the tube at an angle while doing this. The heavy sulfuric acid sinks to the bottom. | A brown ring at the junction of the two liquids. | Nitrate $(NO_3^-)$ | 
+| $4.$ Take 5 ml of $Na_2CO_3$ extract in a test tube. Acidify with dilute $HNO_3$. Boil off $CO_2$. Add $AgNO_3$ solution. | White ppt readily soluble in $NH_4OH$ $\\$ OR $\\$ Pale yellow ppt soluble in concentrated $NH_4OH$ solution $\\$ Yellow ppt insoluble in concentrated $NH_4OH$ | Chloride $(CL^-)$ $\\$ Bromide $Br^-$ $\\$ Iodide $(I^-)$
