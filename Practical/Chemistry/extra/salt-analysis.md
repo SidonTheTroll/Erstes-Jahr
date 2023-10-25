@@ -63,8 +63,8 @@ Information from this test can give valuable clues, partly from observation of t
 | $4.$ Formation of sublimate (white along with fog) | $NH_4^+$ | 
 | | | |
 | $5.$ Evolution of gases | | 
-| $\text{　}$\text{　}$ (a) Colorless and odorless gas, turns lime water milky | $CO_3^{2-} \text{ or } C_2O_4^{3-} \text{ present}$ | 
-| $\text{　}$\text{　}$ (b) Evolution of ammonia, gives white fumes when a glass rod dipped in dilute $HCl$ is brought near the mouth of the test tube. | $NH_4^+$
+| $\text{　} \text{　}$ (a) Colorless and odorless gas, turns lime water milky | $CO_3^{2-} \text{ or } C_2O_4^{3-} \text{ present}$ | 
+| $\text{　} \text{　}$ (b) Evolution of ammonia, gives white fumes when a glass rod dipped in dilute $HCl$ is brought near the mouth of the test tube. | $NH_4^+$
 
 
 # Dry Test For Acid Radicals 
