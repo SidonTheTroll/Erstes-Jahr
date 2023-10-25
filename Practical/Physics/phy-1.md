@@ -9,11 +9,13 @@ Vernier callipers, small cylinder
 # Theory
 
 1. Vernier constant = 1 MSD - 1 VSD
-2. Zero error, e = $\pm$ No. of vernier division coinciding with some main scale division $\text{X}$ Vernier constant
+2. Zero error, e = $\pm$ No. of vernier division coinciding with some main scale division $\text{ X }$ Vernier constant
 3. Zero correction,
    - $c$ = - zero error = $-e$
 4. Observed diameter,
    - D = MSR + VSR = N + n \* VC
+
+A vernier calliper is a precision measuring instrument used to accurately measure the dimensions of an object. It consists of a main scale and a sliding vernier scale. The vernier scale allows for more precise reading than a standard ruler, as it can measure both internal and external dimensions, as well as breadth. 
 
 # Observation and Calculation
 
