@@ -52,10 +52,10 @@ Information from this test can give valuable clues, partly from observation of t
 | <center> Observation | <center> Inference |
 |:-|:-:|
 | $1.$ (Resiedue) Change in color | | 
-| $\text{　}$ (a) Yellow when hot, white when cold | $Zn^{2+}$ | 
-| $\text{　}$ (b) Yellow in both hot and cold conditions | $Pb^{2+}$ | 
-| $\text{　}$ (c) Red white hot and yellow or brown when cold | $Fe^{3+}$ | 
-| $\text{　}$ (d) Black in both hot and cold conditions | Salt of $Cu^{2+},\ Co^{2+},\ Mn$ | 
+| $\text{　} \text{　}$ (a) Yellow when hot, white when cold | $Zn^{2+}$ | 
+| $\text{　} \text{　}$ (b) Yellow in both hot and cold conditions | $Pb^{2+}$ | 
+| $\text{　} \text{　}$ (c) Red white hot and yellow or brown when cold | $Fe^{3+}$ | 
+| $\text{　} \text{　}$ (d) Black in both hot and cold conditions | Salt of $Cu^{2+},\ Co^{2+},\ Mn$ | 
 | $2.$ Salt fuses while melting | $Na^+, K^+, CA^{2+}, Sr^{2+}, Ba^{2+}$ | 
 | | | |
 | $3.$ Decrepitation (the salt flies to pieces with sharp crackling sound) | $Pb(NO_3),\ NaCl$ | 
@@ -63,8 +63,8 @@ Information from this test can give valuable clues, partly from observation of t
 | $4.$ Formation of sublimate (white along with fog) | $NH_4^+$ | 
 | | | |
 | $5.$ Evolution of gases | | 
-| $\text{　}$ (a) Colorless and odorless gas, turns lime water milky | $CO_3^{2-} \text{ or } C_2O_4^{3-} \text{ present}$ | 
-| $\text{　}$ (b) Evolution of ammonia, gives white fumes when a glass rod dipped in dilute $HCl$ is brought near the mouth of the test tube. | $NH_4^+$
+| $\text{　}$\text{　}$ (a) Colorless and odorless gas, turns lime water milky | $CO_3^{2-} \text{ or } C_2O_4^{3-} \text{ present}$ | 
+| $\text{　}$\text{　}$ (b) Evolution of ammonia, gives white fumes when a glass rod dipped in dilute $HCl$ is brought near the mouth of the test tube. | $NH_4^+$
 
 
 # Dry Test For Acid Radicals 
