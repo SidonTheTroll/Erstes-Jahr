@@ -74,7 +74,7 @@ Information from this test can give valuable clues, partly from observation of t
 
 ## Action of Diluted Hydrochloric Acid 
 
-> Take a small amount of the substance and add 5 ml of dil. $H_2SO_4$, if no reaction takes place, warm a little.
+### Take a small amount of the substance and add 5 ml of dil. $H_2SO_4$, if no reaction takes place, warm a little.
 
 | <center>Observation | <center> Gas Evolved | <center>Possible anion | 
 |:-|:-:|:-:|
@@ -86,7 +86,7 @@ Information from this test can give valuable clues, partly from observation of t
 
 ## Action of Concentrated Sulphuric Acid 
 
-> Take a small amount of substance in a dry test tube. Add 4-5 ml of concentrated $H_2SO_4$, and gently heat the solution. 
+### Take a small amount of substance in a dry test tube. Add 4-5 ml of concentrated $H_2SO_4$, and gently heat the solution. 
 
 | <center> Observation | <center> Gas evolved | <center> Possible anions | 
 |:-|:-:|:-:|
@@ -96,7 +96,7 @@ Information from this test can give valuable clues, partly from observation of t
 | $4.$ Brown fumes evolve which become dense upon heating the reaction mixture after addition of copper turnings and the solution acquires blue colour. | $NO_2$ | Nitrate, $NO_3^-$ | 
 | $5.$ Colourless, odourless gas is evolved which turns lime water milky and the gas coming out of lime water burns with a blue flame, if ignited. | $CO \text{ and }$ CO_2 | Oxalate $(C_2O_4^{2-})$
 
-> Take small amount of substance in a dry test tube. Add a little $MnO_2$ and 2 ml concentrated $H2SO4$. Heat gently. 
+### Take small amount of substance in a dry test tube. Add a little $MnO_2$ and 2 ml concentrated $H2SO4$. Heat gently. 
 
 | <center> Observation | <center> Gas evolved | <center> Possible anions | 
 |:-|:-:|:-:|
@@ -104,7 +104,7 @@ Information from this test can give valuable clues, partly from observation of t
 | $2.$ Brown-red vapors turn strach-iodide paper blue. | $Br_2$ | Bromide $(Br^-)$ | 
 | $3.$ Violet vapors turn starch paper blue. | $I_2$ | Iodide $(I^-)$
 
-> Take a small amound of the substance in a dry test tube. Add 3-4 ml concentrated $H_2SO_4$ and a little $Cu$ turning. Heat gently. 
+### Take a small amound of the substance in a dry test tube. Add 3-4 ml concentrated $H_2SO_4$ and a little $Cu$ turning. Heat gently. 
 
 | <center> Observation | <center> Gas evolved | Possible Anion | 
 |:-|:-:|:-:| 
@@ -112,11 +112,63 @@ Information from this test can give valuable clues, partly from observation of t
 
 # Wet Test for Acid Radical 
 
-> if salt not soluble in $H_2O$, then prepare $Na_2CO_3$ extract. Otherwise water extract. 
+> If salt not soluble in $H_2O$, then prepare $Na_2CO_3$ extract. Otherwise water extract. 
 
 | <center> Experiment | <center> Observation | <center> Inference |
 |:-|:-|:-:|
 | $1.$ take about 5 ml of $NA_2CO_3$ extract in a test tube. Acidify with dilute $HCl$. Boil to expel $CO$. Add $BaCl_2$ solution. | White ppt insoluble in dilute $HCl$ or dilute $HNO_3$ | Sulfate $(SO_4)^{2-}$ | 
 | $2.$ Take 5 ml of $Na_2CO_3$ (sodium carbonate) extract in a test tube. Accidiryfwith dilute $HCl$. Add $BaCl_2$ solution followed by bromine water. Heat the content. | White ppt | Slufite $(SO_3^{2-})$ | 
 | $3.$ Take 5 ml of sodium carbonate extract in a test tube. Acidify with dilute $H_2SO_4$. Add about 5 ml of freshly prepared $FeSO_4$ solution. Slowly pour 2-3 ml of concentrated $H_2SO_4$ down the side of the tube. Hold the tube at an angle while doing this. The heavy sulfuric acid sinks to the bottom. | A brown ring at the junction of the two liquids. | Nitrate $(NO_3^-)$ | 
-| $4.$ Take 5 ml of $Na_2CO_3$ extract in a test tube. Acidify with dilute $HNO_3$. Boil off $CO_2$. Add $AgNO_3$ solution. | White ppt readily soluble in $NH_4OH$ $\\$ OR $\\$ Pale yellow ppt soluble in concentrated $NH_4OH$ solution $\\$ Yellow ppt insoluble in concentrated $NH_4OH$ | Chloride $(CL^-)$ $\\$ Bromide $Br^-$ $\\$ Iodide $(I^-)$
+|  | **1.** White ppt readily soluble in $NH_4OH$ | Chloride $(CL^-)$  
+| $4.$ Take 5 ml of $Na_2CO_3$ extract in a test tube. Acidify with dilute $HNO_3$. Boil off $CO_2$. Add $AgNO_3$ solution. | **2.** Pale yellow ppt soluble in concentrated $NH_4OH$ solution. |  Bromide $Br^-$
+| | **3.** Yellow ppt insoluble in concentrated $NH_4OH$ | Iodide $(I^-)$ | 
+| $5.$ Take 5 ml of $Na_2CO_3$ extract. Acidify with $CH_3COOH$ (acetic acid) and then add $Pb(C_2H_3O_2)_2$ (lead acetate) solution. | Black ppt soluble in hot dilute $HNO_3$ | Sulfide $(S^2-)$ | 
+| $6.$ Take 5 ml of $Na_2CO_3$ extract, add a few drops of $Na_2[Fe(CN)_5(NO)]$ (sodium nitroprusside) solution. | Violet or pink coloration | Sulfide $(S^2-)$ | 
+| $7.$ Take 5 ml of $Na_2CO_3$ extract in a test tube. Acidify with dilute $H_2SO_4$. Then add $KI$ (Potassium iodide) solution. | Reddish-brown coloration turns starch solution blue. | Nitrate $(NO_2^-)$ | 
+| $8.$ Take 5 ml of $Na_2CO_3$ extract in a test tube. Add 2-3 ml of concentrated $HNO_3$ and 10 ml of $(NH_4)_6Mo_7O_{24}$ (ammonium molybdate) solution. Warm moderately $(40\degree C)$ | Straw-colored ppt (light-yellow) | Phosphate $(PO_4^{3-})$
+| $9.$ Take 2-3 ml of $Na_2CO_3$ extract in a test tube. Acidify with dilute $CH_3COOH$ (acetic acid). Add $CaCl_2$ solution. | White ppt insoluble in dilute $HCl$ | Oxalate $(C_2O_4^{2-})$ | 
+| $10.$ Dissolve salt in water: To the aqueous solution, add freshly prepared $FeCl_2$ solution. | Blood red coloration | Acetate $(CH_3COO)$ | 
+
+# Wet Test for Basic Radical 
+
+1. Distilled water (hot/cold)
+2. Dilute $HCl$ (hot/cold)
+3. Concentrated $HCl$ (hot/cold)
+
+Solubility of inorganic salt in above solvents may often help to identify some basic radicals. 
+
+| <center> Solvent | <center> Salt | 
+|:-|:-|
+| 1. Cold water | (a) All $NH_4$, $Na$ and $K$ salts. 
+| | (b) All nitrates, nitrites and acetates | 
+| | (c) Most of the sulfates except those of $Pb,\ Ba,\ Ca,\ Sr$
+| | (d) All chlorides exceps that of lead | 
+| 2. Hot water | Lead chloride, lead nitrate 
+| | All carbonates which don't dissolve in water, i.e., carbonates of $Ca,\ Ba,\ Sr,\ Mg,\ Fe,\ etc$ but not of $PbS$
+
+The usual procedures for analyzing a salt involves systematic separation of basic radical into group. The table given below gives briefly the classification of basic radicals into groups reagents and the form in which they are precipitated. 
+
+| <center> Group | <center> Group Reagent | <center> Basic Reagent | <center> Form in which basic radicals are precipitated | 
+|:-:|:-|:-:|:-:|
+| 1. | Dilute $HCl$ | $Pb^{2+},\ Hg^{2+}(\text{ous}),\ Ag^+$ | Chlorides | 
+| 2. | $H_2S$ in presence of dilute $HCl$ | $Pb^{2+},\ Cu^{2+},\ As^{3+},\ Hg^{2+},\ Cd^{2+},\ Bi^{3+},\ Sb^{3+},\ Sn^{2+}$ | Sulfides | 
+| 3. | $NH_4OH$ in presence of $NH_4Cl$ | $Fe^{3+},\ Al^{3+},\ Cr^{3+}$ | Hydroxides | 
+| 4. | $H_2S$ in presence of $NH_4OH$ | $Ni^{2+},\ Mn^{2+},\ Zn^{2+},\ Co^{2+}$ | Sulfides | 
+| 5. | $(NH_4)_2CO_3$ in the presence of $NH_4OH$ | $Ca^{2+},\ SrA^{2+},\ Be^{2+}$ | Carbonates 
+| 6. | --- | $Mg^{2+},\ Na,\ K$ | --- | 
+
+## Division of the Basic Radicals (cations) in Different Groups (group separation)
+
+| <center> Experiments | <center> Observation | <center> Inference | 
+|-|-|-|
+| $1.$ Add dilute $HCl$ to the salt solution. | White ppt | Group I present | 
+| $2.$ Add dilute $HCl$ to the salt solution and then pass $H_2S$ gas | Black ppt | Group 2 present | 
+| $3.$ Boil salt solution with salt + $HCl$ and add $NH_4Cl$ and $NH_4OH$ solution in excess | | Group 3 present | 
+| | (a) Reddish-brown ppt | $Fe$ salt | 
+| | (b) White gelatinous ppt | $Al$ salt |
+| $4.$ Add $NH_3Cl$ and $NH_4OH$ to salt solution and pass $H_2S$ gas | | Group 4 present | 
+| | (a) Black ppt | $Co$ salt | 
+| | (b) Pink ppt | $Mn$ salt | 
+| | (c) White ppt | $Zn$ salt | 
+| $5.$ Add $NH_4OH$ and $(NH_4)_2CO_3$ to the salt solution | White ppt | Group 5 present maybe $Ca,\ Ba,\ Sr$ salt | 
+| $6.$ No particular group reagent | --- | Group 6 $Mg$ salt | 
