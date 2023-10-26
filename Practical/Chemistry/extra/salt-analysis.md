@@ -145,7 +145,7 @@ Information from this test can give valuable clues, partly from observation of t
 | <center> Experiment | <center> Observation | <center> Inference |
 |:-|:-|:-:|
 | $1.$ take about 5 ml of $NA_2CO_3$ extract in a test tube. Acidify with dilute $HCl$. Boil to expel $CO$. Add $BaCl_2$ solution. | White ppt insoluble in dilute $HCl$ or dilute $HNO_3$ | Sulfate $(SO_4)^{2-}$ | 
-| $2.$ Take 5 ml of $Na_2CO_3$ (sodium carbonate) extract in a test tube. Accidiryfwith dilute $HCl$. Add $BaCl_2$ solution followed by bromine water. Heat the content. | White ppt | Slufite $(SO_3^{2-})$ | 
+| $2.$ Take 5 ml of $Na_2CO_3$ (sodium carbonate) extract in a test tube. Accidiryfwith dilute $HCl$. Add $BaCl_2$ solution followed by bromine water. Heat the content. | White ppt | Sulfite $(SO_3^{2-})$ | 
 | $3.$ Take 5 ml of sodium carbonate extract in a test tube. Acidify with dilute $H_2SO_4$. Add about 5 ml of freshly prepared $FeSO_4$ solution. Slowly pour 2-3 ml of concentrated $H_2SO_4$ down the side of the tube. Hold the tube at an angle while doing this. The heavy sulfuric acid sinks to the bottom. | A brown ring at the junction of the two liquids. | Nitrate $(NO_3^-)$ | 
 | $4.$ Take 5 ml of $Na_2CO_3$ extract in a test tube. Acidify with dilute $HNO_3$. Boil off $CO_2$. Add $AgNO_3$ solution. | **1.** White ppt readily soluble in $NH_4OH$ | Chloride $(CL^-)$  
 | | **2.** Pale yellow ppt soluble in concentrated $NH_4OH$ solution. |  Bromide $Br^-$
