@@ -1,20 +1,16 @@
 # Qualitative Inorganic Analysis 
 
-The investigation and recognition of substances is a crucial branch of chemistry, with analysts playing a vital role in various fields such as medicine, criminology, and the manufacturing industry. Qualitative inorganic analysis is a key aspect of this discipline, focusing on the identification of radicals present in inorganic salts or mixtures of salts. This process involves a series of systematic tests carried out in the correct order.
+Qualitative inorganic analysis is a vital aspect of chemistry, used in fields like medicine, criminology, and industry. It involves identifying radicals in inorganic salts. Inorganic salts result from acid-base reactions, with cations (basic radicals) and anions (acidic radicals). For example, in sodium chloride, $Na^+$ is the cation, and $Cl^-$ is the anion.
 
-Inorganic salts are the result of the reaction between acids and bases. Each inorganic salt consists of two essential components: the part contributed by the acid is referred to as the acid radical or anion, while the part contributed by the base is known as the basic radical or cation. For example, in the case of sodium chloride, $Na^+$ represents the basic radical or cation, and $Cl^-$ is the acidic radical or anion.
+Before testing an inorganic substance, note its color, state, and solubility in water. Color and solubility provide initial clues about cations and anions.
 
-Before commencing the testing of an inorganic substance, it is important to observe the substance's physical characteristics, such as its color and state. Additionally, determining its solubility in water is crucial. If the substance is soluble, further tests can be performed to determine if the solution is acidic, alkaline, or neutral. The color and solubility of an inorganic substance in water can provide valuable initial clues for identifying basic and acidic radicals.
+The analysis includes wet and confirmatory tests. Preliminary dry tests are quick and involve observing the salt's appearance, smell, and solubility. They include heating, flame tests, borax bead tests, and more.
 
-Qualitative analysis of inorganic salts primarily involves the identification of cations and anions present in the salt or a mixture of salts. The tests carried out in this process, including wet tests and confirmatory tests, are conducted in a systematic manner. Preliminary examination of the solid salt and its solution provides important information that can simplify the subsequent analysis.
-
-These preliminary tests, often known as dry tests, can be completed in a short period, typically within 10-15 minutes. They involve noting the general appearance and physical properties of the salt, including color, smell, and solubility. Dry tests encompass procedures such as heating the dry salt, blow pipe tests, flame tests, borax bead tests, sodium carbonate bead tests, and charcoal cavity tests.
-
-Furthermore, the solubility of a salt in water and the $pH$ of its aqueous solutions offer critical insights into the nature of ions present in the salt. If a solution of the salt is found to be acidic or basic, it indicates hydrolysis in water. A basic solution may suggest the presence of carbonates or sulphides, while an acidic solution may indicate an acid salt or a salt of a weak base and strong acid. In the latter case, neutralizing the solution with sodium carbonate before testing for anions is recommened.
-
-Additionally, gases evolved during the preliminary tests with dilute $H_2SO_4$, dilute $HCl$, and concentrated $H_2SO_4$ provide valuable indications about the presence of acid radicals. It is essential to conduct these preliminary tests before proceeding with the confirmatory tests for ions.
+Solubility in water and solution $pH$ reveal ion information. Acidic or basic solutions indicate hydrolysis. Gases produced during tests with acids like $H_2SO_4$ provide insights about acid radicals. These dry tests are essential before confirmatory ion tests.
 
 ## Color of some inorganic salts 
+
+<div align=center>
 
 | <center> Color | <center> Compounds | 
 |:-:|:-:| 
@@ -24,7 +20,11 @@ Additionally, gases evolved during the preliminary tests with dilute $H_2SO_4$, 
 | Green | $Fe$(ous) salt, except $FeS,\ CuCl_2,\ 2H_2O,\ CuCo_3,\ N(ous)\text{ salt}$
 | Black | $FeS,\ CoS,\ NiS,\ PbS$
 
+</div>
+
 ## Solubility of Inorganic Compounds in Water 
+
+<div align=center>
 
 | Compounds | Solubility in Water | 
 |:-:|:-:| 
@@ -35,6 +35,8 @@ Additionally, gases evolved during the preliminary tests with dilute $H_2SO_4$, 
 | Carbonates | $Na, K , NH\ \text{only}$ | 
 | Sulphate | $Na, K , NH\ \text{only}$ | 
 | Hydroxide | $Na, K , NH\ \text{only}$ | 
+
+</div>
 
 - The qualitative analysis of an inorganic substance is generally carried out in the following four parts: 
   1. Dry test for Basic Radicals 
@@ -48,6 +50,8 @@ Perform this experiment by haeting a small amount of salt in a dry test tube.
 Information from this test can give valuable clues, partly from observation of the residue partly from identification of any gas evolved. Tabulate your observations along with the interferences that you can draw. 
 
 > A pinch of solid is put to dry test in a test tube. 
+
+<div align=center>
 
 | <center> Observation | <center> Inference |
 |:-|:-:|
@@ -66,6 +70,8 @@ Information from this test can give valuable clues, partly from observation of t
 | $\text{　} \text{　}$ (a) Colorless and odorless gas, turns lime water milky | $CO_3^{2-} \text{ or } C_2O_4^{3-} \text{ present}$ | 
 | $\text{　} \text{　}$ (b) Evolution of ammonia, gives white fumes when a glass rod dipped in dilute $HCl$ is brought near the mouth of the test tube. | $NH_4^+$
 
+</div>
+
 # Dry Test For Acid Radicals 
 
 - Dry tests for acid radicals are performed in the following manner
@@ -76,6 +82,8 @@ Information from this test can give valuable clues, partly from observation of t
 
 ### Take a small amount of the substance and add 5 ml of dil. $H_2SO_4$, if no reaction takes place, warm a little.
 
+<div align=center>
+
 | <center>Observation | <center> Gas Evolved | <center>Possible anion | 
 |:-|:-:|:-:|
 | $1.$ Colorless and odorless gas is evolved with fizz, turns lime water milky. | $CO_2$ |Carbonate $(CO_3^{2-})$ and Bicarbonate $(HCO_3^-)$| 
@@ -84,9 +92,13 @@ Information from this test can give valuable clues, partly from observation of t
 | $3.$ Reddish-brown gas is evolved turns acidified startch-iodide paper blue (starch iodide paper is prepared by moistening a piece of filter paper with a $Kl$ solution) | $Cl_2$ | Nitrite $(NO_2^-)$
 | $4.$ Colourless vapours with smell of vinegar. Vapours turn blue litmus red. | $CH_3COOH$ vapours | Acetate, $(CH_3COO^-)$
 
+</div>
+
 ## Action of Concentrated Sulphuric Acid 
 
 ### Take a small amount of substance in a dry test tube. Add 4-5 ml of concentrated $H_2SO_4$, and gently heat the solution. 
+
+<div align=center>
 
 | <center> Observation | <center> Gas evolved | <center> Possible anions | 
 |:-|:-:|:-:|
@@ -96,7 +108,11 @@ Information from this test can give valuable clues, partly from observation of t
 | $4.$ Brown fumes evolve which become dense upon heating the reaction mixture after addition of copper turnings and the solution acquires blue colour. | $NO_2$ | Nitrate, $NO_3^-$ | 
 | $5.$ Colourless, odourless gas is evolved which turns lime water milky and the gas coming out of lime water burns with a blue flame, if ignited. | $CO \text{ and }$ CO_2 | Oxalate $(C_2O_4^{2-})$
 
+</div>
+
 ### Take small amount of substance in a dry test tube. Add a little $MnO_2$ and 2 ml concentrated $H2SO4$. Heat gently. 
+
+<div align=center>
 
 | <center> Observation | <center> Gas evolved | <center> Possible anions | 
 |:-|:-:|:-:|
@@ -104,15 +120,23 @@ Information from this test can give valuable clues, partly from observation of t
 | $2.$ Brown-red vapors turn strach-iodide paper blue. | $Br_2$ | Bromide $(Br^-)$ | 
 | $3.$ Violet vapors turn starch paper blue. | $I_2$ | Iodide $(I^-)$
 
+</div>
+
 ### Take a small amound of the substance in a dry test tube. Add 3-4 ml concentrated $H_2SO_4$ and a little $Cu$ turning. Heat gently. 
+
+<div align=center>
 
 | <center> Observation | <center> Gas evolved | Possible Anion | 
 |:-|:-:|:-:| 
 |Reddish-brown fumes and the solution in the test tube appears blue. | $NO_2$ | Nitrate $(NO_3^-)$
 
+</div>
+
 # Wet Test for Acid Radical 
 
 > If salt not soluble in $H_2O$, then prepare $Na_2CO_3$ extract. Otherwise water extract. 
+
+<div align=center>
 
 | <center> Experiment | <center> Observation | <center> Inference |
 |:-|:-|:-:|
@@ -129,6 +153,8 @@ Information from this test can give valuable clues, partly from observation of t
 | $9.$ Take 2-3 ml of $Na_2CO_3$ extract in a test tube. Acidify with dilute $CH_3COOH$ (acetic acid). Add $CaCl_2$ solution. | White ppt insoluble in dilute $HCl$ | Oxalate $(C_2O_4^{2-})$ | 
 | $10.$ Dissolve salt in water: To the aqueous solution, add freshly prepared $FeCl_2$ solution. | Blood red coloration | Acetate $(CH_3COO)$ | 
 
+</div>
+
 # Wet Test for Basic Radical 
 
 1. Distilled water (hot/cold)
@@ -136,6 +162,8 @@ Information from this test can give valuable clues, partly from observation of t
 3. Concentrated $HCl$ (hot/cold)
 
 Solubility of inorganic salt in above solvents may often help to identify some basic radicals. 
+
+<div align=center>
 
 | <center> Solvent | <center> Salt | 
 |:-|:-|
@@ -146,7 +174,11 @@ Solubility of inorganic salt in above solvents may often help to identify some b
 | 2. Hot water | Lead chloride, lead nitrate 
 | | All carbonates which don't dissolve in water, i.e., carbonates of $Ca,\ Ba,\ Sr,\ Mg,\ Fe,\ etc$ but not of $PbS$
 
+</div>
+
 The usual procedures for analyzing a salt involves systematic separation of basic radical into group. The table given below gives briefly the classification of basic radicals into groups reagents and the form in which they are precipitated. 
+
+<div align=center>
 
 | <center> Group | <center> Group Reagent | <center> Basic Reagent | <center> Form in which basic radicals are precipitated | 
 |:-:|:-|:-:|:-:|
@@ -157,7 +189,11 @@ The usual procedures for analyzing a salt involves systematic separation of basi
 | 5. | $(NH_4)_2CO_3$ in the presence of $NH_4OH$ | $Ca^{2+},\ SrA^{2+},\ Be^{2+}$ | Carbonates 
 | 6. | --- | $Mg^{2+},\ Na,\ K$ | --- | 
 
+</div>
+
 ## Division of the Basic Radicals (cations) in Different Groups (group separation)
+
+<div align=center>
 
 | <center> Experiments | <center> Observation | <center> Inference | 
 |-|-|-|
@@ -172,3 +208,5 @@ The usual procedures for analyzing a salt involves systematic separation of basi
 | | (c) White ppt | $Zn$ salt | 
 | $5.$ Add $NH_4OH$ and $(NH_4)_2CO_3$ to the salt solution | White ppt | Group 5 present maybe $Ca,\ Ba,\ Sr$ salt | 
 | $6.$ No particular group reagent | --- | Group 6 $Mg$ salt | 
+
+</div>
