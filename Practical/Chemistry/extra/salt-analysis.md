@@ -114,7 +114,7 @@ Information from this test can give valuable clues, partly from observation of t
 
 </div>
 
-### Take a small amount of substance in a dry test tube. Add a little $MnO_2$ and 2 ml concentrated $H2SO4$. Heat gently. 
+### Take a small amount of substance in a dry test tube. Add a little $MnO_2$ and 2 ml concentrated $H_2SO_4$. Heat gently. 
 
 <div align=center>
 
