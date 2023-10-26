@@ -1,4 +1,8 @@
-# Qualitative Inorganic Analysis 
+<div align=center>
+
+# Qualitative Inorganic Analysis
+
+</div>
 
 Qualitative inorganic analysis is a vital aspect of chemistry, used in fields like medicine, criminology, and industry. It involves identifying radicals in inorganic salts. Inorganic salts result from acid-base reactions, with cations (basic radicals) and anions (acidic radicals). For example, in sodium chloride, $Na^+$ is the cation, and $Cl^-$ is the anion.
 
@@ -29,11 +33,11 @@ Solubility in water and solution $pH$ reveal ion information. Acidic or basic so
 | Compounds | Solubility in Water | 
 |:-:|:-:| 
 | Nitrates | All salts are soluble | 
-| Sulphates | All except $Pb,\ Fe(\text{ic}),\ Ba,\ Sr,\ Ca$
+| Sulfates | All except $Pb,\ Fe(\text{ic}),\ Ba,\ Sr,\ Ca$
 | Nitrites | All except Ag | 
 | Chlorides, Bromides and Iodides| All chlorides, bromides and iodides except $Ag$, $Pb$ and mercurous mercury $(Hg_2^{2+})$ | 
 | Carbonates | $Na, K , NH\ \text{only}$ | 
-| Sulphate | $Na, K , NH\ \text{only}$ | 
+| Sulfate | $Na, K , NH\ \text{only}$ | 
 | Hydroxide | $Na, K , NH\ \text{only}$ | 
 
 </div>
@@ -46,8 +50,8 @@ Solubility in water and solution $pH$ reveal ion information. Acidic or basic so
 
 # Dry Test for Basic Radicals 
 
-Perform this experiment by haeting a small amount of salt in a dry test tube.   
-Information from this test can give valuable clues, partly from observation of the residue partly from identification of any gas evolved. Tabulate your observations along with the interferences that you can draw. 
+Perform this experiment by heating a small amount of salt in a dry test tube.   
+Information from this test can give valuable clues, partly from observation of the residue and partly from identification of any gas evolved. Tabulate your observations along with the interferences that you can draw. 
 
 > A pinch of solid is put to dry test in a test tube. 
 
@@ -64,7 +68,7 @@ Information from this test can give valuable clues, partly from observation of t
 | | | |
 | $3.$ Decrepitation (the salt flies to pieces with sharp crackling sound) | $Pb(NO_3),\ NaCl$ | 
 | | | |
-| $4.$ Formation of sublimate (white along with fog) | $NH_4^+$ | 
+| $4.$ Formation of sublimate (white colored along with fog) | $NH_4^+$ | 
 | | | |
 | $5.$ Evolution of gases | | 
 | $\text{　} \text{　}$ (a) Colorless and odorless gas, turns lime water milky | $CO_3^{2-} \text{ or } C_2O_4^{3-} \text{ present}$ | 
@@ -76,25 +80,25 @@ Information from this test can give valuable clues, partly from observation of t
 
 - Dry tests for acid radicals are performed in the following manner
     1. Action of diluted hydrochloric acid 
-    2. Action of concentrated sulphuric acid 
+    2. Action of concentrated sulfuric acid 
 
 ## Action of Diluted Hydrochloric Acid 
 
-### Take a small amount of the substance and add 5 ml of dil. $H_2SO_4$, if no reaction takes place, warm a little.
+### Take a small amount of the substance and add 5 ml of diluted $H_2SO_4$, if no reaction takes place, warm a little.
 
 <div align=center>
 
 | <center>Observation | <center> Gas Evolved | <center>Possible anion | 
 |:-|:-:|:-:|
 | $1.$ Colorless and odorless gas is evolved with fizz, turns lime water milky. | $CO_2$ |Carbonate $(CO_3^{2-})$ and Bicarbonate $(HCO_3^-)$| 
-| $2.$ Colorless gas with odor of rotten eggs turns lead acetate paper black. | $H_2S$ | Sulphide $(S^{2-})$ | 
-| $3.$ Colorless gas with pungent smell, like burning sulfur which turns acidified potassium dichromate solution green. | $SO_2$ | Sulphite $(SO_3^{2-})$ | 
+| $2.$ Colorless gas with odor of rotten eggs turns lead acetate paper black. | $H_2S$ | Sulfide $(S^{2-})$ | 
+| $3.$ Colorless gas with pungent smell, like burning sulfur which turns acidified potassium dichromate solution green. | $SO_2$ | Sulfite $(SO_3^{2-})$ | 
 | $3.$ Reddish-brown gas is evolved turns acidified startch-iodide paper blue (starch iodide paper is prepared by moistening a piece of filter paper with a $Kl$ solution) | $Cl_2$ | Nitrite $(NO_2^-)$
 | $4.$ Colourless vapours with smell of vinegar. Vapours turn blue litmus red. | $CH_3COOH$ vapours | Acetate, $(CH_3COO^-)$
 
 </div>
 
-## Action of Concentrated Sulphuric Acid 
+## Action of Concentrated Sulfuric Acid 
 
 ### Take a small amount of substance in a dry test tube. Add 4-5 ml of concentrated $H_2SO_4$, and gently heat the solution. 
 
@@ -110,7 +114,7 @@ Information from this test can give valuable clues, partly from observation of t
 
 </div>
 
-### Take small amount of substance in a dry test tube. Add a little $MnO_2$ and 2 ml concentrated $H2SO4$. Heat gently. 
+### Take a small amount of substance in a dry test tube. Add a little $MnO_2$ and 2 ml concentrated $H2SO4$. Heat gently. 
 
 <div align=center>
 
@@ -122,7 +126,7 @@ Information from this test can give valuable clues, partly from observation of t
 
 </div>
 
-### Take a small amound of the substance in a dry test tube. Add 3-4 ml concentrated $H_2SO_4$ and a little $Cu$ turning. Heat gently. 
+### Take a small amount of the substance in a dry test tube. Add 3-4 ml concentrated $H_2SO_4$ and a little $Cu$ turning. Heat gently. 
 
 <div align=center>
 
@@ -143,8 +147,8 @@ Information from this test can give valuable clues, partly from observation of t
 | $1.$ take about 5 ml of $NA_2CO_3$ extract in a test tube. Acidify with dilute $HCl$. Boil to expel $CO$. Add $BaCl_2$ solution. | White ppt insoluble in dilute $HCl$ or dilute $HNO_3$ | Sulfate $(SO_4)^{2-}$ | 
 | $2.$ Take 5 ml of $Na_2CO_3$ (sodium carbonate) extract in a test tube. Accidiryfwith dilute $HCl$. Add $BaCl_2$ solution followed by bromine water. Heat the content. | White ppt | Slufite $(SO_3^{2-})$ | 
 | $3.$ Take 5 ml of sodium carbonate extract in a test tube. Acidify with dilute $H_2SO_4$. Add about 5 ml of freshly prepared $FeSO_4$ solution. Slowly pour 2-3 ml of concentrated $H_2SO_4$ down the side of the tube. Hold the tube at an angle while doing this. The heavy sulfuric acid sinks to the bottom. | A brown ring at the junction of the two liquids. | Nitrate $(NO_3^-)$ | 
-|  | **1.** White ppt readily soluble in $NH_4OH$ | Chloride $(CL^-)$  
-| $4.$ Take 5 ml of $Na_2CO_3$ extract in a test tube. Acidify with dilute $HNO_3$. Boil off $CO_2$. Add $AgNO_3$ solution. | **2.** Pale yellow ppt soluble in concentrated $NH_4OH$ solution. |  Bromide $Br^-$
+| $4.$ Take 5 ml of $Na_2CO_3$ extract in a test tube. Acidify with dilute $HNO_3$. Boil off $CO_2$. Add $AgNO_3$ solution. | **1.** White ppt readily soluble in $NH_4OH$ | Chloride $(CL^-)$  
+| | **2.** Pale yellow ppt soluble in concentrated $NH_4OH$ solution. |  Bromide $Br^-$
 | | **3.** Yellow ppt insoluble in concentrated $NH_4OH$ | Iodide $(I^-)$ | 
 | $5.$ Take 5 ml of $Na_2CO_3$ extract. Acidify with $CH_3COOH$ (acetic acid) and then add $Pb(C_2H_3O_2)_2$ (lead acetate) solution. | Black ppt soluble in hot dilute $HNO_3$ | Sulfide $(S^2-)$ | 
 | $6.$ Take 5 ml of $Na_2CO_3$ extract, add a few drops of $Na_2[Fe(CN)_5(NO)]$ (sodium nitroprusside) solution. | Violet or pink coloration | Sulfide $(S^2-)$ | 
@@ -161,7 +165,7 @@ Information from this test can give valuable clues, partly from observation of t
 2. Dilute $HCl$ (hot/cold)
 3. Concentrated $HCl$ (hot/cold)
 
-Solubility of inorganic salt in above solvents may often help to identify some basic radicals. 
+Solubility of inorganic salt in the above solvents may often help to identify some basic radicals. 
 
 <div align=center>
 
@@ -176,7 +180,7 @@ Solubility of inorganic salt in above solvents may often help to identify some b
 
 </div>
 
-The usual procedures for analyzing a salt involves systematic separation of basic radical into group. The table given below gives briefly the classification of basic radicals into groups reagents and the form in which they are precipitated. 
+The usual procedures for analyzing a salt involves the systematic separation of basic radicals into groups. The table given below gives briefly the classification of basic radicals into groups of reagents and the form in which they are precipitated. 
 
 <div align=center>
 
