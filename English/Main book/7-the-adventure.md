@@ -4,17 +4,31 @@
 
 ### 1. Gangadharpant had not been to this Bombay before. How was the Bombay different? 
 
+When Bombay Gangadharpant arrived in a different world, he noticed some significant differences. When the train stopped at Victoria Terminus, he was amazed at how tidy and spotless the station was. The train had blue carriages with the letters "GBMR" on them, which stood for "Greater Bombay Metropolitan Railway." What surprised him even more was that the station's employees were mostly Anglo-Indians, with a few British officers in the mix.
+
 ### 2. What led to Professor Gaitonde to believe that History had taken a different term, perhaps before 1857? 
 
-### 3. How did the shops nad office buildings along Hornby Road differed from those he knew well? 
+He thought that history had changed in an unusual way because he was in a completely different version of India. In this new India, he witnessed the period when the British were in charge, and even saw the main office of the East India Company in Bombay. He observed various British buildings and companies from that time.
 
-### 4. "This was a blow not totally unexpected." What was the blow nad how was it not totally unexpected? 
+### 3. How did the shops and office buildings along Hornby Road differed from those he knew well? 
+
+While strolling down Hornby Road, which had a different name back then, he noticed a whole new collection of shops and office buildings. The familiar Handloom House building was nowhere to be seen. Instead, he spotted department stores like Boots and Woolworth, along with grand offices of British banks such as Lloyds and Barclays. It felt like he was walking through a typical street in an English town.
+
+### 4. "This was a blow not totally unexpected." What was the blow and how was it not totally unexpected? 
+
+The "blow" was the disappointing news that Mr. Vinay Gaitonde couldn't be found at the company. It wasn't completely unexpected because Gangadharpant had already experienced many strange and surprising things in the unfamiliar world. So, he wasn't entirely shocked that his son might not be there or even exist in that reality.
 
 ### 5. Which according to Gangadharpant was the precise moment where history has taken a different term? 
 
+Gangadharpant read the fifth volume of the book from both the beginning and the end. Eventually, he reached the exact point in the book where history had taken a different turn. On that page, he found information about the Battle of Panipat, and it stated that the Marathas had emerged victorious in that battle.
+
 ### 6. How did the victory at the Battle of Panipat affect the balance of power? 
 
+The Marathas were greatly encouraged by their victory, which solidified their dominance in northern India. Bhausaheb and Vishwasrao became more influential, and the East India Company postponed its expansion plans. Vishwasrao and his brother Madhav Rao were skilled political leaders. The Company's influence was reduced to small areas around Bombay, Calcutta, and Madras.
+
 ### 7. Where from did Gangadharpant get the clue for the question, "How did the Marathas win the battle?" And what did he think about it? 
+
+He got the clue from a book called Bhausahebanchi Bakhar. He found the Bakhar interesting to read, bet he seldom relied on them for historical evidence. The detailed but falsified accounts were quite viivde but truth lay hidden somewhere. 
 
 ### 8. Which lines reveal that Vishwasrao had come quite to being killed? 
 
