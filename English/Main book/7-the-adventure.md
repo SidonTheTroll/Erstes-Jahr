@@ -4,15 +4,15 @@
 
 ### 1. Gangadharpant had not been to this Bombay before. How was the Bombay different? 
 
-When Bombay Gangadharpant arrived in a different world, he noticed some significant differences. When the train stopped at Victoria Terminus, he was amazed at how tidy and spotless the station was. The train had blue carriages with the letters "GBMR" on them, which stood for "Greater Bombay Metropolitan Railway." What surprised him even more was that the station's employees were mostly Anglo-Indians, with a few British officers in the mix.
+When Gangadharpant whet to Bombay, he arrived in a different world, he noticed some significant differences. When the train stopped at Victoria Terminus, he was amazed at how tidy and spotless the station was. The train had blue carriages with the letters "GBMR" on them, which stood for "Greater Bombay Metropolitan Railway" along with the Union Jack. What surprised him even more was that the station's employees were mostly Anglo-Indians, with a few British officers in the mix.
 
-### 2. What led to Professor Gaitonde to believe that History had taken a different term, perhaps before 1857? 
+### 2. What led to Professor Gaitonde to believe that history had taken a different term, perhaps before 1857? 
 
 He thought that history had changed in an unusual way because he was in a completely different version of India. In this new India, he witnessed the period when the British were in charge, and even saw the main office of the East India Company in Bombay. He observed various British buildings and companies from that time.
 
 ### 3. How did the shops and office buildings along Hornby Road differed from those he knew well? 
 
-While strolling down Hornby Road, which had a different name back then, he noticed a whole new collection of shops and office buildings. The familiar Handloom House building was nowhere to be seen. Instead, he spotted department stores like Boots and Woolworth, along with grand offices of British banks such as Lloyds and Barclays. It felt like he was walking through a typical street in an English town.
+Walking along Hornby Road, he saw new shops and office buildings. The familiar Handloom House was gone, replaced by stores like Boots and Woolworth, and impressive offices of British banks like Lloyds and Barclays. It felt like he was in an English town's street.
 
 ### 4. "This was a blow not totally unexpected." What was the blow and how was it not totally unexpected? 
 
@@ -24,15 +24,15 @@ Gangadharpant read the fifth volume of the book from both the beginning and the 
 
 ### 6. How did the victory at the Battle of Panipat affect the balance of power? 
 
-The Marathas were greatly encouraged by their victory, which solidified their dominance in northern India. Bhausaheb and Vishwasrao became more influential, and the East India Company postponed its expansion plans. Vishwasrao and his brother Madhav Rao were skilled political leaders. The Company's influence was reduced to small areas around Bombay, Calcutta, and Madras.
+The Marathas' victory bolstered their control in northern India, elevating Bhausaheb and Vishwasrao's influence. The East India Company delayed its expansion, and the Company's authority was limited to regions near Bombay, Calcutta, and Madras. Vishwasrao and Madhav Rao were adept political leaders.
 
 ### 7. Where from did Gangadharpant get the clue for the question, "How did the Marathas win the battle?" And what did he think about it? 
 
-He got the clue from a book called Bhausahebanchi Bakhar. He found the Bakhar interesting to read, bet he seldom relied on them for historical evidence. The detailed but falsified accounts were quite viivde but truth lay hidden somewhere. 
+He got the clue from a book called Bhausahebanchi Bakhar. He found the Bakhar interesting to read, bet he seldom relied on them for historical evidence. The detailed but falsified accounts were quite vivid but truth lay hidden somewhere. 
 
-### 8. Which lines reveal that Vishwasrao had come quite to being killed? 
+### 8. Which lines reveal that Vishwasrao had come quite close to being killed? 
 
- The lines read: Then Vishwasrao guided his horse to the melee. Elite troops were fighting there. He attacked them. God was merciful. A shot passed by his ear touching it lightly. Even the difference of a til (sesame) would have led to his death.
+The lines read: Then Vishwasrao guided his horse to the melee. Elite troops were fighting there. He attacked them. God was merciful. A shot passed by his ear touching it lightly. Even the difference of a til (sesame) would have led to his death.
 
 ### 9. Why was Professor Gaitonde staring at the platform in Azad Maidan as if mesmerized? 
 
@@ -40,13 +40,13 @@ He arrived and noticed a lecture being given, but he saw an empty chair on the s
 
 ### 10. What do you think made Rajendra realize that, "Facts can be strange than fantasies"? 
 
-Professor Gaitonde presented to totall different accounts of the Battle of Panipat as contained in Bhausahebanchi Bakhar the one he had come across in the other world descibed Vishwasrao narrowly missed the bullet the other account which he had descibed that Vishwasrao was hit by the bullet. 
+Professor Gaitonde presented to totally different accounts of the Battle of Panipat as contained in Bhausahebanchi Bakhar that he had come across in the other world descibed Vishwasrao narrowly missed the bullet, the other account which he had descibed that Vishwasrao was hit by the bullet. 
 
 ### 11. How does Rajendra explain the disparity in the two accounts of the same crucial event in the Battle of Panipat? 
 
-Rajendra applies catastrophe theory in the Battle of Panipat. The outcome of the battle depended on the leadership and the morale of the troops at the crucial juncture. In one of Gangadharpant's versions, the troops lost their moraleand fighting spirit at the loss of their leaders, Shadashivrao Bhau and Vishwasrao. In the other version, the bullet missed Vishwasrao and this boosted the morale of troops and they won the battle. 
+Rajendra applies catastrophe theory to the Battle of Panipat, where the battle's outcome hinged on leadership and troop morale. In one scenario, the loss of leaders Shadashivrao Bhau and Vishwasrao led to a morale drop, while in another, a bullet missing Vishwasrao boosted troop morale, resulting in victory.
 
-### 12. What had Professor Gaitonde beent thinking at the time of collision? 
+### 12. What had Professor Gaitonde been thinking at the time of collision? 
 
 At the time of the collision with the truck, Professor Gaitonde was thinking what cource history would have taken if the result at the battle had gone in the other way, i.e., if the Marathas had won the battle. 
 
