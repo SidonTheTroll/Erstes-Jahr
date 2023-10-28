@@ -32,7 +32,11 @@ He got the clue from a book called Bhausahebanchi Bakhar. He found the Bakhar in
 
 ### 8. Which lines reveal that Vishwasrao had come quite to being killed? 
 
+ The lines read: Then Vishwasrao guided his horse to the melee. Elite troops were fighting there. He attacked them. God was merciful. A shot passed by his ear touching it lightly. Even the difference of a til (sesame) would have led to his death.
+
 ### 9. Why was Professor Gaitonde staring at the platform in Azad Maidan as if mesmerized? 
+
+He arrived and noticed a lecture being given, but he saw an empty chair on the stage where the leader should have been. This deeply bothered him. He believed that a public lecture should always have a respected person presiding over it, and the absence of one was like a disrespectful act to him.
 
 ### 10. What do you think made Rajendra realize that, "Facts can be strange than fantasies"? 
 
@@ -49,5 +53,3 @@ At the time of the collision with the truck, Professor Gaitonde was thinking wha
 ### 13. What do you think about Professor Gaitonde's thousandth Presidental address? 
 
 Professor Gaitonde's thousandth Presidental address was made on the Azad Maidan. He was then rudely interrupted by the audience. He wanted to tell the audience what might had happened if Marathas had won the Battle of Panipat. Since the people misbehaved, he couldn't deliver his address. 
-
-
