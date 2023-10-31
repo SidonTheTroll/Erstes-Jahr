@@ -123,4 +123,20 @@ It refers to the number of types of data generated. Along with traditional datat
 
 ### Velocity 
 
-It is the measure of how fast the data is received.
+It is the measure of how fast the data is received. It is refered to the speed of data processing as the rate of generation of data can be very high. Nowadays, a lot of data is transmitted in a very short time and it is only useful if the delay in processing is very short. 
+
+### Veracity 
+
+It is the degree of accuracy or truthfulness of a dataset. In the context of big data, it's not just the quality of data that is important but how trustworthy the source, type of data and processing of data are. High veracity data are valuable to analyze and contribute in a meaningful way to overall results. Low veracity data on the other hand, contains a large amount of meaningless data and can be referred to as noise. 
+
+### Value 
+
+Since a huge cost is involved in the storage and processing of big data, it becomes valuable for organizations for collection. It has to be stored, processed and analyzed in a way that it becomes valuable and produce some real valuable information. 
+
+## Data Analytics
+
+It is a branch in information technology which deals with discovering the hidden patterns, trends and preferences from the dataset by employing specialized methods, programs, software and systems. 
+
+When data analytics is used for Big data, it is called big data analytics. 
+
+Data Analytics Applications provide a means of analysing these datasets and drawing conclusions to help organizations make informed business decisions, such as targeted marketting, better cusomer services and identifying business opportunities. 
