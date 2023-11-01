@@ -139,4 +139,108 @@ It is a branch in information technology which deals with discovering the hidden
 
 When data analytics is used for Big data, it is called big data analytics. 
 
-Data Analytics Applications provide a means of analysing these datasets and drawing conclusions to help organizations make informed business decisions, such as targeted marketting, better cusomer services and identifying business opportunities. 
+Data Analytics Applications provide a means of analysing these datasets and drawing conclusions to help organizations make informed business decisions, such as targeted marketting, better cusomer services and identifying business opportunities.  
+
+# 01/11/2023
+
+### 1. What is Artificial Intelligence? How has it impacted our lives? 
+
+Artificial Intelligence (AI) refers to the development of computer systems that can perform tasks that typically require human intelligence, such as understanding language, learning, problem-solving, and decision-making. It has impacted our lives in the following ways: 
+
+1. Automation of tasks which increases efficiency and decreases the cost of production. 
+2. Personal Assistants in devices for quick task completion. 
+3. Autonomous vehicles enhancing transport safety and efficiency. 
+4. Image and Speech Recognition for content analysis. 
+
+### 4. What is Internet of Things? What is its utility? 
+
+The Internet of Things (IoT) refers to the network of physical objects (devices, appliances, vehicles, etc.) that are embedded with sensors, software, and connectivity to collect and exchange data over the internet.
+
+- Its utility includes:
+    1. Improved Automation: IoT enables automation of tasks, making processes more efficient.
+    2. Data Insights: IoT generates valuable data for analysis, aiding in informed decision-making.
+    3. Remote Control: It allows remote monitoring and control of devices and systems.
+    4. Energy Efficiency: IoT helps reduce energy consumption and resource wastage.
+    5. Healthcare: IoT enhances patient monitoring and healthcare services.
+    6. Smart Homes/Cities: IoT contributes to smarter and more connected living environments.
+
+### 5. What is Virtual Reality (VR)? 
+
+Virtual Reality is a simulated environment generated with the help of computers and with the help of VR devices, the user can see and feel things in a computer generated environment.
+
+### 7. Enlist some VR devices. 
+
+VR devices include VR headsets or helments, sensory VR equipments, etc. 
+
+### 8. What is Augmented Reality (AR)? 
+
+Augmented Reality (AR) is a technology that blends digital information, such as computer-generated graphics or data, with the real-world environment. AR provides users with an enhanced perception of their physical surroundings by overlaying digital content onto it, typically through a display device like a smartphone, tablet, or AR headset. 
+
+### 10. What is Mixed Reality? 
+
+Mixed Reality (MR) is a technology that combines elements of both virtual reality (VR) and augmented reality (AR) to create environments where physical and digital objects coexist and interact in real-time.
+
+### 11. What is Machine Learning (ML)? 
+
+Machine Learning (ML) is a subset of artificial intelligence (AI) that involves the development of algorithms and models that allow computers to learn from and make predictions or decisions based on data without being explicitly programmed.
+
+### 14. What is data analytics? How is it useful? 
+
+Data analytics involves the systematic examination of large datasets to extract valuable insights, uncover trends, and gain a deeper understanding of the information within the data. It is instrumental in making informed decisions, optimizing processes, and identifying opportunities for improvement across a wide range of industries and applications.
+
+### 15. What is Natural Language Processing (NLP)? 
+
+Natural Language Processing (NLP) is a subfield of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language.
+
+### 16. Name some NLP applications. 
+
+Chatbots and Virtual Assistants, Language Translation, Speech Recognition, Text to Speech, etc.
+
+### 20. Discuss some characteristics of Big Data. 
+
+1. Volume: Large amounts of data, often terabytes or petabytes.
+2. Velocity: Data generated and processed rapidly.
+3. Variety: Diverse data types, structured and unstructured.
+4. Veracity: Data quality and reliability challenges.
+5. Value: Extracting meaningful insights from data.
+6. Variability: Data may be inconsistent or irregular.
+7. Complexity: Data can be intricate and multifaceted.
+
+### 24. What are sensors? 
+
+Sensors are devices/instruments that measure physical elements and convert that information into digital format for computers to undersand. 
+
+### 25. What is smart city? Is it related to IoT? 
+
+A smart city uses technology and data to enhance urban living, manage resources efficiently, and improve services like transportation and healthcare. Yes, it's closely related to IoT, as IoT devices play a vital role in collecting and sharing data to make cities smarter and more connected.
+
+### 27. What is cloud computing? 
+
+Cloud computing is a technology that provides on-demand access to a shared pool of computing resources, such as servers, storage, and software, over the internet. Users can access and use these resources without needing to own or manage the physical infrastructure, leading to flexibility, scalability, and cost-efficiency.
+
+### 31. What are different types of cloud services available? 
+
+1. Infrastructure as a Service (IaaS): Offers virtualized computing resources like servers and storage.
+
+2. Platform as a Service (PaaS): Provides a platform and tools for application development and deployment.
+
+3. Software as a Service (SaaS): Delivers software applications over the internet, accessible via a web browser.
+
+### 33. What is Saas? 
+
+SaaS stands for "Software as a Service." It's a cloud computing model where software applications are hosted and provided to users over the internet, eliminating the need for local installation and maintenance.
+
+### 35. What two common types of Grids? 
+
+Two common types of grids are:
+
+1. Computational Grids: Used for distributed computing and processing complex tasks.
+2. Data Grids: Focused on storage, management, and sharing of large datasets across distributed locations.
+
+### 37. What is blockchain technology?
+
+Blockchain technology is a decentralized and distributed digital ledger system that records transactions across multiple computers. It ensures security, transparency, and immutability of data, primarily associated with cryptocurrencies like Bitcoin but has various other applications, including supply chain management and smart contracts.
+
+### 39. What is public ledger in a blockchain? 
+
+A public ledger in a blockchain is a transparent and open record of all transactions that have occurred within the blockchain network. It is accessible to all participants and is designed to be immutable, ensuring the integrity and transparency of the data.
