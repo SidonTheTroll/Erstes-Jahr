@@ -1,10 +1,10 @@
 # 11/10/2023
 
-The air we breathe has around $21%$ oxygen and $0.03%$ Carbondioxide. 
+The air we breathe has around $21%$ oxygen and $0.03%$ Carbon dioxide. 
 
-Carbondioxide is released by the lungs after getting it from the blood. 
+Carbon dioxide is released by the lungs after getting it from the blood. 
 
-Glucose + Oxygen $\rightarrow$ Carbondioxide + Water + Energy 
+Glucose + Oxygen $\rightarrow$ Carbon dioxide + Water + Energy 
 
 Carbohydrate is obtained from food and is transformed to glucose during digestion. 
 
@@ -82,3 +82,84 @@ The relaxation of the diaphragm and the inter-costal muscles returns the diaphra
 > There are 15 to 18 strokes of breathes in a minute.
 
 > The brain only needs oxygen and glucose. 
+
+# 01/11/2023
+
+## Exchange of Gases 
+
+<img align=right src=./diagrams/ch17/blood-transport.png width=400> 
+
+- The exchange of gases between lunag alveoli and pulmonary capillaries is called external respiration. 
+
+$O_2$ and $CO_2$ are exchanged in the alveoli by simple diffusion mainly based on pressure/concentration gradient. The **thickness of membrane and the solubility of gases** are also the factor for the rate of diffusion. 
+
+### Partial Pressure 
+
+It is the pressure contributed by an individual gas in the mixture of gases. They are represented by $pO_2$ and $pCO_2$ for oxygen and carbon dioxide respectively. 
+
+#### Partial pressure of oxygen and carbon dioxide in different parts (in mmHg)
+
+<div align=center> 
+
+| <center> Respiratory gas    | <center> Atmospheric air | <center> Alveoli  | <center> Blood (deoxygenated) | <center> Blood (oxygenated) | <center> Tissues | 
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| $O_2$  | 159 | 104  | 40 | 95 | 40 |
+| $CO_2$ | 0.3 | 40 | 45 | 40 | 45 | 
+
+</div> 
+
+----------
+
+- The solubility of $CO_2$ is 20-25 times higher than $O_2$. Therefore it can diffuse through diffusion membrane per unit difference in partial pressure much higher than $O_2$. 
+
+### The Alveoli 
+
+<img align=right src=./diagrams/ch17/alveolus-diagram.png width=400>
+
+- The alveoli are composed of 
+    - **Thin squamous epithelium**: composed of **collagen and elastic fibres** which **facilitate flexibility and the capillaries exchange the gases**. 
+    - **Basement substance**: **provides support** and helps with the **exchange of gases between the air in the alveoli and the bloodstream**. It is primarily **composed of extracellular matrix proteins**. It consists of a combination of **collagen, laminin, fibronectin, and various glycoproteins and proteoglycans**.
+    - **Basement membrane**: it is a **thin, essential structure made up of collagen, laminin, and other extracellular matrix proteins**. It serves as a **structural support layer separating the alveolar epithelium from blood vessels and connective tissue**, playing a critical role in **gas exchange and maintaining the alveoli's structural integrity**.
+
+Even if these are very packed, the **total thickness is much less than a millimeter**. 
+
+## Transport of Gases 
+
+- Blood is the primary medium of the transport of $O_2$ and $CO_2$. 
+
+97% of $O_2$ is transported by blood and 3% via plasma.  
+20-25% of $CO_2$ is transported by RBC and 70% in the form of bicarbonate. Rest about 7% is carried in a dissolved stated through plasma. 
+
+## Transport of Oxygen 
+
+Haemoglobin is a **red colored iron containing pigment** present in the RBCs.
+
+- Each haemoglobin can carry a maximum of 4 molecules of $O_2$. 
+
+Binding of $O_2$ depends on the partial pressure of $O_2$, partial pressure of $CO_2$, $pH$ level and temperature. 
+
+The $O_2$ that is binded with haemoglobin gets transported to the cell via arteries and is dissociated at the tissues. 
+
+> Every 100 ml of oxygenated blood transports 5 ml of $O_2$ to the tissues under normal physiological conditions. 
+
+## Transport of Carbon Dioxide 
+
+$CO_2$ is transported by both haemoglobin as carbamino-haemoglobin and via blood plasma.
+
+When $pCO_2$ is higher, more binding of $CO_2$ occurs and when there's low $pCO_2$ in the alveoli, dissociation of $CO_2$ from carbamino-haemoglobin takes place. 
+
+RBC contains a large amount of carbonic anhydrase and low quantity is present in the plasma. 
+
+Carbonic anhydrase facilitates the following reation in both direction: 
+
+$$
+CO_2 + H_2O \overset{\text{Carbonic anhydrase}}{\leftrightarrows} H_2CO_3 \overset{\text{Carbonic anhydrase}}{\leftrightarrows} HCO_3^- + H^+ 
+$$
+
+At the tissue where $pCO_2$ is high due to catabolism, $CO_2$ diffuses with blood and form $HCO_3^-$ and $H^+$. At the alveolar site where $pCO_2$ is low, the process reverses leading to the formation of $CO_2$ and $H_2O$. Therefore $CO_2$ trapped as bicarbonate is transported to the alveoli and released out as $CO_2$. 
+
+> Every 100 ml of deoxygenated blood delvers approximately 4 ml of $CO_2$ to the alveoli. 
+
+## Regulation of Respiration 
+
+The rate of respiration is adjusted according to the demands of the body tissues. This actions is performed by the **neural system**
