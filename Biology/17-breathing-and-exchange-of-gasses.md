@@ -168,3 +168,21 @@ The region in the **medulla region** in the brain called **respiratory rhythm ce
 Pneumotaxic center in the pons region moderates the function of respiratory rhythm center. 
 
 A chemosensitive area is situated adjacent to the rhythm center which is sensitive to $CO_2$ and $H^+$. This center makes adjustments to the rhythm in the respiratory process by which those substances can be eleminated. 
+
+## QnA
+
+### How are gases (oxygen and carbon dioxide) transported in human body? 
+
+1. Transport of Oxygen 
+
+Haemoglobin is a red colored iron molecule present in the blood stream. $O_2$ binds with haemoglobin forming oxyhaemoglobin and can carry a maximum of 4 molecules of $O_2$. This binding is directly related to the partial pressure of $O_2$. But this can be inhibited by factors such as partial pressure of $CO_2$, $pH$ level and temperature. When in the bloodstream filled with oxygen-rich blood, it depends on diffusion with the cell via blood capillaries. Under suitable conditions for maixumum diffusion the following conditions are required- low $pO_2$, high $pCO_2$, high $H^+$, concentration and higher temperature; the cell has the maximum capacity to dissociate the oxygen from the haemoglobin. 
+
+2. Transport of Carbon Dioxide 
+
+In case of $CO_2$, it is transported in haemoglobin as carbamino-haemoglobinand through plasma as bicarbonates. When $pCO_2$ is higher than $pO_2$ more binding of $CO_2$ occurs whereas higher $pCO_2$ than $pCO_2$ facilitates the dissociation of $CO_2$ from carbamino-haemoglobin. Both RBC and plasma contains an enzyme called carbonic anhydrase and this starts a reation:
+
+$$
+CO_2 + H_2O \overset{\text{Carbonic anhydrase}}{\leftrightarrows} H_2CO_3 \overset{\text{Carbonic anhydrase}}{\leftrightarrows} HCO_3^- + H^+ 
+$$
+
+When it is transported to th alveoli, where $pCO_2$ is low, the reaction reverses and converted to $CO_2$ and $H_2O$. Then the $CO_2$ trapped as bicarbonate is transported tot he alveoli and released out as $CO_2$
