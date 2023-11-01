@@ -162,4 +162,9 @@ At the tissue where $pCO_2$ is high due to catabolism, $CO_2$ diffuses with bloo
 
 ## Regulation of Respiration 
 
-The rate of respiration is adjusted according to the demands of the body tissues. This actions is performed by the **neural system**
+The rate of respiration is adjusted according to the demands of the body tissues. This actions is performed by the **neural system**. 
+
+The region in the **medulla region** in the brain called **respiratory rhythm center** is responsible for regulation.  
+Pneumotaxic center in the pons region moderates the function of respiratory rhythm center. 
+
+A chemosensitive area is situated adjacent to the rhythm center which is sensitive to $CO_2$ and $H^+$. This center makes adjustments to the rhythm in the respiratory process by which those substances can be eleminated. 
