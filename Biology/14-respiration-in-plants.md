@@ -30,9 +30,8 @@ $$
 
 $$
 \text{Anaerobic Respiration}
-
 $$
 
 $$
-\text{Glucose} \overset{In cytoplasm}{\rightarrow} \text{Pyruvic acid} \overset{\text{In cytoplasm}}{\rightarrow} 2\ ATP,\ \text{Ethanol},\ CO_2
+\text{Glucose} \overset{\text{In cytoplasm}}{\rightarrow} \text{Pyruvic acid} \overset{\text{In cytoplasm}}{\rightarrow} 2\ ATP,\ \text{Ethanol},\ CO_2
 $$
