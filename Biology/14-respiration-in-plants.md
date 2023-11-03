@@ -21,13 +21,18 @@ Differences between Aerobic and Anaerobic respiration.
     - **Hexokinase**: phosphorylate glucose, trapping it within the cell and starting the glycolytic pathway. 
 
 $$
-\text{\underbar{Aerobic respiration}} \\
+\text{\underbar{Aerobic respiration}} 
+$$
 
+$$
 \text{Glucose} \overset{\text{In cytoplasm}}{\rightarrow} \text{Pyruvic acid} \overset{\text{In mitochondria}}{\rightarrow} H_2O,\ CO_2,\ 38\ APT 
 $$
 
 $$
-\text{\underbar{Anaerobic Respiration}} \\ 
+\text{\underbar{Anaerobic Respiration}}
 
+$$
+
+$$
 \text{Glucose} \overset{In cytoplasm}{\rightarrow} \text{Pyruvic acid} \overset{\text{In cytoplasm}}{\rightarrow} 2\ ATP,\ \text{Ethanol},\ CO_2
 $$
