@@ -186,3 +186,11 @@ CO_2 + H_2O \overset{\text{Carbonic anhydrase}}{\leftrightarrows} H_2CO_3 \overs
 $$
 
 When it is transported to th alveoli, where $pCO_2$ is low, the reaction reverses and converted to $CO_2$ and $H_2O$. Then the $CO_2$ trapped as bicarbonate is transported tot he alveoli and released out as $CO_2$
+
+# 04/11/2023
+
+## Disorders of Respiratory System 
+
+- **Asthama**: Inflammation of bronchi and bronchioles resulting in difficulty in breathing causing wheezing. 
+- **Emphysema**: chronic disorder (majority caused by cigarette smoking) in the alveolar walls being damaged, reducing respiratiory surface. 
+- **Occupational Respiratory Disorder**: Jobs that have dusty environment, usually grinding and stone breaking causes our defence mechanism to not fully cope with the situation; long exposure inflammates the fibrous tissues leading to lung damage. 

@@ -117,3 +117,72 @@ $GTP = 2\ ATP$
 
 $\text{Total = } 24 + 4 + 2$  
 $\implies 30\ ATP$
+
+# 04/11/2023 
+
+## Electron Transport System (ETS) and Oxidative Phosphorylation 
+
+$NADH+H^+$ enters and splits into two. 
+
+Proton gradient forms  
+Electron goes through various chain and energy is formed as ATP. 
+
+$\text{Electron} + \text{Proton} + \text{Oxygen} \rightarrow \text{Water}$
+
+ATPase catalyze the hydrolysis of a phosphate bond in Adenosine Triphosphate to form Adenosine Biphosphate 
+
+## Amphibolic Pathway 
+
+<img align=right width=400 src=./diagrams/ch14/metabolic-pathway.png>  
+
+To summarize, it proves that respiration has a dual route.  
+It means that its catabolic as well as anabolic. 
+
+- Glucose is the favored substrate for respiration. 
+- Carbohydrates are converted into glucose before respiration. 
+- Other substrates are converted into glucose before respiration. 
+- Fats need to be broken down into glycerol and fatty acids first.
+
+If fatty acid were to be respired, they have to be first degraded into acetyl coenzyme A. Glycerol needs to be broken down into PGAL (3-phosphoglyceraldehyde) first. 
+
+Proteins need to be degraded by protease enzyme into individual amino acid depending on their structure would enter the pathway at some stage within the [Krebs' Cycle](#tricarboxylic-acid-cycle) or even as pyruvate or acetyl CoA.
+
+Since some side products are made and required to complete the reaction, respiratione is also considered as anabolic process. 
+
+## Respiratory Quotient 
+
+It is the ratio of the volume of $CO_2$ evolved to the volume of $O_2$ consumed in respiration. It is also called the respiratory ratio. 
+
+$$
+RQ = \frac{\text{volume of } CO_2 \text{ evolved}}{\text{volume of } O_2 \text{ consumed}}
+$$
+
+This quotient depends on the substrate that is used during respiration. 
+
+### Carbohydrates 
+
+$$
+C_6H_{12}O_6 \rightarrow 6CO_2\ + 6H_2O\ + Energy 
+$$
+$$
+RQ = \frac{6CO_2}{^6O_2} = 1.0 
+$$
+
+Therefore ratio for carbohydrates is 1.0 
+
+### Fats 
+
+$$
+\underset{Tripalmitin}{2(C_{51}H_{98}O_6)} + 145O_2 \rightarrow 102CO_2 +  98H_2O + energy 
+$$
+$$
+RQ = \frac{102CO_2}{145O_2} = 0.7 
+$$
+
+Note that Tripalmitin is a type of fatty acid and its RQ is 0.7. 
+
+### Summary 
+
+Carbohydrates RQ = 1.0  
+Fats RQ = 0.7  
+Proteins = 0.9 

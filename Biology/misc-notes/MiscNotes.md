@@ -66,6 +66,10 @@ High amounts of solar energy is harmful to plants because it deforms the protein
 - This is the "energy range" of sunlight that plants use to convert carbon dioxide and water into sugars and oxygen through photosynthesis.
 - PAR is like the perfect recipe of light for plants, providing the energy they need to thrive and grow.
 
+# Circulatory System 
 
+## Fainting while Standing 
 
+While standing for a long time, the blood is redirected into the legs instead of brain for being stable. But prolonged stillness reduces the minimal amount of blood required for the brain to be active. That's why a person faints while standing for long time without any activity. 
 
+This can be prevented by periodically doing some activity to improve the circulation. If the situation says otherwise, then move the toes inside the shoes.
