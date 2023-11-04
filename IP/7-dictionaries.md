@@ -107,4 +107,55 @@ for key in empl:
     print('Salary:', str(empl[key]["Salary"]))
 ```
 
+# 02/11/2023
 
+### Write a program to store name and marks of given number of students by user. Make a dictionary using these data. Now ask the user if the user if he wants to make any changes in the marks or not. If he wants, they change the mark of particular student.
+
+```py 
+dict = {}
+n = int(input("Enter the number of students: "))
+
+for i in range(n):
+    name, mark = eval(input("Enter the name and marks of student: ", (i+1)))
+    dict[name] = mark 
+
+for name in dict: 
+    praint(name, ':', dict[name])
+
+y = input("Do you want to make any modification? Y or N: ")
+
+if (y == 'Y'): 
+    name = input("Enter the name of student: ")
+    if name in dict:
+        dict[name] = int(input("Enter the new mark: "))
+        for name in dict: 
+            print(name, ':', dict[name])
+    else:
+        print("This student is not in the list.")
+
+else: 
+    print("Thank you.")
+```
+
+# 03/11/2023
+
+### Write a program to create a third dictionary from two dictionaries having some common keys, in way so that the values of common keys are added in the third dictionary. 
+
+```py 
+dct1 = {'1': 100, '2': 200, '3': 300}
+dct2 = {'1': 300, '2': 200, '3': 400}
+
+dct3 = dict(dct1)
+dct3.update(dct2)
+
+for i, j in dct1.items():
+    for x,y in dct2.items(): 
+        if i == x: 
+            dct3[i] = (j+y)
+
+print("Two given dictionaries are:")
+print(dct1)
+print(dct2)
+print("The resultant dictionary")
+print(dct3)
+```

@@ -38,6 +38,8 @@ $$
 
 - Glycolysis involves 10 steps for converting glucose into pyruvic acid, which is the key product of glycolysis.
 
+This is also the only process that generates ATP in anaerobic respiration.
+
 ### Role of Enzymes in Glycolysis
 
 In plants, glucose is obtained from the sucrose which is the end product of photosynthesis or from storage carbohydrates.
