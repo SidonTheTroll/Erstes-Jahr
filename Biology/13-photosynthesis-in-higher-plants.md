@@ -1,18 +1,20 @@
-# 06/10/23 
+# Introduction 
+
+- Photosynthesis is a physio-chemical process that is important for every green plant. 
 
 $$
-CO_2 + H_0 \overset{Chlorophyll}{\underset{Sunlight}{\rightarrow}} C_{6}H_{12}O_{6} + H_2O + O_2 
+6CO_2 + 12H_2O\ {\underset{Radiant energy}{\xrightarrow{\text{Chlorophyll, Enzymes}}}}\ C_{6}H_{12}O_{6} + 6H_2O + 6O_2 \uparrow 
 $$
 
 Steps:  
-1. Sunlight absorbed by chlorophyll 
-2. Conversion of night energy into chemical energy and oxygen is liberated. 
+1. Sunlight absorbed by chlorophyll.
+2. Conversion of light energy into chemical energy and oxygen is liberated. 
 3. Reduction of carbondioxide into carbohydrate. 
 
 - Without chlorophyll $a$, photosynthesis is not possible. 
 
-- Pigment is found is chloroplast. 
-    - Extra pigments (chlorophyll b, carotenoids, xanthophyll, anthocyanin, phycoerythrin, phycocyanin) are also present. 
+- All the pigments are found in the chloroplast. 
+    - Extra pigments (chlorophyll b, carotenoids, xanthophyll) are also present along chlorophyll $a$. 
 
 > Photosynthetic and chemosynthetic bacteria are also autotrophs. 
 
@@ -20,49 +22,45 @@ Steps:
 
 Mesophyll cells perform photosynthesis.
 
+- Oxygen was discovered in 1774 by Priestly. 
+
 <img align='right' src='./diagrams/ch6/ts-of-leaf.png'>
 
 Vascular bungle is surrounded by bundle sheath cells. 
 
 - Generally leaves perform in photosynthesis 
 
-## C3 pathway 
+# Importance 
 
-The $C_3$ pathway, also known as the Calvin cycle, is a vital part of photosynthesis in plants. 
+1. It is the most important natural process that sustains life on earth. 
+2. Photosynthesis allows plants and certain bacteria to generate energy from inorganic material creating the base of the food chain. 
+3. Coal, petroleum and nautral gas are fromed when plants get compressed under high temperature and pressure and are an importance in modern world. 
+4. All useful plant products are derived from process of photosynthesis, e.g., rubber, timber, resins, drugs, oils, etc. 
+5. Higher concentration of $CO_2$ is harmful for animals and plants negate the effects by producting $O_2$ from $CO_2$. 
 
-1. **Carbon Capture**: It starts by capturing carbon dioxide (CO2) from the air and turning it into a 3-carbon compound, 3-PGA (Phosphoglyceric Acid).
+# Kranz Anatomy 
 
-2. **Making Energy**: In the next steps, 3-PGA becomes G3P and uses energy molecules (ATP and NADPH) produced in the light-dependent reactions.
+Kranz Anatomy is a special leaf structure found in certain plants, mainly in [$C_4$ plants](#the-c4-pathway). 
 
-3. **Recycling**: Some of the G3P helps regenerate the initial carbon-capturing molecule.
+1. **Cell Arrangement**: Kranz anatomy features a unique cell arrangement in the leaves of C4 plants. These cells are arranged in two distinct layers: ***the inner bundle sheath cells and the outer mesophyll cells***.
 
-4. **Sugar Production**: The rest of the G3P is used to make glucose and other sugars, essential for the plant.
+2. **Cell Roles**: In this setup, the ***mesophyll cells are responsible for capturing carbon dioxide (CO2) and converting it into a 4-carbon compound***. This is more **efficient in high-heat and high-light conditions**.
 
-Remember, it's called C3 because it starts with **3 carbon atoms** . While it's common, some plants use more efficient pathways like C4 and CAM in specific conditions.
+3. **Protection**: The ***inner bundle sheath cells act as protective shields***. They keep oxygen out and prevent water loss through evaporation.
 
-- Some plants also use $CO_2$ at night to conserve water, specially seen in desert plants. 
-
-## Kranz Anatomy 
-
-Kranz Anatomy is a special leaf structure found in certain plants, mainly in [$C_4$](#the-c4-pathway) plants. 
-
-1. Cell Arrangement: Kranz anatomy features a unique cell arrangement in the leaves of C4 plants. These cells are arranged in two distinct layers: the inner bundle sheath cells and the outer mesophyll cells.
-
-2. Cell Roles: In this setup, the mesophyll cells are responsible for capturing carbon dioxide (CO2) and converting it into a 4-carbon compound. This is more efficient in high-heat and high-light conditions.
-
-3. Protection: The inner bundle sheath cells act as protective shields. They keep oxygen out and prevent water loss through evaporation.
-
-4. Efficiency: This arrangement enhances the efficiency of photosynthesis in C4 plants, especially in hot and dry environments.
+4. **Efficiency**: This arrangement enhances the efficiency of photosynthesis in C4 plants, especially in hot and dry environments.
 
 So, Kranz anatomy is like a two-layered team, with one layer capturing CO2 efficiently and the other layer protecting against wasteful processes, making it perfect for certain plants in challenging conditions.
 
 **Eg: Maize (corn), Sugarcane, Millet, Switchgrass**
 
-# 12/10/23 
+# Where does Photosynthesis take place? 
 
-## Where does Photosynthesis take place? 
+> In broad terms, **photosynthesis takes place in the mesophyll cells which have chloroplats in their walls.**
 
-> In broad terms, photosynthesis takes place in the chloroplasts. 
+- In the stroma, enzymatic reactions form sugar, which turns into starch. 
+
+The membranous system of chloroplats containing grana, stroma lamellae and matrix are responsible for the synthesis of ATP and NADPH. 
 
 The mesophyll cells in the leaves are in large number where chloroplasts align along the walls for optimum quantity of light.
 
@@ -73,15 +71,19 @@ Within the chloroplast, there is a membranous system consisting of grana, stroma
 - Membrane is for trapping light energy and synthesis of ATP and NADPH (nicotinamide adenine dinucleotide phosphate hydrogen).
 - In Stroma, enzymatic reactions synthesize sugar, which forms strach. 
 
-|  | Light Reaction   | Dark Reaction |
-|-|-|-| 
-| Location | Thylakoid membranes of chloroplasts | Stroma of chloroplasts |
-| Energy Source | Require light energy (photons) to drive the process | Utilize the ATP and NADPH produced in the light-dependent reactions | 
-| Products | Generate ATP, NADPH, and oxygen as a byproduct | Produce glucose and other organic molecules by fixing carbon dioxide | 
-| Purpose | Convert light energy into chemical energy (ATP and NADPH) for the next stage | Fix carbon dioxide and synthesize sugars (glucose) from carbon compounds| 
-| Depenent on light | Cannot occur in the absence of light |  Can occur in the absence of light, as they rely on the products of the light-dependent reactions for energy | 
+|            | Light Reactions                                  | Dark Reactions                              |
+|------------|-----------------------------------------------|--------------------------------------------|
+| **Location** | Thylakoid membranes of chloroplasts           | Stroma of chloroplasts                     |
+| **Purpose**  | Capture and convert light energy into chemical energy (ATP and NADPH) | Utilize the ATP and NADPH generated in light reactions for carbon fixation and glucose production |
+| **Key Players** | Photosystem I (PS I) for NADPH production   |RuBisCO (Ribulose-1,5-bisphosphate carboxylase/oxygenase) for carbon fixation |
+|            | Photosystem II (PS II) for ATP generation   | RuBP (Ribulose-1,5-bisphosphate) for CO2 fixation |
+|            | Electron Transport Chain for electron transport and proton gradient | PGA (3-phosphoglycerate) and G3P (Glyceraldehyde-3-phosphate) for sugar synthesis |
+| **Input**   | Light, water, ADP + Pi (inorganic phosphate)   | ATP, NADPH, and carbon dioxide (CO2)       |
+| **Output**  | ATP, NADPH, and oxygen                        | Glucose (sugar) and other organic compounds |
+| **Mnemonic** | "Light, Plants, Oxygen"                      | "Dark Sugar Factory"                        |
 
-## How many types of pigments are involved in Photosynthesis 
+
+# How many types of Pigments are involved in Photosynthesis 
 
 - Generally, 4 pigments are crucial in leaves: 
     - Chlorophyll $a$ (bright or blue green)
@@ -204,6 +206,22 @@ The excited electron doesn't pass on to $NADP^+$ and it cycled back to the PS1 c
 Cyclic Phosphorylation results only in ATP but not $NADPH+H^+$
 
 It only occurs in the light of wavelengths beyond 680 nm for excitation of the electons. 
+
+# C3 pathway 
+
+The $C_3$ pathway, also known as the Calvin cycle, is a vital part of photosynthesis in plants. 
+
+1. **Carbon Capture**: It starts by capturing carbon dioxide (CO2) from the air and turning it into a 3-carbon compound, 3-PGA (Phosphoglyceric Acid).
+
+2. **Making Energy**: In the next steps, 3-PGA becomes G3P and uses energy molecules (ATP and NADPH) produced in the light-dependent reactions.
+
+3. **Recycling**: Some of the G3P helps regenerate the initial carbon-capturing molecule.
+
+4. **Sugar Production**: The rest of the G3P is used to make glucose and other sugars, essential for the plant.
+
+Remember, it's called C3 because it starts with **3 carbon atoms** . While it's common, some plants use more efficient pathways like C4 and CAM in specific conditions.
+
+- Some plants also use $CO_2$ at night to conserve water, specially seen in desert plants. 
 
 ## The Calvin Cycle 
 
