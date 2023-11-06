@@ -443,7 +443,7 @@ They **change their shape** by using their **layers** in **cytoplasmic boundarie
 - Live in **freshwater, marine and moist soil**.
 - Can capture prey by pseudopodia (as in Amoeba)
 - Some of them like _Entamoeba_ are **parasites**
-  <img align='right' src="./diagrams/trypanosoma.png" width=300>
+  <img align='right' src="./diagrams/ch2/trypanosoma.png" width=300>
 
 ### Flagellated protozoans
 
@@ -452,7 +452,7 @@ They **change their shape** by using their **layers** in **cytoplasmic boundarie
 
 Trypanosoma causes sleeping sickness and kala-azar
 
-<img align='right' src='./diagrams/paramoecium.png' width=200>
+<img align='right' src='./diagrams/ch2/paramoecium.png' width=200>
 
 ### Ciliated protozoans
 

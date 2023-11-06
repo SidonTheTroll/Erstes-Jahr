@@ -275,7 +275,7 @@ Polysaccharides -> many saccharide -> starch, glucogen, cellulose
 
 # 24/08/23
 
-- mRNA has code for amino $\overline{\text{a}}$ and polypeptide <img align=right src='diagrams/glycine.png' width=200>
+- mRNA has code for amino $\overline{\text{a}}$ and polypeptide <img align=right src='diagrams/ch9/glycine.png' width=200>
   > Peptide is a short chain of amino $\overline{a}$ linked by peptide bonds
 
 TRNA: transfers amino acid and translate mRNA into sequence of protein.  
@@ -283,7 +283,7 @@ rRNA: helps to form ribosome and assists in protein synthesis.
 
 - Amino acid is the building block of protein.
 
-<img src='diagrams/alanine.png' align=right width= 200>
+<img src='diagrams/ch9/alanine.png' align=right width= 200>
 
 - 3 main amino acid in human body:
   - Glycine
@@ -292,13 +292,13 @@ rRNA: helps to form ribosome and assists in protein synthesis.
 
 There are total 20 amino acid
 
-<img align=right src='diagrams/serine.png' width=200>
+<img align=right src='diagrams/ch9/serine.png' width=200>
 
 <br><br><br><br>
 
 ## Zwitterionic form
 
-<img align=right width=350 src='diagrams/zwitterion.png'>
+<img align=right width=350 src='diagrams/ch9/zwitterion.png'>
 
 - Amino acid can exist as ionized form and it is called Zwitterionic form
 
@@ -325,7 +325,7 @@ Protein produced by our body are biomacromolecules
 
 #### Peptide bond
 
-<img src='diagrams/peptide-bond.png'>
+<img src='diagrams/ch9/peptide-bond.png'>
 
 ### Primary protein
 
@@ -339,7 +339,7 @@ Protein produced by our body are biomacromolecules
 
 > It is biologycally active.
 
-<img src='diagrams/h2l2-antibody.png' width=500>
+<img src='diagrams/ch9/h2l2-antibody.png' width=500>
 
 **Antibody**: Protein produced by WBC
 

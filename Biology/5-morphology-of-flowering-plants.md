@@ -32,11 +32,11 @@
 
 # 1/7/23 
 
-Morphology: physical characteristics/ external observable features 
+Morphology: physical characteristics/external observable features 
 
 ## Roots: 
 
-<img src='diagrams/seed.png' align=right width=400>
+<img src='diagrams/ch5/seed.png' align=right width=400>
 
 Types of root: taproot, fibrous, adventitious root
 
@@ -299,7 +299,7 @@ Bract absent = ebsrateate (Ebr)
 ## Aestivation
 
 
-<img src="diagrams/aestivation.png" align="right" width=400>
+<img src="diagrams/ch5/aestivation.png" align="right" width=400>
 
 - Aestivation: arrangement of floral appendages on the thalamus
 
@@ -313,7 +313,7 @@ Bract absent = ebsrateate (Ebr)
 <br>
 
 ## Placentation 
-<img src='diagrams/placentation.png' align=right width=400>
+<img src='diagrams/ch5/placentation.png' align=right width=400>
 
 
 
@@ -378,8 +378,8 @@ Endocarp: the innermost layer of the pericarp which surrounds a seed
 - **Hypogynous:** $\underbar{G}$ 
 
 ## Calyx (K)
-<img src='diagrams/free-calyx.png' align=right width=156>
-<img src='diagrams/united-calyx.png' align=right width=150>
+<img src='diagrams/ch5/free-calyx.png' align=right width=156>
+<img src='diagrams/ch5/united-calyx.png' align=right width=150>
 
 **United sepals:** Gamosepalous  
 **Free sepals:** Polysepalous 
@@ -411,7 +411,7 @@ Polypetalous = $C_{6}$
 
 ## Androecium $(A)$
 
-<img src='diagrams/androecium.png' align=center width=500>
+<img src='diagrams/ch5/androecium.png' align=center width=500>
 
 **Monadelphous:** all androecium are in one bundle.  
 **Diadelphous:** stamens are divided into bundles of two  
@@ -434,7 +434,7 @@ The numbers below are bundle notations
 
 ## Gynoecium $(G)$
 
-<img src='diagrams/gynoecium.png' align=right>
+<img src='diagrams/ch5/gynoecium.png' align=right>
 
 1 carpel = monocarpelary  
 More carpel = multicarpelary
