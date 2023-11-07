@@ -85,3 +85,7 @@ Treatment includes chemotherapy at the cheapest and more expensive yet more effe
 Carbon monoxide is a very poisonous gas for human beings. Its concentration of 600 ppm induces coma; increase to 800 ppm results in death. 
 
 MSG, Nicotine and food coloring should be avoided at all costs because they release dopamine and the person wants more of it. After a long time of consumpion, this results in cancer, diabetes and other diseases. 
+
+Second hand smoking is as harmful as first hand smoking because it passively affects the person even if they have never smoked. 
+
+Drugs can't be detected from blood most of the time. So that's why tests are usually done by urine because the kidneys filter the blood and there's a concentration of the drug in the blood that can be easily detected.
