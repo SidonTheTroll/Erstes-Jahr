@@ -192,7 +192,7 @@ print(M)
 rno = int(input("Roll no. to be deleted?: "))
 
 if rno in M: 
-    delM[rno]
+    del M[rno]
     print("Roll no.", rno, "deleted from dictionary.")
 else:
     print("Roll no.", rno, does not exist in dictionary.)
