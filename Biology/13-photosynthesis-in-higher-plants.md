@@ -103,7 +103,7 @@ The red and blue wavelenghts are captured the most in leaves.
 | <img src="./diagrams/ch13/absorption-spectrum.png"> | This table shows the maximum absorption of the electro-magnetic spectrum of different pigments |
 |--------------- | --------------- |
 
-## What is Light Reaction 
+# What is Light Reaction?
 
 <img src="./diagrams/ch13/LHC.png" align=right>
 
@@ -123,7 +123,7 @@ The red and blue wavelenghts are captured the most in leaves.
 
 - These LHCs are made up of hundreds of pigment molecules bound to proteins. 
 
-- Each photosystem has all the pigments forming a Light Harvesting system also called antennae 
+- Each photosystem has all the pigments forming a Light Harvesting system also called antennae.
 
 The various pigments help the plant to capture a broad spectrum of light to make photosynthesis more efficent. 
 
@@ -132,11 +132,11 @@ The various pigments help the plant to capture a broad spectrum of light to make
 - The PS1 photosystem chlorophyll $a$ has absorption maxima of 700 nm and is called the P700 
 - The PS2 photosystem chlorophyll $a$ has absorption maxima of 680 nm and is called the P680
 
-## The Electron Transport 
+# The Electron Transport 
 
 <img src="./diagrams/ch13/Z-scheme.png" align=right width=400>
 
-In photosystem 2, the reaction center chlorophyll $a$ absorbs 690 nm wavelength of red light which causes the electrons to become excited and jump into an orbit farther from the atomic nucleus. These electrons are picked up by an electron acceptor which passes them to an **electrons transport system consisting of cytochromes**. 
+In photosystem 2, the reaction center chlorophyll $a$ absorbs 680 nm wavelength of red light which causes the electrons to become excited and jump into an orbit farther from the atomic nucleus. These electrons are picked up by an electron acceptor which passes them to an **electrons transport system consisting of cytochromes**. 
 
 Electrons move through the electron transport chain from high to low energy states (downhill), facilitating the production of energy-rich molecules, but they are not consumed; instead, they are passed on to photosystem I, where they play a crucial role in converting light energy into chemical energy.
 
@@ -145,6 +145,8 @@ Simultaneously, electrons in PS1 are also excited in the reaction when they rece
 ## Z-Scheme 
 
 The Z-scheme is a crucial concept in the process of photosynthesis, specifically in the light-dependent reactions that occur in the thylakoid membranes of chloroplasts. 
+
+> The “Z‐scheme” describes the oxidation/reduction changes during the light reactions of photosynthesis. In the Z‐scheme, electrons are removed from water (to the left) and then donated to the lower (non‐excited) oxidized form of P680
 
 ### The Z-Scheme in Photosynthesis:
 
