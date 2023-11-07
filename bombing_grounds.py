@@ -1,6 +1,23 @@
-empl = {"John": {'Age': 30, 'Salary': 25000}, "Diya":{'Age': 28, 'Salary': 30000}}
+d = {'Name': "Rahul", 'Salary': 10000, 'Age': 45, 'Dept': 'Sales'}
 
-for key in empl: 
-    print("Employee:", key)
-    print("Age:", str(empl[key]['Age']))
-    print('Salary:', str(empl[key]["Salary"]))
+# Prints raw data
+print(d) # {'Name': "Rahul", 'Salary': 10000, 'Age': 45, 'Dept': 'Sales'}
+print()
+# Print headers
+print(d.keys()) # dict_keys(['Name', 'Salary', 'Age', 'Dept'])
+print()
+
+d = {'Name': "Rahul", 'Salary': 10000, 'Age': 45}
+c = {'Name': "Sonali", 'Salary': 4000, 'Dept': 'Production'}
+
+d.update(c) # Replace values with dictionary 'c'
+# If heading are found to be unique in initial dictionary, the value will remain the same. 
+print(d)
+print()
+
+c.clear() # deletes data is dictionary 
+print(c)
+print()
+
+del(c) # Deletes dictionary 'c'
+print(c)

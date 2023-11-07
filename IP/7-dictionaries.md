@@ -159,3 +159,44 @@ print(dct2)
 print("The resultant dictionary")
 print(dct3)
 ```
+
+# 07/11/2023 
+
+```py 
+d = {'Name': "Rahul", 'Salary': 10000, 'Age': 45, 'Dept': 'Sales'}
+
+# Prints raw data
+print(d) # {'Name': "Rahul", 'Salary': 10000, 'Age': 45, 'Dept': 'Sales'}
+
+# Print headers
+print(d.keys()) # dict_keys(['Name', 'Salary', 'Age', 'Dept'])
+
+d = {'Name': "Rahul", 'Salary': 10000, 'Age': 45}
+c = {'Name': "Sonali", 'Salary': 4000, "Age": 20, 'Dept': 'Production'}
+
+d.update(c) # Replace values with dictionary 'c'
+# If heading are found to be unique in initial dictionary, the value will remain the same. 
+
+c.clear() # deletes data is dictionary 
+
+del(c) # Deletes dictionary 'c'
+```
+
+### 7.11 Consider already created dictionary M that stores roll numbers and marks. Write a program to input a roll number and delete it from the dictionary. Display error message if the roll number does not exist in the dictionary. 
+
+```py 
+M = {1:400, 2:420, 3: 480, 4: 222, 5:430}
+
+print("Created dictionary")
+print(M)
+rno = int(input("Roll no. to be deleted?: "))
+
+if rno in M: 
+    delM[rno]
+    print("Roll no.", rno, "deleted from dictionary.")
+else:
+    print("Roll no.", rno, does not exist in dictionary.)
+
+print("Final dictionary")
+print("M")
+```
