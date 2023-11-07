@@ -73,3 +73,15 @@ High amounts of solar energy is harmful to plants because it deforms the protein
 While standing for a long time, the blood is redirected into the legs instead of brain for being stable. But prolonged stillness reduces the minimal amount of blood required for the brain to be active. That's why a person faints while standing for long time without any activity. 
 
 This can be prevented by periodically doing some activity to improve the circulation. If the situation says otherwise, then move the toes inside the shoes.
+
+# Cancer, Drugs and Intoxication 
+
+Cancer is caused by the oncogene which is in inactive form which is called Proto-oncogene. It requires them to be activated to cause cancer. 
+
+Proto-oncogene gets transformed to oncogene by the result of nicotine found in vapes, cigerrates, tobacco, cigars, gutka, etc. This affects the lungs, mouth, throat and lungs. 
+
+Treatment includes chemotherapy at the cheapest and more expensive yet more effective treatments include stem cell transplant, radiation therapy, etc. 
+
+Carbon monoxide is a very poisonous gas for human beings. Its concentration of 600 ppm induces coma; increase to 800 ppm results in death. 
+
+MSG, Nicotine and food coloring should be avoided at all costs because they release dopamine and the person wants more of it. After a long time of consumpion, this results in cancer, diabetes and other diseases. 
