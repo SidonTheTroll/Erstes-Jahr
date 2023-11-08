@@ -187,10 +187,43 @@ $$
 
 When it is transported to th alveoli, where $pCO_2$ is low, the reaction reverses and converted to $CO_2$ and $H_2O$. Then the $CO_2$ trapped as bicarbonate is transported tot he alveoli and released out as $CO_2$
 
-# 04/11/2023
+# Disorders of Respiratory System 
 
-## Disorders of Respiratory System 
-
-- **Asthama**: Inflammation of bronchi and bronchioles resulting in difficulty in oxygen intake causing wheezing. 
+- **Asthama**: Inflammation of bronchi and bronchioles resulting in difficulty in oxygen intake causing wheezing. This can also be a genetic problem but most of the time it is acquired after being infected with the same disease time and time again. 
 - **Emphysema**: chronic disorder (majority caused by cigarette smoking) in the alveolar walls being damaged, reducing respiratiory surface. 
-- **Occupational Respiratory Disorder**: Jobs that have dusty environment, usually grinding and stone breaking causes our defence mechanism to not fully cope with the situation; long exposure inflammates the fibrous tissues leading to lung damage. Other diseases include pneumonia, silicosis, pneumoconiosis, etc.
+- **Occupational Respiratory Disorder**: Jobs that have dusty environment, usually grinding and stone breaking causes our defence mechanism to not fully cope with the situation; long exposure inflammates the fibrous tissues leading to lung damage. Other diseases include pneumonia, silicosis, asbestosis, etc.
+
+# Extra 
+
+The average breathing rate of an adult it 16-18 times in a minute. 
+
+If the respiratory rhythm center doesn't work properly in a person, he/she may die while sleeping. This is usually cause after a person sleeps in a certain position after being very tired. 
+
+After dying, the body urinates and/or defecates due to the loosened muscles releasing any strain in bladder or bowel. 
+
+Due to $CO_2$ concentration, a person may also die while sleeping. 
+
+## Respiratory Diseases/Disorders 
+
+### Asthama
+
+It is an allergic problem in the respiratory tract caused by dust, pollen and/or cold climate. If all the mentioned factors are responsible, it is called cold allergy.  
+The dust and pollen irritates the throat resulting in pain, cough and voice box inflammation. 
+
+The cough is made up of mucus produced by the epithelial cell to suppress the irritation in the bronchus and alveoli. But accumulation of mucus leads to blockage in the pathway. 
+
+Bottle brush, tamarind and elephant apple are not planted near houses because their spores irritate the respiratory tract. 
+
+### Emphysema 
+
+Necrosis is common in the lower portion of chronic smokers and this develops into lung cancer. 
+
+### Occupational Respiratory Disorders
+
+These are caused by inhaling harmful substances such as gas fumes, dusts etc. from the environment a person works in. It is characterized by the proliferation of fibrous connective tissues of upper lung, causing inflammation. 
+
+Examples include silicosis from dusty environment, asbestosis by inhaling asbestos fibers common among asbestos workers. 
+
+---
+
+**Hypoxia** is a medical condition characterized by a deficiency of oxygen supply to the body's tissues and organs. It can occur when the oxygen levels in the blood or the surrounding air are too low to adequately meet the body's metabolic needs. Hypoxia can have various causes and levels of severity, ranging from mild symptoms like shortness of breath to severe and life-threatening conditions. 

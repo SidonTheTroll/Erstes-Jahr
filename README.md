@@ -16,9 +16,8 @@ Read [**CONTRIBUTING.md**](./CONTRIBUTING.md) for collaboration.
 ## TODO
 
 - [ ] Activities in notebook 
-    - [ ] Bio potato osmometer
     - [ ] Chem (Acid-Base Titration)
     - [ ] Patches for past physics errors 
 - [ ] Arrange [Biology diagrams](./Biology/diagrams/) chapterwise. 
 
-![Alt](https://repobeats.axiom.co/api/embed/529b470931ea1f63dd9ad0ba8577989a531b82a9.svg "Repobeats analytics image") 
+![Alt](https://repobeats.axiom.co/api/embed/d443ad3f7932cc0799840e976411cf5e10ea87d5.svg "Repobeats analytics image") 
