@@ -200,3 +200,27 @@ else:
 print("Final dictionary")
 print("M")
 ```
+
+# 09/11/2023
+
+## Adding Keys and Elements ouside a Dictionary
+
+```py 
+d = {"Name": 'Rahul', "Age": 24, "Salary": 10000}
+d['Dept'] = 'Sales'
+print(d) # {"Name": 'Rahul', "Age": 24, "Salary": 10000, 'Dept': 'Sales'}
+```
+
+## Creating sub categories 
+
+```py 
+d = {"Rahul": {'Age': 25, 'Salary': 10000, 'Dept': 'Sales'}, 'Amit': {'Age': 27, 'Salary': 12000, 'Dept': 'Market'}}
+print(d) 
+
+for key in d: 
+    print(key,': ')
+    print('Age:', str(d[key]["Age"]))
+    print('Salary:', str(d[key]["Salary"]))
+    print('Dept:', str(d[key]["Dept"]))
+    print()
+```
