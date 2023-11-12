@@ -38,9 +38,9 @@ Hor, a small town along the historic trade route from Lhasa to Kashmir, sat on t
 
 Lake Manasarovar is considered Tibet's most venerated stretch of water because ancient Hindu nad Buddhist cosmologists pinpoint it to be the source of four great Indian rivers. 
 
-### 11. What sort of experience did the author had the Darchen? 
+### 11. What sort of experience did the author had at Darchen? 
 
-The author was dissatisfied with Darchen due to health issues caused by the high altitude, including a bad cold and difficulty sleeping. As one of the early arrivals, the lack of pilgrims made the place less vibrant. Darchen appeared dusty, partially run-down, marked by heaps of rubble, and scattered refuse.
+The author was dissatisfied with Darchen due to health issues caused by the high altitude, including a bad cold and difficulty sleeping. As one of the early arrivals, the lack of pilgrims made the place less vibrant. Darchen appeared dusty, partially run-down, marked by heaps of rubble and scattered refuse.
 
 ### 12. Why did the night at the guest house at Darchen turn out to be another troubled one? 
 
@@ -52,7 +52,7 @@ In Darchen, the author had a troubling night, catching a cold with blocked nostr
 
 ### 14. The author says, "I had timed my arrival for the beginning of the season but it seemed I was too early." How does Darchen appear at the height of the pilgrimage season? 
 
-The author did not personally witness it, but he was informed that during the pilgrimage season, Darchen was bustling with visitors. Many brought their own accommodations, setting up tents at the outskirts of Darchen that extended across the plains.
+The author didn't personally witness it, but he was informed that during the pilgrimage season, Darchen was bustling with visitors. Many brought their own accommodations, setting up tents at the outskirts of Darchen that extended across the plains.
 
 ### 15. What did the author learn about Norbu? How did he feel? 
 
