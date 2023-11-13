@@ -179,7 +179,7 @@ Haemoglobin is a red colored iron molecule present in the blood stream. $O_2$ bi
 
 2. Transport of Carbon Dioxide 
 
-In case of $CO_2$, it is transported in haemoglobin as carbamino-haemoglobinand through plasma as bicarbonates. When $pCO_2$ is higher than $pO_2$ more binding of $CO_2$ occurs whereas higher $pCO_2$ than $pCO_2$ facilitates the dissociation of $CO_2$ from carbamino-haemoglobin. Both RBC and plasma contains an enzyme called carbonic anhydrase and this starts a reation:
+In case of $CO_2$, it is transported in haemoglobin as carbamino-haemoglobin and through plasma as bicarbonates. When $pCO_2$ is higher than $pO_2$ more binding of $CO_2$ occurs whereas higher $pCO_2$ than $pCO_2$ facilitates the dissociation of $CO_2$ from carbamino-haemoglobin. Both RBC and plasma contains an enzyme called carbonic anhydrase and this starts a reation:
 
 $$
 CO_2 + H_2O \overset{\text{Carbonic anhydrase}}{\leftrightarrows} H_2CO_3 \overset{\text{Carbonic anhydrase}}{\leftrightarrows} HCO_3^- + H^+ 
@@ -227,3 +227,90 @@ Examples include silicosis from dusty environment, asbestosis by inhaling asbest
 ---
 
 **Hypoxia** is a medical condition characterized by a deficiency of oxygen supply to the body's tissues and organs. It can occur when the oxygen levels in the blood or the surrounding air are too low to adequately meet the body's metabolic needs. Hypoxia can have various causes and levels of severity, ranging from mild symptoms like shortness of breath to severe and life-threatening conditions. 
+
+# QnA 
+
+### 1. Define vital capacity. What is its significance? 
+
+Vital capacity is the maximum volume of air that a person can breathe in after a forced expiration. This includes Expiratory reserve volume, Tidal volume and Inspiratory volume. 
+
+### 2. State the volume of air remaining in the lungs after a normal breathing. 
+
+The volume of air that remains in a person's lungs after a normal breathing is approximately 1100 mL to 1200 mL.
+
+### 3. Diffusion of gases occurs in the alveolar region only and not in other parts of respiratory system. Why? 
+
+This occurs due the the presence of huge number of blood capillaries around the alveolar region. This facilitates maximum exchange of gases. 
+
+### 4. What are the major transport mechanisms for CO2? Explain. 
+
+Most of the $CO_2$ in the blood is transferred by haemoglobin as carbamino-haemoglobin because of the presence of carbonic anhydrase. A little quantity of this is also found in the blood plasma, therefore, little quantity of $CO_2$ is also sent through it. Carbonic anhydrase allows the conversion of $CO_2$ to different forms in both direction. Then it is transported to the alveoli where it is released out as $CO_2$. 
+
+### 5. What will be the pO2 and pCO2 in the atmospheric air compared to those in the alveolar air? 
+
+$pO_2$ higher, $pCO_2$ lesser 
+
+### 6. Explain the process of inspiration under normal conditions. 
+
+Inspiration is initiated by the contraction of diaphragm which increases the volume of the thoracic chamber in the antero-posterior axis. The contraction of inter-costal muscles lifts up the ribs and the sternum causing the increase in volume of the thoracic chamber in the dorso-ventral axis. This reduces the pressue in the lungs and causes the air to rush into the lungs through the wind pipe.
+
+### 7. How is respiration regulated? 
+
+Respiration is regulated by the Respiratory Rhythm Center which is present in the medulla region. A region called Pneumotaxic Center is located in the pons region that moderates the functions of the Respiratory Rhythm Center. Another center is located adjacent to the Respiratory Rhythm Center that is highly sensitive to $CO_2$ and hydrogen ions that makes necessary adjustments in the respiratory to eliminate these substances. 
+
+### 8. What is the effect of pCO2 on oxygen transport? 
+
+In tissues, high pCO2 and low pO2 promote oxygen release from oxyhemoglobin. Decreased blood pCO2 enhances hemoglobin's oxygen affinity, facilitating oxygen transport as oxyhemoglobin that dissociates at the tissues.
+
+### 9. What happens to the respiratory process in a man going up a hill? 
+
+Ascending a hill prompts the respiratory system to adapt, increasing both breathing rate and tidal volume for more efficient gas exchange in the lungs. Simultaneously, stimulated respiratory centers in the brain enhance the drive to breathe, ensuring an ample oxygen supply. These adjustments optimize oxygen diffusion to muscles, meeting the heightened energy demands of uphill activity.
+
+### 10. What is the site of gaseous exchange in an insect? 
+
+In insects, the site of gaseous exchange is the tracheal system. Since insects do not have lungs they utilize a network of tiny tubes called tracheae that deliver oxygen directly to cells and remove carbon dioxide. 
+
+### 11. Define oxygen dissociation curve. Can you suggest any reason for its sigmoidal pattern? 
+
+The sigmoidal oxygen dissociation curve depicts the cooperative binding and release of oxygen by hemoglobin. The steep initial increase reflects efficient loading in the lungs, while the plateau near 100% saturation indicates nearly full occupancy of binding sites. This dynamic pattern optimizes oxygen transport to tissues in response to changing oxygen levels.
+
+### 12. Have you heard about hypoxia? Try to gather information about it, and discuss with your friends. 
+Hypoxia is a condition where tissues receive too little oxygen, impairing cellular function. It can stem from low environmental oxygen, reduced blood oxygen capacity, impaired delivery, or cellular dysfunction. Causes include high-altitude exposure, lung or cardiovascular issues, or carbon monoxide poisoning.
+
+### 13. Distinguish between 1. IRV and ERV 2. Inspiratory capacity and expiratory capacity 3. Vital capacity and total lung capacity. 
+
+#### IRV and ERV 
+
+| Characteristic               | Inspiratory Reserve Volume (IRV)                       | Expiratory Reserve Volume (ERV)                          |
+| ---------------------------- | ------------------------------------------------------ | -------------------------------------------------------- |
+| **Definition**                | The additional air that can be inhaled after a normal inhalation. | The additional air that can be exhaled after a normal exhalation. |
+| **Volume Range**              | Typically around 3000-3300 mL in adults.                | Approximately 1000-1200 mL in adults.                      |
+| **Function**                  | Allows for deep inhalation, increasing tidal volume.    | Facilitates forceful exhalation, aiding in emptying the lungs. |
+| **Measurement**               | Measured during a maximal inhalation after a normal breath. | Measured during a maximal exhalation after a normal breath. |
+| **Clinical Significance**     | Reduced IRV may limit the ability to take deep breaths. | Reduced ERV may impact the ability for forceful exhalation. |
+
+#### Inspiratory Capacity and Expiratory Capacity 
+
+| Characteristic            | Inspiratory Capacity (IC)                                 | Expiratory Capacity (EC)                                   |
+| ------------------------- | --------------------------------------------------------- | --------------------------------------------------------- |
+| **Definition**             | The maximum amount of air that can be inhaled after a normal exhalation. | The maximum amount of air that can be exhaled after a normal inhalation. |
+| **Calculation**            | IC = Tidal Volume (TV) + Inspiratory Reserve Volume (IRV)   | EC = Tidal Volume (TV) + Expiratory Reserve Volume (ERV)    |
+| **Volume Range**           | Typically around 3500-4500 mL in adults.                   | Approximately 1200-1700 mL in adults.                      |
+| **Function**               | Represents the total air available for inhalation.         | Represents the total air available for exhalation.         |
+| **Measurement**            | Measured during a maximal inhalation after a normal breath. | Measured during a maximal exhalation after a normal breath. |
+| **Clinical Significance**  | Reduced IC may limit the ability to take deep breaths.     | Reduced EC may impact the ability for forceful exhalation.  |
+
+#### Vital Capacity and Total Lung capacity 
+
+| Characteristic          | Vital Capacity (VC)                                       | Total Lung Capacity (TLC)                                 |
+| ----------------------- | -------------------------------------------------------- | -------------------------------------------------------- |
+| **Definition**           | The maximum amount of air that can be exhaled after a maximal inhalation. | The total volume of air the lungs can hold at maximal inflation. |
+| **Calculation**          | VC = Tidal Volume (TV) + Inspiratory Reserve Volume (IRV) + Expiratory Reserve Volume (ERV) | TLC = Vital Capacity (VC) + Residual Volume (RV)          |
+| **Volume Range**         | Typically around 4500-5500 mL in adults.                 | Approximately 4500-6000 mL in adults.                      |
+| **Function**             | Represents the maximum amount of air that can be moved in and out of the lungs during forced breathing. | Reflects the total lung capacity, including the volume that remains in the lungs after maximal exhalation. |
+| **Measurement**          | Measured during a maximal inhalation followed by a maximal exhalation. | Measured using specialized pulmonary function tests, including VC measurements. |
+| **Clinical Significance**| Reduced VC may indicate lung diseases or restrictive conditions. | Abnormal TLC values may suggest lung disorders or changes in lung capacity. |
+
+### 14. What is Tidal volume? Find out the Tidal volume (approximate value) for a healthy human in an hour. 
+
+Tidal volume is the volume of air inspired or expired during a normal respiration. For a healthy man, it is 6000 to 8000 mL per minute. So taking that calculation, it will be 360000 to 480000 mL in an hour. 
