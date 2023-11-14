@@ -232,7 +232,8 @@ Examples include silicosis from dusty environment, asbestosis by inhaling asbest
 
 ### 1. Define vital capacity. What is its significance? 
 
-Vital capacity is the maximum volume of air that a person can breathe in after a forced expiration. This includes Expiratory reserve volume, Tidal volume and Inspiratory volume. 
+Vital capacity is the maximum volume of air that a person can breathe in after a forced expiration. This includes Expiratory reserve volume, Tidal volume and Inspiratory volume.  
+It is crucial in diagnosing and monitoring respiratory health. It reflects fitness, aids and surgery assessments and is key in pulmonary tests and health screening, impacting daily activities and quality of life. 
 
 ### 2. State the volume of air remaining in the lungs after a normal breathing. 
 
@@ -256,26 +257,26 @@ Inspiration is initiated by the contraction of diaphragm which increases the vol
 
 ### 7. How is respiration regulated? 
 
-Respiration is regulated by the Respiratory Rhythm Center which is present in the medulla region. A region called Pneumotaxic Center is located in the pons region that moderates the functions of the Respiratory Rhythm Center. Another center is located adjacent to the Respiratory Rhythm Center that is highly sensitive to $CO_2$ and hydrogen ions that makes necessary adjustments in the respiratory to eliminate these substances. 
+Respiration is regulated by the Respiratory Rhythm Center which is present in the medulla region. A region called Pneumotaxic Center is located in the pons region that moderates the functions of the Respiratory Rhythm Center. Another center is located adjacent to the Respiratory Rhythm Center that is highly chemosensitive to $CO_2$ and hydrogen ions which makes necessary adjustments in the respiration to eliminate these substances. 
 
 ### 8. What is the effect of pCO2 on oxygen transport? 
 
-In tissues, high pCO2 and low pO2 promote oxygen release from oxyhemoglobin. Decreased blood pCO2 enhances hemoglobin's oxygen affinity, facilitating oxygen transport as oxyhemoglobin that dissociates at the tissues.
+In tissues, high pCO2 and low pO2 promote oxygen release from oxyhemoglobin. Decreased blood pCO2 enhances hemoglobin's oxygen affinity, facilitating $O_2$ transport as oxyhemoglobin that dissociates at the tissues.
 
 ### 9. What happens to the respiratory process in a man going up a hill? 
 
-Ascending a hill prompts the respiratory system to adapt, increasing both breathing rate and tidal volume for more efficient gas exchange in the lungs. Simultaneously, stimulated respiratory centers in the brain enhance the drive to breathe, ensuring an ample oxygen supply. These adjustments optimize oxygen diffusion to muscles, meeting the heightened energy demands of uphill activity.
+Ascending a hill prompts the respiratory system to adapt, increasing both breathing rate and tidal volume for more efficient gas exchange in the lungs. Simultaneously, stimulated respiratory centers in the brain enhance the drive to breathe, ensuring an ample oxygen supply. These adjustments optimize $O_2$ diffusion to muscles, meeting the heightened energy demands of uphill activity.
 
 ### 10. What is the site of gaseous exchange in an insect? 
 
-In insects, the site of gaseous exchange is the tracheal system. Since insects do not have lungs they utilize a network of tiny tubes called tracheae that deliver oxygen directly to cells and remove carbon dioxide. 
+In insects, the site of gaseous exchange is the tracheal system. Since insects don't have lungs, they utilize a network of tiny tubes called tracheae that deliver oxygen directly to cells and remove carbon dioxide. 
 
 ### 11. Define oxygen dissociation curve. Can you suggest any reason for its sigmoidal pattern? 
 
 The sigmoidal oxygen dissociation curve depicts the cooperative binding and release of oxygen by hemoglobin. The steep initial increase reflects efficient loading in the lungs, while the plateau near 100% saturation indicates nearly full occupancy of binding sites. This dynamic pattern optimizes oxygen transport to tissues in response to changing oxygen levels.
 
-### 12. Have you heard about hypoxia? Try to gather information about it, and discuss with your friends. 
-Hypoxia is a condition where tissues receive too little oxygen, impairing cellular function. It can stem from low environmental oxygen, reduced blood oxygen capacity, impaired delivery, or cellular dysfunction. Causes include high-altitude exposure, lung or cardiovascular issues, or carbon monoxide poisoning.
+### 12. What is Hypoxia? 
+Hypoxia is a condition where tissues receive too little oxygen, impairing cellular function. It can stem from low environmental oxygen, reduced blood oxygen capacity, impaired delivery or cellular dysfunction. Causes include high-altitude exposure, lung or cardiovascular issues or carbon monoxide poisoning.
 
 ### 13. Distinguish between 1. IRV and ERV 2. Inspiratory capacity and expiratory capacity 3. Vital capacity and total lung capacity. 
 
@@ -284,7 +285,7 @@ Hypoxia is a condition where tissues receive too little oxygen, impairing cellul
 | Characteristic               | Inspiratory Reserve Volume (IRV)                       | Expiratory Reserve Volume (ERV)                          |
 | ---------------------------- | ------------------------------------------------------ | -------------------------------------------------------- |
 | **Definition**                | The additional air that can be inhaled after a normal inhalation. | The additional air that can be exhaled after a normal exhalation. |
-| **Volume Range**              | Typically around 3000-3300 mL in adults.                | Approximately 1000-1200 mL in adults.                      |
+| **Volume Range**              | Typically around 2500-3000 mL in adults.                | Approximately 1000-1100 mL in adults.                      |
 | **Function**                  | Allows for deep inhalation, increasing tidal volume.    | Facilitates forceful exhalation, aiding in emptying the lungs. |
 | **Measurement**               | Measured during a maximal inhalation after a normal breath. | Measured during a maximal exhalation after a normal breath. |
 | **Clinical Significance**     | Reduced IRV may limit the ability to take deep breaths. | Reduced ERV may impact the ability for forceful exhalation. |
@@ -300,7 +301,7 @@ Hypoxia is a condition where tissues receive too little oxygen, impairing cellul
 | **Measurement**            | Measured during a maximal inhalation after a normal breath. | Measured during a maximal exhalation after a normal breath. |
 | **Clinical Significance**  | Reduced IC may limit the ability to take deep breaths.     | Reduced EC may impact the ability for forceful exhalation.  |
 
-#### Vital Capacity and Total Lung capacity 
+#### Vital Capacity and Total Lung Capacity 
 
 | Characteristic          | Vital Capacity (VC)                                       | Total Lung Capacity (TLC)                                 |
 | ----------------------- | -------------------------------------------------------- | -------------------------------------------------------- |
