@@ -221,3 +221,17 @@ Available on rent a 2 bedroom floor, second storey, fully tiled, well ventilated
 |<center> FOR SALE|
 |-| 
 |Available for sale household items such as utensils, mops, plumbing equipment, first aid kits, etc. Open for limited time only. 15% discount. Contact: 94563-15892, Sector 6, Noida|
+
+# 18/11/23 
+
+### You are Raman Malhotra. You have been transferred Vijayawada, Andhra Pradesh and want to sell certain household goods. Draft a suitable advertisement in not more than 50 words for the sale and purchase for a local daily. 
+
+|<center> FOR SALE | 
+|:-:|
+|Available for sale utensils, cleaning material, shovels, safety kits, etc. ranging from Rs. 300 to Rs. 800 per item. Discount of up to 20% for bulk buyers. Opening only for 10 days from publication. Contact: Raman Malhotra, Andhra Pradesh, 98342-23489 |
+
+### A retired army offices is looking for a suitable match for his smart, convent, educated daughter. Draft a matrimonial advertisement for publication in a newspaper. 
+
+| <center> FOR SALE> 
+|:-:| 
+| Proposal invited for a smart, convent, educated daughter seeking for proposal with a well-to-do business-owning spouce. Must be handsome, polite and smart within the age of 25-30 years. Contact: Mr. Arabindra Ghosh, 29th, Lakshmi Nagar, Madhya Pradesh, 73295-32650. | 

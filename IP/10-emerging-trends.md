@@ -141,6 +141,36 @@ When data analytics is used for Big data, it is called big data analytics.
 
 Data Analytics Applications provide a means of analysing these datasets and drawing conclusions to help organizations make informed business decisions, such as targeted marketting, better cusomer services and identifying business opportunities.  
 
+# Internet of Things (IOT)
+
+Internet of things is a new technology that allows computing devices to transfer data over a network like internet without requiring human-to-human or human-to-computer interaction. 
+
+Practical uses of this can be found in many fields such as: 
+
+1. **Health and fitness**: gadgets like Fitbit, jawbone, etc. can monitor heart rate, blood pressure, etc. and take action accordingly such as sending emergency messages or updating dayly fitness log or contacting appointed doctor, etc.
+
+2. **Home security**: There are many home security devices that can perform video surveillance, motion sensor, temperature and air quality control, etc. to help protect and maintain the property. 
+
+3. **Transport**: There are cars that can drive without the help of a driver and these are connected to servers all the time. 
+
+4. **Shopping**: There are smart fridges that can order groceries automatically when their quantity in the fridge goes below a set level. 
+
+5. **Smart Cities**: In smart cities, many devices are connected with each other, such as, surveillance, automated transportation, energy management system, water distribution, urban security, environmental monitoring, etc. 
+
+## Web of Things (WOT) 
+
+The web of things is a framework where everyday smart devices and objects are connected using the web using existing WOT technologies and standards. Examples include: wireless sensor network, ambient devices, smartphones, smart household appliances like smart TVs, smart refrigerators, smart watches, etc.
+
+The main feature of WOT is that it uses existing web standards to connect smart devices with the web that allows them to communicate. WOT uses the common standards and blueprints such as URL and HTTPS fo the web to access the functionality of the smart objects and expand their network. Unlike IOT, which requires special sensors or other technology to interconnect. 
+
+## Sensors
+
+Sensors are the devices which measure some physical energy and convert it into signals. Sensors which are used for measuring the physical properties or changes in them, such as temperature, resistance, capacitance, condution, heat transfer, etc.
+
+Some sensors that are commonly used are temperature sensor, proximity sensor, pressure sensor, light sensor, ultrasonic sensor, touch sensor, smoke, gas and alcohol sensor, color sensor, humidity sensor, gyroscope sensor, etc. 
+
+Sensors play a very important role in IOT. These sensors of IOT are mainly smart sensors which convers real world quantity into a digital signal and are able to transmit it over a network. These sensors also have intelligent capability such as wireless communcation and being an on-board microcontroller. They are used for analog to digital conversion, digital processing, decision making and two-way communications.
+
 # 01/11/2023
 
 ### 1. What is Artificial Intelligence? How has it impacted our lives? 
