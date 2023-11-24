@@ -235,3 +235,31 @@ Available on rent a 2 bedroom floor, second storey, fully tiled, well ventilated
 | <center> FOR SALE> 
 |:-:| 
 | Proposal invited for a smart, convent, educated daughter seeking for proposal with a well-to-do business-owning spouce. Must be handsome, polite and smart within the age of 25-30 years. Contact: Mr. Arabindra Ghosh, 29th, Lakshmi Nagar, Madhya Pradesh, 73295-32650. | 
+
+# 22/11/23 
+
+# Educational Advertisement 
+
+## Rules 
+
+1. Mention the name of the institution.
+2. Mention the courses offered, duration.
+3. Specify the eligibility criteria. 
+4. List th facilities available and fees structure. 
+5. Quote the last date for registrations/applications. 
+6. End with cantact address and phone number. 
+
+### You are the director of a coatching institute. Draft an advertisement in a newspaper, for admission to the various courses veing provided in your institute. 
+
+| <center> EDUCATIONAL | 
+|:-:| 
+| Apex Management Institute | 
+| <center> Apex Management Institute offers one year diploma courses in computer programming and business management. Eligibility- senior secondary. Batch of 20, excellent facalty, Fee- Rs. 25,000 quaterly. Last date for submitting applications- 5th December. Contact: Director AMI, phone- 90832-23489. | 
+|-|
+
+### You are the secretary of The Indian Institute of Foreign Languages, Hyderabad. Draft a suitable advertisement to be published in a newspaper announcing the commencement of new courses. 
+
+| <center> EDUCATIONAL |
+|:-:| 
+| The Indian Institute of Foreign Languages, Hyderabad announces the commencement in its new courses in French, German, Chinese and Dutch. Duration- 6 months. Eligibility- Graduates. Excellent facalty. Incentives for early birds. Send in your applications by the second of December, 2023. Contact: Secretary, IIFL, Phone: 28393-98273. 
+|-|
