@@ -255,11 +255,12 @@ Available on rent a 2 bedroom floor, second storey, fully tiled, well ventilated
 |:-:| 
 | Apex Management Institute | 
 | <center> Apex Management Institute offers one year diploma courses in computer programming and business management. Eligibility- senior secondary. Batch of 20, excellent facalty, Fee- Rs. 25,000 quaterly. Last date for submitting applications- 5th December. Contact: Director AMI, phone- 90832-23489. | 
-|-|
+| |
 
 ### You are the secretary of The Indian Institute of Foreign Languages, Hyderabad. Draft a suitable advertisement to be published in a newspaper announcing the commencement of new courses. 
 
 | <center> EDUCATIONAL |
 |:-:| 
-| The Indian Institute of Foreign Languages, Hyderabad announces the commencement in its new courses in French, German, Chinese and Dutch. Duration- 6 months. Eligibility- Graduates. Excellent facalty. Incentives for early birds. Send in your applications by the second of December, 2023. Contact: Secretary, IIFL, Phone: 28393-98273. 
-||
+| The Indian Institute of Foreign Languages |
+|<center> The Indian Institute of Foreign Languages, Hyderabad announces the commencement in its new courses in French, German, Chinese and Dutch. Duration- 6 months. Eligibility- Graduates. Excellent facalty. Incentives for early birds. Send in your applications by the second of December, 2023. Contact: Secretary, IIFL, Phone: 28393-98273. |
+| | 
