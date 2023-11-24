@@ -262,4 +262,4 @@ Available on rent a 2 bedroom floor, second storey, fully tiled, well ventilated
 | <center> EDUCATIONAL |
 |:-:| 
 | The Indian Institute of Foreign Languages, Hyderabad announces the commencement in its new courses in French, German, Chinese and Dutch. Duration- 6 months. Eligibility- Graduates. Excellent facalty. Incentives for early birds. Send in your applications by the second of December, 2023. Contact: Secretary, IIFL, Phone: 28393-98273. 
-|-|
+||
