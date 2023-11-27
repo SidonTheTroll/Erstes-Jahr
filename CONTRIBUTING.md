@@ -11,9 +11,9 @@ Before you begin, ensure you have met the following requirements:
 - [ ] You don't put unverified data. 
 
 Have the following extensions in VSCode or Codium for best experience: 
-- [ ] [All Autocomplete]
-- [ ] Markdown All in One
-- [ ] Markdown Snippets
+- [ ] [All Autocomplete](https://github.com/atishay/vscode-allautocomplete)
+- [ ] [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown)
+- [ ] [Markdown Snippets](https://github.com/Amereyeu/Markdown-snippets)
 
 ## Code of Conduct
 
