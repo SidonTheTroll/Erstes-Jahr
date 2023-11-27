@@ -90,10 +90,12 @@ $$
 
 **Considering these equation as eq. 1**
 
-Now, the total force acting on body $m_1$ will be 
+Now, the total force acting on body $m_1$ will be,
 
 $\overrightarrow{F}_1 = \overrightarrow{F}_1^{ext} + \overrightarrow{F}_{12} = m_1\overrightarrow{a}_1$  
+
 Similarly,  
+
 $\overrightarrow{F}_2 = \overrightarrow{F}_2^{ext} + F_{21} = m_2\overrightarrow{a}_2$
 
 And these as equation 2.
