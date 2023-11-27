@@ -121,6 +121,7 @@ $\overrightarrow{a}_{CM} = \frac{F}{M}$
 
 From equation 3, $\overrightarrow{a}_{CM} = \frac{m_1\overrightarrow{a}_1 + m_2\overrightarrow{a}_2}{M}$  
 or,  
+
 $$
 \frac{d^2R_{CM}}{dt^2} = \frac{(m_1 \frac{d^2\overrightarrow{r}_1}{dt^2} + \frac{m_2d^2\overrightarrow{r}_2}{dt^2})}{M} [\text{From equation 1}] 
 $$
