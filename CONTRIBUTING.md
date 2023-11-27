@@ -10,6 +10,11 @@ Before you begin, ensure you have met the following requirements:
 - [ ] You know [Markdown](https://github.com/SidonTheTroll/markdown-cheatsheet) well.
 - [ ] You don't put unverified data. 
 
+Have the following extensions in VSCode or Codium for best experience: 
+- [ ] [All Autocomplete]
+- [ ] Markdown All in One
+- [ ] Markdown Snippets
+
 ## Code of Conduct
 
 Please note that **Hashbrowns** has a [Code of Conduct](./CODE_OF_CONDUCT.md). I expect all contributors to adhere to this code of conduct to create a welcoming and inclusive environment.
