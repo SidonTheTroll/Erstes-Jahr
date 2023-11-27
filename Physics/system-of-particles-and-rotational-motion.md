@@ -37,8 +37,8 @@ $$
 
 1. If $m_1 = m_2$, 
    - $R_{CM} = \frac{\overrightarrow{r_1} + \overrightarrow{r_2}}{2}$
-2. If $(x_1, y_1)$ and $(x_2, y_2)$ are coordinates of two points,  
    - $x_{CM} = \frac{m_1x_1 + m_2x_2}{m_1 + m_2}$ 
+2. If $(x_1, y_1)$ and $(x_2, y_2)$ are coordinates of two points,  
    - $y_{CM} = \frac{m_1y_1 + m_2y_2}{m_1 + m_2}$
    - $z_{cm} = \frac{m_1z_1 + m_2z_2}{m_1 + m_2}$
 
@@ -92,15 +92,11 @@ $$
 
 Now, the total force acting on body $m_1$ will be 
 
-<div align=center>
-
 $\overrightarrow{F}_1 = \overrightarrow{F}_1^{ext} + \overrightarrow{F}_{12} = m_1\overrightarrow{a}_1$  
 Similarly,  
 $\overrightarrow{F}_2 = \overrightarrow{F}_2^{ext} + F_{21} = m_2\overrightarrow{a}_2$
 
 And these as equation 2.
-
-</div>
 
 But according to Newton's second law of motion,  
 $\overrightarrow{F}_1 = m_1\overrightarrow{a}_1$
@@ -128,10 +124,13 @@ or,
 $$
 \frac{d^2R_{CM}}{dt^2} = \frac{(m_1 \frac{d^2\overrightarrow{r}_1}{dt^2} + \frac{m_2d^2\overrightarrow{r}_2}{dt^2})}{M} [\text{From equation 1}] 
 $$
+
 $$
 \implies \frac{1}{M}\frac{d^2}{dt^2} (m_1\overrightarrow{r}_1 + m_2\overrightarrow{r}_2)
 $$
-$d^2R_{CM} = \frac{d^2}{dt^2}(\frac{m_1\overrightarrow{r}_1 + m_2 \overrightarrow{r}_2}{M}$)  
+
+$d^2R_{CM} = \frac{d^2}{dt^2}(\frac{m_1\overrightarrow{r}_1 + m_2 \overrightarrow{r}_2}{M})$  
+
 $\overrightarrow{R}_{CM} = \frac{m_1\overrightarrow{r}_1 + m_2\overrightarrow{r}_2}{M}$
 
 ### NOTE
