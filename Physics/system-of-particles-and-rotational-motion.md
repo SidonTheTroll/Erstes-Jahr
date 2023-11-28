@@ -610,3 +610,50 @@ The distance of gyration can also be defined as the root mean square distance of
 
 $\frac{2}{3} \times \text{height of equilateral}\ \Delta$  
 $\implies \frac{2}{3}\times\frac{\sqrt{3}}{2}a$ [a = side of triangle]
+
+# Moment of Inertia of Different Shaped Objects
+
+<div align=center>
+
+<img src=./src/system-of-partlcles-and-rotational-motion/diff-shaped-objects1.png width=400> <img src=./src/system-of-partlcles-and-rotational-motion/diff-shaped-objects2.png width=400> 
+
+</div>
+
+# Relationship between Torque and Momentum of Inertia 
+
+$\tau = Fr$, $\tau = mr^2\alpha$  
+$F = ma$, $F = mr\alpha$  
+$a = r\alpha$
+
+If the body is made up of n particles of mass $m_1$, $m_2$... 
+
+$\tau = \overset{n}{\underset{i=1}{\Sigma}} m_ir_i^2 \alpha$  
+$\implies \alpha(\overset{n}{\underset{i=1}{\Sigma}} m_ir_i^2)$
+
+$\tau = \Iota\alpha$
+
+# Relationship between Moment of Inertia and Angular Momentum 
+
+$L = pr$  
+$p = mv = mr\omega$  
+$L = mr^2\omega$
+
+If there are n particles, 
+
+$L = \omega (\overset{n}{\underset{i=1}{\Sigma}} m_ir_i^2)$  
+$L = \Iota\omega$
+
+# Conservation of Angular Momentum 
+
+If angular momentum is conserved, 
+
+$\tau = \frac{dL}{dt} = 0$  
+$\implies \int dL = \int 0 dt$  
+$\implies L = const$  
+$\Iota\omega = const$  
+$\Iota_1\omega_1 = \Iota_2\omega_2$
+
+# Applications of Angular Momentum 
+
+1. **Planetary Motion**: Angular velocity increases when planet comes close to the sun in elliptical orbit. 
+2. Ice skater increases angular velocity by holding their arms. 
