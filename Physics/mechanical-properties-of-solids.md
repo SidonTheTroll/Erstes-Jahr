@@ -1,3 +1,5 @@
+# Thermal Properties of Solids
+
 # Elasitc and Plastic Behavior of Solid 
 
 **Elasitc**: The material returns to its original shape and size when external forces aer removed due to molecular distortions.  
