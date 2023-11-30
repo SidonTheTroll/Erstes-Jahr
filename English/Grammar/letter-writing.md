@@ -77,30 +77,30 @@ Krishna
 
 # 30/11/2023
 
-### You are Ravi/Riya of 31, Park Street, Kolkata. Since a few weeks you have noticed that cases of theft, robbery and eve-teasing are reported in your locality even in broad daylight. Numerous complains had been made to the police but in vain. Write a letter to the editor in about 100-120 words highlighting the issue. 
+### You are Ravi/Riya of 31, Park Street, Kolkata. Since a few weeks you have noticed that cases of theft, robbery and eve-teasing are reported in your locality even in broad daylight. Numerous complaints had been made to the police but in vain. Write a letter to the editor in about 100-120 words highlighting the issue. 
 
 ```
-31 Park Street
+31
+Park Street
 Kolkata
+
 30th November, 2023
 
 The Editor
 The Hindustan Times
 Kolkata
 
-Subject: Urgent Action Needed to Address Rising Incidents of Theft, Robbery, and Eve-Teasing in Our Locality
+Subject: Concern regarding theft, robbery and eve-teasing in our locality.
 
-Dear Editor,
-
-I trust this letter finds you well. Through the esteemed columns of The Hindustan Times, I wish to draw attention to a pressing issue that has been plaguing our locality.
+Sir,
+Through the columns of your esteemed daily, I would like to highlight the issue of theft, robbery and eve-teasing in our locality.
 
 In recent weeks, the residents of our community have been deeply troubled by a surge in incidents involving theft, robbery, and eve-teasing. The situation has escalated to a point where individuals have received death threats, both in broad daylight and within the confines of their homes. Such reprehensible activities are a stain on our society and require immediate attention.
 
-I kindly request your intervention in investigating these matters and bringing them to the forefront through your influential platform. Your support in addressing these security concerns will undoubtedly contribute to the well-being and safety of our community.
+Therefore, I kindly request your intervention in investigating these matters and bringing them to the forefront through your influential platform. Your support in addressing these security concerns will undoubtedly contribute to the well-being and safety of our community.
 
-Thank you for your attention to this matter. I look forward to seeing our concerns addressed promptly.
+Thanking you
 
 Yours sincerely,
-
 Ravi
 ```
