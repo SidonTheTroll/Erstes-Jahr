@@ -143,7 +143,7 @@ $\implies \Delta A=\gamma V\Delta T$
 
 ## Between $\alpha$ and $\beta$
 
-Let $dA$ be the change in are ao a 2D square metal sheet when temperature is changed by $dT$. Under this condition, 
+Let $dA$ be the change in area of a 2D square metal sheet when temperature is changed by $dT$. Under this condition, 
 
 $dA = \beta AdT$ ------$\frak{1}$
 
@@ -195,3 +195,70 @@ $\implies \alpha=\frac{\gamma}{3}$
 
 $\therefore \alpha =\frac{\beta}{2}=\frac{\gamma}{3}$
 
+# Anamolus Expansion of Water 
+
+Almost all substance expants on heating but water behaves in a peculiar way. When at $0\degree C$ and water is heated, its volume decreases till the temperature of water reaches $4\degree C$. On further increases in temperature, the bolume again increases as shown. 
+
+<img width=400 src="src/thermal-properties-of-solids/water-expansion-graph.png">
+
+# Effect of Temperature on Density of Liquid 
+
+We know, 
+
+$\text{Density}=\frac{mass}{volume}$-------$\frak{1}$
+
+If we increase the temperature by $dT$ amoutn, the volume decreases by $dv$. 
+
+$\therefore \rho'=\frac{M}{vdv}$------$\frak{2}$
+
+Dividing eq. $\frak{2}$ by $\frak{1}$
+
+$\frac{\rho'}{\rho}=\frac{v}{v+dv}=\frac{v}{v+\gamma vdT}$  
+$\implies \frac{\rho'}{\rho}\frac{1}{1+\gamma dT}$  
+$\implies \frac{\rho'}{\rho}=(1+\gamma dT)^{-1}$
+
+Expanding binomially,
+
+$\frac{\rho'}{\rho}=(1-\gamma dT)$  
+$\implies \rho'=\rho(1-\gamma dT)$
+
+This equation shows if temperature increases, density decreases and vice versa. 
+
+# Coefficient of Volume Expansion of Ideal Gas with Temperature 
+
+We know Ideal Gas equation is $PV = nRT$-----$\frak{1}$
+
+The coefficient of volume expansion of liquid and solid are relatively independent of temperature andbu tfor ideal gas it is dependetn on temperature. 
+
+Now differentiating eq. $\frak{1}$
+
+$d(PV)=d(nRT)$  
+$Pdv=nrd(T)$ [Pressure, n and R are constant]
+
+Dividing eq. $\frak{1}$ and $\frak{2}$
+
+$\frac{v}{dv}=\frac{T}{dT}$  
+$\implies \frac{vdT}{dv}=T$  
+$\frac{vdT}{\gamma vdT}=T$  
+$\frac{1}{\gamma}=T$  
+$\gamma = \frac{1}{T}$
+
+# Specific Heat Capacity (c)
+
+
+$Q \propto \Delta T$  
+$q \propto m$  
+$Q\propto m\Delta T$  
+$\implies Q=cm\Delta T$
+
+- Here,
+  - $Q$: amount of heat supplied
+  - $m$: mass of substance 
+  - $\Delta T$: change in temperature
+  - $c$: specific heat capacity of a substance 
+
+> Specific heat capacity depends on the nature of the substance 
+
+$\therefore c=\frac{Q}{m\Delta T}$
+
+Specific heat is defined as thee quantity of heat required to raise the temperature of unti mass of substance by $1\degree C$ or $1\degree K$
