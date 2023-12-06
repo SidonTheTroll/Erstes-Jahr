@@ -502,7 +502,8 @@ $\Delta G = \Delta H - T\Delta S$
 
 - High temperature will favor the endothermic process. 
 
-$\Delta G = \underset{-ve}{\Delta H} - \underset{+ve}{T\Detla S}$  
+
+$\Delta G = \underset{-ve}{\Delta H} - \underset{+ve}{T\Delta S}$  
 $\Therefore$ Temperature variable should be high to speed up the process. 
 
 Whereas for exothermic reaction,  
@@ -566,10 +567,12 @@ $\Delta G  = \Delta G\degree + RT ln K_P$
 
 $\Delta G =0$  
 $0=\Delta G\degree+RT ln K_P$  
-$\Detla G =-RT ln K_P$
+
+$\Delta G =-RT ln K_P$
 
 ## According to Gibb-Helmholtz's Equation
 
-$\Delta G\degree=\Delta H\degree -T\Detla S\degree$  
+
+$\Delta G\degree=\Delta H\degree -T\Delta S\degree$  
 $-RT ln K_P = \Delta H\degree -T\Delta S$  
 $ln K_P = \frac{T\Delta S - \Delta H}{RT}$
