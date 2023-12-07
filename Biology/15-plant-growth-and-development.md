@@ -1,3 +1,5 @@
+# Plant Growth and Development 
+
 # 10/11/2023
 
 Growth not only increase the number of cells increase but also change in shape, size and differentiation. 
@@ -37,4 +39,58 @@ Height increases in plant but it becomes slow. This is not present in human bein
 
 For relative growth, take the example for two leaves, one is 5 $cm^2$ and another is 50 $cm^2$. Each grows by 5 $cm^2$ and one will grow 50% of its size and the other will grow by 5.5%. Therefore, the smaller leaf will grow much more. 
 
-Note that plants never grow exponentially. 
+Note that plants never grow exponentially.  
+
+# 07/12/2023
+
+## Plant Growth Regulators 
+
+These are also called phytohormones and these are non-nutritive chemicals produced by the organism. 
+
+## Plant Hormones 
+
+These are **chemical messengers** that carry instructions for the body parts. Generally secreted by endocrine gland (ductless and present in animals) 
+
+> Whereas exocrine glands have ducts 
+
+Hormones are made up of protein and/or steroids.  
+They are produced in minute quantities to avoid bodily disruptions.   
+These are also target specific. 
+
+- Plants don't have nervous system and everything is controlled by hormones. 
+
+Out of 5 phytohormones, 3 are growth-promoting and 2 are growth-retarding. 
+
+### Auxin 
+
+Auxin is very important growth hormone. 
+
+It is the most significant in the apical meristem. 
+
+Apical Dominance: ? 
+
+2-4-D hormone is used as weedicide. 
+
+Weed is a plant that is agriculturally unwanted and competes for space, nutrients and sunlight. 
+
+**Induced parthenocarpic fruit**: fruit developed without fertilization. Eg: banana 
+
+### Gibbrellins 
+
+These are also growth promoting hormones 
+
+More than 100 are known and reported from fungi and higher plants. 
+
+These are denoted as $G_1$, $G_2$, $G_3$, etc. 
+
+$G_3$ is known as gibberellic acid and was the first to be intensively studied. 
+
+These are acidic. 
+
+- Functions: 
+    - These are responsible for physiological responses. 
+    - Increases internodal length.
+    - Inhibits senescense before maturity in leaves, fruits, etc.
+    - Improves shape of fruits.
+    - Helps to induce flowering. 
+    
