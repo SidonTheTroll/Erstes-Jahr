@@ -63,13 +63,19 @@ Out of 5 phytohormones, 3 are growth-promoting and 2 are growth-retarding.
 
 ### Auxin 
 
-Auxin is very important growth hormone. 
+This is derived from Greek word 'auxein' which means to grow. And it was first isolated from human urine. 
 
-It is the most significant in the apical meristem. 
+This word is associted with chemicals like indole-3-acetic acid and other natural and synthetic compounds having growth stimulating and regulating properties. 
 
-Apical Dominance: ? 
+Theses are synthesized in growing apices and roots from which they migrate to the regions of their actions. 
 
-2-4-D hormone is used as weedicide. 
+Synthetic Auzins include NAA (napthlalene acetic acid) and 2,4-D (2,4-dichlorophenoxyacetic acid) which are used in agriculture and horticulture practices. 
+
+
+
+Apical Dominance: central stem of the plant is dominant over other side stems/branches. 
+
+2, 4-D hormone is used as weedicide. 
 
 Weed is a plant that is agriculturally unwanted and competes for space, nutrients and sunlight. 
 
@@ -93,4 +99,40 @@ These are acidic.
     - Inhibits senescense before maturity in leaves, fruits, etc.
     - Improves shape of fruits.
     - Helps to induce flowering. 
-    
+
+- For its properties, its also used in horticulture proceses.
+
+### Cytokinin 
+
+Mainly works wish auxin. 
+
+Since the discovery of zeatin, several maturally occuring cytokinin have been identified and some synthesized which promote cell division. 
+
+Natural cytokinin are synthesized in regions with rapid cell division. Eg.- root apices, developing shoot buds, young fruits, etc. 
+
+Cytokinin help to produce leaves, chloroplasts in leaves, lateral shoot growth and adventitious shoot formation. It also helps to overcome apical dominance.  
+This also promotes nutrient mobilization which delays leaf senescense. 
+
+### Abscisic Acid 
+
+> Also known as Stress hormone 
+
+<img align=right src=./diagrams/ch15/leaf.png width=400>
+
+- Functions
+    - Regulates abscission and dormance. 
+    - Acts as growth and metabolism inhibitor.
+    - Stimulates the closure of stomata and increases tolerance to various stresses. 
+    - Playes improtant role in seed development, maturation and dormancy.
+
+In most of the cases, it acts as antagonist hormone because it opposes growth. 
+
+This also helps the seed to not germinate under unfavourable conditions. 
+
+Due to abscission in fruit's stem, its weight causes it to fall off. 
+
+The abscission zone in leaf causes the xylem and phloem to cut off and its causes it to dehydrate and fall off. 
+
+Abscisic acid also closes the stomata in hight temperature to prevent water loss. 
+
+This helps seeds to sprout in proper time.
