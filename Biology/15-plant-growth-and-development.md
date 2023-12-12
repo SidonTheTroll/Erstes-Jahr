@@ -136,3 +136,31 @@ The abscission zone in leaf causes the xylem and phloem to cut off and its cause
 Abscisic acid also closes the stomata in hight temperature to prevent water loss. 
 
 This helps seeds to sprout in proper time.
+
+### Ethylene 
+
+- It is a gaseous PGR 
+- It is synthesized in large amounts by tissues undergoing senescense and ripening fruits. 
+- Influences
+    - Horizontal growth of seedling 
+    - Swelling of axis 
+    - Apical hook formation (in dicot seedling)
+- Functions 
+    - Promotes senescense and abscission of plant organs especially leaves and flowers. 
+    - Ripens fruits. 
+    - Enhances respiration rate during ripening of fruit. This is called respiratory climactic. 
+    - Breaks seed and bud dormancy.
+    - Initiates germination (peanut seeds, sprouts potato tubers)
+    - Helps leaves/upper parts of shoot remain above water. 
+    - Promotes root and root hair formation; increasing absorption surface. 
+    - Initiates flowering and synchronizes fruit-set in pineapples. 
+    - Induces flowering in mango. 
+
+It is one of the most widely used PGR in agriculture. 
+
+One of the most widely used source of ethylene is ethephon.  
+It is an aqueous solution and readily absorbed and transported within plant and releases ethylene slowly. 
+
+Ethephon hastens fruit ripening in tomatoes and apples and accelerates abscission in flowers and fruits (thinning of cotton, cherry, walnut)
+
+Ethephon promotes female flowers in cucumbers, thereby increasing the yield. 
