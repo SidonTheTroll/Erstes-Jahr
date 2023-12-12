@@ -69,3 +69,10 @@ He waited for fellow pilgrims since he didn't want to traverse the route alone, 
 ### 18. What qualities of Norbu do you think made him an ideal companion to the author?
 
 Norbu, an educated Tibetan fluent in English, was enthusiastic about the Kailash Kora. Practical, he suggested hiring yaks for luggage, and his humor extended to laughing at his own shortcomings.
+
+# Long Answer Questions 
+
+### The author on his way to Mt. Kailash came across a lot of topography variations. Comment. 
+
+The author and his companions took a shortcut to get off the Changtang. Tsetan knew a route that would take them south-west, almost crossing several fairly high mountain passes. From the gently raising hills of Ravu, the shortcut took them across vast open plains with nothing except a few gazells that were grazing in the arid pastures. Further ahead, the plains became more stony than grassy.  
+The hills ahead became steeper where the solitary drokbas were tending their flocks. This led them to the snow capped mountains and then to the valley, where the river was wide and clogged with ice. At the height of 5515 meters, piles of stone marked the landscape. Next was the plateau, which was covered with salty desert area and salty lakes that were the remnants of the Tethys sea. Then, Hor was next in line. It was a grim and miserable place with no vegetation and years of accumulated trash scattered liberally. The next and the last stop was Darchen. The author noticed that the people were very relaxed and unhurry, but there was a significant drawback- there were no pilgrims in Darchen. 
