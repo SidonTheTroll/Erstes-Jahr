@@ -96,7 +96,7 @@ These are acidic.
 - Functions: 
     - These are responsible for physiological responses. 
     - Increases internodal length.
-    - Inhibits senescense before maturity in leaves, fruits, etc.
+    - Inhibits senescence before maturity in leaves, fruits, etc.
     - Improves shape of fruits.
     - Helps to induce flowering. 
 
@@ -111,13 +111,11 @@ Since the discovery of zeatin, several maturally occuring cytokinin have been id
 Natural cytokinin are synthesized in regions with rapid cell division. Eg.- root apices, developing shoot buds, young fruits, etc. 
 
 Cytokinin help to produce leaves, chloroplasts in leaves, lateral shoot growth and adventitious shoot formation. It also helps to overcome apical dominance.  
-This also promotes nutrient mobilization which delays leaf senescense. 
+This also promotes nutrient mobilization which delays leaf senescence. 
 
 ### Abscisic Acid 
 
 > Also known as Stress hormone 
-
-<img align=right src=./diagrams/ch15/leaf.png width=400>
 
 - Functions
     - Regulates abscission and dormance. 
@@ -140,13 +138,13 @@ This helps seeds to sprout in proper time.
 ### Ethylene 
 
 - It is a gaseous PGR 
-- It is synthesized in large amounts by tissues undergoing senescense and ripening fruits. 
+- It is synthesized in large amounts by tissues undergoing senescence and ripening fruits. 
 - Influences
     - Horizontal growth of seedling 
     - Swelling of axis 
     - Apical hook formation (in dicot seedling)
 - Functions 
-    - Promotes senescense and abscission of plant organs especially leaves and flowers. 
+    - Promotes senescence and abscission of plant organs especially leaves and flowers. 
     - Ripens fruits. 
     - Enhances respiration rate during ripening of fruit. This is called respiratory climactic. 
     - Breaks seed and bud dormancy.
@@ -156,6 +154,10 @@ This helps seeds to sprout in proper time.
     - Initiates flowering and synchronizes fruit-set in pineapples. 
     - Induces flowering in mango. 
 
+> **Fruit set**: formation of fruit. 
+
+- Along with root, the root hair are also important for absorption. 
+
 It is one of the most widely used PGR in agriculture. 
 
 One of the most widely used source of ethylene is ethephon.  
@@ -164,3 +166,74 @@ It is an aqueous solution and readily absorbed and transported within plant and 
 Ethephon hastens fruit ripening in tomatoes and apples and accelerates abscission in flowers and fruits (thinning of cotton, cherry, walnut)
 
 Ethephon promotes female flowers in cucumbers, thereby increasing the yield. 
+
+# Photoperiodism 
+
+- Types 
+    - Long day plant: needs long sunlight exposure to flower 
+    - Short day plant: needs low sunlight exposure but doesn't flower when the sunlight is too strong. 
+    - Day neutral plant: it doesn't matter if the sunlight is strong or weak. It just needs a bit of light to flower. 
+
+Formation of flower is dependent on sunlight exposure. 
+
+Darkness is important for short day plants. 
+
+# Vernalization
+
+It means to treat plants with low temperature which induces early flowering. 
+
+Note that this is not possible in all plants. 
+
+# QNA
+
+### Write all plant growth hormones and state their functions. 
+
+- **Auxin**
+    - Initiate rooting in stem cuttings 
+    - Promotes flowering 
+    - Prevent fruit and leaf drops in early stages
+    - Promote abscission in mature leaves and fruits
+    - Promotes apical dominance 
+    - Induces cell elongation 
+    - Induces phototropism and geotropism
+    - Vascular tissue differentiation 
+    - Inhibit leaf abscission 
+    - Induces formation of callus tissue at wound sites aiding in healing 
+- **Gibberellins** 
+    - Stem elongation 
+    - Promotes bolting (rapid vertical growth) and flowering 
+    - Breaks dormancy 
+    - Influences fruit development and induces seed formation 
+    - Delays senescence 
+    - Induces parthenocarpy 
+    - Regulates abscission 
+    - Tuber and rhizome formation 
+- **Cytokinins**
+    - Stimulate cell division and promote differentiation of cells 
+    - Inhibits apical dominance 
+    - Delays senescence 
+    - Influences root growth and development specially lateral roots
+    - In combination with auxins, induces formation of shoots from plant explants
+    - Delays leaf abscission 
+    - Promotes seed germination and early seedling growth 
+    - Contributes in development and maintenance of chloroplasts in plant cells
+    - Delays aging in cut flowers
+- **Ethylene** 
+    - Ripens fruits 
+    - Promotes senescence and abscission in leaves and flowers. 
+    - Breaks seed dormancy 
+    - Initiates germination 
+    - Promotes root and root hair formation 
+    - Induces flowering 
+    - Initiates flowering and synchronizes fruit-set. 
+    - Abiotic stress response 
+- **Abscisic acid**
+    - Stress response and adapts the plant to unfavourable conditions 
+    - Stomatal closure to prevent water loss through transpiration 
+    - Maintains seed dormancy and prevents premature germination. 
+    - Promotes leaf senescence 
+    - Inhibits shoot growth particularly during periods of water stress. 
+    - Gives tolerance to cold stress 
+    - Influences root growth and architecture 
+    - Induces closure of guard cells in response to various environmental factors. 
+    - Regulation of flowering time. 
