@@ -60,3 +60,15 @@ The renal tubule begins with a double walled cup-like structure called **Bowman'
 The **Malpighian corpuscle, PCT and DCT** of the nephron are situated in the **cortical region** of the kidney whereas the **loop of Henle dips into the medulla**. In **majority of the nephrons**, Henle's loop is **too short and exdends onto very little into the medulla**; such nephrons are called **cortical nephrons**. In a few nephrons, **Henle's loop is very long and runs deep into the medulla** and these are called **juxta medullary nephrons**.
 
 The efferent arteriole eemrging from the glomerulus froms a fine capillar network around the renal tubule called **peritubular capillaries**. A minute vessel runs into the network parallel to Henle's lood forming a 'U' shape called the **vasa rects** and it is present or highly reduced in **cortical nephrons**.
+
+Afferent arteriole is large and efferent arteriole is smaller and this creates a pressure along with coiling which helps to filter the nitrogenous waste. 
+
+While passing through the tube, water, nutrients, etc. are reabsorbed into the blood. 
+
+The blood capillary reabsorbs the nutrients and sent through renal vein. 
+
+## Urine Formation 
+
+Ureter deposits the urine to the urinary bladder. Urine is the totally unwanted product released after filteration. 
+
+Urination is also known as micturition
