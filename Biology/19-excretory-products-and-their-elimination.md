@@ -71,4 +71,46 @@ The blood capillary reabsorbs the nutrients and sent through renal vein.
 
 Ureter deposits the urine to the urinary bladder. Urine is the totally unwanted product released after filteration. 
 
-Urination is also known as micturition
+Urination is also known as micturition 
+
+Environmental factors also affect the rate of micturition. 
+
+When a body is lacking water, urine is concentrated. After some time, it becomes acidic and it burns the urethra.  
+Espesially in hot summer days, this phenomena is seen.
+
+In winters, concentration of urine may cause burning because due to decrease in pH level. 
+
+In one minute, 1/5 of total blood that is released by ventricles is filtered by the kidneys, i.e., 1.1 L to 1.2 L 
+
+In **Ultrafilteration**, 3 layers namely, endothelium, basement membrane and podocyte work together to filter the blood that is supplieid by the afferent arteriole. 
+
+### Podocytes 
+
+<img width=400 src=./diagrams/ch19/renal-corpuscle.svg> 
+
+These are present in the inner lining of glomerulus. 
+
+In the minute gaps of podocytes, the spaces are called filteration slits or slit pores. 
+
+### GFR 
+
+**This is the Glomerular Filteration Rate** 
+
+This is the filteration rate per minute by the glomerulus. 
+
+It is around 125 ml/minute 
+
+### JGA 
+
+**Juxta Glomerular Apparatus** 
+
+It is a special sensitive region in the cortex region formed by cellular modification in distal convoluted tubule and afferent arteriole. 
+
+This stimulates glomerular blood flow by releasing ***Renin hormone***   
+
+Sometimes after functioning, this apparatus becomes dialated in the capillaries, reducing blood flow and pressure; this reduces the filteration rate.  
+When **Renin** hormone reaches the region, it contracts the capillaries and makes them continue normal function. Sodium and potassium play an important role in this process. This works like a feedback mechanism. 
+
+180 L filterate is produced in a day.  
+But 1.5 L is released. And the rest is reabsorbed.  
+Therefore, 178.6 L of filterate is reabsorbed.

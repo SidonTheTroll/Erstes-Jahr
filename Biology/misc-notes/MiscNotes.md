@@ -89,3 +89,9 @@ MSG, Nicotine and food coloring should be avoided at all costs because they rele
 Second hand smoking is as harmful as first hand smoking because it passively affects the person even if they have never smoked. 
 
 Drugs can't be detected from blood most of the time. So that's why tests are usually done by urine because the kidneys filter the blood and there's a concentration of the drug in the blood that can be easily detected.
+
+# Body Heat 
+
+Every warm blooded organism released body heat to the surrounding via infrared radiation. 
+
+That's how IR cameras work.

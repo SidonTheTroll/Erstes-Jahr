@@ -62,3 +62,6 @@ Mid term:
     - [Physical Education and Sports for CWSN](./Physical Education/4-physical-education-and-sports-for-cwsn.txt)
     - [Psychology and sports](./Physical Education/9-physiology-and-sports.txt)
     - [Training and Doping in Sports](./Physical Education/10-training-and-doping-in-sports.txt)
+
+# Final Term 
+
