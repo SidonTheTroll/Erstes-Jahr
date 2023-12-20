@@ -138,6 +138,7 @@ This section helps to maintain $pH$ and ionic levels by selective secretion of $
     - Permeable to water 
     - Impermeable to electrolites
     - Upper two factors make the solution concentrated. 
+    - As the limb gets narrower, pressure is increased to release water into surrounding.
 - Ascending limb 
     - Reabsorption is minimal in this part 
     - This region maintains high osmolarity of medullary interstitial fluid. 
