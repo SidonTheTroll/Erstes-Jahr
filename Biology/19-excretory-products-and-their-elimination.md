@@ -114,3 +114,40 @@ When **Renin** hormone reaches the region, it contracts the capillaries and make
 180 L filterate is produced in a day.  
 But 1.5 L is released. And the rest is reabsorbed.  
 Therefore, 178.6 L of filterate is reabsorbed.
+
+---
+
+All waste gets into the glomerulus.  
+Along with the waste, some required materials enters the glomerulus which is reabsorbed.
+
+$\underset{\text{Digestive System}{\text{Absorbed}}\rightarrow\underset{\text{To kidneys}}{\text{Transferred}}\rightarrow\underset{\text{To the blood}}{\text{Reabsorbed}}$
+
+# Function of the Tubules 
+
+## Proximal Convoluted Tubule 
+
+- Present near the glomerulus. 
+- Lined by simple cuboidal brush border epithelium. 
+- Nearly 70-80% of electrolites and water are reabsorbed here. 
+
+This section helps to maintain $pH$ and ionic levels by selective secretion of $H^+$, ammonia and $K^+$. 
+
+## Henle's Loop 
+
+- Descending limb 
+    - Permeable to water 
+    - Impermeable to electrolites
+    - Upper two factors make the solution concentrated. 
+- Ascending limb 
+    - Reabsorption is minimal in this part 
+    - This region maintains high osmolarity of medullary interstitial fluid. 
+    - Impermeable to water 
+    - Permeable to electrolites and transports them actively and passively.
+
+Note that the last two factors are the reason why the solution gets diluted when transported to collecting duct. 
+
+The electrolites that are released by the ascending limb are released to the medullary fluid. 
+
+## Distal Convoluted Tubule 
+
+
