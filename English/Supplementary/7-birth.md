@@ -2,7 +2,7 @@
 
 ### 1. Who was Joe Morgan? Why had he been waiting for Dr. Andrew Manson? 
 
-Joe Morgan, a robust middle-aged driller in the mining town of Blaenelly, eagerly awaited the arrival of his first child with his wife Susan of nearly twenty years. He stood by, anticipating the doctor's assistance in the delivery.
+Joe Morgan, a robust middle-aged driller in the mining town of Blaenelly, eagerly awaited the arrival of his first child with his wife Susan after nearly twenty years of marriage. He stood by, anticipating the doctor's assistance in the delivery.
 
 ### 2. What was Andrew's view of marriage? Why was he resentful and confused? 
 
