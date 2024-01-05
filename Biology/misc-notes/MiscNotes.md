@@ -95,3 +95,11 @@ Drugs can't be detected from blood most of the time. So that's why tests are usu
 Every warm blooded organism released body heat to the surrounding via infrared radiation. 
 
 That's how IR cameras work.
+
+# Kidney Function 
+
+The fetus development requires calcium to make the bones and frequent pregnencies can reduce the bone density of the mother. 
+
+More hormones are produced during pregnancy and this is also found in the urine. Therefore, the urine is tested to detect pregnancy.
+
+Sufficient water can decrease cell aging and wrinkles. Also with reduced carbohydrates. 

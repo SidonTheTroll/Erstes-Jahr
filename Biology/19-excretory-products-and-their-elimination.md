@@ -152,3 +152,29 @@ The electrolites that are released by the ascending limb are released to the med
 ## Distal Convoluted Tubule 
 
 
+# Regulation of Kidney Function 
+
+Kidney finction is monitored and regulated by hormonal feedback mechanism involving **hypothalamus, JGA and Heart** 
+
+- Osmoreceptors are activated by changes in blood volume, body fluid volume and ionic concentration. 
+- Excessive fluid loss activates hypothalamus to release **antidiuteric hormone (ADH)** or vesopressin from neurohypophysis. 
+
+### Antidiuteric Hormone (ADH)
+
+Regulates water absorption from latter parts of tubule, preventing **diuresis**. 
+
+> **Diuresis is the excessive production of urine.**
+
+Then increase in body fluid switches off Osmoreceptors and suppresses ADH release to complete the feedback. 
+
+- ADH affects kidney function by its constrictory effects on blood vessels. Causin increase in blood pressure reading to increase Glomerular blood flow and thereby the GFR 
+
+# Disorders of the Excretory System 
+
+### Nephritis
+
+Nephrons swell up and malfunctions 
+
+Excess $CA$ creates kidney stones. 
+
+

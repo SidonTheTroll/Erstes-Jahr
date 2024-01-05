@@ -22,7 +22,7 @@ Andrew endeavored to revive the collapsed and almost pulse-less mother, Susan Mo
 
 ### 6. In what state did Andrew find the newborn child? What did he conclude? 
 
-Andrew discovered the baby amidst wet newspapers under the bed, its limp and warm body appearing white and soft. The head hung loosely on the thin neck, and the limbs seemed boneless. The pallor across the body indicated suffocation due to a lack of oxygen.
+Andrew discovered the baby amidst wet newspapers under the bed, its limp and warm body appearing white and soft. The head hung loosely on the thin neck, and the limbs seemed boneless. The pale appearance across the body indicated suffocation due to a lack of oxygen.
 
 ### 7. What efforts did Andrew make to revive the stillborn baby? 
 
