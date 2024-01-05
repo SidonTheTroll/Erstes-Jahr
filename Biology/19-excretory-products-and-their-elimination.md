@@ -111,9 +111,9 @@ This stimulates glomerular blood flow by releasing ***Renin hormone***
 Sometimes after functioning, this apparatus becomes dialated in the capillaries, reducing blood flow and pressure; this reduces the filteration rate.  
 When **Renin** hormone reaches the region, it contracts the capillaries and makes them continue normal function. Sodium and potassium play an important role in this process. This works like a feedback mechanism. 
 
-180 L filterate is produced in a day.  
+180 L filtrate is produced in a day.  
 But 1.5 L is released. And the rest is reabsorbed.  
-Therefore, 178.6 L of filterate is reabsorbed.
+Therefore, 178.6 L of filtrate is reabsorbed.
 
 ---
 
@@ -151,13 +151,39 @@ The electrolites that are released by the ascending limb are released to the med
 
 ## Distal Convoluted Tubule 
 
+- Conditional reabsorption of $Na^+$ and $H_2O$ takes place here. 
+- Also capable of absorpion of $HCO_3^-$ and selective secretion of $H^+$, $K^+$ and $NH^3$ to maintain $pH$ and $Na$-$K$ balance in blood. 
+
+## Collecting Duct 
+
+- Extends from the cortex to the inner part of medulla.
+- Large amount of water could be reabsorbed here to produce concentrated urine. 
+- Also releases urea to later part of Henle's loop to maintain osmolarity. 
+- Maintains $pH$ and ionic balance by selective secretion of $H^+$ and $K^+$
+
+# Mechanism of Concentration of Filtrate 
+
+- Mammals have the ability to produce concentrated filtrate. 
+- The **Henle's loop and Vasa Recta (vein that is near Henle's loop)** plays a significant role in concentration. 
+
+**The flow of filtrate in the Henle's loop is in opposite directions in the limbs. Therefore it forms a counter current.** 
+
+Proximity between Henle's loop and vasa recta and counter current helps maintaining increasing osmolarity towards the inner medullary intersitium of 300 mOsmol/L in the cortex to around 1200 mOsmol/L in inner medulla. This gradient is caused by $NaCl$ and urea. 
+
+- $NaCl$ is transported by ascending limb of **Henle's loop** and exchanged with the descending limb of **vasa recta**.
+- Similarly, small amounts of urea enters the thin segment of ascending limb of Henle's loop which is transported back to the intersitiuym by the collecting tubule. 
+
+> The above two points describes the special arrangement of Henle's loop and vasa recta called **Counter Current Mechanism**. Which helps to maintain concentration gradient in the medullary intersitium.  
+> Presence of such gradient helps an easy passage of water from collecting tubule thereby concentrating the filtrate. 
+
+- Human urine is 4 times concentrated than the initial filtrate.
 
 # Regulation of Kidney Function 
 
 Kidney finction is monitored and regulated by hormonal feedback mechanism involving **hypothalamus, JGA and Heart** 
 
 - Osmoreceptors are activated by changes in blood volume, body fluid volume and ionic concentration. 
-- Excessive fluid loss activates hypothalamus to release **antidiuteric hormone (ADH)** or vesopressin from neurohypophysis. 
+- Excessive fluid loss activates hypothalamus to release **antidiuteric hormone (ADH) or vesopressin** from neurohypophysis. 
 
 ### Antidiuteric Hormone (ADH)
 
@@ -169,12 +195,61 @@ Then increase in body fluid switches off Osmoreceptors and suppresses ADH releas
 
 - ADH affects kidney function by its constrictory effects on blood vessels. Causin increase in blood pressure reading to increase Glomerular blood flow and thereby the GFR 
 
+<br> 
+
+- GFR can activate JG cells to release **Renin** under the following conditions
+    - Decrease in glomerular blood flow 
+    - Decrease in glomerular blood pressure 
+
+<br> 
+
+- **Renin function**: Converts angiotensinogen in blood to angiotensin I and further to angiotensin II
+
+Angiotensin II activates adrenal cortex to release **Aldosterone**.
+
+- **Aldosterone**
+    - Causes reabsorption of $Na^+$ and $H_2O$ from Distal Convoluted Tubule 
+    - Also leads to higher blood pressure and GFR. 
+    - Mechanism is known as **Renin-Angitensin Mechanism**.
+
+Increased blood pressure from atria causes heart to release **Atrial Natriuretic Factor (ANF)**  
+ANS causes vasodilation, i.e., dilation of blood vessels and decreases blood pressure.  
+This acts as a feedback/check for **Renin-Angitensin Mechanism**.
+
+# Micturition 
+
+Urine that is formed by the nephrons are carried to urinary bladder via collecting duct and stored until a **voluntary signal is given by the central nervous system (brain and spinal cord)**  
+Signal is initiated by stretching of urinary bladder which gets filled by urine, then stretch receptors of the walls of bladder give signal to CNS.  
+CNS passes this signal to initiate contraction of smooth muscles of bladder and simultaneous relaxation of **urethral sphincter** 
+
+The process of release of urine is called micturition and the neural mecahnisms involved is called micturition reflex. 
+
+- Adult human excretes 1 to 1.5 liters of urine per day. 
+- That urine contains avarage of 25-30 grams of urea. 
+- The pigment that is found is called **urochrome**. 
+
+# Role of other Organs in Excretion 
+
+- Lungs, liver and skin are also involved. 
+
+Lungs, apart from $CO_2$, relase lot of $H_2$ in the form of vapor.  
+Liver secretes bile containing substances like **bilirubin, biliverdin, cholestrol, degraded steroid hormones, vitamins annd drugs**. 
+**Sweat and sebaceous glands in skin** eliminate certain substance through secretion. Sweat that is produced contains $NaCl$, little urea, lactic acid, etc.
+
+Sebaceous glands eliminate certain substances like sterols, hydrocarbons and waxes through sebum.
+
 # Disorders of the Excretory System 
+
+### Uremia 
+
+Malfunctioning causes accumulation of urea in blood.
+
+The urea in patients suffering from uremia should be removed through hemodialysis. 
 
 ### Nephritis
 
 Nephrons swell up and malfunctions 
 
-Excess $CA$ creates kidney stones. 
+Excess $Ca$ creates kidney stones. 
 
 
