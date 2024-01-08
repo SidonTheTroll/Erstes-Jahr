@@ -107,7 +107,12 @@ Omega 3 fatty acid (fish oil) reduces cholesterol deposition in the body.
 
 Microplastics have also become harmful for the heart because it can't be escaped in modern world. 
 
-## Heart Problems 
+## Heart Disorders 
 
 1. **High blood pressure/Hypertension**: Cholesterol, sodium increase the pressure on heart. In access sugar, it converts into fat; first deposits in the skin and then in arteries.
 
+2. **Coronary Artery Disease**: also known as **atherosclerosis**, affects vlood supplying vessels to the heart muscle due to the deposition of calcium, fat, cholesterol and fibrous tissues which makes the lumen narrower. 
+
+3. **Angina**: also known as **angina pectoris**, is an acute chest pain occured when insufficient $O_2$ reaches the heart muscle. Mainly seen in men and women of middle age and elderly caused due to conditions that affect blood flow. 
+
+4. **Heart failure**: means the state when heart is not able to pump blood effectively to need body standards. Sometimes called **congestive heart failure** because congestion of lungs is one of the major symptom. **Note that this is not the same as cardiac arrest (heart stops beating) or heart attack (heart muscle is suddenly damaged by inadequate blood supply).**
