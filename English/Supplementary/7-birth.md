@@ -2,7 +2,7 @@
 
 ### 1. Who was Joe Morgan? Why had he been waiting for Dr. Andrew Manson? 
 
-Joe Morgan, a robust middle-aged driller in the mining town of Blaenelly, eagerly awaited the arrival of his first child with his wife Susan of nearly twenty years. He stood by, anticipating the doctor's assistance in the delivery.
+Joe Morgan, a robust middle-aged driller in the mining town of Blaenelly, eagerly awaited the arrival of his first child with his wife Susan after nearly twenty years of marriage. He stood by, anticipating the doctor's assistance in the delivery.
 
 ### 2. What was Andrew's view of marriage? Why was he resentful and confused? 
 
@@ -22,7 +22,7 @@ Andrew endeavored to revive the collapsed and almost pulse-less mother, Susan Mo
 
 ### 6. In what state did Andrew find the newborn child? What did he conclude? 
 
-Andrew discovered the baby amidst wet newspapers under the bed, its limp and warm body appearing white and soft. The head hung loosely on the thin neck, and the limbs seemed boneless. The pallor across the body indicated suffocation due to a lack of oxygen.
+Andrew discovered the baby amidst wet newspapers under the bed, its limp and warm body appearing white and soft. The head hung loosely on the thin neck, and the limbs seemed boneless. The pale appearance across the body indicated suffocation due to a lack of oxygen.
 
 ### 7. What efforts did Andrew make to revive the stillborn baby? 
 
