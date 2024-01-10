@@ -202,3 +202,32 @@ Furniture is generally made by xylem, i.e., the core of the tree which only cons
 - Lignified wood = wood deposited with lignin. 
 
 > In secondary xylem of old trees, the dark brown color is possessed due to the deposition of tannins, resins, oils, gums, aromatic substances and essential oils. 
+
+# Bark 
+
+> Epidermis is single cell thick 
+
+```
+Q> Why is the bark of the tree rough?
+> This is because when the cambium grows, it exerts pressure on the outer layers and this causes the epidermis to rupture and make dead cells. Over time, this accumulates and creates roughness texture on the bark which is impermeable to liquid and gas. 
+```
+
+- Leaf 
+  - Dorsi-ventral 
+  - Iso-bilateral 
+
+In Dorsi-ventral leaves, more stomata is found in the lower surface.  
+But in iso-bilateral leaves, it is found equally scattered thoughout the leaf. 
+
+- Plants take both $CO_2$ and $O_2$ 
+
+Since each part of the plant needs oxygen, there are small pores on the stem and root called lenticel which makes the exchange possible. 
+
+- Therefore gas exhange regions
+  - Stomata
+  - Lenticel
+
+## Pneumatophore 
+
+Some roots and geo-negative because some in flood regions and wetlands, they need oxygen in order to sustain. This led to the evolution of geo-negative, ground-piercing roots that makes the necessary oxygen available in trees such as mangroves. 
+
