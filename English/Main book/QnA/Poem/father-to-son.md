@@ -1,6 +1,6 @@
 ### 1. What does the speaker say about the father-son relationship? 
 
-The relationship between the father and son doesn't work well. The father doesn't get what the son wants or desires. They talk like they don't know each other, and when they do talk, it leads to differences. Otherwise, there is a noticeable lack of communication between them, and silence often fills the space.
+The relationship between the father and son doesn't work well. The father doesn't get what the son wants or desires. They talk like they don't know each other, and when they do talk, it leads to disagreements. Otherwise, there is a noticeable lack of communication between them, and silence often fills the space.
 
 ### 2. What do you think is responsible for the distance between father and son? 
 

@@ -1,3 +1,13 @@
+# Acknowledgment 
+
+I would like to express my sincere gratitude to [Principal's Name], the esteemed principal of [School Name], for providing the invaluable opportunity to undertake this project on Yoga Asanas and their procedures. Your unwavering support and encouragement have been instrumental in the successful execution of this initiative.
+
+I extend my heartfelt thanks to our dedicated Physical Education teacher, [Teacher's Name], for their guidance, expertise, and continuous support throughout the duration of this project. Their passion for promoting a healthy and active lifestyle has truly inspired and enriched the learning experience for all involved.
+
+I am also thankful to my classmates who actively participated in the practical sessions, discussions, and provided constructive feedback, contributing significantly to the overall success of this project.
+
+This project has been a fulfilling journey, and I am grateful for the support and encouragement from all those who played a role in its completion. Thank you for fostering an environment that promotes holistic education and well-being at [School Name].
+
 **Objectives, Scope, and Importance of the Project**
 
 This project on "Yoga Asanas and Procedures" is driven by the following key objectives:
