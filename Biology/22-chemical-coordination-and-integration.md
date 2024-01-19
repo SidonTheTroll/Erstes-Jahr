@@ -96,3 +96,60 @@ Luteinizing hormone (LH) helps to **rupture graafian follicle** and **release ov
 <br> 
 
 - If endometrium wall is degenerated, it leads to miscarriage
+
+# Testis 
+
+- Present in **Scrotal sac**
+- Performs dual function 
+    - Sex organ 
+    - Endocrine gland 
+
+- Androgen produces testosterone
+    - Forms spermatogonia to produce sperm (spermatogenisis)
+    - Contains secondary sexual characteristics 
+
+> Sperms are secreted by testis. 
+
+- Hypothalamus (GnRH)
+    - Pituitary Gland 
+        - Ledig cell produce androgen which leads to speamatogenesis (LH)
+        - Sertoli cell is in factor starts spermiogenesis (LSH)
+
+> Generally sex hormones are steroidal 
+
+# Thymus 
+
+It is lobular structure present between lungs behind sternum.  
+Its size is maximum during puberty and slowly detoriates with age, thus reducing immunity. 
+
+> Components of bloods are formed mainly in the bone marrow. 
+
+- Thymus plays important role in development of immunity. 
+- Lymph is responsible for exchange of tissues since blood is not in direct contact with tissues. 
+
+<br> 
+
+- **Bone marrow and thymus** are the **primary lymphoid organs**
+
+T-cells are matured in thymus.  
+Therefore, thymosin is very important for its development. 
+
+AIDS destroys the T-cells and without it, B-cells cannot make antibodies. 
+
+- Spread of HIV 
+    - Blood transfusion 
+    - Unprotected sex 
+    - Intravenous infusion
+
+# Pineal Gland 
+
+- Present in dorsal side of brain. 
+- Contains **circadian rhythm** (biological clock)
+    - By **melatonin**
+
+Other functions 
+- Skin pigmentation 
+- Controls menstrurations cycle
+- Maintain body temperature 
+
+If circadian rhythm is disturbed, it leads to physiological changes because human are not adapted to be nocturnal. 
