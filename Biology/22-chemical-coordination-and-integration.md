@@ -153,3 +153,13 @@ Other functions
 - Maintain body temperature 
 
 If circadian rhythm is disturbed, it leads to physiological changes because human are not adapted to be nocturnal. 
+
+# Adrenal Gland 
+
+2 adrenal gland, on anterior of each kidneys. 
+
+- Secretes 2 hormones 
+    - Adrenaline/epinephrine 
+    - Noradrenaline/norepinephrine 
+- Commonly called catecholamines
+- These hormones are secreted during stress and emergency situation. 
