@@ -41,3 +41,15 @@ Diwali, also known as the Festival of Lights, holds a special place in our heart
 Nevertheless, it is practically impossible to completely ban firecrackers, as people will inevitably find ways to acquire and use them. Rather than an outright ban, I argue that people should exercise self-awareness and restraint as they mature. At the very least, children should be allowed to have some fun during this festive season, and the usage of firecrackers should be controlled and regulated, rather than being banned at a central level. It is important to recognize that aside from firecrackers, other sources of pollution, such as factory emissions and agricultural residue (known as 'farali'), should also be controlled and properly managed.
 
 In conclusion, it is essential to acknowledge that firecrackers are not the sole culprits in the environmental concerns associated with Diwali. The government should focus on regulating other contributing factors such as excessive car usage and improper waste disposal. The culture surrounding Diwali has evolved to the point where firecrackers have become inseparable from the festivities, and even if the government were to ban them, people would undoubtedly find ways to circumvent such restrictions.
+
+# 23/01/2024
+
+### You are Adidti/Aditya. Draft a debate speech in about 100-150 words on the topic "Smart Classrooms and E-learning have made the students unproductive."
+
+Good morning everyone. Respected Jury and everyone present here today. Myself Aditya, am going to deliver a speech for the motion on the topic "Smart Classrooms and E-learning have made the students unproductive."
+
+Smart Classrooms and E-learning have been throught as a thing of the future but recently popularized after the implication of lockdown all over the world due to the pandemic of Covid-19 or commonly known as Coronavirus. Since educational institutions had been shut-down, people have been trying out ways by which students would be able to study from their home and this led to the massive use of online platforms to conduct online classes and this had led to the rapid decline in the students' productivity for many reasons such as no good communication between them, absence of students in classes and even if assignments and homeworks are submitted, most of the content is plagarized and students are getteng lazier. Even if the pandemic is over, the concept remained and the damage has been done in student's mentality. 
+
+In conclusion, it is inevitable to avoid such effects and action should be taken immediately in education sector to revert these by providing better one-on-one communication, interactive classes and a choice to take up activities which would directly contribute to their studies. It is also wrong to blame the students themselves because previously, this concept was almost untouched and fortunately, rapid development would bring about a revolution in the sector but the future seems rather murky due to ineffective utilization of the already existing methods to study. 
+
+Thank you. 
