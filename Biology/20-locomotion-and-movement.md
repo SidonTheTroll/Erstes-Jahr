@@ -44,7 +44,6 @@ Myosin filament: thick
 Light band contains actin and is called **light band or isotropic band**  
 And dark band contains myosin and called **dark band or anisotropic band**  
 A Z-line bisects in the center of each **I-band**
-
 A region called **H-band** (H for homogenous) is found in the **middle of A-band** and is required to provide space for the **parallel movement of actin and myosin**
 
 ## Myosin 
@@ -61,4 +60,4 @@ ATP binding sites have ATP and function as transfer.
 
 On signal, protein structure changes and activates actin and myosin filaments and tropomyosin gets detatched and calcium ion is relased and forms extra substance and ATP excites myosin and myosin and actin get attatched. 
 
-In this activity, actin and myosin slide over each other, therefore, it is called **Sliding filament theory**. 
+In this activity, actin and myosin slide over each other, therefore, it is called **Sliding filament theory**.
