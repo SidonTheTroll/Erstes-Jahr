@@ -61,3 +61,37 @@ ATP binding sites have ATP and function as transfer.
 On signal, protein structure changes and activates actin and myosin filaments and tropomyosin gets detatched and calcium ion is relased and forms extra substance and ATP excites myosin and myosin and actin get attatched. 
 
 In this activity, actin and myosin slide over each other, therefore, it is called **Sliding filament theory**.
+
+# Joints 
+
+- Types of Joints 
+    - **Cartilaginous joints**: bones are joined together by cartilage. Found in the vertebral column. Allows limited movement 
+    - **Fibrous joints**: found in the **flat bones of skull**. Fuses end-to-end with dense fibrous connective tissues in the form of sutures (surgical stitch pattern) to form the cranium. Allows no movement. 
+    - **Synovial joints**: characterized by the presence of synovial fluid to reduce friction between bones. Allows in movement in locomotion. 
+        - **Examples**: ball and socket joint, hinge joint, pivot joint, gliding joint, saddle joint, metacarpal, etc. 
+
+# Disorders of Muscular and Skeletal System 
+
+1. **Myasthenia gravis**
+    - Auto immune disorder 
+    - Affects neuromuscular junction
+    - Fatigue, weakening, paralysis. 
+2. **Muscular dystrophy**
+    - Genetic disorder (hereditary or mutation)
+    - Progressive degeneration of skeletal muscles. 
+    - Other symptoms include difficulty in breathing and swallowing. 
+3. **Tetany**
+    - Rapid spasms (wild contraction) in muscle 
+    - Result of low $Ca^{++}$ in body fluid
+    - Troponin doesn't detatch from A-filament and myosin doesn't get attatched. 
+4. **Arthritis**
+    - Inflammation and stiffness of joints 
+    - Disorder can also originate from wear and tear, infections and underlying diseases. 
+5. **Osteoporosis**
+    - Lack of Calcium and Potassium
+    - Bone becomes thin and weak and develop pores. 
+    - In women, infant absorvs calcium from mother to develop bones in without supplements, mother suffers from reduced calcium.
+6. **Gout**
+    - Inflammed joint (swelling and pain)
+    - Accumulation of uric acid crystals in joints because of kidney malfunction 
+
