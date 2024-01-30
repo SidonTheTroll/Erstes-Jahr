@@ -8,7 +8,6 @@
 
 </div>
 
-
 Has handwritten notes for all subjects except Physics.
 
 Read [**CONTRIBUTING.md**](./CONTRIBUTING.md) for collaboration.
