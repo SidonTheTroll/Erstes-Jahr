@@ -126,4 +126,11 @@ select * from table_name
 - Date datatype  
 Stores as YYYY-MM-DD 
 
+# 30/01/2024
 
+- Print ascii code of a character 
+    - `select ascii('<character>');`
+- Print output of ascii code 
+    - `select char(<ascii>);`
+- Print current date 
+    - `select curdate();`
