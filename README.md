@@ -20,5 +20,7 @@ Read [**CONTRIBUTING.md**](./CONTRIBUTING.md) for collaboration.
 - [ ] Arrange [Biology diagrams](./Biology/diagrams/) chapterwise. 
 - [ ] Complete notes for [Body Fluids and Circulation](./Biology/18-body-fluids-and-circulation.md)
 - [ ] Complete [Emerging trends](./IP/10-emerging-trends.md) notes 
+- [ ] Make a physics practical for 12th experiments
+
 
 ![Alt](https://repobeats.axiom.co/api/embed/d443ad3f7932cc0799840e976411cf5e10ea87d5.svg "Repobeats analytics image") 
