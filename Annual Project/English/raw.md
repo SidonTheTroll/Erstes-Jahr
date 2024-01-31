@@ -252,6 +252,14 @@ As we draw the curtain on our journey through Ancient Egypt, we are left with a 
 
 # 8. References 
 
-1. https://en.wikipedia.org/wiki/Ancient_Egypt
-2. World History Encyclopedia 
+
+1. Hornbill, English Textbook for Class XI
+2. Australian Museum 
 3. BBC - History: Egyptians 
+4. Britannica 
+5. Egypt Exploration Society 
+6. Lumen Learning 
+7. National Geographic Society 
+8. Smithsonian Institution
+9. Wikipedia
+10. World History Encyclopedia 
