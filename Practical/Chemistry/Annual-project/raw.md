@@ -3,10 +3,10 @@
 This is to certify that “`student name`”, student of class - `class` `stream` ‘`section`’ has successfully completed his Chemistry Project on **“Tensile Strength of Different Fibers”** under the guidance of “`teacher name`".
 
 <span style="float: left;">
-________________ <br> Teacher's name
+________________ <br> Teacher's sign
 </span>
 <span style="float: right;">
-________________<br> Student's name
+________________<br> Student's sign
 </span>
 
 <br><br>
