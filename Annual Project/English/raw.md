@@ -2,7 +2,15 @@
 
 # Certificate 
 
+This certifies that [Student Name], of [class, stream, section], has successfully completed his English Core project on Ancient Egypt under the guidance of [Teacher's Name]. With commendable enthusiasm and perseverance, [Student Name] delved into the intricacies of Ancient Egyptian civilization, showcasing exceptional research, analysis, and creativity. This achievement reflects [Student Name]'s commitment to academic excellence and intellectual curiosity.
+
 # Acknowledgment 
+
+I would like to express my sincere gratitude to [Teacher's Name], the esteemed English teacher at [School Name], for providing me with the invaluable opportunity to undertake this project on Ancient Egypt. Your unwavering support and encouragement have been instrumental in the successful execution of this initiative.
+
+I extend my heartfelt thanks to our dedicated classmates who actively participated in the research, discussions, and presentations, contributing significantly to the overall success of this project. Their enthusiasm and shared passion for history have truly enriched the learning experience for all involved.
+
+This project has been a rewarding journey, and I am grateful for the support and guidance from all those who played a role in its completion. Thank you for fostering an environment that promotes curiosity, exploration, and academic excellence at [School Name].
 
 # Index 
 
@@ -18,6 +26,7 @@
 - [5. History of Mummies](#5-history-of-mummies)
 - [6. Summing up](#6-summing-up)
 - [7. Photo Gallery](#7-photo-gallery)
+  - [Links](#links)
 - [8. References](#8-references)
 
 
@@ -109,6 +118,16 @@ Pharaohs, with their divine authority, shaped Egyptian society through symbols o
 As we conclude our journey through Ancient Egypt, we appreciate a civilization revering to life, death, and cosmic order. The echoes of their beliefs, practices, and achievements resonate in the modern world, inviting exploration of the mysteries of the past and reflecting on the enduring legacy of a civilization that stood the test of time. 
 
 # 7. Photo Gallery 
+
+## Links
+
+1. https://i.natgeofe.com/n/535f3cba-f8bb-4df2-b0c5-aaca16e9ff31/giza-plateau-pyramids_3x4.jpg 
+2. https://www.instagram.com/reel/C2sUvfjRY-U/
+3. https://images.immediate.co.uk/production/volatile/sites/7/2018/11/GettyImages-143685505-a6df2c3.jpg?quality=90&resize=980,654
+4. https://www.tripsavvy.com/thmb/G4UFgAsY-Yb0zuBFcC9IYMJjwCc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-96869652-f6700d0efa8c4efb8031043af8ccaf8e.jpg
+5. https://media.istockphoto.com/id/1363987676/vector/ancient-egypt-costumes-farm-work-slaves-harvesting-plants-and-making-bundles.jpg?s=612x612&w=0&k=20&c=CE9g-56Mts-2zaVAkOw_9UjhforFgl6tx3yODpG1APA=
+6. https://media.worldbookonline.com/image/upload/f_jpg,w_630,c_limit/content/lr001638.jpg
+7. https://www.fao.org/fileadmin/user_upload/country-showcase/images/large_1_FAO_Ancient-Egyptian-Agriculture.jpg
 
 # 8. References 
 1. Hornbill - English Textbook for Class XI
