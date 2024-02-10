@@ -23,4 +23,4 @@ Read [**CONTRIBUTING.md**](./CONTRIBUTING.md) for collaboration.
 - [ ] Make a physics practical for 12th experiments
 
 
-![Alt](https://repobeats.axiom.co/api/embed/d443ad3f7932cc0799840e976411cf5e10ea87d5.svg "Repobeats analytics image") 
+![Alt](https://repobeats.axiom.co/api/embed/d443ad3f7932cc0799840e976411cf5e10ea87d5.svg "Repobeats analytics image")
