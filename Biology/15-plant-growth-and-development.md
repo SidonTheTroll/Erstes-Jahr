@@ -228,7 +228,7 @@ Note that this is not possible in all plants.
     - Initiates flowering and synchronizes fruit-set. 
     - Abiotic stress response 
 - **Abscisic acid**
-    - Stress response and adapts the plant to unfavourable conditions 
+    - Stress response and adapts the plant to unfavorable conditions 
     - Stomatal closure to prevent water loss through transpiration 
     - Maintains seed dormancy and prevents premature germination. 
     - Promotes leaf senescence 
@@ -237,3 +237,16 @@ Note that this is not possible in all plants.
     - Influences root growth and architecture 
     - Induces closure of guard cells in response to various environmental factors. 
     - Regulation of flowering time. 
+
+
+# Extra 
+Light and temperature also affect the hormone release and plant growth. 
+
+In winter, sieve tubes get blocked by wax deposition and inhibiting growth.   
+In spring, it is melted and transportation is resumed. 
+
+**Lenticular transpiration**: transpiration through lenticle 
+
+- **Bonemeal**: crushed bone powder used to provide nutrients to plants. 
+
+**Pruning**: cutting by the upper part of the plant (generally mid-September to early October) to facilitate the growth of new twigs. 
