@@ -29,11 +29,11 @@
 - [17. pH](#17-ph)
 - [18. Salt Hydrolysis](#18-salt-hydrolysis)
 - [19. Buffer Solution](#19-buffer-solution)
-- [20. Types of Buffer Solutions](#20-types-of-buffer-solutions)
-- [21. Mechanism of Buffer](#21-mechanism-of-buffer)
-- [22. Common Ion Effect](#22-common-ion-effect)
-- [23. Molality](#23-molality)
-- [24. Molarity](#24-molarity)
+  - [19.1. Types of Buffer Solutions](#191-types-of-buffer-solutions)
+  - [19.2. Mechanism of Buffer](#192-mechanism-of-buffer)
+- [20. Common Ion Effect](#20-common-ion-effect)
+- [21. Molality](#21-molality)
+- [22. Molarity](#22-molarity)
 
 
 # 1. Equilibrium 
@@ -307,14 +307,14 @@ A solution that resists a change in $pH$ value on the addition of small amounts 
 > [!NOTE]
 > Most importantly, buffer solution is used in pertoleum industries.
 
-# 20. Types of Buffer Solutions
+## 19.1. Types of Buffer Solutions
 1. **Simple Buffer:** These are the salts of weak acid and weak base. Eg. ammonium carbonate, ammonium acetate. 
 2. **Mixed Buffer:** These are either acidic or basic. 
 3. **Acidic Buffer:** They contain equimolar quantities of a weak acid and its salt with a strong base. Eg. boric acid and sodium borax, formic acid and sodium formate. 
 $CH_3COOH + CH_3COONa \rightarrow \text{Acidic Buffer}\ (3,5)$
 4. **Basic Buffer:** These contain equimolar quantities of a weak base and its salt with a strong acid. 
 
-# 21. Mechanism of Buffer 
+## 19.2. Mechanism of Buffer 
 $$
 \underset{\text{(Weak acid)}}{CH_3COOH} \leftrightarrows CH_3COO^- + H^+\\
 CH_3COONa \rightarrow CH_3COO^- + Na^+ \\
@@ -336,7 +336,7 @@ Neutralizing the reaction.
 > [!IMPORTANT] 
 > **Basic buffer works in the same way.** 
 
-# 22. Common Ion Effect 
+# 20. Common Ion Effect 
 
 The suppression in dissociation of weak electrolytes by the addition of a strong electrolyte having a common ion is called the common ion effect. 
 
@@ -345,14 +345,14 @@ $NH^4 \rightarrow NH_4^+ + Cl^-$
 
 When more $NH_4CL$ enters the solution, the reverse reaction will take place in the first reaction, nullifying its effect. 
 
-# 23. Molality 
+# 21. Molality 
 
 $$
 \text{Molality} = \frac{\text{Gram moles of solute}}{\text{Volume of solvent in kg}}\\
 \implies \frac{\text{Mass of solute in g/molar mass}}{\text{Volume of solvent in g/1000}}
 $$
 
-# 24. Molarity 
+# 22. Molarity 
 
 $$
 \text{Molarity} = \frac{\text{Gram moles of solute}}{\text{Volume of solution in liter}}\\
