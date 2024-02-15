@@ -2,8 +2,8 @@
 - [SI Units](#si-units)
   - [Conversion of Temperature](#conversion-of-temperature)
 - [Laws of Cheimcal Combination](#laws-of-cheimcal-combination)
-  - [Law of Conservation of Mass](#law-of-conservation-of-mass)
-  - [Law of Definite/Constant Proportion](#law-of-definiteconstant-proportion)
+  - [1. Law of Conservation of Mass](#1-law-of-conservation-of-mass)
+  - [2. Law of Definite/Constant Proportion](#2-law-of-definiteconstant-proportion)
 - [Dalton's Atomic Theory](#daltons-atomic-theory)
   - [Limitation](#limitation)
 - [Modern Atomic Theory](#modern-atomic-theory)
@@ -14,9 +14,10 @@
   - [Application](#application)
 - [Mole Concept](#mole-concept)
 - [Volume in Terms of Mole](#volume-in-terms-of-mole)
-- [Emperical Formula](#emperical-formula)
+- [Empirical Formula](#empirical-formula)
   - [Relation between Molecular Formula and Emperical Formula](#relation-between-molecular-formula-and-emperical-formula)
-  - [Determination of Emperical formula of a Compound](#determination-of-emperical-formula-of-a-compound)
+  - [Determination of the Empirical formula of a Compound](#determination-of-the-empirical-formula-of-a-compound)
+- [Limiting Reagent/Reactant](#limiting-reagentreactant)
 
 
 # Introduction
@@ -50,46 +51,49 @@ $\degree C = (\degree F - 32) \cdot \frac{5}{9}$
 
 # Laws of Cheimcal Combination 
 
-## Law of Conservation of Mass 
+## 1. Law of Conservation of Mass 
 
 $\text{Mass of Reactant = Mass of Product}$
 
-In all physical changes and chemical reaction, the total mass of product is the same as the total mass of the reactant. 
+In all physical changes and chemical reactions, the total mass of the product is the same as the total mass of the reactant. 
 
-## Law of Definite/Constant Proportion 
+## 2. Law of Definite/Constant Proportion 
 
-A pure chemical compound always consists of the same elements combined together in a fixed proportion by weight 
+A pure chemical compound always consists of the same elements combined in a fixed proportion by weight 
 
 # Dalton's Atomic Theory 
 
 1. Matter is made up of extremely small particles called atoms. 
-2. Atoms of same element are identical.
+2. Atoms of the same element are identical.
 3. Atoms of different elements differ in all the properties. 
-4. Atoms can neither be created nor be destroyed. 
+4. Atoms can neither be created nor destroyed. 
+
+> [!CAUTION] Limitation
+> **Doesn't apply to isotopes because they have different mass.**
 
 ## Limitation
 
-$\text{It does not apply to isotopes because they have different mass.}$
+$\text{It does not apply to isotopes because they have different masses.}$
 
 # Modern Atomic Theory 
 
 1. Atoms are no longer indivisible 
-2. Atoms of same elements may have different atomic masses. 
-3. Atoms of different elements may have same atomic mass. 
-4. Atoms are no longer indestructable. 
-
-<br>
+2. Atoms of the same elements may have different atomic masses. 
+3. Atoms of different elements may have the same atomic mass. 
+4. Atoms are no longer indestructible. 
 
 # Atomic Mass Unit
 
 1 amu (atomic mass unit) = mass of $\frac{1}{12}$ of carbon-12 atom. 
 
-- Exact 1 kg block made of Platinum and Iridium is stored in Paris and shared to differnt parts of the world.
+- An Exact 1 kg block made of Platinum and Iridium is stored in Paris and shared to differnt parts of the world.
 
-**Relative**: measured in relation to  
-**Absolute**: number of atoms (independent)
+> [!IMPORTANT]
+> **Relative**: measured in relation to  
+> **Absolute**: number of atoms (independent)
 
-Sulfur = 32 amu {relative mass}
+> [!NOTE] Example
+> Sulfur = 32 amu {relative mass}
 
 # Average Atomic Mass 
 
@@ -112,7 +116,7 @@ The quantity of an element whose mass in grams is numerically equal to its relat
 
 # Avogadro's Hypothesis 
 
-Under similar conditions of temperature, pressure, equal volumes of all gases contain equal number of molecules. 
+Under similar conditions of temperature and pressure, equal volumes of all gases contain an equal number of molecules. 
 
 ## Application 
 
@@ -122,17 +126,16 @@ Under similar conditions of temperature, pressure, equal volumes of all gases co
      - $2H_2 + O_2 \rightarrow 2H_2O$
      - 2 + 1 = 3
      - $\therefore 1 + \frac{1}{2} \rightarrow \frac{3}{2}$
+> [!NOTE]
 > One molecule of water contains one molecule of hydrogen and 1/2 molecule of oxygen.
 
-2. Relationship between Molar mass and vapour density 
-
-$\text{Vapor Density} \frac{\text{Mass of Vml of any gas}}{\text{Mass of Vml of }H_2}$ 
-
-$OR$
-
+2. Relationship between Molar mass and vapor density  
+$\text{Vapor Density} \frac{\text{Mass of Vml of any gas}}{\text{Mass of Vml of }H_2}$  
+$OR$  
 $VD = \frac{\text{Mass of 1 molecule of gas (molar mass)}}{\text{Mass of 3 atom of Hydrogen}}$
 
-$\text{Molar mass} = 2 \cdot VD$
+> [!IMPORTANT]
+> $\text{Molar mass} = 2 \cdot VD$
 
 # Mole Concept
 
@@ -154,14 +157,14 @@ Mass of 1 mole of $H_2O$ = 18 g
 Gram molecular of gas = Gram molecular volume  
 $\implies \text{molar volume} = 22.4 \text{ liter}$
 
-Under NTP/STP (Normal Temperature Pressue/Standard Temperature Pressue)
+Under NTP/STP (Normal Temperature Pressure/Standard Temperature Pressure)
 
 Temperature = 273 K   
-Pressure = 1 apm (atmospheric pressure)
+Pressure = 1 atm (atmospheric pressure)
 
-# Emperical Formula 
+# Empirical Formula 
 
-The formula of a compound which gives the simple whole numeber ratio of the atoms of various elements present in one molecule of a compound. 
+The formula of a compound gives the simple whole number ratio of the atoms of various elements present in one molecule of a compound. 
 
 Molecular Formula of glucose: $C_6H_{12}O_6$  
 Emperical formula: $CH_2O$
@@ -169,13 +172,18 @@ Emperical formula: $CH_2O$
 ## Relation between Molecular Formula and Emperical Formula 
 
 Molecular formula = N x [Emperical Formula](#emperical-formula)  
-n is the simple whole number ratio 
+- n is the simple whole-number ratio 
 
-## Determination of Emperical formula of a Compound 
+## Determination of the Empirical formula of a Compound 
 
-1. Write the percentage of diferent element involved in the formula. Then write the atomic mass of the element involved.
+1. Write the percentage of the different elements involved in the formula. Then write the atomic mass of the element involved.
+
 2. Divide the percentage of each element by its atomic mass to calculate the gram atoms or moles of the element.
    - Gram Atom (moles) = $\frac{\text{percentage of element}}{\text{Atomic mass}}$
-3. Divide the gram atoms or moles of different element by the smallest among them to find the atomic ratio or molar ratio.
+
+3. Divide the gram atoms or moles of different elements by the smallest among them to find the atomic ratio or molar ratio.
+
 4. Raise the atomic or molar ratio of the element to the nearest whole number. If necessary, multiply by suitable integers. 
 
+# Limiting Reagent/Reactant
+In a chemical reaction, one of the reactants may be present in lesser amounts while the other may be present in excess. The reactant which is present in lesser amounts is known as the limiting reagent/reactant.
