@@ -10,7 +10,7 @@ $$
 - **Common Properties (in the elements above)**
     - All three elements are metal.
     - All of them react with water to form hydroxide (base)
-    - All of them are monovalent. 
+    - All of them are monovalent. v
 
 $$
 \text{2nd Triad:}\ Ca, Sr, Ba\\
@@ -167,3 +167,38 @@ $\text{Van der Walle's radius} > \text{Metallic Radius} > \text{Covalent Radius}
 The effective distance from the center of the nucleus of the ion up to which it exerts its influence on the electron cloud. 
 - The radius of the cation is always smaller than that of the atom. 
 - The radius of the anion is always larger than the atom. 
+
+# Ionization Energy/Enthalpy 
+The minimum amount of energy required to remove the most loosely bound electron from a neutral isolated gaseous atom in its gram state to form a cation. 
+
+The smaller the atom, the more the ionization enthalpy. Because the valence electron is closer to the nucleus hence more energy is needed to remove the electron from the outermost shell.   
+
+And larger the atom, the less the ionization enthalpy. 
+
+## Factors Affecting Ionization Enthalpy
+1. **Atomic size:** the smaller the atomic size is, the greater the amount of energy required to free the electron. The greater the size of the atom, the less energy is required to free electrons from the outermost shell.
+2. **Nuclear charge:** ionization enthalpy increases with greater nuclear charge (force of attraction from the nucleus)
+3. **Screening/shielding effect:** the more shielding effect present, the less ionization enthalpy is required. 
+    - The valence electrons experience attractive force from the nucleus of an atom as well as repulsive force from the electron present in the inner shells, this reduces the attraction experienced by the valence electron of the nucleus. 
+4. **Penetration effect of electron:** greater the probability of finding the electron closer to the nucleus, thus difficult will be its removal from the atom. 
+    - $s > p > d > f$
+5. **Symmetry of electronic configuration:** the greater the symmetry, more will be the more stability and the higher the ionization enthalpy. 
+
+# Iso-Electronic Species 
+Species belonging to different atoms or ions have the same number of electrons but different nuclear charges. 
+
+# Electron Gain Enthalpy (-ve)
+The change in enthalpy that takes place when a gaseous atom gains an extra electron to form an anion. 
+
+> [!NOTE]
+> This is always negative.
+
+1. Elements with symmetrical electronic configuration have positive electron gain enthalpy. 
+2. Anions have +ve electron gain enthalpy. 
+3. Alkaline earth metals of group 2 have positive electron gain enthalpy. 
+
+> [!NOTE] Reasons
+> The atom that already have symmetrical electronic configuration don't have any urge to gain extra electron and hence energy have to be supplied in such case and so electron gain enthalpy is positive. 
+
+> [!TIP] Explaination
+> If an anion is to take up electron, energy is needed to overcome the repulsion between anion and the elctron and hence energy has to be supplied in such cases. So the electron gain enthalpy will be positive.
