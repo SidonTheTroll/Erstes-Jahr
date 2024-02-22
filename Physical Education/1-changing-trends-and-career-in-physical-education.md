@@ -402,4 +402,8 @@ In 1973, LCPE was renamed Lakshmibal National College of Physical Education (LNC
 
 In 1975, the National Sports Championship was started to enhance women's participation in sports. In 1982, the Asian Games were held in India, which gave a huge boost to infrastructure and facilities related to
 
-sports In 1984, the Sports Authority of India (SAI) was established under the Department of Sports to maintain and properly utilize sports infrastructure built for the Asian Games SAI has two objectives, one is to promote
+sports In 1984, the Sports Authority of India (SAI) was established under the Department of Sports to maintain and properly utilize sports infrastructure built for the Asian Games SAI has two objectives, one is to promote sports and achieve sports excellence at the national and international levels.
+
+in 1987, the Society for National Institutes of Physical Education and Sports (SNIPES) was merged with Sports Authority of India (SAI) to promote and develop sports awareness among people.
+
+In 2018, the CBSE launched Physical Education as a compulsory subject in classes IX to XII as mainstreaming Health and Physical Education.
