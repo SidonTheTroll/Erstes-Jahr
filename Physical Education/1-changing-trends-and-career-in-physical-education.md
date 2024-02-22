@@ -1,29 +1,27 @@
 # Introduction 
-
 According to **Rabindranath Tagore**, "The highest education is that which does not merely give us information but makes our life in harmony with all existence."
 
- # Concept, Aims & Objectives of Physical Education 
+# Concept, Aims & Objectives of Physical Education 
 
 ## Concept 
-
-Physical Education was used as an encompassing term comprising of all physical activities. 
+Physical Education was used as an encompassing term comprising all physical activities. 
 
 - Physical Education found its place in Ancient Greece. 
-- Philosophers like Socrates, Aristotle and Plato emphasized on the importance of physical education. 
+- Philosophers like Socrates, Aristotle and Plato emphasized the importance of physical education.
 
-> The meaning of Physical Education has changed among civilizations but he core idea remained the same. 
+> [!IMPORTANT]
+> The meaning of Physical Education has changed among civilizations but the core idea remained the same. 
 
-**Currently physical education means "instruction in the development and care of the body ranging from a simple exercise to a course of study providing training in hygine, gymnastics and the performance and management of athletic games."**
+
+**Currently physical education means "instruction in the development and care of the body ranging from a simple exercise to a course of study providing training in hygiene, gymnastics and the performance and management of athletic games."**
 
 ## Definitions
-
 According to **Oberteuffer**, "Physical education is the sum of those experiences which come to the individual through movements."
 
 ## Aims 
-
 - The aim of physical education laid down by educationists are: 
     1. Moral character 
-    2. Worthy home membershiip 
+    2. Worthy home membership 
     3. Promotion of Health 
     4. Citizenship
     5. Development of basic processes
@@ -31,7 +29,6 @@ According to **Oberteuffer**, "Physical education is the sum of those experience
     7. Proper use of leisure 
 
 ## Objectives
-
 1. Physical Development 
 2. Social Development 
 3. Mental Development 
@@ -40,127 +37,113 @@ According to **Oberteuffer**, "Physical education is the sum of those experience
 6. Emotional Development 
 
 ### Physical Development 
-
-It is the development of the various systems of the body such as respiratory system, circulatory system, nervous system, digestive system, muscular system so that they respond in a helthy way. 
+It is the development of the various systems of the body such as the respiratory system, circulatory system, nervous system, digestive system and muscular system so that they respond healthily. 
 
 ### Social Development 
-
 This objective is related to the development of social traits which are essential for better adjustment in life. 
 
-- Players adjust themselves according to their situations and develop relations based on trust, care, respect and understanding. Other qualities like cooperation, leadership, fair play, courtesy, sportsmanship, tolerance and sympathy are also developed. 
+Players adjust themselves according to their situations and develop relations based on **trust, care, respect and understanding**. Other qualities like **cooperation, leadership, fair play, courtesy, sportsmanship, tolerance and sympathy** are also developed. 
 
 ### Mental Development
+The mental development of an individual can be developed with the help of physical education. Sports don't only require physical strength, but also **alertness of mind, deep concentration and precise movements**. Physical education also includes understanding techniques of the **game rules and regulations, anatomical and physiological studies, balanced diet, etc.** 
 
-The mental development of and individual can be developed with the help of physical education. Sports doesn't only require physical strength, but also alertness of mind, deep concentration and precise movements. Physical education also includes understanding techniques of the game rules and regulations, anatomical  and physiological studies, balanced diet, etc. 
-
-- Thus physical education also improves the knowledge of an individual and enables him/her to face and solve new situations and problems. 
+Thus physical education also improves the knowledge of an individual and enables him/her to **face and solve new situations and problems**. 
 
 ### Neuromuscular Development 
-
-A better relationship between nervous system and muscular system is the main thing of this objective. The activities of physical educatin provide ample opportunities for the better neuromuscular coordination. Sports help in making efficient movements of our body. 
+A better relationship between the nervous system and the muscular system is the main theme of this objective. The **activities of physical education provide ample opportunities for better neuromuscular coordination**. Sports help in making efficient movements of our body. 
 
 ### Development of Health
-
-Another objective of physical education is the development of health as it reduces stress and anxiety. 
+Another objective of physical education is the development of health as it **reduces stress and anxiety**. 
 
 ### Emotional Development 
+The emotional development of an individual helps them to feel various emotions that they feel in everyday life (pleasure, hope, jealousy, hate, fear, distress, anger, wonder, lust, loneliness, etc). This **balance makes sure that the individual feels everything balanced** and can **control their emotions and be mentally healthy**. This ***prevents the individual from becoming abnormal and uncontrollable***. 
 
-Emotional development of an individual helps the individual to feel various emotions that they feel in everyday life (pleasure, hope, jealousy, hate, fear, distress, anger, wonder, lust, loneliness, etc). This balance makes sure that the individual feels everything balanced and is able to control the emotions and be mentally healthy. This prevents the individual from becoming abnormal and uncontrollable. 
-
+> [!NOTE] In-short
 > By participating in physical education, an individual starts having control over his/her emotions. 
 
 # Changing Trends in Sports
 
-## Changing Trends in Playing Surfaces 
+## Changing Trends in Playing Surfaces
+Earlier sports were only played on natural grass. But its (grass turfs) **maintenance was tedious**. 
 
-Earlier sports were only played in natural grass.  
-**But its (grass turfs) maintenance it tedious 
-
-- Therefore sporting organizations started using artificial pitches in 1960. 
+- Therefore sporting organizations **started using artificial pitches in 1960**. 
     - Artificial turfs provide increased durability and versatility of playing surfaces. 
         - They are easy to maintain. 
-
-- Disadvantages of artificial grass: 
+<br>
+- **Disadvantages of artificial grass:** 
     - Limited life
     - Periodic cleaning requirements
     - Petroleum use 
     - Toxic chemicals from infill
     - Health and safety concerns for children
+<br>
+- Artificial turf focuses on the **player's comfort, the potential impact on the player's health and the visual and physical similarities to natural pitches**. 
 
-- Artificial turf focuses on player's comfort, potential impact on player's health and the visual and physical similarities to natural pitches. 
-
-Synthetic sporting surfaces can boost performance, provide useful surface in difficult climate and reduce cost of maintenance.
+Synthetic sporting surfaces can boost performance, provide useful surfaces in difficult climates and reduce costs of maintenance.
 
 - Specific turfs can provide given benefits: 
     - Friction 
     - Requirement hardness or softness 
     - Impact of footmark
     - Prevention of injury
-
+<br>
 - Its benefits include: 
     - Better playability
         - Artificial turfs provide better playability by offering consistent surface conditions, durability, and reduced maintenance compared to natural grass.
     - Improves comfort and safety 
-        - The quality of turfs can eleminate the risk of injuries significantly by absorbing the shock and providing good traction to prevent injuries from slips and falls. 
+        - The quality of turfs can eliminate the risk of injuries significantly by absorbing the shock and providing good traction to prevent injuries from slips and falls. 
 
 ## Changing Trends in Wearable Gears and Sports Equipment
-
-These are equipments that are attached to the body that measures some aspects of performance during physical activities. 
+These are equipment that are attached to the body that measures some aspects of performance during physical activities. 
 
 ### Wearable Gears
-
 - GPS Tracker 
     - Measurement and monitoring of players' speed and distance performed during a game or a training session
 - RFID chips 
-    - These are small chips that are attached to athlete's clothing that helps the organizaers to track his location during the event. 
+    - These are small chips that are attached to the athlete's clothing that help the organizers track his location during the event. 
 - Smartwatches
-    - These help tracking calorie, step, distance, pulse and heart rate tracking. 
+    - These help to track calories, steps, distance, pulse and heart rate tracking. 
 - Smart clothing
-    - These clothes have in-built sensors that calculate certain things without the need for extra equipments. 
-- Head mounted displays
-    - These are displays that are built into helmets that help race car drivers to contact with pit crew. 
-
-
+    - These clothes have built-in sensors that calculate certain things without the need for extra equipment. 
+- Head-mounted displays
+    - These are displays that are built into helmets that help race car drivers contact with the pit crew. 
+<br>
+<br>
 - Wearable gears also provide the following benefits:
-    - Ensures health and safety of players. 
-    - Helps tracking physical activity. 
+    - Ensures the health and safety of players. 
+    - Helps track physical activity. 
     - Provides real-time feedback. 
 
 
 ### Sports Equipment
-
-- **Clothing**: Take for swimming, earlier nylon and lycra were used which enables swimsuits to be more form-fitting and less water absorbent. Now suits are made to reduce drag in increase performance. These suits can also be designed to wick sweat away from the body by evaporation instead of absorbing it. 
-- **Shoes**: Lighter and flatter track shoes are designed to form balance of opitmal grop and comfort. 
-- **Tennis Rackets**: Earlies wooden rackets were used then shifted to metal for durability and stiffness but since 1980s graphite rackets are prefrred which are lighter and also improved performance. 
-- **Protective equipment**: New technology in sports equipment keep athletes saft from injury and manufacturers have started to produce safe and more comfortable helments. 
+- **Clothing**: Taken for swimming, earlier nylon and lycra were used which enables swimsuits to be more form-fitting and less water absorbent. Now suits are made to reduce drag in increase performance. These suits can also be designed to wick sweat away from the body by evaporation instead of absorbing it. 
+- **Shoes**: Lighter and flatter track shoes are designed to form the balance of optimal grip and comfort. 
+- **Tennis Rackets**: Earlies wooden rackets were used then shifted to metal for durability and stiffness but since the 1980s graphite rackets have been preferred which are lighter and also improved performance. 
+- **Protective equipment**: New technology in sports equipment keeps athletes safe from injury and manufacturers have started to produce safe and more comfortable helmets. 
 
 ### Technological Advancements
-
-Example include smart bottles that remind to drink water regularly, smart headsets improve performance by stimulating the brain and enhancing the learning process, etc. 
+Examples include smart bottles that remind us to drink water regularly, smart headsets that improve performance by stimulating the brain and enhancing the learning process, etc. 
 
 - Some advancements include: 
-    1. **Instant replay**: officials can now slow down and reexamine what happened during a play, which resolves any conflits between teams.  
-    2. **Sensor Tools**: Sensor tools analyze whether a goal is vaild or not which a naked eye cannot truly tell if a ball went past the goal line.   
+    1. **Instant replay**: officials can now slow down and reexamine what happened during a play, which resolves any conflicts between teams.  
+    2. **Sensor Tools**: Sensor tools analyze whether a goal is valid or not which a naked eye cannot truly tell if a ball went past the goal line.   
     3. **Timing system**: Earlier stopwatches were used for timing in sports but now, more modern techniques to perfectly time with precision consistently. 
-    4. **RFID chips**: These small chips have built-in antenna that relay signals to the tracking statioins and are used to time and accurately locate individual contestants in an event.
-    5. **Equipment deployment**: These are smart helmets that offer sensor and magnet tech built-in and are able to detect and disperse force to reduce head injury. 
+    4. **RFID chips**: These small chips have a built-in antenna that relays signals to the tracking stations and are used to time and accurately locate individual contestants in an event.
+    5. **Equipment deployment**: These are smart helmets that offer sensor and magnet tech built-in and can detect and disperse force to reduce head injury. 
 
 ### Benefits of Technological Advancements 
-
-1. Better performance - marignal gains make the difference
-2. Better medical care results in fewer injuries or faster recovery from injury
-3. Feedback from coaches is more focussed, objective and helpful
-4. Improved kit is more comfortable, more efficent and safer
+1. **Better performance** - marginal gains make the difference.
+2. **Better medical care** results in **fewer injuries or faster recovery** from injury.
+3. Feedback from coaches is more **focused, objective and helpful**.
+4. The improved kit is more comfortable, more efficient and safer.
 5. Part of a team, not isolated. 
 
 # Career Options in Physical Education 
+To identify the sports talent and provide adequate training in sports, the Sports Authority of India (SAI) organizes the National Sports Talent Contest for students between the ages of **9 to 11 years**. About **3000 students are selected every year**. 
 
-To identify the sports talent and provide adequate training in sports, the Sports Authority of India (SAI) organises the National Sports Talent Contest for the students between the age of 9 to 11 years. About 3000 students are selected every year. 
-
-When a person represents his state or country and makes money as a professional player, after requirement, he/she has the option to become a manager, selector, coach, administrator, etc.
+When a person represents his state or country and makes money as a professional player, after retirement, he/she has the option to become a **manager, selector, coach, administrator, etc.**
 
 ## Teaching Career in Physical Education 
-
 The following institutions hire physical education educators: 
     - **Elementary School**: to introduce children to the concept of physical education 
     - **Middle school**: in this stage, the educators give training to the students. 
@@ -169,45 +152,39 @@ The following institutions hire physical education educators:
     - **College and university**: There are various certificate courses at this level and at this level, students are prepared to form various teams and teachers only teach the theory part at this time. 
 
 ## Coaching Career in Physical Education 
-
 Either in private or in schools and colleges coaches are appointed to look over a team and prepare them for tournaments. 
 
 ## Health Related Careers
-
-Since people want to stay away from diseases (hypertension, heart diseases, obesity, diabetes, mellitus, etc.) and stay healthy, they join gyms to train under the guidance of a trainer. 
+Since people want to stay away from diseases (hypertension, heart disease, obesity, diabetes, mellitus, etc.) and stay healthy, they join gyms to train under the guidance of a trainer. 
 
 ## Administration Related Careers
-
 Various fields are available for sports administration, management of clubs and facilities, sports marketing and promotion, etc. 
 
-Some examples are as follow:
+Some examples are as follows:
 
 ### Department of Physical Education 
-
-These department lie in the hands of a chairman or head and he is the sole administrator of the teaching department.
+These departments lie in the hands of a chairman or head and he is the sole administrator of the teaching department.
 
 ### Sports Department
-
-There are many job opportunities related to administration in sports department e.g., director of sports, assistant director of sports, district sports officer and assistant education officer of sports. The responsibility of these people is to manage and organize various schemes and make people aware of sports and its importance. 
+There are many job opportunities related to administration in the sports department e.g., director of sports, assistant director of sports, district sports officer and assistant education officer of sports. The responsibility of these people is to manage and organize various schemes and make people aware of sports and their importance. 
 
 ### Industrial Recreation 
-
-These companies lay stress on the health, fitness and well-being of the employees and that is the reason for them to set up teams, establishing a programme of activities, schedule for competitions and supervising the programs related to fitness of employees. **Designation** is the **Director of Industrial Recreation**  
+These companies lay stress on the health, fitness and well-being of the employees and that is the reason for them to set up teams, establish a program of activities, schedule competitions and supervise the programs related to the fitness of employees. The designation is the **Director of Industrial Recreation**  
 
 ### Sports Facility Management 
-
-These facilities provide equipment to the people who are willing to take part in physical education such as health clubs, gymnasium, fitness centers, sports complexes, stadium and swimming pool. 
+These facilities provide equipment to people who are willing to take part in physical education such as health clubs, gymnasiums, fitness centers, sports complexes, stadiums and swimming pools. 
 
 ## Performnace Related Careers 
-
-1. **As officials**: They conduct smooth functioning of tournaments or competitions examples include- refesees, timekeeper, recorder, scorer, etc. 
+1. **As officials**: They conduct smooth functioning of tournaments or competitions examples include- referees, timekeepers, recorders, scorers, etc. 
 2. **As players:** they take part in various levels like inter-school or college, district level, state level, national or international level. 
-3. **As recorders** : they maintain the record of any sports event. 
+3. **As recorders:** they maintain the record of any sports event. 
 
 ## Careers in Communication Media 
 
 ### Sports Journalism 
+They work with newspapers and sports magazines to provide sports coverage due to increasing demands. They may write live events and feature articles about sportspersons based on research, compiling statistics, and interviewing op players and coaches. 
 
+#### Requirements 
 1. **Passion for Sports**: Start with a deep love and knowledge of sports.
 2. **Strong Writing Skills**: Develop excellent writing skills for clear and engaging storytelling.
 3. **Sports Knowledge**: Stay updated on various sports and teams.
@@ -221,7 +198,9 @@ These facilities provide equipment to the people who are willing to take part in
 11. **Passion and Dedication**: Stay committed to your craft, as success may take time.
 
 ### Book writing 
+Career opportunities in book writing exist in the country due to a shortage of literature on physical education and related fields. Physical educators skilled in disciplines like sports biomechanics, sociology, medicine, physiology, and philosophy can pursue part-time writing. Success requires interest, focus, and writing abilities.
 
+#### Requirements
 1. **Expertise in Physical Education**: Develop a deep understanding of physical education concepts and practices.
 2. **Writing Skills**: Hone your writing skills for clear and effective communication.
 3. **Research**: Conduct thorough research on physical education topics to provide valuable insights.
@@ -236,9 +215,11 @@ These facilities provide equipment to the people who are willing to take part in
 12. **Continuous Learning**: Stay updated on developments in physical education and writing techniques.
 
 ### Sports Photography 
+This career is made for people with an interest in photography and a strong desire to communicate with the public the true meaning of sports through photographs. Photography talent is essential for this career.
 
+#### Requirements 
 1. **Capture the Action**: Freeze key moments in sports events.
-2. **Equipment Mastery**: Know your camera and lenses inside out.
+2. **Equipment Mastery**: Know your camera and lenses inside and out.
 3. **Timing is Crucial**: Anticipate the perfect shots.
 4. **Composition Skills**: Frame images artistically.
 5. **Lighting Expertise**: Adapt to various lighting conditions.
@@ -250,7 +231,9 @@ These facilities provide equipment to the people who are willing to take part in
 11. **Continuous Learning**: Keep up with photography trends.
 
 ### Book Publishing 
+Expertise in physical education and its subdisciplines is crucial in this sector, along with familiarity with publication demands and editorial skills. Sales personnel also require travel for book sales.
 
+#### Requirements
 1. **Expertise in Sports**: Gain in-depth knowledge of various sports and related topics.
 2. **Writing Skills**: Develop strong writing abilities to create engaging content.
 3. **Research**: Conduct thorough research for accurate and insightful sports books.
@@ -265,7 +248,9 @@ These facilities provide equipment to the people who are willing to take part in
 12. **Adaptability**: Stay current with sports trends and evolving communication technologies.
 
 ### Sports Broadcasting 
+This requires not only knowledge about the game but also communication to express clearly with the audience. Requirements in this sector include skills, tactics and rules of a game to share information to the public in simple terms. 
 
+#### Requirements
 1. **Sports Knowledge**: Develop a deep understanding of various sports and their rules.
 2. **Communication Skills**: Hone your on-air presence and commentary abilities.
 3. **Technical Proficiency**: Familiarize yourself with broadcast equipment and software.
@@ -280,7 +265,9 @@ These facilities provide equipment to the people who are willing to take part in
 12. **Industry Networking**: Build relationships with sports organizations and media outlets.
 
 ### Marketing 
+The public's interest in sports has led to the increased demand for sports equipment and marketing. Private companies need employees familiar with sports equipment and changing needs and demands to provide the best profit and efficiency. 
 
+#### Requirements
 1. **Sports Passion**: Develop a genuine love for sports and the sports industry.
 2. **Marketing Skills**: Master marketing principles and strategies.
 3. **Sports Knowledge**: Understand different sports, teams, and their fan bases.
@@ -295,7 +282,9 @@ These facilities provide equipment to the people who are willing to take part in
 12. **Adaptation to Trends**: Stay updated with evolving sports and marketing trends.
 
 ### Sports Industry 
+This sector is required due to the ever-increasing demands of people both private and professional the goods to play games such as tracksuits, equipment, etc. 
 
+#### Requirements 
 1. **Passion for Sports**: Start with a deep love and knowledge of sports.
 2. **Versatile Skill Set**: Develop skills in writing, broadcasting, marketing, or photography.
 3. **Industry Awareness**: Stay updated on sports events, teams, and trends.
@@ -312,14 +301,16 @@ These facilities provide equipment to the people who are willing to take part in
 # Khelo-India and Fit-India Programme 
 
 ## Khelo-India Programme 
+Introduced to revive sports culture in India in the grassroots level. Aims to provide 500,000 INR for eight years to a thousand selected candidates. Started with a bill unanimously passed in the union cabinet. 
 
-- Formerly known as Khelo India School Games for under-17 school students and under-21 college students 
+> [!NOTE]
+> Formerly known as Khelo India School Games for under-17 school students and under-21 college students.
 
 1. **Khelo India Initiative**: Be part of the government's flagship program promoting sports.
 2. **Youth Empowerment**: Focuses on nurturing young talent across various sports.
 3. **Grassroots Development**: Aims to identify and groom athletes from the grassroots level.
 4. **State-Level Competitions**: Compete and excel in state-level Khelo India Games.
-5. **National-Level Exposure**: Gain national recognition by participating in Khelo India Youth Games.
+5. **National-Level Exposure**: Gain national recognition by participating in the Khelo India Youth Games.
 6. **Scholarship Benefits**: Qualify for financial support and scholarships for training.
 7. **Access to Infrastructure**: Utilize world-class sports facilities provided by the program.
 8. **Coaching Opportunities**: Consider coaching as a career with Khelo India.
@@ -328,41 +319,40 @@ These facilities provide equipment to the people who are willing to take part in
 11. **Community Impact**: Contribute to building a sporting culture in your community.
 12. **Networking**: Connect with athletes, coaches, and officials in the Khelo India ecosystem.
 
-Under-17 athletes were invited to participate across 16 disciplines. 
+> [!IMPORTANT]
+> Under-17 athletes were invited to participate across 16 disciplines. 
 
 **Khelo India Programme has been divided into** ***12 verticals***
 
 ## Structure of Khelo India Scheme 
-
 **Divided into 12 components** 
 
-1. **Play Field Development** 
-2. **Community Coaching Development**
-3. **State Level Khelo India Centers** 
-4. **Annual Sports Competitions** 
-5. **Talent Search and Development**
-6. **Utilization and Creation/Upgradation of Sports Infrastructure** 
-7. **Suport to National/Regional/State Sports Academies** 
-8. **Physical Fitness for School-going Children** 
-9. **Sports for Women**
-10. **Promotion of Sports among Persons with Disabilities.** 
-11. **Sports for Peace Development** 
-12. **Promotion of Rural and Indigenous/Tribal Games** 
+1. **Play Field Development:** includes preparation of a national inventory of playfield and sports infrastructure by GIS and development of playfields at various state and district levels. 
+2. **Community Coaching Development:** involves skill development and certification system for sports coaching. Aimed at identifying PETs and training them as master trainees. 
+3. **State Level Khelo India Centers:** involves supporting sports infrastructure for better utilization of resources in States/Union Territories through MoUs. 
+4. **Annual Sports Competitions:** organize national-level competitions concerning high-priority sports disciplines. 
+5. **Talent Search and Development:** a talent identification committee is instituted to spot and identify talent with the help of globally accepted scientific methods. 
+6. **Utilization and Creation/Upgradation of Sports Infrastructure:** aims at the development of sports infrastructure at schools and universities demonstrating high sporting potential. 
+7. **Support to National/Regional/State Sports Academies:** takes care of providing resources under Public Private Partnership (PPP) mode for expediting and augmenting the Long Term Athlete Development Programme. 
+8. **Physical Fitness for School-going Children:** encourages an increased penetration of sports in the education curriculum. 
+9. **Sports for Women:** though gender-neutral, this emphasizes promoting sports among women.
+10. **Promotion of Sports among Persons with Disabilities:** creates special environments for promoting sports among disabled people. 
+11. **Sports for Peace Development:** engages sports among youth to build better connections through organized village and town-level competitions.
+12. **Promotion of Rural and Indigenous/Tribal Games:** annual competitions are organized to showcase the country's rural and tribal games alternately. 
 
 ### Khelo India Programme strives to promote sports for excellence as well as sports for all. 
 
 1. It will be a central sector scheme. 
-2. Selected athletes will be entitled to a scholarship scheme amount of five lakh rupees for eight consecutive years. 
-3. It is a Pan India Sports Scholarship scheme covering the 1000 most deserving and talented athletes accrue the sports discipline, every year. 
-4. To enable the sportsman to pursue both studies and sports, the programme aims at identifying and promoting 20 universities in the country as centers for sporting distinction. 
-5. The aim is to impact the whole of sports ecosystem, inclusive of sports economy, competition structure, talent identification, coaching and infrastructure. 
-6. To ensure maximum entries for organized sports competition, the programme encourages school and colleges to organize programmes for high standards. 
+2. Selected athletes will be entitled to a scholarship scheme amounting to five lakh rupees for eight consecutive years. 
+3. It is a Pan India Sports Scholarship scheme covering the 1000 most deserving and talented athletes who accrue the sports discipline, every year. 
+4. To enable the sportsman to pursue both studies and sports, the program aims to identify and promote 20 universities in the country as centers for sporting distinction. 
+5. The aim is to impact the whole sports ecosystem, inclusive of the sports economy, competition structure, talent identification, coaching and infrastructure. 
+6. To ensure maximum entries for organized sports competitions, the program encourages schools and colleges to organize programs for high standards. 
 
 ## Fit-India Programme 
-
 Fit-India Programme was launched by Narendra Modi on 29 August 2019 with a view of making fitness a part of life. 
 
-The main aim of movement if to bring behavioural changes and progress towards a more physically active and healthy lifestyle. 
+The main aim of the movement is to bring behavioral changes and progress towards a more physically active and healthy lifestyle. 
 
 It aims to include 30 to 60 minutes of physical activities in our daily lives. 
 
@@ -370,8 +360,12 @@ It aims to include 30 to 60 minutes of physical activities in our daily lives.
 
 Its aims include:
 
-1. To promote fitness with easy to practice and fun exercises for a physically fit body. 
+1. To promote fitness with easy-to-practice and fun exercises for a physically fit body. 
 2. To spread awareness on fitness and various physical activities that promote fitness through fitness campaigns. 
 3. To encourage indigenous/local sports. 
 4. To make fitness reach every corner of the country including schools, colleges/universities, villages, etc. 
-5. To create a platform for the citizens of India to share information, spread awareness, encourage sharing their personal fitness stories. 
+5. To create a platform for the citizens of India to share information, spread awareness, and encourage sharing their personal fitness stories. 
+
+# Development of Physical Education in India - Post-Independence 
+
+After independence in 1947, the government saw the importance of sports for the overall development of its citizens. 
