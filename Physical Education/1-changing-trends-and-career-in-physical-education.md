@@ -369,3 +369,37 @@ Its aims include:
 # Development of Physical Education in India - Post-Independence 
 
 After independence in 1947, the government saw the importance of sports for the overall development of its citizens. 
+
+In 1948, the Government of India set up the Central Government Physical Education Committee, also known
+
+at the Tara Chand Committee. This committee recommended the establishment of the Central Institute of Physical Education and Recreation and improvements in the standards of games and sports throughout the country
+
+In 1950, the Central Advisory Board of Physical Education was established to advise the govemment on physical education issues, with the objective of Introducing physical education as a compulsory subject at the elementary, middle, and senior secondary levels.
+
+In 1951, the first Asian Games were held in New Delhi, which motivated Indian youth to participate in games and sports at the international level
+
+In 1953. Rajkumari Amrit Kaut the Health Minister of India, introduced the Coaching Scheme for games and sports to streamline coaching programs in India, since there were no professional coaching programs at the time.
+
+In 1954, the All India Counol of Sports was established to liaise between the government and National Sports Federations to assist in financial matters, and under it, State Sports Council and District Sports Council were established
+
+In 1956 the National Plan of Physical Education and Recreation is prepared by the Central Advisory Board of
+
+Physical Education to promote indigenous physical activities
+
+In 1957, the Minister of Education & Culture, Government of India, established the first College of Physical Education as Lakshmibal College of Physical Education (CPE) at Gwalior, Madhya Pradesh.
+
+In 1958, the Ministry of Education established the Sports and Youth Welfare Department to promote physical education in India-
+
+In 1959, the ministry sponsored the National Physical Efficiency Drive to evaluate the physical fitness status of people in Indiz.
+
+In 1961, the National Institute of Sports (NIS) was established at Moti Bagh, Patiala, Punjab, to produce qualified coaches in different games and sports,
+
+In 1965, the National Fitness Corps was established to make youth physically strong
+
+In 1970-71, the Rural Sports Tournament Scheme was introduced by the government to involve rural youth and spot natural talent in different sports. The Sports Talent Search Scheme was launched also to promote sportspersons at the state and national levels
+
+In 1973, LCPE was renamed Lakshmibal National College of Physical Education (LNCPE), which became a "Deemed University for the central government in 1995 under the name of Lakshmibal National Institute of Physical Education (LNIPE).
+
+In 1975, the National Sports Championship was started to enhance women's participation in sports. In 1982, the Asian Games were held in India, which gave a huge boost to infrastructure and facilities related to
+
+sports In 1984, the Sports Authority of India (SAI) was established under the Department of Sports to maintain and properly utilize sports infrastructure built for the Asian Games SAI has two objectives, one is to promote
