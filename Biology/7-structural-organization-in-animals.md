@@ -16,8 +16,6 @@ Gastric juices are secreted by glandular epithelium tissue.
 
 - **Nasal passage**: ciliated epithelium 
 
-<br> 
-
 - Stratified epithelium is found in the upper layer of skin.
 No blood capillaries are connected to it.  
 
