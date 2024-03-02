@@ -1,23 +1,20 @@
-d = {'Name': "Rahul", 'Salary': 10000, 'Age': 45, 'Dept': 'Sales'}
+'''
+Write a program which prints the largest and second largest number in a given list. 
+'''
 
-# Prints raw data
-print(d) # {'Name': "Rahul", 'Salary': 10000, 'Age': 45, 'Dept': 'Sales'}
-print()
-# Print headers
-print(d.keys()) # dict_keys(['Name', 'Salary', 'Age', 'Dept'])
-print()
+a = eval(input("Enter the list: "))
 
-d = {'Name': "Rahul", 'Salary': 10000, 'Age': 45}
-c = {'Name': "Sonali", 'Salary': 4000, 'Dept': 'Production'}
+l = s = 0
 
-d.update(c) # Replace values with dictionary 'c'
-# If heading are found to be unique in initial dictionary, the value will remain the same. 
-print(d)
-print()
+for i in range(len(a)):
+    if a[i] > l:
+        s = l
+        l = a[i]
+    elif a[i] > s and a[i] != l:
+        s = a[i]
 
-c.clear() # deletes data is dictionary 
-print(c)
-print()
-
-del(c) # Deletes dictionary 'c'
-print(c)
+if s == 0:
+    print("There is no second largest number.")
+else:
+    print("Largest number:", l)
+    print("Second largest number:", s)
