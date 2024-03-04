@@ -171,6 +171,10 @@ Some sensors that are commonly used are temperature sensor, proximity sensor, pr
 
 Sensors play a very important role in IOT. These sensors of IOT are mainly smart sensors which convers real world quantity into a digital signal and are able to transmit it over a network. These sensors also have intelligent capability such as wireless communcation and being an on-board microcontroller. They are used for analog to digital conversion, digital processing, decision making and two-way communications.
 
+# Smart Cities 
+
+- These are cities that use technology to provide services and solve city problems.
+
 # 01/11/2023
 
 ### 1. What is Artificial Intelligence? How has it impacted our lives? 
