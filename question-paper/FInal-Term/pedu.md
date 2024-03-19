@@ -66,5 +66,24 @@
 
 # Part 2 
 13. Write a short note on the Fit-India Movement. 
-14. Write any four causes of Disabilities. 
-15. 
+14. Write any four causes of Disabilities. **OR** Explain two objectives of Adaptive Physical Education.
+15. Discuss any three components of physical fitness. 
+16. Explain the aim and objectives of physical education in detail **OR** Discuss how physical education plays a vital role in the development of a nation. 
+
+# Part 3 
+17. Define Neti. Explain the types of Neti. 
+18. Explain the different types of disabilities in detail **OR** How an occupational therapist helps children with special needs. 
+19. Explain about properties of muscles. 
+20. Write a short note on the Olympic Flag. 
+21. Explain the procedure and benefits of any one Asanas in detail. 
+22. Define Strength. Explain the different types of strength. 
+23. Explain the importance of biomechanics and physiology in the field of sports and games. 
+24. Discuss how physical education creates a leader. 
+25. How BMI is test conducted? Give an index for its various categories. 
+26. Explain the functions of the skeletal system. **OR** Explain different bones of our body with examples. 
+
+# Part 4 
+27. How would you explain Team cohesion? What are the ways to improve team cohesion? 
+28. Explain about Axis and Planes. 
+29. Whatis Asthanga Yoga? Explain any four elements of Ashtanga yoga. 
+30. State psychology. Why it is important in the field of physical education? 
