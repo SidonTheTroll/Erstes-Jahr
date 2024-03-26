@@ -77,7 +77,7 @@ In these three questions, the Assertions (A) and Reasons (R) have been put forwa
 17. Write four differences between polyp and medusa. 
 18. Compare Ascomycetes with Basidiomycetes. 
 19. Define numerical taxonomy.
-20. Without metabolism, there cannot be living state. Justify.
+20. Without metabolism, there cannot be a living state. Justify.
 21. How does cytokinesis in plant cells differ from that in animal cells? 
 
 # Section-C 
