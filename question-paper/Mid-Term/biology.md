@@ -4,7 +4,7 @@
 > Full marks: 70
 
 1. There are 33 numbers of questions in the question paper. 
-2. All questions are compulsory. The question paper consists of three sections. **Section-A** contains **sixteen** questions of 1 mark each. **Section-B** contains **five** questions of **2 mark**  each, **Section-C** contains **seven** questions of **3 marks** each, **Section-D** contains **two** case-based questions of **4 marks** each and **Section-E** contains three questions of **5 marks** each. 
+2. All questions are compulsory. The question paper consists of three sections. **Section-A** contains **sixteen** questions of 1 mark each. **Section-B** contains **five** questions of **2 marks**  each, **Section-C** contains **seven** questions of **3 marks** each, **Section-D** contains **two** case-based questions of **4 marks** each and **Section-E** contains three questions of **5 marks** each. 
 4. There is no overall choice. However, internal choices have been provided in some questions. A student has to attempt only one of the alternatives in such questions. 
 5. Wherever necessary, neat and labeled diagrams should be drawn. 
 
