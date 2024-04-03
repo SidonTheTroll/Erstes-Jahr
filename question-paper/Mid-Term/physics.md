@@ -64,7 +64,7 @@
     2. Equal to actual weight.
     3. More than actual weight.
     4. zero
-12. The relationship between the force $F$ and position $x$ of a body is shown in the figure. The work done in displacing the body from $x = 1 m$ to $x = 5 m$ will be, <img align=right src="./img/physics/IMG_20240402_193949~2.jpg" width=400>
+12. The relationship between the force $F$ and position $x$ of a body is shown in the figure. The work done in displacing the body from $x = 1 m$ to $x = 5 m$ will be, <img align=400 width=400 src="./img/physics/IMG_20240402_193949~2.jpg">
     1.  30 $J$
     2.  15 $J$
     3.  25 $J$
