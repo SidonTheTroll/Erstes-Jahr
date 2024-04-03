@@ -161,4 +161,5 @@ The initial speed of a body of mass 2 kg is $5 ms^{-1}$. A force acts for 4s in 
 35. Four masses 1 kg, 2 kg, 3 kg and 2 kg are placed at four vertices of a square of side 2 m as shown in the figure. Find, 
     1. Resultant gravitational force on 1 kg mass. 
     2. Resultant gravitational field at the center O. 
+
 ![35](./img/physics/35.png)
