@@ -8,7 +8,7 @@
 
 </div>
 
-Has handwritten notes for all subjects except Physics.
+Has handwritten notes for all subjects except Physics and chemistry.
 
 Read [**CONTRIBUTING.md**](./CONTRIBUTING.md) for collaboration.
 
@@ -22,5 +22,7 @@ Read [**CONTRIBUTING.md**](./CONTRIBUTING.md) for collaboration.
 - [ ] Complete [Emerging trends](./IP/10-emerging-trends.md) notes 
 - [ ] Make a physics practical for 12th experiments
 
+> [!NOTE]
+> This session is over so no more frequent updates.
 
 ![Alt](https://repobeats.axiom.co/api/embed/d443ad3f7932cc0799840e976411cf5e10ea87d5.svg "Repobeats analytics image")
