@@ -1,13 +1,10 @@
 # Aim of the experiment 
-
 To measure the thickness of a given sheet using screw gauge and to find the volume of the sheet using Standard Wire Gauge table. 
 
 # Apparatus Required 
-
 Screw gauge, lamina, graph paper 
 
 # Theory 
-
 1. Pitch = $\frac{\text{Distance moved by the screw on linear scale}}{\text{Number of rotation of circular scale}}$
 
 2. Least count = $\frac{\text{Pitch}}{\text{Total number of divisions on the circular scale}}$
@@ -27,9 +24,10 @@ So, the determination of volume of an irregular lamina involves two steps:
 2. Measurement of the thickness of irregular lamina by using a screw gauge. 
 
 # Calculations 
-
+$$
 n = 100 - 80 
 \implies 20 
+$$
 
 So,  
 $e$ = $n$ * $LC$  
@@ -44,7 +42,6 @@ $t_0 = \frac{1.93 + 1.90 + 1.88 + 1.90 + 1.89}{5}$
 $\implies 1.9 mm$
 
 # Observation
-
 | LSR | CSD (mm) | CSR (mm) | Observed Thickness (mm) | 
 |-|-|-|-|
 | 1 mm | 93 | 0.93 | 1.93 | 
